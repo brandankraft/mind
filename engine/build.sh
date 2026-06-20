@@ -37,7 +37,7 @@ echo "  OUTPUT_DIR=$OUTPUT_DIR"
 
 # Invoke the engine
 export BOOK_SOURCE_DIR OUTPUT_DIR
-"$SCRIPT_DIR/build-book.sh" $FORMAT_FLAG
+"$SCRIPT_DIR/build-book.sh" --source "$BOOK_SOURCE_DIR" $FORMAT_FLAG
 
 # Collect artifact into OUTPUT_DIR with versioned name
 case "$FORMAT" in
