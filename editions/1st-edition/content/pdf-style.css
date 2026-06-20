@@ -1,0 +1,295 @@
+/* A Thought in the Mind of God - PDF Stylesheet */
+
+@page {
+    size: 6in 9in;
+    margin: 0.75in 0.75in 1in 0.75in;
+
+    @bottom-center {
+        content: counter(page);
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 10pt;
+    }
+}
+
+@page :first {
+    @bottom-center {
+        content: none;
+    }
+}
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 11pt;
+    line-height: 1.5;
+    text-align: left;
+    color: #1a1a1a;
+}
+
+/* ============================================================
+   CHAPTER HEADINGS - 1in from top, standard book layout
+   ============================================================ */
+h1 {
+    font-size: 20pt;
+    margin-top: 1in;
+    margin-bottom: 0.5em;
+    text-align: center;
+    page-break-before: always;
+}
+
+/* Don't page break before the very first h1 */
+body > h1:first-of-type,
+body > section:first-of-type > h1:first-of-type {
+    page-break-before: avoid;
+    margin-top: 1in;
+}
+
+h2 {
+    font-size: 14pt;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    font-size: 12pt;
+    margin-top: 1.2em;
+    margin-bottom: 0.4em;
+}
+
+/* ============================================================
+   BODY TEXT
+   ============================================================ */
+p {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+    text-indent: 1.5em;
+}
+
+/* No indent after headings, blockquotes, or lists */
+h1 + p, h2 + p, h3 + p,
+blockquote + p,
+ul + p, ol + p,
+table + p {
+    text-indent: 0;
+}
+
+blockquote {
+    margin: 1em 1.5em;
+    font-style: italic;
+    text-indent: 0;
+}
+
+blockquote p {
+    text-indent: 0;
+}
+
+blockquote em {
+    font-style: italic;
+}
+
+/* Lists */
+ol, ul {
+    margin: 0.5em 0 0.5em 2em;
+}
+
+li {
+    margin-bottom: 0.3em;
+}
+
+/* ============================================================
+   TABLES
+   ============================================================ */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+    font-size: 8pt;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    table-layout: fixed;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 3pt 4pt;
+    text-align: left;
+    vertical-align: top;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+/* Emphasis */
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
+
+/* Horizontal rules */
+hr {
+    margin: 1.5em auto;
+    width: 40%;
+    border: none;
+    border-top: 0.5pt solid #999;
+}
+
+/* ============================================================
+   CODE BLOCKS (used for ASCII diagrams)
+   ============================================================ */
+pre {
+    font-family: "Courier New", Consolas, monospace;
+    font-size: 7pt;
+    line-height: 1.2;
+    white-space: pre;
+    margin: 1em 0;
+    text-indent: 0;
+    page-break-inside: avoid;
+}
+
+code {
+    font-family: "Courier New", Consolas, monospace;
+}
+
+pre + p {
+    text-indent: 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+}
+
+/* ============================================================
+   TITLE PAGE - generous spacing, 1/3 from top
+   ============================================================ */
+.title {
+    font-size: 24pt;
+    text-align: center;
+    margin-top: 2.5in;
+}
+
+.author {
+    font-size: 14pt;
+    text-align: center;
+    margin-top: 1em;
+}
+
+/* ============================================================
+   COPYRIGHT PAGE - hide heading, small centered text mid-page
+   ============================================================ */
+h1#copyright {
+    visibility: hidden;
+    height: 0;
+    margin-top: 1in;
+    margin-bottom: 0;
+    padding: 0;
+    padding-top: 2.5in;
+    font-size: 0;
+}
+
+h1#copyright + p {
+    margin-top: 0;
+    font-size: 9pt;
+    text-align: center;
+    text-indent: 0;
+}
+
+h1#copyright + p + p,
+h1#copyright + p + p + p,
+h1#copyright + p + p + p + p,
+h1#copyright + p + p + p + p + p,
+h1#copyright + p + p + p + p + p + p,
+h1#copyright + p + p + p + p + p + p + p,
+h1#copyright + p + p + p + p + p + p + p + p,
+h1#copyright + p + p + p + p + p + p + p + p + p {
+    font-size: 9pt;
+    text-align: center;
+    text-indent: 0;
+    margin-top: 0.2em;
+}
+
+/* ============================================================
+   DEDICATION PAGE - hide heading, text centered on page
+   ============================================================ */
+h1#dedication {
+    visibility: hidden;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+}
+
+h1#dedication + p {
+    margin-top: 3in;
+    text-align: center;
+    font-style: italic;
+    text-indent: 0;
+}
+
+h1#dedication + p + p {
+    text-align: center;
+    font-style: italic;
+    text-indent: 0;
+    margin-top: 0.3em;
+}
+
+/* ============================================================
+   TABLE OF CONTENTS
+   ============================================================ */
+
+/* TOC chapter entries - indented under Part headings */
+.toc-chapters {
+    margin-left: 2em;
+    text-indent: 0;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    line-height: 1.8;
+}
+
+/* TOC Part headings - bold, with space above */
+.toc-part {
+    font-weight: bold;
+    margin-top: 0.8em;
+    margin-bottom: 0.2em;
+    text-indent: 0;
+}
+
+/* ============================================================
+   COVER PAGES (for PDF assembly)
+   ============================================================ */
+.cover-page {
+    page-break-after: always;
+    margin: 0;
+    padding: 0;
+}
+
+.cover-page p {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+}
+
+.cover-page img {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+/* ============================================================
+   KEEP CONTENT TOGETHER
+   ============================================================ */
+
+/* Keep objection headers with their answers */
+p > strong:first-child {
+    page-break-after: avoid;
+}

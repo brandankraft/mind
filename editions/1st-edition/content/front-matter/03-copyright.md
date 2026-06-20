@@ -1,0 +1,27 @@
+
+<div class="copyright-page">
+
+A Thought in the Mind of God: A Systematic Theology
+
+Copyright &copy; 2026 by Brandan Kraft
+
+All rights reserved. The living edition at pristinegrace.org/mind is free to read and to share. No part of the print or ebook editions may be reproduced for commercial resale without written permission. Brief quotations in reviews, teaching, and articles are welcome. For permissions, contact the publisher.
+
+All Scripture quotations are from the King James Version (KJV).
+
+Published by Pristine Grace Publishing  
+pristinegrace.org
+
+The print edition is a snapshot in time. As new questions arise and new appendix sections are added, the living edition online will reflect them.
+
+Printed in the United States of America.
+
+ISBN: 979-8-9965852-0-5 (paperback, 7 x 10)  
+ISBN: 979-8-9965852-1-2 (hardcover, black & white, 7 x 10)  
+ISBN: 979-8-9965852-2-9 (hardcover, color, 7 x 10)  
+ISBN: 979-8-9965852-3-6 (deluxe hardcover, color, 8.5 x 11)  
+ISBN: 979-8-9965852-4-3 (ebook)
+
+First Edition, 2026
+
+</div>
