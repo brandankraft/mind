@@ -1,0 +1,11 @@
+extends = "edition"
+format = "epub"
+trim = "reflowable"
+color = true
+build_flag = "--pdf"
+
+# Phase-2 knobs (present but unread in Phase 1)
+# headers = "epub"
+# notes_mode = "endnote"
+# image_variant = "light"
+# figure_tuning = "none"

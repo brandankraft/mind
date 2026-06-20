@@ -1,0 +1,12 @@
+extends = "edition"
+format = "6x9"
+trim = "6x9"
+color = false
+build_flag = "--6x9"
+isbn = "979-8-9965852-0-5"
+
+# Phase-2 knobs (present but unread in Phase 1)
+# headers = "ingram"
+# notes_mode = "footnote"
+# image_variant = "light"
+# figure_tuning = "6x9"

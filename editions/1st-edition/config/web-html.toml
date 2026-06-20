@@ -1,0 +1,11 @@
+extends = "edition"
+format = "web-html"
+trim = "web"
+color = true
+build_flag = "--web"
+
+# Phase-2 knobs (present but unread in Phase 1)
+# headers = "web"         # Phase 2: header/footer style
+# notes_mode = "popover"  # Phase 2: footnote rendering mode
+# image_variant = "web"   # Phase 2: image variant selection
+# figure_tuning = "web"   # Phase 2: figure placement tuning

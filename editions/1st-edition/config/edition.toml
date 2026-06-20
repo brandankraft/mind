@@ -1,0 +1,21 @@
+title = "A Thought in the Mind of God"
+subtitle = "A Systematic Theology"
+author = "Brandan Kraft"
+publisher = "Pristine Grace Publishing"
+version = "1.0"
+
+# ISBNs by edition type
+isbn_paperback_7x10 = "979-8-9965852-0-5"
+isbn_hardcover_bw_7x10 = "979-8-9965852-1-2"
+isbn_hardcover_color_7x10 = "979-8-9965852-2-9"
+isbn_hardcover_color_8x11 = "979-8-9965852-3-6"
+isbn_ebook = "979-8-9965852-4-3"
+
+# Directory names (relative to edition root)
+content_dir = "content"
+output_base = "output"
+indexdata_dir = "content/index-data"
+
+# Output filename pattern (tokens: {slug}, {version}, {format})
+output_pattern = "{slug}-{version}-{format}"
+slug = "a-thought-in-the-mind-of-god"

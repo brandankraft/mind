@@ -1,0 +1,12 @@
+extends = "edition"
+format = "7x10-bw"
+trim = "7x10"
+color = false
+build_flag = "--7x10bw"
+isbn = "979-8-9965852-1-2"
+
+# Phase-2 knobs (present but unread in Phase 1)
+# headers = "ingram"
+# notes_mode = "footnote"
+# image_variant = "light"
+# figure_tuning = "7x10"

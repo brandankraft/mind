@@ -1,0 +1,12 @@
+extends = "edition"
+format = "8.5x11"
+trim = "8.5x11"
+color = true
+build_flag = "--ingram"
+isbn = "979-8-9965852-3-6"
+
+# Phase-2 knobs (present but unread in Phase 1)
+# headers = "ingram"
+# notes_mode = "footnote"
+# image_variant = "print"
+# figure_tuning = "8.5x11"
