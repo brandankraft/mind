@@ -30,21 +30,48 @@ mkdir -p "$OUTPUT_DIR"
 
 SLUG="a-thought-in-the-mind-of-god"
 INGRAMSPARK_DIR="$BOOK_SOURCE_DIR/ingramspark"
+EDITION_DIR="$(dirname "$SCRIPT_DIR")/editions/$EDITION"
+STATIC_CHAPTERS="$EDITION_DIR/static-chapters"
 
 echo "Building edition=$EDITION format=$FORMAT flag=$FORMAT_FLAG"
 echo "  BOOK_SOURCE_DIR=$BOOK_SOURCE_DIR"
 echo "  OUTPUT_DIR=$OUTPUT_DIR"
 
-# Invoke the engine
-export BOOK_SOURCE_DIR OUTPUT_DIR
-"$SCRIPT_DIR/build-book.sh" --source "$BOOK_SOURCE_DIR" $FORMAT_FLAG
+if [ "$FORMAT" = "web-html" ]; then
+  # Use a scratch directory so the build's chapters/ subdir + scratch files
+  # are isolated; we then flatten the result into OUTPUT_DIR.
+  SCRATCH_DIR="$(mktemp -d "${TMPDIR:-/tmp}/mind2-web-html.XXXXXX")"
+  trap 'rm -rf "$SCRATCH_DIR"' EXIT
+
+  # Pre-populate scratch/chapters with static HTML pages so build-book.sh
+  # picks them up and includes them in chapters.json.
+  mkdir -p "$SCRATCH_DIR/chapters"
+  if [ -d "$STATIC_CHAPTERS" ]; then
+    cp "$STATIC_CHAPTERS"/*.html "$SCRATCH_DIR/chapters/" 2>/dev/null || true
+  fi
+
+  FINAL_OUTPUT_DIR="$OUTPUT_DIR"
+  export BOOK_SOURCE_DIR OUTPUT_DIR="$SCRATCH_DIR"
+  "$SCRIPT_DIR/build-book.sh" --source "$BOOK_SOURCE_DIR" $FORMAT_FLAG
+
+  # Flatten: copy chapters/*.html + chapters.json into the final OUTPUT_DIR.
+  # This matches the golden layout (HTML at root, chapters.json at root).
+  cp "$SCRATCH_DIR/chapters"/*.html "$FINAL_OUTPUT_DIR/"
+  cp "$SCRATCH_DIR/chapters.json" "$FINAL_OUTPUT_DIR/chapters.json"
+  OUTPUT_DIR="$FINAL_OUTPUT_DIR"
+  echo "  Artifact: $OUTPUT_DIR/chapters.json (+ *.html)"
+else
+  # Non-web-html: invoke build-book.sh directly with the configured OUTPUT_DIR.
+  export BOOK_SOURCE_DIR OUTPUT_DIR
+  "$SCRIPT_DIR/build-book.sh" --source "$BOOK_SOURCE_DIR" $FORMAT_FLAG
+fi
 
 # Collect artifact into OUTPUT_DIR with versioned name
 case "$FORMAT" in
   web-html)
-    # Already written to OUTPUT_DIR by build-book.sh (chapters/, chapters.json, etc.)
-    echo "  Artifact: $OUTPUT_DIR/chapters.json (+ chapters/)"
+    # Flattened output already in OUTPUT_DIR (handled above).
     ;;
+
   web-pdf)
     SRC="$OUTPUT_DIR/downloads/${SLUG}.pdf"
     DEST="$OUTPUT_DIR/${SLUG}-${VERSION}-web-pdf.pdf"
