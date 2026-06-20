@@ -1,88 +1,85 @@
 #!/usr/bin/env python3
 """Compare two PDFs for CONTENT equality, ignoring WeasyPrint's path-derived
-image XObject names (/i<md5-of-source-path>).
+image XObject names.
 
-WeasyPrint 68.1 names each embedded image XObject by a hash of its source file
-path. Building the book from a different absolute directory therefore changes
-every image id -- and those ids appear both in plaintext object dicts and inside
-FlateDecode content streams -- so the raw bytes differ even when the rendered
-book (text, fonts, image pixels, layout) is byte-for-byte identical.
+WeasyPrint 68.1 names each embedded image XObject by a hash of its absolute
+source path. Building the book from a different absolute directory therefore
+changes every image id (and the xref offsets they shift), so the raw bytes
+differ even when the rendered book -- pages, text, layout, image pixels -- is
+identical. This tool proves content-identity by parsing both PDFs with pypdf:
 
-This tool normalizes that cosmetic difference away:
-  1. decompress every FlateDecode stream (so embedded /i<hash> ids become plaintext),
-  2. canonicalize /i<32-hex> ids to sequential tokens in first-appearance order,
-  3. byte-compare the normalized results.
+  1. page count must match,
+  2. each page's decompressed content stream must match after canonicalizing
+     the /i<32-hex> image ids to sequential tokens (first-appearance order),
+  3. the multiset of embedded image data (md5 of each image's raw bytes) must
+     match.
 
-Exit 0 => content-identical.  Exit 1 => a real difference remains (and it prints
-the first differing region for inspection).
+Exit 0 => content-identical.  Exit 1 => a real difference (prints what differs).
 
 Usage: pdf_content_equal.py A.pdf B.pdf
 """
-import sys, re, zlib
+import sys, re, hashlib
+from pypdf import PdfReader
 
 NAME = re.compile(rb'/i[0-9a-f]{32}')
 
-# Match a FlateDecode stream object body and decompress it in place so any
-# image-id references inside become plaintext (and re-canonicalizable).
-STREAM = re.compile(rb'(/Filter\s*/FlateDecode[^>]*>>\s*stream\r?\n)(.*?)(\r?\nendstream)', re.DOTALL)
-
-def inflate_streams(data: bytes) -> bytes:
-    out = []
-    pos = 0
-    for m in STREAM.finditer(data):
-        out.append(data[pos:m.start()])
-        body = m.group(2)
-        try:
-            dec = zlib.decompress(body)
-            # mark as decoded: drop the /Filter so the dict still parses loosely,
-            # but for pure byte-comparison we just substitute decoded bytes.
-            out.append(b'/DecodedStream>>\nstream\n' + dec + b'\nendstream')
-        except Exception:
-            out.append(m.group(0))  # not really flate / nested -> leave as-is
-        pos = m.end()
-    out.append(data[pos:])
-    return b''.join(out)
-
-XREF_ENTRY = re.compile(rb'\d{10} \d{5} [nf]')
-STARTXREF = re.compile(rb'startxref\s+\d+')
-
-def canon_names(data: bytes) -> bytes:
+def canon(b: bytes) -> bytes:
     seen = {}
     def rep(m):
         k = m.group(0)
         if k not in seen:
-            seen[k] = ("/iC%08d" % len(seen)).encode()
+            seen[k] = ("/iC%d" % len(seen)).encode()
         return seen[k]
-    data = NAME.sub(rep, data)
-    # Neutralize byte-offset bookkeeping (xref entries + startxref): these shift
-    # purely because the canonical id length differs from the original hash, not
-    # because any content changed.
-    data = XREF_ENTRY.sub(b'0000000000 00000 n', data)
-    data = STARTXREF.sub(b'startxref 0', data)
-    return data
+    return NAME.sub(rep, b)
 
-def normalize(path: str) -> bytes:
-    data = open(path, 'rb').read()
-    return canon_names(inflate_streams(data))
+def page_streams(reader):
+    out = []
+    for pg in reader.pages:
+        try:
+            c = pg.get_contents()
+            data = c.get_data() if c is not None else b''
+        except Exception:
+            data = b''
+        out.append(canon(data))
+    return out
+
+def image_md5s(reader):
+    s = []
+    for pg in reader.pages:
+        res = pg.get("/Resources") or {}
+        xo = res.get("/XObject") or {}
+        items = xo.items() if hasattr(xo, "items") else []
+        for _name, ref in items:
+            o = ref.get_object()
+            if o.get("/Subtype") == "/Image":
+                try:
+                    s.append(hashlib.md5(o.get_data()).hexdigest())
+                except Exception:
+                    try:
+                        s.append(hashlib.md5(o._data).hexdigest())
+                    except Exception:
+                        s.append("UNREADABLE")
+    return sorted(s)
 
 def main():
     a, b = sys.argv[1], sys.argv[2]
-    na, nb = normalize(a), normalize(b)
-    if na == nb:
-        print("CONTENT-IDENTICAL")
-        return 0
-    # report first diff
-    n = min(len(na), len(nb))
-    for i in range(n):
-        if na[i] != nb[i]:
-            lo = max(0, i - 60)
-            print("DIFFERS at normalized offset", i)
-            print("A:", na[lo:i+60])
-            print("B:", nb[lo:i+60])
-            break
-    else:
-        print("DIFFERS in length only:", len(na), "vs", len(nb))
-    return 1
+    ra, rb = PdfReader(a), PdfReader(b)
+    if len(ra.pages) != len(rb.pages):
+        print("DIFFERS: page count %d vs %d" % (len(ra.pages), len(rb.pages)))
+        return 1
+    pa, pb = page_streams(ra), page_streams(rb)
+    diff_pages = [i for i, (x, y) in enumerate(zip(pa, pb)) if x != y]
+    if diff_pages:
+        print("DIFFERS: %d page content streams differ; first pages: %s"
+              % (len(diff_pages), diff_pages[:10]))
+        return 1
+    ia, ib = image_md5s(ra), image_md5s(rb)
+    if ia != ib:
+        print("DIFFERS: embedded image data differs (%d vs %d images)"
+              % (len(ia), len(ib)))
+        return 1
+    print("CONTENT-IDENTICAL (%d pages, %d images)" % (len(ra.pages), len(ia)))
+    return 0
 
 if __name__ == "__main__":
     sys.exit(main())
