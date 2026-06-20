@@ -757,7 +757,7 @@ SONGS = [
         "Stop Puttin\u2019 God in a Box",
         "Break the Cage",
     ),
-    # Appendix L (Bob's Story): "Small and Great" right after Mary Sutcliffe
+    # Appendix L (A Vision of the Final State): "Small and Great" right after Mary Sutcliffe
     # is introduced -- the song honors the Mary Sutcliffes of the world, the
     # ones with no theology degree but a lived "Jesus loves me" faith.
     (
