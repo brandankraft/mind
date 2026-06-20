@@ -1,0 +1,9 @@
+editions/*/output/
+__pycache__/
+*.pyc
+*.psd
+*.bak
+*.prepatch-bak
+*.pre-merge-bak.md
+.DS_Store
+.unused-images-quarantine/
