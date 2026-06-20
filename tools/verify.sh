@@ -73,12 +73,15 @@ for fmt in web-html web-pdf 7x10-color 7x10-bw 8.5x11 6x9 epub; do
                 fail=1
                 continue
             fi
-            python3 "$TOOLS/normalize_pdf.py" "$new_pdf" /tmp/n_new.pdf 2>/dev/null
-            python3 "$TOOLS/normalize_pdf.py" "$gold_pdf" /tmp/n_gold.pdf 2>/dev/null
-            if cmp -s /tmp/n_new.pdf /tmp/n_gold.pdf; then
-                echo "PASS $fmt"
+            # PDFs are compared for CONTENT equality: WeasyPrint names embedded
+            # image XObjects by a hash of their absolute source path, so a relocated
+            # build differs in those ids (and the xref offsets they shift) while the
+            # rendered book is identical. pdf_content_equal.py normalizes those away.
+            if python3 "$TOOLS/pdf_content_equal.py" "$new_pdf" "$gold_pdf" >/dev/null 2>&1; then
+                echo "PASS $fmt  (content-identical)"
             else
                 echo "FAIL $fmt"
+                python3 "$TOOLS/pdf_content_equal.py" "$new_pdf" "$gold_pdf" 2>&1 | head -6
                 fail=1
             fi
             ;;
