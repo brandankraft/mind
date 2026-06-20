@@ -13,13 +13,33 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 if [ "$#" -lt 2 ]; then
-  echo "Usage: $0 <edition> <format>"
+  echo "Usage: $0 <edition> <format> [--chapter <file.md>]"
   echo "  Formats: web-html web-pdf epub 7x10-color 7x10-bw 8.5x11 6x9"
+  echo "  --chapter <file.md>: PDF formats only -- fast single-chapter/appendix render"
+  echo "    for testing figure sizing/layout (folios + indexes are NOT faithful)."
   exit 1
 fi
 
 EDITION="$1"
 FORMAT="$2"
+shift 2
+
+# Optional: render just one chapter/appendix for fast layout testing (PDF only).
+# Passed to build-book-pdf.py via BOOK_CHAPTER_ONLY.
+CHAPTER_ONLY=""
+while [ "$#" -gt 0 ]; do
+  case "$1" in
+    --chapter|--only) CHAPTER_ONLY="$2"; shift 2 ;;
+    *) echo "Unknown arg: $1"; exit 1 ;;
+  esac
+done
+if [ -n "$CHAPTER_ONLY" ]; then
+  case "$FORMAT" in
+    web-html|epub) echo "Error: --chapter is supported for PDF formats only (not $FORMAT)."; exit 1 ;;
+  esac
+  export BOOK_CHAPTER_ONLY="$CHAPTER_ONLY"
+  echo "  SINGLE-CHAPTER mode: $CHAPTER_ONLY (folios/indexes not faithful -- layout testing only)"
+fi
 
 # Load config (exports BOOK_SOURCE_DIR, OUTPUT_DIR, FORMAT_FLAG, ARTIFACT_EXT, VERSION)
 # shellcheck source=engine/lib/config.sh
