@@ -13,8 +13,9 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 if [ "$#" -lt 2 ]; then
-  echo "Usage: $0 <edition> <format> [--chapter <file.md>]"
-  echo "  Formats: web-html web-pdf epub 7x10-color 7x10-bw 8.5x11 6x9"
+  echo "Usage: $0 <edition> <format|all> [--parallel] [--chapter <file.md>]"
+  echo "  Formats: web-html web-pdf epub 7x10-color 7x10-bw 8.5x11 6x9  (or 'all')"
+  echo "  all [--parallel] : build every format (sequentially, or concurrently)"
   echo "  --chapter <file.md>: PDF formats only -- fast single-chapter/appendix render"
   echo "    for testing figure sizing/layout (folios + indexes are NOT faithful)."
   exit 1
@@ -27,12 +28,52 @@ shift 2
 # Optional: render just one chapter/appendix for fast layout testing (PDF only).
 # Passed to build-book-pdf.py via BOOK_CHAPTER_ONLY.
 CHAPTER_ONLY=""
+PARALLEL=false
 while [ "$#" -gt 0 ]; do
   case "$1" in
     --chapter|--only) CHAPTER_ONLY="$2"; shift 2 ;;
+    --parallel) PARALLEL=true; shift ;;
     *) echo "Unknown arg: $1"; exit 1 ;;
   esac
 done
+
+# ---- all-formats dispatcher -------------------------------------------------
+# `all` builds every format. web-pdf + epub both come from one --pdf invocation,
+# so we run 6 distinct builds (epub piggybacks on web-pdf) and then collect the
+# epub artifact. --parallel runs the 6 concurrently (each writes its own
+# output/<format>/ and a distinct content/ingramspark/<trim>.pdf, so they don't
+# collide; each build-book.sh uses its own BOOK_TMP).
+if [ "$FORMAT" = "all" ]; then
+  PRIMARY="web-html web-pdf 7x10-color 7x10-bw 8.5x11 6x9"
+  if [ "$PARALLEL" = true ]; then
+    echo "== Building ALL formats in PARALLEL =="
+    pids=""
+    for f in $PRIMARY; do
+      "$SCRIPT_DIR/build.sh" "$EDITION" "$f" & pids="$pids $!"
+    done
+    rc=0
+    for p in $pids; do wait "$p" || rc=1; done
+  else
+    echo "== Building ALL formats sequentially =="
+    rc=0
+    for f in $PRIMARY; do
+      "$SCRIPT_DIR/build.sh" "$EDITION" "$f" || rc=1
+    done
+  fi
+  # epub piggybacks on the web-pdf (--pdf) build: collect it into output/epub/
+  source "$SCRIPT_DIR/lib/config.sh"; load_config "$EDITION" "epub"
+  mkdir -p "$OUTPUT_DIR"
+  EPUB_SRC="$(dirname "$SCRIPT_DIR")/editions/$EDITION/output/web-pdf/downloads/a-thought-in-the-mind-of-god.epub"
+  if [ -f "$EPUB_SRC" ]; then
+    cp "$EPUB_SRC" "$OUTPUT_DIR/a-thought-in-the-mind-of-god-${VERSION}-epub.epub"
+    echo "  Artifact (epub, from web-pdf build): $OUTPUT_DIR/a-thought-in-the-mind-of-god-${VERSION}-epub.epub"
+  else
+    echo "  WARN: epub not found at $EPUB_SRC"; rc=1
+  fi
+  echo "== ALL done (rc=$rc) =="
+  exit $rc
+fi
+# ---------------------------------------------------------------------------
 if [ -n "$CHAPTER_ONLY" ]; then
   case "$FORMAT" in
     web-html|epub) echo "Error: --chapter is supported for PDF formats only (not $FORMAT)."; exit 1 ;;
