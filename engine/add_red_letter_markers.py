@@ -563,7 +563,7 @@ def main():
     # Find kjv.json
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(script_dir)
-    kjv_path = args.kjv or os.path.join(project_root, 'public_html', 'wopr', 'utilities', 'kjv.json')
+    kjv_path = args.kjv or os.path.join(script_dir, 'data', 'kjv.json')
 
     if not os.path.exists(args.xml):
         print(f"ERROR: CrossWire XML not found: {args.xml}")
