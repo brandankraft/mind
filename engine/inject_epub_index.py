@@ -14,7 +14,9 @@ No-op (exit 0) if the index data file is absent.
 """
 import sys, os, re, json
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_engine_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(_engine_dir, 'indexing'))
+sys.path.insert(0, _engine_dir)
 import index_anchors
 
 if len(sys.argv) < 3 or not os.path.exists(sys.argv[2]):

@@ -14,10 +14,15 @@ _TMP = os.environ.get("BOOK_TMP") or tempfile.mkdtemp(prefix="book-")
 os.makedirs(_TMP, exist_ok=True)
 
 # Add lib directory to path for crossrefs module
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'lib'))
-# Add scripts/ dir so we can reuse the web semantic transforms (DSS cards,
+_engine_dir_pdf = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(_engine_dir_pdf, 'lib'))
+# Add indexing/ dir so index_anchors is importable.
+sys.path.insert(0, os.path.join(_engine_dir_pdf, 'indexing'))
+# Add transforms/ dir so transform_* modules are importable.
+sys.path.insert(0, os.path.join(_engine_dir_pdf, 'transforms'))
+# Add engine dir so we can reuse the web semantic transforms (DSS cards,
 # pull-quotes, anchor-verse callouts) in the print pipeline.
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, _engine_dir_pdf)
 import transform_dss_cards, transform_pullquotes, transform_anchor_verses
 import transform_cascades, transform_lineage_diagram, transform_sentence_breakdown
 import transform_eternal_thought_diagram, transform_book_tree, transform_objection_cards

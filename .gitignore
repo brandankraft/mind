@@ -7,3 +7,4 @@ __pycache__/
 *.pre-merge-bak.md
 .DS_Store
 .unused-images-quarantine/
+engine/.pdf-baseline.json

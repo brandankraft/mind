@@ -16,8 +16,11 @@ Usage: python3 epub_enhance.py path/to/book.epub
 import sys, os, re, zipfile, shutil, tempfile
 import html.entities
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'lib'))
+_epub_engine_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(_epub_engine_dir, 'indexing'))
+sys.path.insert(0, os.path.join(_epub_engine_dir, 'transforms'))
+sys.path.insert(0, os.path.join(_epub_engine_dir, 'lib'))
+sys.path.insert(0, _epub_engine_dir)
 import transform_dss_cards, transform_pullquotes
 import transform_lineage_diagram, transform_sentence_breakdown
 import transform_eternal_thought_diagram, transform_book_tree, transform_cascades
