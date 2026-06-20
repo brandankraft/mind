@@ -11,7 +11,7 @@ import sys
 
 PARTIAL_PATH = os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
-    '..', 'public_html', 'templates', 'eternal_thought_diagram_partial.html',
+    '..', 'templates', 'eternal_thought_diagram_partial.html',
 )
 
 

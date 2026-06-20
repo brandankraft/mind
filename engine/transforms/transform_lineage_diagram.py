@@ -14,7 +14,7 @@ import sys
 # and pasted into about.html (static chapter front matter).
 PARTIAL_PATH = os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
-    '..', 'public_html', 'templates', 'lineage_diagram_partial.html',
+    '..', 'templates', 'lineage_diagram_partial.html',
 )
 
 
