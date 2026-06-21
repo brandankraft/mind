@@ -993,10 +993,10 @@ if [ "$BUILD" = true ] && [ "$BUILD_PDF" = true ]; then
         "$BOOK_SOURCE_DIR/front-matter/02-title-page.md" \
         "$BOOK_SOURCE_DIR/front-matter/03-copyright.md" \
         "$BOOK_SOURCE_DIR/front-matter/04-dedication.md" \
-        "$BOOK_SOURCE_DIR/front-matter/06-acknowledgments.md" \
         "$BOOK_SOURCE_DIR/front-matter/foreword.md" \
-        "$BOOK_SOURCE_DIR/prologue.md" \
         "$BOOK_SOURCE_DIR/preface.md" \
+        "$BOOK_SOURCE_DIR/front-matter/06-acknowledgments.md" \
+        "$BOOK_SOURCE_DIR/prologue.md" \
         "$BOOK_SOURCE_DIR/how-this-book-talks.md" \
         "$BOOK_SOURCE_DIR"/chapter-[0-9]*.md \
         "$BOOK_SOURCE_DIR/epilogue.md" \
