@@ -116,7 +116,7 @@ And the regenerate individual doesn't just receive intellectual assent to histor
 
 ## The Trivium: Education as Rendering
 
-There's a connection here that I didn't see until my son Cole was deep into his classical education, and then later into his philosophy degree at Marshall. But once I saw it, I couldn't unsee it.
+There's a connection here that I didn't see until my son Cole was deep into his classical education, and then later into his philosophy degree at Marshall. But the link held and would not let go.
 
 The classical Trivium -- grammar, logic, rhetoric -- mirrors the architecture the Spirit uses to regenerate.
 

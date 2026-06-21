@@ -76,7 +76,7 @@ James is the strongest book in the conditionalist's arsenal. Every works-based s
 
 *"Even so faith, if it hath not works, is dead, being alone."* (James 2:17)
 
-"Faith without works is dead." There it is. The verse that has been weaponized by every system that wants to smuggle human contribution back into salvation. Rome uses it. The Arminians use it. The lordship salvation advocates use it. The conditional time salvationists use it. Whenever someone wants to condition the assurance of salvation on something the believer *does*, James 2 is where they go.
+"Faith without works is dead." There it is. The verse that has been weaponized by every system that wants to tie a piece of salvation to a man's own effort. Rome uses it. The Arminians use it. The lordship salvation advocates use it. The conditional time salvationists use it. Whenever someone wants to condition the assurance of salvation on something the believer *does*, James 2 is where they go.
 
 And the tension with the rest of the New Testament is real. Paul says in Romans 4:5, *"But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness."* Paul says *worketh not*. James says faith without works is dead. These are not saying the same thing. And the traditional answer -- that Paul is talking about justification before God and James is talking about justification before men -- is plausible. But it requires interpretive work. It requires harmonization. It doesn't jump off the page the way Romans does.
 

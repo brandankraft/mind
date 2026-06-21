@@ -41,7 +41,7 @@ And Chapter 30 says: if correct doctrine does not save, then incorrect doctrine 
 
 ## Sola Gratia -- Grace Alone, Not Grace Plus Your Decision
 
-The Reformers said *Sola Gratia* and then most of their heirs reintroduced human contribution through the back door. "God is sovereign, BUT man is responsible to believe." That "but" is the back door. It smuggles duty back into the system. It makes faith a condition the sinner must meet. And a grace that requires a human condition to activate is not grace alone. It is grace plus cooperation.
+The Reformers said *Sola Gratia* and then most of their heirs reintroduced human contribution through the back door. "God is sovereign, BUT man is responsible to believe." That "but" is the back door. It puts a duty back onto the believer. It makes faith a condition the sinner must meet. And a grace that requires a human condition to activate is not grace alone. It is grace plus cooperation.
 
 This book says: no common grace (Chapter 19). No well-meant offer. No human "responsibility" to savingly believe. Grace is particular. Grace is effectual. Grace is sovereign. The Spirit gives the faith (Ephesians 2:8). The Spirit flashes the firmware (Chapter 16). The Spirit produces the fruit (Galatians 5:22). Man contributes nothing. Not even the believing.
 

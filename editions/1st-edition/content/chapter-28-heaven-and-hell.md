@@ -12,7 +12,7 @@ But then I read Revelation 14:10 and the whole picture collapsed.
 
 *"The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb."* (Revelation 14:10)
 
-In the *presence* of the holy angels. In the *presence* of the Lamb. Not away from. Not separated from. Not in a distant location where God's light doesn't reach. *In the presence.* And once I saw that, I couldn't unsee it. And the framework started building something I never expected.
+In the *presence* of the holy angels. In the *presence* of the Lamb. Not away from. Not separated from. Not in a distant location where God's light doesn't reach. *In the presence.* And the entire geography of hell shifted. And the framework started building something I never expected.
 
 I need to be honest about something before I go any further. For thirty years, I could not decide between eternal conscious torment and annihilationism (also called conditional immortality). I went back and forth. Both sides had real verses. Both sides had arguments I could not refute. And I simply said "I don't know." I did not arrive at what follows by picking a side and finding proof texts. I arrived at it by applying the sentence to the question and writing this chapter. The sentence resolved what all that wrestling could not. And what it produced is a position that neither camp holds, because neither camp starts from the same ground.
 

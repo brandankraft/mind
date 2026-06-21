@@ -6,7 +6,7 @@ part: III -- The Covenant
 
 # Chapter 10: The Covenant Before the Ceremony
 
-If there's one principle in this book that applies to more domains than any other, it's this one. And it's so simple that once you see it, you'll wonder how you ever missed it.
+If there's one principle in this book that applies to more domains than any other, it's this one. And it's so simple that the only mystery is how it ever stayed hidden so long.
 
 The invisible precedes the visible. Always. In every domain.
 

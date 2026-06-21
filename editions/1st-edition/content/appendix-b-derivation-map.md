@@ -256,7 +256,7 @@ Here is something I should say plainly, because I have watched men misread this 
 
 The framework does not win by being gentler than the cage. It wins by being harder than the cage.
 
-The men in the cage think they are holding the strictest position in the room. They are not. They have quietly smuggled human contribution into their hardline. A correct response. A correct confession. A correct understanding of repentance. A correct ordo grasped by the convert before he is received. They wear TULIP on the outside, and a synergistic checklist on the inside, and they do not see the seam.
+The men in the cage think they are holding the strictest position in the room. They are not. They have worked a sinner's response into their supposed hardline. A correct response. A correct confession. A correct understanding of repentance. A correct ordo grasped by the convert before he is received. They wear TULIP on the outside, and a synergistic checklist on the inside, and they do not see the seam.
 
 I did not break the cage by softening the doctrine. I broke it by holding the doctrine *harder than they did.* The wider arms in this book are downstream of a harder floor, not a weaker one. The freedom is downstream of a deeper sovereignty.
 

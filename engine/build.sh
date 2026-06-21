@@ -37,6 +37,15 @@ while [ "$#" -gt 0 ]; do
   esac
 done
 
+# ---- version stamp (single source -> both copyright surfaces) ---------------
+# Regenerate the copyright printing line from edition.toml + git short-hash.
+# Runs once per top-level build; the `all` dispatcher inherits the exported
+# guard into its parallel children so they skip it (no race on the two files).
+if [ -z "$MIND_VERSION_STAMPED" ]; then
+  python3 "$SCRIPT_DIR/stamp_version.py" "$EDITION" || echo "  WARN: version stamp failed (continuing)"
+  export MIND_VERSION_STAMPED=1
+fi
+
 # ---- all-formats dispatcher -------------------------------------------------
 # `all` builds every format. web-pdf + epub both come from one --pdf invocation,
 # so we run 6 distinct builds (epub piggybacks on web-pdf) and then collect the

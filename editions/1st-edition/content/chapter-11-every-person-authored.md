@@ -14,7 +14,7 @@ If Adam was perfectly righteous, how did he sin?
 
 ## The Impossibility Problem
 
-This is the crack in the foundation that the entire federal system cannot repair. And it's so simple that once you see it, you can't unsee it.
+This is the crack in the foundation that the entire federal system cannot repair. And it's so simple that the foundation underneath gives way.
 
 A perfectly righteous being *cannot* sin. Not "will not." Cannot. If righteousness is the absence of any inclination toward evil, then a righteous being has no mechanism by which to produce sin. Sin requires a desire to rebel, a turning of the will away from God. But if the will is perfectly aligned with God, it cannot turn. Not because of external restraint, but because of internal nature. Water flows downhill because it's the nature of water to flow downhill. A perfectly righteous being obeys God because it's the nature of a perfectly righteous being to obey God. And just as water doesn't spontaneously flow uphill, a perfectly righteous will doesn't spontaneously rebel.
 

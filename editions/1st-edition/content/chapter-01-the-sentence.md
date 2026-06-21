@@ -130,7 +130,7 @@ This is what separates this framework from the cold, hard systems that give Calv
 
 ## Operational Idealism
 
-Before we move on, I want to name the thread that runs through this entire book, because once you see it, you'll see it everywhere.
+Before we move on, I want to name the thread that runs through this entire book, because it reaches into every domain that follows.
 
 I call it *operational idealism*. And the word *operational* is doing more work in that phrase than the word *idealism*. Because idealism by itself is a philosophical position. Plato held idealism. Berkeley held idealism. Hegel held idealism. And none of them knew what to do with it on a Monday morning. Their idealism stayed in the lecture hall. It never walked off the page. It was a theory about reality that had no bearing on how you live, how you worship, how you baptize, how you marry, or how you die.
 
