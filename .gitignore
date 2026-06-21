@@ -9,3 +9,7 @@ __pycache__/
 .unused-images-quarantine/
 engine/.pdf-baseline.json
 .unused-quarantine/
+
+# Private per-chapter commentary written for Cole (audience: Cole Kraft).
+# Not part of the book; never built or published. Keep local, out of the repo.
+editions/*/content/commentary/
