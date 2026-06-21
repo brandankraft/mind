@@ -1,4 +1,4 @@
 version: 1.0.1
 version_date: June 21, 2026
-git_hash: 2b0f934
-build_timestamp: 2026-06-21 14:24 UTC
+git_hash: 712989b
+build_timestamp: 2026-06-21 20:41 UTC
