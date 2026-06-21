@@ -44,6 +44,12 @@ EPUB_CSS = """
 /* pandoc auto-injects an <h1> title from --metadata title, which duplicates our
    styled title-stack on the front page. Hide it (the anchor stays for nav). */
 h1#a-thought-in-the-mind-of-god { display: none; }
+/* Inline footnotes (popup replacement). Kindle's native footnote popups are
+   inconsistent across readers, so each note is dropped right after its paragraph
+   (or its table) in a distinct, smaller, highlighted block that always renders. */
+.fn-mark { font-size: 0.7em; vertical-align: super; line-height: 0; font-weight: bold; }
+.kindle-note { font-size: 0.82em; line-height: 1.4; margin: 0.3em 0 0.7em 0; padding: 0.25em 0.7em; border-left: 3px solid #b9a3da; background: #f6f2fb; }
+.kindle-note .fn-mark { margin-right: 0.2em; }
 /* Each chapter is its own spine file, so the reader already starts it on a fresh
    page. pandoc's stylesheet ALSO forces page-break-before:always on every h1,
    which stacks a second break on top of the file break -> a blank page before
@@ -748,6 +754,71 @@ def fix_nav_landmarks(tmp):
             print('  fixed opf: removed broken guide toc reference (KDP TOC-link error)')
 
 
+def _inline_footnotes_text(s):
+    """Transform one xhtml: replace the end-of-chapter <section epub:type=footnotes>
+    popup machinery with inline notes placed right after the referencing paragraph
+    (or after the table, for notes cited inside a chart), each in a distinct
+    .kindle-note block. Kindle's native popups are inconsistent across readers;
+    inline notes always render. Lossless: every aside becomes exactly one note."""
+    secm = re.search(r'<section[^>]*epub:type="footnotes"[^>]*>(.*?)</section>\s*', s, re.S)
+    if not secm:
+        return s
+    notes = {}
+    for am in re.finditer(r'<aside\b[^>]*epub:type="footnote"[^>]*id="([^"]+)">(.*?)</aside>', secm.group(1), re.S):
+        nid, body = am.group(1), am.group(2)
+        body = re.sub(r'<a\b[^>]*href="#[^"]*fnref[^"]*"[^>]*>.*?</a>', '', body, flags=re.S).strip()
+        pm = re.match(r'^<p>(.*)</p>$', body, re.S)
+        if pm and '</p>' not in pm.group(1):
+            body = pm.group(1).strip()
+        notes[nid] = body
+    s = s[:secm.start()] + s[secm.end():]               # drop the footnotes section
+    refpat = re.compile(r'<a\b[^>]*?href="#([^"]+)"[^>]*?class="footnote-ref"[^>]*?>(\d+)</a>')
+    idnum = {m.group(1): m.group(2) for m in refpat.finditer(s)}
+    s = refpat.sub(lambda m: f'<sup class="fn-mark">{m.group(2)}</sup>', s)
+    tables = [(m.start(), m.end()) for m in re.finditer(r'<table\b.*?</table>', s, re.S)]
+    from collections import defaultdict
+    groups = defaultdict(list)
+    for nid, body in notes.items():
+        num = idnum.get(nid)
+        if num is None:
+            continue
+        mk = re.search(r'<sup class="fn-mark">' + re.escape(num) + r'</sup>', s)
+        if not mk:
+            continue
+        p = mk.start()
+        ins = next((b for a, b in tables if a <= p < b), None)   # after the table, if cited in one
+        if ins is None:
+            cl = s.find('</p>', p)                                # else after the paragraph
+            ins = cl + len('</p>') if cl != -1 else None
+        if ins is None:
+            continue
+        groups[ins].append((int(num), f'<div class="kindle-note"><sup class="fn-mark">{num}</sup> {body}</div>'))
+    for pos in sorted(groups, reverse=True):
+        s = s[:pos] + ''.join(h for _, h in sorted(groups[pos])) + s[pos:]
+    return s
+
+
+def inline_footnotes(tmp):
+    """Apply _inline_footnotes_text to every chapter file (popup replacement)."""
+    textdir = os.path.join(tmp, 'EPUB', 'text')
+    if not os.path.isdir(textdir):
+        return
+    n = 0
+    for fn in sorted(os.listdir(textdir)):
+        if not fn.endswith('.xhtml'):
+            continue
+        p = os.path.join(textdir, fn)
+        s = open(p, encoding='utf-8').read()
+        if 'epub:type="footnotes"' not in s:
+            continue
+        out = _inline_footnotes_text(s)
+        if out != s:
+            open(p, 'w', encoding='utf-8').write(out)
+            n += 1
+    if n:
+        print(f'  inlined footnotes after their paragraphs/tables ({n} files)')
+
+
 def split_frontmatter_leaves(tmp):
     """Split the combined front-matter leaf (half-title + title-page + copyright +
     dedication, which pandoc keeps in ONE file because only the half-title carries
@@ -835,6 +906,11 @@ def main(epub_path, src_dir=None):
             elif fn.endswith('.css'):
                 with open(p, 'a', encoding='utf-8') as f:
                     f.write('\n' + EPUB_CSS)
+
+    # Replace Kindle's inconsistent footnote popups with inline notes placed right
+    # after the referencing paragraph (or table). Runs before link processing so the
+    # repair passes never touch the now-removed footnote links.
+    inline_footnotes(tmp)
 
     # Retarget bare `#id` links (the topical index's span anchors) to the file that
     # holds the id -- pandoc leaves these cross-file links bare. Must run BEFORE
