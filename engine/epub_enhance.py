@@ -748,6 +748,68 @@ def fix_nav_landmarks(tmp):
             print('  fixed opf: removed broken guide toc reference (KDP TOC-link error)')
 
 
+def split_frontmatter_leaves(tmp):
+    """Split the combined front-matter leaf (half-title + title-page + copyright +
+    dedication, which pandoc keeps in ONE file because only the half-title carries
+    an h1) into four separate spine leaves, matching the print/PDF order:
+    half-title, title page, copyright, dedication. No nav/TOC entries are involved
+    (front matter is not in the nav). Idempotent: returns early if already split."""
+    textdir = os.path.join(tmp, 'EPUB', 'text')
+    front = None
+    if os.path.isdir(textdir):
+        for fn in sorted(os.listdir(textdir)):
+            if not fn.endswith('.xhtml'):
+                continue
+            p = os.path.join(textdir, fn)
+            t = open(p, encoding='utf-8').read()
+            if 'class="copyright-page"' in t and 'class="title-page"' in t:
+                front = (fn, p, t)
+                break
+    if not front:
+        return
+    fn, path, full = front
+    SEC = '<section class="level1 unnumbered">'
+    i = full.find(SEC)
+    j = full.find('</section>', i) if i != -1 else -1
+    if i == -1 or j == -1:
+        return
+    head, inner, tail = full[: i + len(SEC)], full[i + len(SEC): j], full[j:]
+    p_title = inner.find('<div class="title-page">')
+    p_copy = inner.find('<div class="copyright-page">')
+    p_ded = inner.find('<div id="dedication"')
+    if p_title < 0 or p_copy < 0 or p_ded < 0:
+        return
+    blocks = [
+        (path, inner[:p_title]),                                    # h1 + half-title
+        (os.path.join(textdir, 'fm-title.xhtml'), inner[p_title:p_copy]),
+        (os.path.join(textdir, 'fm-copyright.xhtml'), inner[p_copy:p_ded]),
+        (os.path.join(textdir, 'fm-dedication.xhtml'), inner[p_ded:]),
+    ]
+    for fp, content in blocks:
+        open(fp, 'w', encoding='utf-8').write(head + '\n' + content.strip('\n') + '\n' + tail)
+    opfs = [os.path.join(r, f) for r, _, fs in os.walk(tmp) for f in fs if f.endswith('.opf')]
+    if not opfs:
+        return
+    opf = opfs[0]
+    s = open(opf, encoding='utf-8').read()
+    m = re.search(r'<item id="([^"]+)"[^>]*href="[^"]*' + re.escape(fn) + r'"', s)
+    front_id = m.group(1) if m else 'ch001_xhtml'
+    new_items = (
+        '    <item id="fm_title_xhtml" href="text/fm-title.xhtml" media-type="application/xhtml+xml" />\n'
+        '    <item id="fm_copyright_xhtml" href="text/fm-copyright.xhtml" media-type="application/xhtml+xml" />\n'
+        '    <item id="fm_dedication_xhtml" href="text/fm-dedication.xhtml" media-type="application/xhtml+xml" />\n'
+    )
+    s = s.replace('</manifest>', new_items + '  </manifest>', 1)
+    s = s.replace(
+        f'<itemref idref="{front_id}" />',
+        f'<itemref idref="{front_id}" />\n'
+        '    <itemref idref="fm_title_xhtml" />\n'
+        '    <itemref idref="fm_copyright_xhtml" />\n'
+        '    <itemref idref="fm_dedication_xhtml" />', 1)
+    open(opf, 'w', encoding='utf-8').write(s)
+    print('  split front matter into separate leaves (title / copyright / dedication)')
+
+
 def main(epub_path, src_dir=None):
     tmp = tempfile.mkdtemp(prefix='epub_enhance_')
     with zipfile.ZipFile(epub_path) as z:
@@ -793,6 +855,11 @@ def main(epub_path, src_dir=None):
     # Put the TOC after the front matter so the book doesn't open onto the
     # orphan half-title page sitting between the TOC and the title page.
     reorder_frontmatter_nav(tmp)
+
+    # Split the combined front-matter leaf into separate spine leaves (title,
+    # copyright, dedication) so the EPUB front matter matches the print/PDF order.
+    # Runs AFTER the nav reorder so the new leaves land before the TOC.
+    split_frontmatter_leaves(tmp)
 
     # Copy in + manifest-register the diagram images swapped by enhance_html.
     add_print_diagram_images(tmp, src_dir)
