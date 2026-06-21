@@ -8,3 +8,4 @@ __pycache__/
 .DS_Store
 .unused-images-quarantine/
 engine/.pdf-baseline.json
+.unused-quarantine/
