@@ -6,7 +6,7 @@ part: VI -- The Life
 
 # Chapter 24: Women in Ministry -- Paul Said What He Said
 
-I want to start this chapter with two admissions. The first is that I hold a position on this topic that will make me unpopular with almost everyone. The second is that I hold it without smugness, without superiority, and without the slightest desire to lord it over anyone -- male or female.
+I want to start this chapter with two admissions. The first is that I hold a position on this topic that will make me unpopular with almost everyone. The second is that I hold it without smugness, without superiority, and without the slightest desire to lord it over anyone, male or female.
 
 I am complementarian. I believe Paul's command in 1 Timothy 2:12 is binding. Not cultural. Not contextual. Not limited to the church at Ephesus or the peculiarities of first-century Roman society. Binding. Universal. Grounded in creation, not in culture.
 
@@ -18,13 +18,13 @@ Let me explain.
 
 *"But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence."* (1 Timothy 2:12)
 
-That's the verse. And it says what it says. Paul doesn't permit a woman to teach or to have authority over a man in the context of the church. And before anyone objects that this was cultural, that Paul was addressing a specific situation in Ephesus, that the women in that particular church were causing problems and this was a temporary corrective -- read the next verse.
+That's the verse. And it says what it says. Paul doesn't permit a woman to teach or to have authority over a man in the context of the church. And before anyone objects that this was cultural, that Paul was addressing a specific situation in Ephesus, that the women in that particular church were causing problems and this was a temporary corrective, read the next verse.
 
 *"For Adam was first formed, then Eve."* (1 Timothy 2:13)
 
-Paul grounds the command in the *order of creation*. Not in culture. Not in the social dynamics of first-century Ephesus. Not in the education level of women at the time. Not in any temporal, situational, or contextual factor. He goes all the way back to Genesis. Adam was first formed, then Eve. The order of creation establishes the principle. And the principle is that teaching and authority in the church belong to men.
+Paul grounds the command in the *order of creation*. Not in culture, the social dynamics of first-century Ephesus, the education level of women at the time, or any temporal, situational, or contextual factor. He goes all the way back to Genesis. Adam was first formed, then Eve. The order of creation establishes the principle. And the principle is that teaching and authority in the church belong to men.
 
-This is not a popular position. Egalitarians hate it because it limits women. Complementarians who hold it often hold it badly -- with a rigidity and a condescension that makes the position look like misogyny rather than theology. And the secular world looks at it and sees nothing but patriarchal oppression.
+This is not a popular position. Egalitarians hate it because it limits women. Complementarians who hold it often hold it badly, with a rigidity and a condescension that makes the position look like misogyny rather than theology. And the secular world looks at it and sees nothing but patriarchal oppression.
 
 But I hold it because Paul said it. And Paul grounded it in creation. And I don't get to overrule Paul because the culture has moved on. The culture has moved on from a lot of things Paul said. That doesn't make Paul wrong. It makes the culture wrong.
 
@@ -34,11 +34,11 @@ And here is where it gets complicated. Because I've just spent an entire chapter
 
 Fair point. So let me thread the needle.
 
-The principle Paul establishes is not about a pulpit. It's about *teaching and authority*. Those are the two things -- teaching and authority over men -- that Paul restricts to men. And in a participatory model, where there is no pulpit, where nobody stands at the front, where the body functions as a body with everyone contributing -- the question shifts.
+The principle Paul establishes is not about a pulpit. It's about *teaching and authority*. Those are the two things, teaching and authority over men, that Paul restricts to men. And in a participatory model, where there is no pulpit, where nobody stands at the front, where the body functions as a body with everyone contributing, the question shifts.
 
 It shifts from "can a woman preach from the pulpit?" to "what does teaching and authority look like when nobody stands at the front?"
 
-And the answer is that teaching and authority still exist in a participatory setting. When a man stands up in a house church and opens the Scriptures and explains what they mean and applies them to the lives of the believers in the room -- he is teaching. When a man exercises spiritual leadership by guiding the direction of the meeting, correcting error, and establishing doctrine -- he is exercising authority. These functions exist whether there's a pulpit or not.
+And the answer is that teaching and authority still exist in a participatory setting. When a man stands up in a house church and opens the Scriptures and explains what they mean and applies them to the lives of the believers in the room, he is teaching. When a man exercises spiritual leadership by guiding the direction of the meeting, correcting error, and establishing doctrine, he is exercising authority. These functions exist whether there's a pulpit or not.
 
 And Paul says those functions belong to men. Not because men are smarter. Not because men are more spiritual. Not because women are less capable. Because he grounded it in creation order, as we saw above. I didn't design the order. I don't fully understand the order. But I accept it because the apostle who wrote more of the New Testament than anyone else said it was so and grounded it in Genesis.
 
@@ -48,9 +48,9 @@ But here's what the participatory model does that the institutional model can't:
 
 In the one-man pulpit model, participation and teaching authority are the same thing. If you speak from the front, you're exercising authority. Period. So women are either allowed to do everything (egalitarian) or nothing (hardline complementarian). There's no middle ground because the structure doesn't allow one.
 
-In the participatory model, the structure creates natural space. A woman can share a psalm. A woman can offer a word of encouragement. A woman can pray. A woman can ask a question. A woman can tell the body what God has done in her life. A woman can exercise her spiritual gifts -- mercy, hospitality, exhortation, helps, giving -- without exercising *teaching authority* over men. Because in a body where everyone speaks, not every act of speaking is an act of teaching authority.
+In the participatory model, the structure creates natural space. A woman can share a psalm, offer a word of encouragement, pray, ask a question, tell the body what God has done in her life. She can exercise her spiritual gifts (mercy, hospitality, exhortation, helps, giving) without exercising *teaching authority* over men. Because in a body where everyone speaks, not every act of speaking is an act of teaching authority.
 
-This is closer to what the early church actually looked like. Priscilla helped teach Apollos (Acts 18:26). The daughters of Philip prophesied (Acts 21:9). Women were involved. They participated. They served. They spoke. But the authoritative teaching and the governance -- the elder function -- was restricted to men. And the two things coexisted without contradiction in a model where the body functioned as a body.
+This is closer to what the early church actually looked like. Priscilla helped teach Apollos (Acts 18:26). The daughters of Philip prophesied (Acts 21:9). Women were involved. They participated. They served. They spoke. But the authoritative teaching and the governance, the elder function, was restricted to men. And the two things coexisted without contradiction in a model where the body functioned as a body.
 
 The modern debate has been warped by the modern structure. When you have a one-man pulpit, the question becomes binary: can a woman stand behind it or not? But the New Testament never imagined a one-man pulpit. The New Testament imagined a body. And in a body, there's room for every member to function according to their gift, within the order that God established.
 
@@ -58,9 +58,9 @@ The modern debate has been warped by the modern structure. When you have a one-m
 
 And now I need to say something that will make some of my complementarian friends uncomfortable.
 
-A woman who teaches men in a church is wrong about her role. But she is not lost. Incorrect practice doesn't damn, any more than incorrect doctrine damns. If a woman confesses Christ, rests in His finished work, and has been regenerated by the Spirit -- she is saved. She may be wrong about her role in the body. She may be exercising a function that Paul says belongs to men. And I would lovingly, gently disagree with her about that. But I would not for one moment question her salvation.
+A woman who teaches men in a church is wrong about her role. But she is not lost. Incorrect practice doesn't damn, any more than incorrect doctrine damns. If a woman confesses Christ, rests in His finished work, and has been regenerated by the Spirit, she is saved. She may be wrong about her role in the body. She may be exercising a function that Paul says belongs to men. And I would lovingly, gently disagree with her about that. But I would not for one moment question her salvation.
 
-Because if I'm honest, I'm wrong about things too. I'm sure there are positions in this book that I've gotten wrong. I don't know which ones yet -- if I did, I'd fix them. But I know with certainty that I don't have perfect theology. Nobody does. And if God's grace covers my doctrinal errors, it covers hers. If God's grace covers my practical errors, it covers hers. If God's grace covers the man who baptizes infants when he shouldn't, and the man who uses grape juice instead of wine, and the man who observes the Sabbath on Sunday instead of Saturday -- then God's grace covers the woman who teaches when Paul said not to.
+Because if I'm honest, I'm wrong about things too. I'm sure there are positions in this book that I've gotten wrong. I don't know which ones yet; if I did, I'd fix them. But I know with certainty that I don't have perfect theology. Nobody does. And if God's grace covers my doctrinal errors, it covers hers. If God's grace covers my practical errors, it covers hers. If God's grace covers the man who baptizes infants when he shouldn't, and the man who uses grape juice instead of wine, and the man who observes the Sabbath on Sunday instead of Saturday, then God's grace covers the woman who teaches when Paul said not to.
 
 This is the same principle we established in the chapters on liberty and on the covenant: God's standard is perfection. Only Christ met it. Everyone else falls short in different places. And the beauty of the finished work is that the falling short was already paid for. The woman who teaches isn't sinning against a law that will condemn her. She's living in error that grace has already covered. Same as me. Same as you. Same as everyone in every church in the history of the world.
 
@@ -70,15 +70,15 @@ I hold the principle and extend the grace simultaneously. Because that's what th
 
 I want to step back for a moment and make an observation about this entire topic.
 
-The women-in-ministry debate has consumed an enormous amount of the church's energy over the past fifty years. Egalitarians have made it a justice issue -- equal rights, equal access, equal opportunity. Complementarians have made it a control issue -- drawing lines, guarding pulpits, enforcing boundaries. And both sides have generated far more heat than light.
+The women-in-ministry debate has consumed an enormous amount of the church's energy over the past fifty years. Egalitarians have made it a justice issue: equal rights, equal access, equal opportunity. Complementarians have made it a control issue: drawing lines, guarding pulpits, enforcing boundaries. And both sides have generated far more heat than light.
 
 The egalitarians look at Paul's command and see oppression. They see centuries of men using Scripture to silence women, to limit their gifts, to keep them subordinate. And they're not entirely wrong about the history. The church *has* used this passage to oppress women. Men *have* weaponized it. The history is real and it's ugly.
 
-But the answer to misuse isn't dismissal. The answer to men behaving badly with a true principle isn't to throw out the principle. It's to hold the principle correctly. And holding it correctly means holding it the way Paul held it -- with the gravity of creation order and the tenderness of a man who honored women as co-laborers in the gospel.
+But the answer to misuse isn't dismissal. The answer to men behaving badly with a true principle isn't to throw out the principle. It's to hold the principle correctly. And holding it correctly means holding it the way Paul held it, with the gravity of creation order and the tenderness of a man who honored women as co-laborers in the gospel.
 
 *"I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea."* (Romans 16:1)
 
-Paul calls Phebe a servant -- *diakonos* -- of the church. He commends her by name. He tells the Romans to receive her. And by long tradition she is the one who carried that letter to Rome in her own hands. Romans. The greatest letter ever written, the book that has converted more sinners than any sermon ever preached, placed by Paul into the keeping of a woman to deliver to the church. He honored women. He worked alongside them. He valued their gifts. And he also said they shouldn't teach or have authority over men. He held both things at the same time because they don't contradict each other. Honoring women and maintaining creation order are not in tension. They're in harmony.
+Paul calls Phebe a servant, *diakonos*, of the church. He commends her by name. He tells the Romans to receive her. And by long tradition she is the one who carried that letter to Rome in her own hands. Romans. The greatest letter ever written, the book that has converted more sinners than any sermon ever preached, placed by Paul into the keeping of a woman to deliver to the church. He honored women. He worked alongside them. He valued their gifts. And he also said they shouldn't teach or have authority over men. He held both things at the same time because they don't contradict each other. Honoring women and maintaining creation order are not in tension. They're in harmony.
 
 And the Lord honored women higher than Paul ever did. When Christ rose from the grave, the first witnesses He chose were not the apostles. They were women. Mary Magdalene and the others came to the tomb in the dark while the men were still hiding behind locked doors, and the risen Christ showed Himself to them first, and sent them to carry the news to the Eleven (Matthew 28:1-10; John 20:11-18; Mark 16:9). The women were the first human beings to see the resurrected Christ. The first to know that death had lost. The first to preach *He is risen.* And He did this in a world where a woman's testimony was not even admissible as evidence in a court of law. God made women the first eyewitnesses of the resurrection anyway. That is not sentiment, and it is not an accident. That is the Author telling you plainly what He thinks of the daughters His Son came to save.
 
@@ -101,7 +101,7 @@ This is not a lesser gift. It is a greater one.
 
 Christ was tender. He wept at the tomb of Lazarus (John 11:35). He cooked breakfast for the men who betrayed Him (John 21:9-12). He held children when the disciples tried to send them away (Mark 10:13-16). He washed feet (John 13:4-5). The strongest person who ever lived was the most tender. And I think women, as a pattern, carry that tenderness more naturally than men do. Men are trained out of it. Women hold onto it. And the church needs it desperately.
 
-This is why participatory ecclesiology (Chapter 23) matters so much for women. In a one-man pulpit model, women are spectators. They sit and listen and maybe teach children in the back room. But in a participatory body where everyone contributes -- *"every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation"* (1 Corinthians 14:26) -- the gifts of mercy, encouragement, hospitality, exhortation, comfort, prayer, and wisdom are exercised by everyone, in real time, face to face. And in that environment, the woman who carries tenderness naturally isn't restricted. She's essential. She's the one holding the body together while the men are arguing about supralapsarianism.
+This is why participatory ecclesiology (Chapter 23) matters so much for women. In a one-man pulpit model, women are spectators. They sit and listen and maybe teach children in the back room. But in a participatory body where everyone contributes, *"every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation"* (1 Corinthians 14:26), the gifts of mercy, encouragement, hospitality, exhortation, comfort, prayer, and wisdom are exercised by everyone, in real time, face to face. And in that environment, the woman who carries tenderness naturally isn't restricted. She's essential. She's the one holding the body together while the men are arguing about supralapsarianism.
 
 The restriction Paul placed is narrow: authoritative teaching and governance. The freedom is wide: everything else. And *everything else* is where most of the actual ministry happens.
 
@@ -121,7 +121,7 @@ In the framework, this is substance over formality (Chapter 10). The substance i
 
 **"Verse 15 is about natural hair. Verses 5-6 are about an additional covering. Two different coverings."**
 
-The Greek words are different (*katakalupto* in verses 5-6, *peribolaion* in verse 15), which some use to argue for two separate coverings. But Paul's argument flows toward resolution, not escalation. He raises the question of covering, discusses it through 14 verses, and then says the hair *is given her for a covering*. That's the answer, not a separate topic. If Paul intended a mandatory additional garment, verse 16 -- *"we have no such custom"* -- makes no sense. You don't spend 15 verses establishing a binding rule and then say the churches have no custom about it.
+The Greek words are different (*katakalupto* in verses 5-6, *peribolaion* in verse 15), which some use to argue for two separate coverings. But Paul's argument flows toward resolution, not escalation. He raises the question of covering, discusses it through 14 verses, and then says the hair *is given her for a covering*. That's the answer, not a separate topic. If Paul intended a mandatory additional garment, verse 16, *"we have no such custom,"* makes no sense. You don't spend 15 verses establishing a binding rule and then say the churches have no custom about it.
 
 **"The early church universally practiced head coverings. You're breaking with tradition."**
 
@@ -129,7 +129,7 @@ The early church also practiced baptismal regeneration, catechumen classes, and 
 
 **"If a woman cuts her hair short, she has no covering and the principle breaks down."**
 
-Then her conscience and her husband are the authority, not the church. Paul's instructions are about the principle of headship, not about hair length requirements. A short-haired woman who honors the authority structure has the substance. A long-haired woman who despises it has the formality without the substance. Same as baptism without regeneration -- the water without the Spirit.
+Then her conscience and her husband are the authority, not the church. Paul's instructions are about the principle of headship, not about hair length requirements. A short-haired woman who honors the authority structure has the substance. A long-haired woman who despises it has the formality without the substance. Same as baptism without regeneration, the water without the Spirit.
 
 **"This is a salvation issue for some believers. You're being dismissive."**
 
@@ -137,21 +137,21 @@ I'm not being dismissive. I'm applying the same principle I apply to every other
 
 ## Objections and Answers
 
-**"Paul was speaking culturally -- it doesn't apply today."**
+**"Paul was speaking culturally; it doesn't apply today."**
 
-Paul grounded the command in creation order, not culture -- as I showed in the opening section. *"Adam was first formed, then Eve"* (1 Timothy 2:13). That's not a cultural observation. It's an ontological statement. You can't dismiss it as cultural without dismissing the creation account itself. And if Paul was wrong about creation order, you have a bigger problem than women in ministry.
+Paul grounded the command in creation order, not culture, as I showed in the opening section. *"Adam was first formed, then Eve"* (1 Timothy 2:13). That's not a cultural observation. It's an ontological statement. You can't dismiss it as cultural without dismissing the creation account itself. And if Paul was wrong about creation order, you have a bigger problem than women in ministry.
 
 **"If the pulpit shouldn't exist, the question is moot."**
 
-Partly, and I addressed this in the body of the chapter. If there's no pulpit, there's no pulpit to fight about. But the *principle* doesn't require a pulpit to apply. It applies wherever teaching and authority happen -- house church, Bible study, any setting where the body gathers and the Word is taught with authority. The structure changes. The principle doesn't.
+Partly, and I addressed this in the body of the chapter. If there's no pulpit, there's no pulpit to fight about. But the *principle* doesn't require a pulpit to apply. It applies wherever teaching and authority happen: house church, Bible study, any setting where the body gathers and the Word is taught with authority. The structure changes. The principle doesn't.
 
-**"You're being inconsistent -- extending grace on doctrine but not on practice."**
+**"You're being inconsistent, extending grace on doctrine but not on practice."**
 
 I'm extending grace on both. I said explicitly that a woman who teaches isn't lost. Incorrect practice doesn't damn. Grace covers. That is *exactly* the same grace I extend to the man who holds incorrect doctrine. The principle is clear. The consequences of violating the principle are not eternal damnation. They're error. And error is what grace was designed for.
 
 **"Galatians 3:28 says there is 'neither male nor female' in Christ."**
 
-Paul is talking about *salvation*, not about *church order*. There is neither male nor female *in Christ* -- meaning both men and women are equally justified, equally accepted, equally loved, equally saved. But equal standing before God doesn't mean identical function in the body. The eye and the hand are equal members of the body, but they don't do the same thing. Galatians 3:28 is about soteriological equality, not functional interchangeability.
+Paul is talking about *salvation*, not about *church order*. There is neither male nor female *in Christ*, meaning both men and women are equally justified, equally accepted, equally loved, equally saved. But equal standing before God doesn't mean identical function in the body. The eye and the hand are equal members of the body, but they don't do the same thing. Galatians 3:28 is about soteriological equality, not functional interchangeability.
 
 **"Restricting women from teaching wastes the very gift of tenderness you say they carry."**
 

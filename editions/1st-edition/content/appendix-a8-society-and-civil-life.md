@@ -5,7 +5,7 @@ status: draft
 
 # Appendix A8: Society and Civil Life
 
-The Christian lives in a polity. Nations rise and fall. Governments spend and tax. Armies fight. Courts decide life and death. This appendix applies the sentence to the civic life of the Christian -- governance, justice, economics, and the outer edges of what society asks the framework to address.
+The Christian lives in a polity. Nations rise and fall, governments spend and tax, armies fight, courts decide life and death. This appendix applies the sentence to the civic life of the Christian: governance, justice, economics, and the outer edges of what society asks the framework to address.
 
 > *"Everything that exists is a thought in the mind of God, sustained by His will, authored by His purpose, and held together by personal covenants of love."*
 
@@ -13,7 +13,7 @@ The Christian lives in a polity. Nations rise and fall. Governments spend and ta
 
 *"The powers that be are ordained of God"* (Romans 13:1).
 
-Every government is authored. Democracies, monarchies, dictatorships, theocracies -- all thoughts in the mind of God, rendering His purposes in the political sphere. No government is righteous. No government is permanent. All governments serve the one comprehensive thought until the rendering upgrades and Christ reigns directly.
+Every government is authored. Democracies, monarchies, dictatorships, theocracies, all thoughts in the mind of God, rendering His purposes in the political sphere. No government is righteous. No government is permanent. All governments serve the one comprehensive thought until the rendering upgrades and Christ reigns directly.
 
 The believer's relationship to government is submission with conscience. Submit to the authorities (Romans 13). But not beyond conscience. *"We ought to obey God rather than men"* (Acts 5:29). When the government commands what God forbids, or forbids what God commands, conscience overrides submission.
 
@@ -95,13 +95,13 @@ The state has its sword. You have yours. Use neither casually. Use both under th
 
 Both are authored. Wealth is not a sign of God's blessing on the righteous, and poverty is not a sign of His curse. Job was rich before God stripped him, righteous through both states, and restored in the end. The prosperity gospel is the Pharisee in Luke 18 with a bank account.
 
-The framework says: stewardship, not ownership. Everything is a thought in God's mind. You don't own anything. You hold what the Author placed in the story for the duration of your scene. Hold it loosely. Give generously. Not because giving earns favor. Because the Spirit in a generous heart produces generosity -- fruit, not duty.
+The framework says: stewardship, not ownership. Everything is a thought in God's mind. You don't own anything. You hold what the Author placed in the story for the duration of your scene. Hold it loosely. Give generously. Not because giving earns favor. Because the Spirit in a generous heart produces generosity as fruit, not duty.
 
 **For further study:** Deut. 8:17-18; Job 1:21; Ps. 24:1; Ps. 50:10-12; Prov. 11:24-25; Prov. 30:8-9; Eccl. 5:10; Matt. 6:19-21; Matt. 6:24; Matt. 6:33; Luke 12:15-21; Luke 16:13; 1 Tim. 6:6-10; 1 Tim. 6:17-19; James 2:5.
 
 ## On Tithing
 
-Tithing was part of the Sinai covenant -- the law of works (Chapter 8). Christ is the end of the law (Chapter 20). Tithing is not required.
+Tithing was part of the Sinai covenant, the law of works (Chapter 8). Christ is the end of the law (Chapter 20). Tithing is not required.
 
 *"Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver"* (2 Corinthians 9:7).
 
@@ -111,7 +111,7 @@ As he purposeth in his heart. Not ten percent. Not a mandated formula. Purposefu
 
 ## On UFOs and Aliens from Another Planet
 
-The question will not go away, and the church has mostly handled it badly. The fundamentalist tradition has dismissed UFO sightings as nonsense or as purely demonic, usually without examining the evidence. The progressive Christian tradition has either ignored the question or baptized extraterrestrial speculation as progress. The secular world has built an entire alternative religion around the topic -- abduction narratives, spiritual contact with "space brothers," ascended masters, the whole apparatus. The framework can do better, because the question is real, the evidence is real, and the ontology of this book can accommodate an honest answer.
+The question will not go away, and the church has mostly handled it badly. The fundamentalist tradition has dismissed UFO sightings as nonsense or as purely demonic, usually without examining the evidence. The progressive Christian tradition has either ignored the question or baptized extraterrestrial speculation as progress. The secular world has built an entire alternative religion around the topic: abduction narratives, spiritual contact with "space brothers," ascended masters, the whole apparatus. The framework can do better, because the question is real, the evidence is real, and the ontology of this book can accommodate an honest answer.
 
 **What Scripture does and does not say.**
 
@@ -163,6 +163,6 @@ The cosmos is His. Whatever is out there, He made it, sustains it, and holds it 
 
 ## A Final Word
 
-The polity is authored. Government is a frame. Justice is a frame. War is a frame. The Christian lives inside these frames without giving them ultimate authority, because ultimate authority belongs to the Author. Render unto Caesar what is Caesar's, and unto God what is God's. The framework makes the distinction clean, and it makes the priority clean.
+The polity is authored. Government, justice, and war are each a frame. The Christian lives inside these frames without giving them ultimate authority, because ultimate authority belongs to the Author. Render unto Caesar what is Caesar's, and unto God what is God's. The framework makes the distinction clean, and it makes the priority clean.
 
 [^a8-ufo]: J. Allen Hynek, scientific consultant to the U.S. Air Force's Project Blue Book, set out his categories in *The UFO Experience: A Scientific Inquiry* (Chicago: Henry Regnery, 1972) and later entertained interdimensional hypotheses. John A. Keel developed the "ultraterrestrials" concept in *UFOs: Operation Trojan Horse* (New York: G. P. Putnam's Sons, 1970) and *The Mothman Prophecies* (New York: Saturday Review Press, 1975).

@@ -16,7 +16,7 @@ This chapter is about the most contested ordinance in the history of the church.
 
 Every covenant has a sign. The Abrahamic covenant had circumcision. The Mosaic covenant had the Sabbath. The Noahic covenant had the rainbow. And the question that has divided the church for two thousand years is this: what is the sign of the New Covenant?
 
-The paedobaptists say water baptism replaced circumcision. They baptize infants because circumcision was applied to infants, and the sign transferred. The Baptists say water baptism is the sign, but it should only be applied to believers -- people who have professed faith. Both camps agree that water is the sign. They just disagree about who gets it and when.
+The paedobaptists say water baptism replaced circumcision. They baptize infants because circumcision was applied to infants, and the sign transferred. The Baptists say water baptism is the sign, but it should only be applied to believers, people who have professed faith. Both camps agree that water is the sign. They just disagree about who gets it and when.
 
 I disagree with both of them. And I disagree on the same grounds that this entire book has been built on: the invisible precedes the visible. The substance precedes the formality. The covenant precedes the ceremony. This is operational idealism (Chapter 1): the substance is the thought in God's mind, and the ceremony is the rendering of that thought into visible form. The thought is always first because the Mind is always first. Apply that principle to baptism and the answer is immediate.
 
@@ -47,35 +47,35 @@ The paedobaptists read this and say, "See? Baptism replaces circumcision." The B
 
 But look at verse 11 again. *"Circumcised with the circumcision made without hands."* Made *without hands*. What does that phrase mean in Scripture? It means not done by human beings. Not a physical act. Not something administered by a priest or a pastor or a father. It is the Spirit's work, accomplished without human participation.
 
-The circumcision Paul is describing is the circumcision of the heart. The Spirit's regenerating work. The old nature cut away. The body of the sins of the flesh put off. And this circumcision is *made without hands* -- meaning it isn't something anyone does to you. It's something God does *in* you.
+The circumcision Paul is describing is the circumcision of the heart. The Spirit's regenerating work. The old nature cut away. The body of the sins of the flesh put off. And this circumcision is *made without hands*, meaning it isn't something anyone does to you. It's something God does *in* you.
 
-And the baptism in verse 12 is the same kind. You are *buried with him in baptism*. This is Spirit baptism. The believer's union with Christ in His death, burial, and resurrection. Paul is describing a spiritual reality, not a water ceremony. The whole passage is about what God does invisibly, without human hands, by the operation of His power. It's about the real circumcision and the real baptism -- both of which are works of the Spirit.
+And the baptism in verse 12 is the same kind. You are *buried with him in baptism*. This is Spirit baptism. The believer's union with Christ in His death, burial, and resurrection. Paul is describing a spiritual reality, not a water ceremony. The whole passage is about what God does invisibly, without human hands, by the operation of His power. It's about the real circumcision and the real baptism, both of which are works of the Spirit.
 
-Water didn't replace circumcision. The Spirit did. The sign of the New Covenant is the indwelling Holy Spirit, circumcising the heart, baptizing the believer into Christ's death and resurrection, producing the new life from the inside out. And the water ceremony is a visible rendering of that invisible reality -- valuable, commanded, meaningful -- but it is not the sign itself. The sign is the Spirit.
+Water didn't replace circumcision. The Spirit did. The sign of the New Covenant is the indwelling Holy Spirit, circumcising the heart, baptizing the believer into Christ's death and resurrection, producing the new life from the inside out. And the water ceremony is a visible rendering of that invisible reality (valuable, commanded, meaningful) but it is not the sign itself. The sign is the Spirit.
 
 ## Baptismal Regeneration -- The Error This Framework Exists to Refute
 
 I need to say this as directly as I can.
 
-Baptismal regeneration -- the doctrine that water baptism is the means by which a person is regenerated, saved, or brought into the covenant -- is the *exact* error that this entire framework exists to refute. It is materialism applied to salvation. It is the visible producing the invisible. It is the ceremony creating the covenant. It is the formality generating the substance. It is everything this book has argued against from the first page.
+Baptismal regeneration (the doctrine that water baptism is the means by which a person is regenerated, saved, or brought into the covenant) is the *exact* error that this entire framework exists to refute. It is materialism applied to salvation. It is the visible producing the invisible. It is the ceremony creating the covenant. It is the formality generating the substance. It is everything this book has argued against from the first page.
 
 If everything that exists is a thought in the mind of God, and the invisible precedes the visible, and the substance precedes the formality, then making water the cause of spiritual life is a reversal of the entire order of reality. You are saying that the physical act produces the spiritual change. That the water makes the regeneration happen. That the visible creates the invisible.
 
-And every system that has ever taught this -- Roman Catholicism, Eastern Orthodoxy, the Churches of Christ, Lutheranism in its traditional form -- has made the same foundational mistake. They have looked at the ceremony and said, "This IS the covenant." When in fact the covenant was already there. The Spirit was already at work. The regeneration had already happened, or it hadn't. And the water didn't change the equation either way.
+And every system that has ever taught this (Roman Catholicism, Eastern Orthodoxy, the Churches of Christ, Lutheranism in its traditional form) has made the same foundational mistake. They have looked at the ceremony and said, "This IS the covenant." When in fact the covenant was already there. The Spirit was already at work. The regeneration had already happened, or it hadn't. And the water didn't change the equation either way.
 
 The thief on the cross settles this for good.
 
 *"And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise."* (Luke 23:43)
 
-No baptism. No ceremony. No water. No church. No pastor. No confession of faith before a congregation. No membership vote. No catechism. A dying criminal, nailed to a cross, looking at Jesus and saying, *"Lord, remember me when thou comest into thy kingdom"* (Luke 23:42). And Jesus looked at him and said *today*. Today you'll be with me. Today. Not after you get baptized. Not after you join a church. Not after you complete a class. Today.
+No baptism, no ceremony, no water. No church, no pastor, no confession of faith before a congregation. No membership vote, no catechism. A dying criminal, nailed to a cross, looking at Jesus and saying, *"Lord, remember me when thou comest into thy kingdom"* (Luke 23:42). And Jesus looked at him and said *today*. Today you'll be with me. Today. Not after you get baptized, not after you join a church, not after you complete a class. Today.
 
 If water baptism is necessary for salvation, the thief on the cross is in hell. And if the thief on the cross is in heaven without water, then water is not necessary. It really is that simple. The sign of his covenant membership was the Spirit who gave him faith in the middle of a crucifixion. That was the circumcision of his heart. That was his baptism into Christ's death. That was the sign. Not water. The Spirit.
 
 ## Water Baptism -- Its Proper Place
 
-I want to be careful here, because I don't want to throw the baby out with the bathwater -- no pun intended.
+I want to be careful here, because I don't want to throw the baby out with the bathwater, no pun intended.
 
-Water baptism is commanded. The apostles practiced it. Jesus Himself was baptized. And I believe every Christian should be baptized in water as a public declaration of their faith in Christ. It is a beautiful ordinance. It is a visible rendering of the invisible reality -- death, burial, and resurrection with Christ. And I'm not arguing against it.
+Water baptism is commanded. The apostles practiced it. Jesus Himself was baptized. And I believe every Christian should be baptized in water as a public declaration of their faith in Christ. It is a beautiful ordinance. It is a visible rendering of the invisible reality: death, burial, and resurrection with Christ. And I'm not arguing against it.
 
 What I'm arguing against is making it *more* than it is.
 
@@ -85,15 +85,15 @@ And because it's not the covenantal sign, the *mode* of water baptism is a matte
 
 I know this will frustrate both camps. The Baptists insist on immersion as the only valid mode because *baptizo* means to immerse. The paedobaptists practice sprinkling or pouring because they connect it to Old Testament purification rites. And both camps have been fighting about this for five hundred years.
 
-But here is what I notice: there is no clear, undisputed, unanimously agreed-upon form of water administration in the New Testament. Not one. The mode has been debated since the early church. And that itself is significant. If water baptism were the covenantal sign -- the thing that marks you as belonging to God -- you would expect God to be crystal clear about how to administer it. He was crystal clear about circumcision. He was crystal clear about the Passover. He was crystal clear about the sacrifices. But the mode of water baptism? Ambiguous. Debated. Unclear. For two thousand years.
+But here is what I notice: there is no clear, undisputed, unanimously agreed-upon form of water administration in the New Testament. Not one. The mode has been debated since the early church. And that itself is significant. If water baptism were the covenantal sign, the thing that marks you as belonging to God, you would expect God to be crystal clear about how to administer it. He was crystal clear about circumcision. He was crystal clear about the Passover. He was crystal clear about the sacrifices. But the mode of water baptism? Ambiguous and debated, unsettled for two thousand years.
 
-And that ambiguity is the tell. God didn't make the mode clear because the mode isn't the point. The Spirit's mode of operation, by contrast, is unmistakable -- He regenerates the heart, produces faith, indwells the believer, and seals them for the day of redemption. No ambiguity. No debate about the mode. No confusion about whether it happened. The Spirit's work is self-authenticating in a way that water administration never has been.
+And that ambiguity is the tell. God didn't make the mode clear because the mode isn't the point. The Spirit's mode of operation, by contrast, is unmistakable: He regenerates the heart, produces faith, indwells the believer, and seals them for the day of redemption. No ambiguity. No debate about the mode. No confusion about whether it happened. The Spirit's work is self-authenticating in a way that water administration never has been.
 
 ## Bob Higby's Work
 
 I want to acknowledge a debt here. Bob Higby wrote a four-part study on baptism that I published on pristinegrace.org, and it shaped my thinking profoundly. Higby walked through the New Testament passages on baptism with a precision that most commentators lack, and he demonstrated, text by text, that the baptism Paul describes in the epistles is overwhelmingly Spirit baptism, not water.
 
-Higby's work is available on the site for anyone who wants to go deeper into the exegesis. I commend it to you. What I'm doing in this chapter is placing his conclusions within the larger framework of this book -- showing that the same principle that governs marriage, justification, the canon, and communion also governs baptism. The invisible precedes the visible. The substance precedes the formality. The Spirit precedes the water.
+Higby's work is available on the site for anyone who wants to go deeper into the exegesis. I commend it to you. What I'm doing in this chapter is placing his conclusions within the larger framework of this book, showing that the same principle that governs marriage, justification, the canon, and communion also governs baptism. The invisible precedes the visible. The substance precedes the formality. The Spirit precedes the water.
 
 ## The Early Church and Water
 
@@ -103,7 +103,7 @@ The early church baptized in water. The apostles baptized in water. Jesus comman
 
 As I argued in Chapter 9, the apostles didn't have it all figured out. They were running old software on new firmware. They went to the temple. They observed Jewish ceremonies. They debated whether Gentiles needed to be circumcised. They practiced water baptism because they were Jews emerging from a world of visible signs and ritual washings, and the Spirit was patient with their transition from the old covenant patterns to the full implications of the new.
 
-This doesn't mean water baptism is wrong. It means it was part of the progressive rendering. The early church was at a resolution where visible signs still carried enormous weight -- because they were still close enough to the old covenant that the visible-to-invisible pattern was the only one they knew. As the resolution increased, as Paul's theology matured, the emphasis shifted from the water to the Spirit. From the outward to the inward. From the sign to the thing signified.
+This doesn't mean water baptism is wrong. It means it was part of the progressive rendering. The early church was at a resolution where visible signs still carried enormous weight, because they were still close enough to the old covenant that the visible-to-invisible pattern was the only one they knew. As the resolution increased, as Paul's theology matured, the emphasis shifted from the water to the Spirit. From the outward to the inward. From the sign to the thing signified.
 
 And that's where we should be. Not abandoning water baptism. Not despising it. But understanding what it is and what it isn't. It is a beautiful ordinance commanded by Christ. It is not the covenantal sign. The water points to the substance, and the substance is the Spirit.
 
@@ -111,19 +111,19 @@ And that's where we should be. Not abandoning water baptism. Not despising it. B
 
 **"Colossians 2:11-12 teaches that baptism replaces circumcision."**
 
-As I walked through above, *"made without hands"* means not done by human beings -- it's the Spirit's regenerating work, not a water ceremony. Both the circumcision and the baptism in this passage are spiritual realities: the old nature cut away, the believer buried and risen with Christ by the operation of God. Both paedobaptists and Baptists assume verse 12 is about water. Both are wrong.
+As I walked through above, *"made without hands"* means not done by human beings; it's the Spirit's regenerating work, not a water ceremony. Both the circumcision and the baptism in this passage are spiritual realities: the old nature cut away, the believer buried and risen with Christ by the operation of God. Both paedobaptists and Baptists assume verse 12 is about water. Both are wrong.
 
-**"The apostles baptized in water -- we're obligated to follow their example."**
+**"The apostles baptized in water; we're obligated to follow their example."**
 
-Yes, and I believe Christians should be baptized in water. But the command is *general*, not *covenantal*. There are no sanctions for failure. There's no prescribed mode that the entire church agrees on. And the *meaning* of baptism -- the thing the water points to -- is the Spirit's work. The water is the rendering. The Spirit is the substance. Follow the apostles' example. Be baptized. But don't confuse the ceremony with the covenant.
+Yes, and I believe Christians should be baptized in water. But the command is *general*, not *covenantal*. There are no sanctions for failure. There's no prescribed mode that the entire church agrees on. And the *meaning* of baptism, the thing the water points to, is the Spirit's work. The water is the rendering. The Spirit is the substance. Follow the apostles' example. Be baptized. But don't confuse the ceremony with the covenant.
 
 **"Without baptism, there's no way to join a church."**
 
-Church membership is a formality. You're in the body of Christ by regeneration, not by water or church vote. The thief on the cross was in the body of Christ with no baptism, no church membership, no pastor, no congregation, and no formality of any kind. He was in the body because the Spirit put him there. And that's how every believer enters -- through the invisible work of God, not through the visible procedures of men.
+Church membership is a formality. You're in the body of Christ by regeneration, not by water or church vote. The thief on the cross was in the body of Christ with no baptism, no church membership, no pastor, no congregation, and no formality of any kind. He was in the body because the Spirit put him there. And that's how every believer enters: through the invisible work of God, not through the visible procedures of men.
 
 **"If the mode doesn't matter, you're undermining the symbolism."**
 
-The symbolism matters. But the symbolism points to the Spirit's work, not to itself. If immersion best captures the picture of death, burial, and resurrection -- wonderful. If sprinkling captures the picture of purification and cleansing -- wonderful. The picture is meaningful either way because it points to something real. But the reality it points to is the same regardless of the mode. And fighting about the mode while agreeing about the reality is exactly the kind of ceremony-over-covenant thinking this book has been refuting since Chapter 9.
+The symbolism matters. But the symbolism points to the Spirit's work, not to itself. If immersion best captures the picture of death, burial, and resurrection, wonderful. If sprinkling captures the picture of purification and cleansing, wonderful. The picture is meaningful either way because it points to something real. But the reality it points to is the same regardless of the mode. And fighting about the mode while agreeing about the reality is exactly the kind of ceremony-over-covenant thinking this book has been refuting since Chapter 9.
 
 **"This is just your MCT article from 2004 recycled. You've changed nothing."**
 

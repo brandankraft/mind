@@ -36,7 +36,7 @@ This is not an argument for promiscuity. This is an argument about the *nature* 
 
 *"Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."* (Genesis 2:24)
 
-The two shall become *one flesh*. This is the visible rendering of the invisible covenant. The physical union IS the covenant rendered in bodies. Not a reward for the ceremony. Not a privilege earned by signing a license. The substance the ceremony points to.
+The two shall become *one flesh*. This is the visible rendering of the invisible covenant. The physical union IS the covenant rendered in bodies. Not a reward for the ceremony, not a privilege earned by signing a license. It is the substance the ceremony points to.
 
 And Paul, in Ephesians, takes this further than most people are comfortable with:
 
@@ -73,7 +73,7 @@ The Bible has what Bob Higby once called a "theology of wine." Noah planted a vi
 
 *"And in this mountain shall the Lord of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined. And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations. He will swallow up death in victory; and the Lord God shall wipe away tears from off all faces."* (Isaiah 25:6-8)
 
-A feast of fat things. Wines well refined. Death swallowed up. Tears wiped away. That is the substance the Lord's Supper renders. Not a memorial for a dead man. A preview of the feast that never ends. The early church understood this. Their communion was an agape feast, a full meal shared in fellowship, the highest point of their week, a celebration of the resurrection. It looked nothing like the "snippet and sip" that most churches practice today. There was no privatistic meditation. No fearful silence. There was joy. Fellowship. Wine that was wine, not grape juice. And the saints looked forward to it because it was the closest they came on earth to the table they would share with Christ in the higher resolution rendering.
+A feast of fat things, wines well refined, death swallowed up, every tear wiped away. That is the substance the Lord's Supper renders. Not a memorial for a dead man. A preview of the feast that never ends. The early church understood this. Their communion was an agape feast, a full meal shared in fellowship, the highest point of their week, a celebration of the resurrection. It looked nothing like the "snippet and sip" that most churches practice today. There was no privatistic meditation. No fearful silence. There was joy and fellowship. Wine that was wine, not grape juice. And the saints looked forward to it because it was the closest they came on earth to the table they would share with Christ in the higher resolution rendering.
 
 *"For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come."* (Luke 22:18)
 

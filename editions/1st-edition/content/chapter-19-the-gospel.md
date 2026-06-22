@@ -8,27 +8,27 @@ part: V -- Salvation
 
 I remember the first time someone told me I was supposed to "offer" the gospel to people. I was in my early twenties, fresh into sovereign grace, still figuring out how the pieces fit together. And a well-meaning brother explained evangelism to me like this: "We offer salvation to the lost. We present the gospel and invite them to accept Christ. And then God uses our offer as the means to save the elect."
 
-And something about it didn't sit right. Not the part about preaching -- that was fine. Not the part about God using means -- I already believed that. The thing that stuck in my craw was the word *offer*. Because an offer implies something incomplete. An offer means "here's something available if you want it." An offer means the transaction isn't finished. An offer means there's a condition the other party has to meet before the deal closes.
+And something about it didn't sit right. Not the part about preaching, that was fine. Not the part about God using means, I already believed that. The thing that stuck in my craw was the word *offer*. Because an offer implies something incomplete. An offer means "here's something available if you want it." An offer means the transaction isn't finished. An offer means there's a condition the other party has to meet before the deal closes.
 
 And the gospel isn't that. The gospel has never been that. The gospel is the announcement that the deal is *already closed*. The transaction is *finished*. The work is *done*. Christ didn't open a door and hope people walk through it. He saved His people. Past tense. Accomplished. And the gospel is the proclamation of that accomplished fact.
 
-This distinction -- proclamation versus offer -- is not a minor point of emphasis. It's the difference between a finished gospel and an unfinished one. And everything in the framework demands the finished version.
+This distinction, proclamation versus offer, is not a minor point of emphasis. It's the difference between a finished gospel and an unfinished one. And everything in the framework demands the finished version.
 
 ## Salvation Is a Past Event
 
 *"Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began."* (2 Timothy 1:9)
 
-Who *hath saved* us. Past tense. Done. Not "is saving." Not "will save if we believe." *Hath saved.* Paul uses the past tense because salvation is an accomplished fact. It happened. It was finished at the cross -- or more accurately, it was finished in the eternal decree and *rendered* at the cross. But either way, by the time Paul writes to Timothy, the saving is done. The only thing remaining is the *proclamation* of what was done.
+Who *hath saved* us. Past tense. Done. Not "is saving." Not "will save if we believe." *Hath saved.* Paul uses the past tense because salvation is an accomplished fact. It happened. It was finished at the cross, or more accurately, it was finished in the eternal decree and *rendered* at the cross. But either way, by the time Paul writes to Timothy, the saving is done. The only thing remaining is the *proclamation* of what was done.
 
 *"It is finished."* (John 19:30)
 
 We keep coming back to these three words because they're the hinge of everything. If it is finished, nothing remains. If nothing remains, there is no condition for the sinner to meet. If there is no condition, then faith is not a condition. If faith is not a condition, then the gospel is not an offer contingent on faith. The gospel is the announcement that Christ accomplished everything, for everyone He intended to save, without remainder.
 
-And this is what the early church preached. Not "God loves you and has a wonderful plan for your life." Not "If you'll just accept Jesus into your heart." Not "Christ died for you and now it's your turn to respond." The early church preached *facts*. Christ died. Christ was buried. Christ rose. Christ accomplished redemption. Christ is Lord.
+And this is what the early church preached. Not "God loves you and has a wonderful plan for your life," not "if you'll just accept Jesus into your heart," not "Christ died for you and now it's your turn to respond." The early church preached *facts*. Christ died. Christ was buried. Christ rose. Christ accomplished redemption. Christ is Lord.
 
 *"Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand."* (1 Corinthians 15:1)
 
-*I declare.* Not "I offer." Not "I propose." Not "I invite you to consider." Paul *declares*. He announces. He proclaims. The gospel is a declaration of accomplished reality, not a sales pitch requiring a response.
+*I declare.* Not "I offer," not "I propose," not "I invite you to consider." Paul *declares*. He announces. He proclaims. The gospel is a declaration of accomplished reality, not a sales pitch requiring a response.
 
 ## He Was Raised for Our Justification
 
@@ -92,11 +92,11 @@ Faith is not a human duty. Faith is not something God requires of the sinner bef
 
 Grace. Through faith. Gift of God. Not of yourselves. Not of works. Lest any man should boast.
 
-If faith were a duty -- something the sinner must do before God will save them -- then faith would be a work. A condition. A contribution. And the man who believed would have something to boast about that the man who didn't believe doesn't have. "I believed and you didn't. I met the condition and you failed." That's boasting. And Paul says the entire structure was designed to eliminate boasting. Which means faith cannot be a condition. It must be a gift.
+If faith were a duty, something the sinner must do before God will save them, then faith would be a work. A condition. A contribution. And the man who believed would have something to boast about that the man who didn't believe doesn't have. "I believed and you didn't. I met the condition and you failed." That's boasting. And Paul says the entire structure was designed to eliminate boasting. Which means faith cannot be a condition. It must be a gift.
 
 *"But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith."* (Galatians 5:22)
 
-Faith is a fruit of the Spirit. A *fruit*. Produced by the Spirit. Not produced by the sinner. Not mustered up by human willpower. Not generated by a decision in the back pew during an altar call. Produced by the Spirit in the soul He regenerated, at the time He appointed, through the means He ordained. The fruit doesn't produce the root. The root produces the fruit.
+Faith is a fruit of the Spirit. A *fruit*. Produced by the Spirit. Not produced by the sinner, not mustered up by human willpower, not generated by a decision in the back pew during an altar call. Produced by the Spirit in the soul He regenerated, at the time He appointed, through the means He ordained. The fruit doesn't produce the root. The root produces the fruit.
 
 And if faith is a gift, then the gospel is not a conditional offer. You don't offer someone a gift and then require them to earn it. You don't hold out a present and say "this is yours if you meet my conditions." A gift is given. A gift is received. The giving is sovereign. The receiving is enabled by the Giver. And the whole thing, from start to finish, is grace.
 
@@ -120,21 +120,21 @@ Responsible means obligated. It means you have a duty to fulfill, and if you fai
 
 But that makes no sense in the framework. And it makes no sense in Scripture.
 
-A reprobate man cannot be *duty-bound* to savingly believe something that isn't true for him. Christ did not die for the reprobate. The gospel promises are not for the reprobate. Can you bind a man to believe something that isn't true? Can you hold him responsible for failing to believe that the sky is green when the sky is blue? The reprobate man who hears the gospel and rejects it is not failing a duty. He is acting according to his nature. He is doing exactly what an unregenerate person does with foolishness -- he dismisses it (1 Corinthians 2:14). And he is *accountable* for his sin, for his disobedience, for his rebellion against God. But he is not *responsible* for believing a promise that was never made to him.
+A reprobate man cannot be *duty-bound* to savingly believe something that isn't true for him. Christ did not die for the reprobate. The gospel promises are not for the reprobate. Can you bind a man to believe something that isn't true? Can you hold him responsible for failing to believe that the sky is green when the sky is blue? The reprobate man who hears the gospel and rejects it is not failing a duty. He is acting according to his nature. He is doing exactly what an unregenerate person does with foolishness: he dismisses it (1 Corinthians 2:14). And he is *accountable* for his sin, for his disobedience, for his rebellion against God. But he is not *responsible* for believing a promise that was never made to him.
 
 This distinction matters because the "human responsibility" framework is the back door through which Arminianism sneaks into Calvinism. "God is sovereign in salvation, BUT man is responsible to believe." That "but" is doing all the heavy lifting. It smuggles human contribution back into the system. It makes faith a condition. And once faith is a condition, the gospel is an offer again, and we're back to the unfinished work.
 
-The framework doesn't have a "but." God is sovereign in salvation. Period. Full stop. No "but." The elect are saved because God decreed it, Christ accomplished it, and the Spirit applied it. The reprobate are lost because God decreed it, Christ did not die for them, and the Spirit did not regenerate them. And both -- the salvation and the damnation -- are entirely God's work. The sinner contributes nothing to either.
+The framework doesn't have a "but." God is sovereign in salvation. Period. Full stop. No "but." The elect are saved because God decreed it, Christ accomplished it, and the Spirit applied it. The reprobate are lost because God decreed it, Christ did not die for them, and the Spirit did not regenerate them. And both, the salvation and the damnation, are entirely God's work. The sinner contributes nothing to either.
 
 ## No Common Grace
 
-Now for the claim that gets me labeled a hyper-calvinist. And I wear the label gladly, because the label is wrong and the theology is right. (On the old predestinarian.net forum I went by *Darth Gill* -- John Gill the Particular Baptist with a Sith honorific bolted on, courtesy of men who thought I was the dangerous one. My friend Greg still calls me Darth as a gag. The dark-side joke I will accept. The law of Plato that produced it I will not.)
+Now for the claim that gets me labeled a hyper-calvinist. And I wear the label gladly, because the label is wrong and the theology is right. (On the old predestinarian.net forum I went by *Darth Gill*, John Gill the Particular Baptist with a Sith honorific bolted on, courtesy of men who thought I was the dangerous one. My friend Greg still calls me Darth as a gag. The dark-side joke I will accept. The law of Plato that produced it I will not.)
 
 There is no common grace[^c19-commongrace]. God does not love the reprobate. He does not extend grace to the non-elect. The provision He gives to the wicked -- rain, food, health, life itself -- is not grace. It is common *bounty*. Providence. The sustaining of the creation for the sake of the elect who live in it. But it is not love. It is not grace. And calling it grace profanes the word.
 
 *"When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever."* (Psalm 92:7)
 
-Read that again slowly. The wicked flourish. They prosper. They have health and wealth and long life. And the Psalmist tells you why: *it is that they shall be destroyed for ever*. The prosperity of the wicked is not God's kindness to them. It is the accumulation of their judgment. Every day of provision is another day of building wrath. Every sunrise is another log on the fire. The rain falls on the just and the unjust (Matthew 5:45) -- but the rain that falls on the unjust is not love. It is the sustaining of a vessel fitted for destruction (Romans 9:22) until the day of its destruction.
+Read that again slowly. The wicked flourish. They prosper. They have health and wealth and long life. And the Psalmist tells you why: *it is that they shall be destroyed for ever*. The prosperity of the wicked is not God's kindness to them. It is the accumulation of their judgment. Every day of provision is another day of building wrath. Every sunrise is another log on the fire. The rain falls on the just and the unjust (Matthew 5:45), but the rain that falls on the unjust is not love. It is the sustaining of a vessel fitted for destruction (Romans 9:22) until the day of its destruction.
 
 Common grace, as the theological world uses the term, says God has a general love for all humanity. That He gives good gifts to the reprobate out of love. That His provision to the wicked is an expression of kindness and mercy, even though it doesn't save.
 
@@ -142,11 +142,11 @@ But this profanes the love of God. The love of God is specific. It is particular
 
 When Phil Johnson wrote his response to pristinegrace.org -- labeling it "hyper-Calvinism of the most virulent kind"[^c19-johnson] -- one of his chief complaints was our denial of common grace. He said we were making God unloving and the gospel unproclamable. But the opposite is true. Making God's love universal makes it meaningless. A love that applies to everyone equally, that extends the same affection to Judas as to John, that "loves" the vessels of wrath with the same love it "loves" the vessels of mercy -- that's not love. That's indifference wearing a mask.
 
-Particular love is *real* love. A husband who loves his wife with the same intensity and specificity as he loves every other woman on earth doesn't love his wife at all. But a husband who reserves his deepest, most intimate, most sacrificial love for his bride -- that man loves. And Christ reserved His blood for His bride. He didn't spill it generically and hope for the best. He poured it out for His sheep (John 10:15). His elect. His people. His wife. And calling the provision to the reprobate "grace" is like calling the courtesy that husband shows a stranger "marital love." The categories are different. And confusing them dishonors the bride.
+Particular love is *real* love. A husband who loves his wife with the same intensity and specificity as he loves every other woman on earth doesn't love his wife at all. But a husband who reserves his deepest, most intimate, most sacrificial love for his bride, that man loves. And Christ reserved His blood for His bride. He didn't spill it generically and hope for the best. He poured it out for His sheep (John 10:15). His elect. His people. His wife. And calling the provision to the reprobate "grace" is like calling the courtesy that husband shows a stranger "marital love." The categories are different. And confusing them dishonors the bride.
 
 ## How Then Do We Preach?
 
-If the gospel is proclamation and not offer, if faith is a gift and not a duty, if there is no common grace and God doesn't love the reprobate -- then how do we preach? What do we say? Who do we say it to?
+If the gospel is proclamation and not offer, if faith is a gift and not a duty, if there is no common grace and God doesn't love the reprobate, then how do we preach? What do we say? Who do we say it to?
 
 We preach to everyone. Indiscriminately. Without qualification. Without knowing who is elect and who is not.
 
@@ -170,7 +170,7 @@ Read the context. Paul is writing to the saints at Corinth. *To the saints.* He'
 
 **"If God doesn't love the reprobate, preaching the gospel to everyone is dishonest."**
 
-Because we don't know who is elect. The wheat and the tares grow together. The gospel is proclaimed indiscriminately -- the same message, to all people, in all places. But the message is not "God loves you." The message is "Christ has saved His people." And the Spirit sorts out who is who. We preach to everyone because God commands it. We don't need universal love as the motivation. Obedience to the command is the motivation. And the content of the message is true regardless of who hears it.
+Because we don't know who is elect. The wheat and the tares grow together. The gospel is proclaimed indiscriminately, the same message, to all people, in all places. But the message is not "God loves you." The message is "Christ has saved His people." And the Spirit sorts out who is who. We preach to everyone because God commands it. We don't need universal love as the motivation. Obedience to the command is the motivation. And the content of the message is true regardless of who hears it.
 
 **"If faith is not a duty, sinners aren't responsible for unbelief."**
 
@@ -178,7 +178,7 @@ As I argued above, sinners are *accountable* but not *duty-bound*. The distincti
 
 **"You deny common grace. You're saying God doesn't love the reprobate at all."**
 
-Psalm 92:7 already answered this. The prosperity of the wicked is the accumulation of their judgment, not the expression of God's love. God's provision to the reprobate is common bounty -- the sustaining of the creation for the sake of the elect who live in it. The stage must be maintained for the story to continue. But the maintenance of the stage is not love for the stagehands who will be fired when the show is over. It's love for the play. And the play is about the elect.
+Psalm 92:7 already answered this. The prosperity of the wicked is the accumulation of their judgment, not the expression of God's love. God's provision to the reprobate is common bounty, the sustaining of the creation for the sake of the elect who live in it. The stage must be maintained for the story to continue. But the maintenance of the stage is not love for the stagehands who will be fired when the show is over. It's love for the play. And the play is about the elect.
 
 Calling this "grace" is like calling the oxygen in a courtroom "love for the defendant." The building has air conditioning because the building needs air conditioning. The defendant breathes the same air as the judge. But nobody calls that grace. It's infrastructure. And the infrastructure exists for the court, not for the condemned.
 

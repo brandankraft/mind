@@ -8,7 +8,7 @@ part: IV -- The People
 
 I believed the story for thirty years. The beautiful angel. The highest cherub. The worship leader of heaven who got too proud, rebelled against God, and was cast down like lightning from the sky. I heard it preached. I read it in commentaries. I saw the Milton version and the Sunday school version and the heavy metal album cover version. And I never questioned it, because everyone told it the same way, and the two passages that supposedly proved it, Isaiah 14 and Ezekiel 28, seemed clear enough at a glance.
 
-And then I read the context. And five words in Isaiah 14:4 -- *"against the king of Babylon"* -- destroyed the entire narrative.
+And then I read the context. And five words in Isaiah 14:4, *"against the king of Babylon,"* destroyed the entire narrative.
 
 What follows is probably the most controversial claim in this book. I held it loosely until the framework forced my hand. I ask only that you read to the end before you decide whether you agree.
 
@@ -24,13 +24,13 @@ Now apply the same logic to Satan.
 
 If Satan was a perfectly righteous angel who fell, then we have the same impossibility problem we had with Adam, but worse. Because Adam at least had a body, an environment, a physical temptation. The tree was "good for food" and "pleasant to the eyes" (Genesis 3:6). There was a sensory mechanism through which temptation could operate. But Satan, in the traditional narrative, was a disembodied spirit in the direct presence of God. No body. No sensory temptation. No serpent whispering in his ear. Just pure spirit in the full light of divine glory.
 
-And somehow, from that position, pride arose? From where? If Satan's nature was perfectly righteous, where did the pride come from? If his will was perfectly aligned with God, what turned it? You cannot get pride from humility. You cannot get rebellion from perfection. You cannot get sin from sinlessness. A good tree *cannot* bring forth evil fruit (Matthew 7:18). Christ said so.
+And somehow, from that position, pride arose? From where? If Satan's nature was perfectly righteous, where did the pride come from? If his will was perfectly aligned with God, what turned it? You cannot get pride from humility, rebellion from perfection, or sin from sinlessness. A good tree *cannot* bring forth evil fruit (Matthew 7:18). Christ said so.
 
 The traditional answer is the same answer they give for Adam: free will. Satan had the *freedom* to choose rebellion. But freedom to choose rebellion implies a nature that contains the *capacity* for rebellion. And a nature that contains the capacity for rebellion is not perfect righteousness. It is something less. Something that already has the seed of sin built into it.
 
-So either Satan was created with a nature inclined toward pride and rebellion -- in which case he was created evil, which is what I'm arguing -- or the traditional narrative has a hole in it that no amount of theological patching can repair.
+So either Satan was created with a nature inclined toward pride and rebellion (in which case he was created evil, which is what I'm arguing) or the traditional narrative has a hole in it that no amount of theological patching can repair.
 
-God created Satan evil. That's the answer. Not fallen. Not corrupted. Not a once-good angel who went wrong. Created evil. On purpose. For a purpose.
+God created Satan evil. That's the answer. Not fallen, not corrupted, not a once-good angel who went wrong. God created him evil, on purpose and for a purpose.
 
 ## Isaiah 14: Read the Context
 
@@ -44,7 +44,7 @@ How do I know? Because the prophet told us. Eight verses earlier.
 
 *"That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!"* (Isaiah 14:4)
 
-This is a *proverb against the king of Babylon*. The entire passage from verse 4 through the end of the chapter is an oracle of judgment against a specific political ruler. The "Lucifer" of verse 12 is not a pre-temporal angel. The Hebrew word is *helel*, which means "shining one" or "morning star." It is a title given to the king of Babylon to describe his brightness, his glory, his position among the nations. And the fall described in the passage is a *political* fall -- the collapse of an empire, the humiliation of a tyrant, the descent of a man who said *"I will ascend into heaven, I will exalt my throne above the stars of God"* (v13) and found himself instead *"brought down to hell, to the sides of the pit"* (v15).
+This is a *proverb against the king of Babylon*. The entire passage from verse 4 through the end of the chapter is an oracle of judgment against a specific political ruler. The "Lucifer" of verse 12 is not a pre-temporal angel. The Hebrew word is *helel*, which means "shining one" or "morning star." It is a title given to the king of Babylon to describe his brightness, his glory, his position among the nations. And the fall described in the passage is a *political* fall: the collapse of an empire, the humiliation of a tyrant, the descent of a man who said *"I will ascend into heaven, I will exalt my throne above the stars of God"* (v13) and found himself instead *"brought down to hell, to the sides of the pit"* (v15).
 
 And the nations respond:
 
@@ -88,7 +88,7 @@ Suicidal. Ruinous. Impious. Plato banned the sentence Isaiah wrote. The prophet'
 
 When the question comes back, *did Plato actually say this?* the answer is plain. He said it in those exact words. He made it the law of his ideal city. He forbade the alternative as suicidal, ruinous, impious. The Christian inheritance from Plato is not a vague metaphysical mood. It is a specific forbidden sentence and a specific rule of the well-ordered city, written by Plato, inherited by Augustine, absorbed by the church as if it were Scripture, traceable in the text just quoted.
 
-Plato never read the Hebrew Scriptures -- the Septuagint did not exist until a century after his death. But his axiom condemns them in advance. The stories in which God authors evil, causes suffering, sends plagues, hardens hearts, and destroys nations -- every one of them violates the rule Plato laid down. The Hebrew God is precisely the deity Plato's philosophy declares impossible: good, and yet the author of evil.
+Plato never read the Hebrew Scriptures; the Septuagint did not exist until a century after his death. But his axiom condemns them in advance. The stories in which God authors evil, causes suffering, sends plagues, hardens hearts, and destroys nations, every one of them violates the rule Plato laid down. The Hebrew God is precisely the deity Plato's philosophy declares impossible: good, and yet the author of evil.
 
 Now here is the tragedy. The early church fathers, the Patristics, were educated in Greek philosophy. They read Plato before they read Paul. And they imported Plato's axiom into their theology without realizing what they were doing. Augustine, the most influential theologian in church history, was a Neoplatonist before he was a Christian. And he carried the Platonic assumption about divine goodness directly into his doctrine of God[^c13-privatio]. God cannot author evil. God only creates good. If evil exists, it must have entered the system through some other door.
 
@@ -166,7 +166,7 @@ The church then heard Plato over the prophets. And the prophets are still on the
 
 ## The Lineage of the Story
 
-The Christian construction took fourteen centuries -- and the axiom it served is older still. Plato wrote it in the fourth century BC. The narrative that filled the gap was assembled in stages, by writers who inherited what came before and added what they thought was true. Milton, when he sat down to write *Paradise Lost,* was at the end of a long pipeline. He did not invent the story. He synthesized and crowned it. The doctrine of Satan most Christians actually carry around in their heads is the synthesis of fourteen centuries of accumulated tradition, with Jewish apocryphal antecedents that predate the New Testament.
+The Christian construction took fourteen centuries, and the axiom it served is older still. Plato wrote it in the fourth century BC. The narrative that filled the gap was assembled in stages, by writers who inherited what came before and added what they thought was true. Milton, when he sat down to write *Paradise Lost,* was at the end of a long pipeline. He did not invent the story. He synthesized and crowned it. The doctrine of Satan most Christians actually carry around in their heads is the synthesis of fourteen centuries of accumulated tradition, with Jewish apocryphal antecedents that predate the New Testament.
 
 Here is the chain. Read it slowly. Each link added something the next link inherited.
 
@@ -206,7 +206,7 @@ Here is Milton on what caused the fall. Book V:
 
 > *"Satan; so call him now, his former name / Is heard no more in Heaven; he of the first, / If not the first Arch-Angel, great in power, / In favour and pre-eminence, yet fraught / With envy against the Son of God, that day / Honoured by his great Father, and proclaimed / Messiah King anointed, could not bear / Through pride that sight, and thought himself impaired. / Deep malice thence conceiving and disdain..."* (Paradise Lost V.658-666)
 
-Envy. Then pride. Then malice. The cause is in Satan's free will. *That is the law of Plato performed at narrative level.* The cause of evil is relocated to the chooser. God is exonerated. Lachesis -- the Fate in Plato's myth who presides while each soul chooses its lot -- would have approved.
+Envy. Then pride. Then malice. The cause is in Satan's free will. *That is the law of Plato performed at narrative level.* The cause of evil is relocated to the chooser. God is exonerated. Lachesis, the Fate in Plato's myth who presides while each soul chooses its lot, would have approved.
 
 And here is the line that became cultural canon, spoken by Satan from the burning lake:
 
@@ -214,7 +214,7 @@ And here is the line that became cultural canon, spoken by Satan from the burnin
 
 That line is in films. It is in songs. It is in sermons. It is the imaginative shape of Satan in Western Christianity. And it is *fiction.* A dramatic line spoken by a character in a 17th-century English epic. It has the cultural weight of Scripture for most readers, and it is not Scripture.
 
-The popular detail of *a third of the angels falling with Satan* also crystallized in Milton's narrative reading of Revelation 12:4. The verse says the dragon's tail *"drew the third part of the stars of heaven, and did cast them to the earth."* The angels-reading was already Scholastic boilerplate -- Aquinas cites Revelation 12:4 of the demons (*Summa Theologiae* I.63.8) -- but Milton gave the third its narrative form, with Satan in cosmic battle drawing the host: *"the third part of Heaven's host"* (Paradise Lost V.710). The image is Milton's. The exegesis assumes the image. Most pastors who teach the third-of-the-angels detail have never traced it back further than the apocalyptic vision they read through Milton's lens.
+The popular detail of *a third of the angels falling with Satan* also crystallized in Milton's narrative reading of Revelation 12:4. The verse says the dragon's tail *"drew the third part of the stars of heaven, and did cast them to the earth."* The angels-reading was already Scholastic boilerplate (Aquinas cites Revelation 12:4 of the demons, *Summa Theologiae* I.63.8), but Milton gave the third its narrative form, with Satan in cosmic battle drawing the host: *"the third part of Heaven's host"* (Paradise Lost V.710). The image is Milton's. The exegesis assumes the image. Most pastors who teach the third-of-the-angels detail have never traced it back further than the apocalyptic vision they read through Milton's lens.
 
 **The pipeline as a whole.**
 
@@ -295,7 +295,7 @@ I walked through this in detail above. Read the section on Isaiah 14. The prophe
 
 **"Ezekiel 28 calls the king of Tyre a cherub in Eden. That can't be a human."**
 
-Same problem as Isaiah 14, same answer. Prophets use cosmic imagery for political figures constantly. The prophet identified his subject in verse 12 -- "the king of Tyrus" -- and the tradition chose to ignore it. See the Ezekiel 28 section above.
+Same problem as Isaiah 14, same answer. Prophets use cosmic imagery for political figures constantly. The prophet identified his subject in verse 12, "the king of Tyrus," and the tradition chose to ignore it. See the Ezekiel 28 section above.
 
 **"If God creates evil, He's not holy."**
 
@@ -303,7 +303,7 @@ This is the hardest objection to sit with, and I don't fault anyone for raising 
 
 **"The church has always taught Satan fell."**
 
-I addressed this above. The church has been wrong about many things for many centuries -- the ransom-to-the-devil atonement, baptismal regeneration, keeping the Bible in Latin. "The church has always taught it" is an argument from tradition, and the Reformation was built on the principle that tradition must yield to Scripture. This is one of those conflicts.
+I addressed this above. The church has been wrong about many things for many centuries: the ransom-to-the-devil atonement, baptismal regeneration, keeping the Bible in Latin. "The church has always taught it" is an argument from tradition, and the Reformation was built on the principle that tradition must yield to Scripture. This is one of those conflicts.
 
 **"If Satan was created evil, God is responsible for all the evil Satan does."**
 
@@ -319,7 +319,7 @@ Revelation is apocalyptic literature, not historical narrative. The "war in heav
 
 **"Revelation 12:4 says Satan's tail drew a third of the stars. That's a third of the angels."**
 
-Stars in Revelation are symbols. In Revelation 1:20 the seven stars are the *angels* -- the messengers -- of the seven churches, and the seven candlesticks are the churches. The "third" is symbolic, as is everything else in the vision. Reading a literal angelic rebellion into an apocalyptic symbol requires importing a narrative the text does not contain. See Appendix A2 for the full treatment.
+Stars in Revelation are symbols. In Revelation 1:20 the seven stars are the *angels*, the messengers, of the seven churches, and the seven candlesticks are the churches. The "third" is symbolic, as is everything else in the vision. Reading a literal angelic rebellion into an apocalyptic symbol requires importing a narrative the text does not contain. See Appendix A2 for the full treatment.
 
 **"Luke 10:18. Jesus said, 'I beheld Satan as lightning fall from heaven.'"**
 
@@ -327,7 +327,7 @@ Jesus said this as the seventy returned from their preaching mission. He is watc
 
 **"1 Timothy 3:6 says a novice might fall into 'the condemnation of the devil.' That means Satan fell through pride."**
 
-"The condemnation of the devil" is a genitive of source -- the condemnation that the devil brings, not the condemnation the devil received. Paul is warning against the same *kind* of judgment, not referencing a biographical event in Satan's history. See Appendix A2.
+"The condemnation of the devil" is a genitive of source, the condemnation that the devil brings, not the condemnation the devil received. Paul is warning against the same *kind* of judgment, not referencing a biographical event in Satan's history. See Appendix A2.
 
 **"Matthew 25:41 says the fire was prepared for 'the devil and his angels.' Those are the angels who fell with him."**
 

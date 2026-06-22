@@ -8,7 +8,7 @@ part: VI -- The Life
 
 If I had to determine whether I was a Christian based on my works, I'd have to conclude I am not a Christian.
 
-And I mean that. Not as false humility. Not as a devotional cliche designed to sound pious while secretly trusting that my life is actually pretty good. I mean it as a plain statement of fact. If the test is my behavior, my thought life, my consistency, my follow-through on every good intention I've ever had -- I fail. Spectacularly. Regularly. And not in the vague, generic sense where someone says "we're all sinners" while mentally exempting themselves from the really bad stuff. I know what's in my head. I know what's in my heart. And if that's the evidence, the verdict is guilty.
+And I mean that. Not as false humility. Not as a devotional cliche designed to sound pious while secretly trusting that my life is actually pretty good. I mean it as a plain statement of fact. If the test is my behavior, my thought life, my consistency, my follow-through on every good intention I've ever had, I fail. Spectacularly. Regularly. And not in the vague, generic sense where someone says "we're all sinners" while mentally exempting themselves from the really bad stuff. I know what's in my head. I know what's in my heart. And if that's the evidence, the verdict is guilty.
 
 But the verdict was already delivered. And it was "not guilty." Before the foundation of the world. Before I drew my first breath or committed my first sin or even existed as a conscious being. The Father looked at me in Christ and saw perfection. Not my perfection. Christ's. And that hasn't changed. Not because I've gotten better. Because *He* finished the work.
 
@@ -22,11 +22,11 @@ And then I read the New Testament.
 
 *"The kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost."* (Romans 14:17)
 
-Righteousness. Peace. Joy. In the Holy Ghost. Not righteousness achieved by human effort. Not peace that depends on your spiritual performance. Not joy that only shows up when you've had a good week. Righteousness imputed. Peace that surpasses understanding. Joy that exists regardless of circumstances because it's rooted in a Person who doesn't change.
+Righteousness, peace, and joy in the Holy Ghost. Not righteousness achieved by human effort, not peace that depends on your spiritual performance, not joy that only shows up when you've had a good week. Righteousness imputed, peace that surpasses understanding, joy that exists regardless of circumstances because it's rooted in a Person who doesn't change.
 
 *"Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage."* (Galatians 5:1)
 
-Liberty. Freedom. Christ *made* us free. Past tense. Accomplished. And Paul says *stand fast* in it. Don't let anyone take it from you. Don't let anyone put you back in chains. The yoke of bondage is the law, the regulations, the man-made requirements, the endless religious treadmill of "do more, try harder, be better." Christ broke that yoke. He didn't loosen it. He broke it.
+Liberty and freedom. Christ *made* us free, past tense, the work accomplished. And Paul says *stand fast* in it. Don't let anyone take it from you. Don't let anyone put you back in chains. The yoke of bondage is the law, the regulations, the man-made requirements, the endless religious treadmill of "do more, try harder, be better." Christ broke that yoke. He didn't loosen it. He broke it.
 
 And what He left in its place is liberty.
 
@@ -34,21 +34,21 @@ And what He left in its place is liberty.
 
 Here is what liberty looks like in practice.
 
-The old covenant took commandments and carved them on stone. External. Impersonal. One size fits all. The same ten commandments for every person in the nation, regardless of their heart condition. And the result was predictable: external conformity at best, outright rebellion at worst, and a whole lot of hypocrisy in between.
+The old covenant took commandments and carved them on stone. External and impersonal, one size fits all. The same ten commandments for every person in the nation, regardless of their heart condition. And the result was predictable: external conformity at best, outright rebellion at worst, and a whole lot of hypocrisy in between.
 
 The new covenant takes those same commandments and writes them on the heart.
 
 *"But this shall be the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people."* (Jeremiah 31:33)
 
-In the language of this book, the old covenant was law as *software* -- external code running on unregenerate hardware. It didn't work because the hardware couldn't execute it. The new covenant is law as *firmware* -- the Spirit flashes the code directly into the heart, beneath the conscious level, and the behavior follows naturally. The outside-in approach failed because dead hardware can't run living software. The inside-out approach works because the Spirit changes the hardware first.
+In the language of this book, the old covenant was law as *software*, external code running on unregenerate hardware. It didn't work because the hardware couldn't execute it. The new covenant is law as *firmware*: the Spirit flashes the code directly into the heart, beneath the conscious level, and the behavior follows naturally. The outside-in approach failed because dead hardware can't run living software. The inside-out approach works because the Spirit changes the hardware first.
 
-And a Spirit-changed heart is irresistibly moved toward obedience. Not by compulsion. Not by threat. By *desire*. The believer obeys because they *want* to. The firmware aligns the desires with God's will, and the application layer follows. This is what Paul means when he writes:
+And a Spirit-changed heart is irresistibly moved toward obedience. Not by compulsion or threat, but by *desire*. The believer obeys because they *want* to. The firmware aligns the desires with God's will, and the application layer follows. This is what Paul means when he writes:
 
 *"For it is God which worketh in you both to will and to do of his good pleasure."* (Philippians 2:13)
 
-As we established in Chapter 16, even the willing is firmware -- the Spirit works at both layers. He produces the wanting and the doing. You experience it. You participate in it. But the engine is His.
+As we established in Chapter 16, even the willing is firmware: the Spirit works at both layers. He produces the wanting and the doing. You experience it. You participate in it. But the engine is His.
 
-This isn't license. License says "I can do whatever I want because there are no consequences." Liberty says "I *want* to please God, because the Spirit who changed my heart aligned my wants with His." The distinction is everything. License removes the standard. Liberty changes the heart so the standard is met from the inside. The behavior might look the same from the outside -- both the licensed man and the liberated man might avoid the same sins -- but the mechanism is entirely different. One avoids sin out of indifference. The other avoids sin out of love. And the second mechanism is the only one that actually works.
+This isn't license. License says "I can do whatever I want because there are no consequences." Liberty says "I *want* to please God, because the Spirit who changed my heart aligned my wants with His." The distinction is everything. License removes the standard. Liberty changes the heart so the standard is met from the inside. The behavior might look the same from the outside, both the licensed man and the liberated man might avoid the same sins, but the mechanism is entirely different. One avoids sin out of indifference. The other avoids sin out of love. And the second mechanism is the only one that actually works.
 
 ## Rebuke the Imposers
 
@@ -60,7 +60,7 @@ And then he turns on anyone who tries to put believers back under regulations:
 
 *"But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?"* (Galatians 4:9)
 
-Weak and beggarly elements. That's what Paul calls the law when it's imposed on believers. And notice his incredulity -- *how* do you turn back? After knowing God? After being known by Him? After the Spirit has set you free -- you want to go *back* to the cage?
+Weak and beggarly elements. That's what Paul calls the law when it's imposed on believers. And notice his incredulity: *how* do you turn back? After knowing God? After being known by Him? After the Spirit has set you free, you want to go *back* to the cage?
 
 And he doesn't stop there:
 
@@ -72,15 +72,15 @@ Because the gospel is at stake. When you impose rules on believers that the gosp
 
 *"I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel."* (Galatians 1:6)
 
-Another gospel. Not the gospel modified. Not the gospel with a few extra requirements. *Another* gospel. And Paul pronounces an anathema on anyone who preaches it -- *"let him be accursed"* (Galatians 1:8). Twice, in consecutive verses, he says it. Because the stakes are that high.
+Another gospel. Not the gospel modified. Not the gospel with a few extra requirements. *Another* gospel. And Paul pronounces an anathema on anyone who preaches it: *"let him be accursed"* (Galatians 1:8). Twice, in consecutive verses, he says it. Because the stakes are that high.
 
-So when someone tells you that you need to keep the Sabbath to be a faithful Christian, rebuke them. When someone tells you that you need to tithe or God will curse your finances, rebuke them. When someone tells you that you need to dress a certain way, vote a certain way, educate your children a certain way, attend a certain number of services per week, abstain from alcohol, observe Lent, fast on Fridays, or any other human regulation not demanded by the gospel -- rebuke them. Not because those things are inherently wrong. Some of them are fine. But the moment they become *requirements*, the moment they become conditions of faithfulness, the moment they are imposed on the conscience of a free believer -- they become the yoke of bondage that Christ died to break.
+So when someone tells you that you need to keep the Sabbath to be a faithful Christian, rebuke them. When someone tells you that you need to tithe or God will curse your finances, rebuke them. When someone tells you that you need to dress a certain way, vote a certain way, educate your children a certain way, attend a certain number of services per week, abstain from alcohol, observe Lent, fast on Fridays, or any other human regulation not demanded by the gospel, rebuke them. Not because those things are inherently wrong. Some of them are fine. But the moment they become *requirements*, the moment they become conditions of faithfulness, the moment they are imposed on the conscience of a free believer, they become the yoke of bondage that Christ died to break.
 
 ## Assurance
 
 If liberty is the atmosphere of the Christian life, assurance is the foundation.
 
-And assurance comes by grace through faith. Not by works. Not by performance. Not by the evidence of your changed life. I already confessed at the start of this chapter what the verdict would be if my works were the evidence. And I meant every word of it.
+And assurance comes by grace through faith. Not by works, not by performance, not by the evidence of your changed life. I already confessed at the start of this chapter what the verdict would be if my works were the evidence. And I meant every word of it.
 
 But assurance doesn't rest on my fruit. It rests on Christ's finished work.
 
@@ -90,17 +90,17 @@ But assurance doesn't rest on my fruit. It rests on Christ's finished work.
 
 *"For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."* (Ephesians 2:8-9)
 
-Not of works. Not even partially. Not "saved by grace but assured by works." Saved by grace. Assured by grace. Sustained by grace. From beginning to end, it's His work. And the proper response to that isn't complacency. It's worship. It's the kind of deep, settled gratitude that makes you *want* to live well -- not because you have to, but because you love the One who did everything for you.
+Not of works. Not even partially. Not "saved by grace but assured by works." Saved by grace. Assured by grace. Sustained by grace. From beginning to end, it's His work. And the proper response to that isn't complacency. It's worship. It's the kind of deep, settled gratitude that makes you *want* to live well, not because you have to, but because you love the One who did everything for you.
 
 And here is something the Reformed tradition got wrong, and the framework corrects it. The Westminster Confession says assurance is not of the essence of faith. That you can have saving faith and still lack assurance. The framework says the opposite: faith IS assurance. They are the same thing. And the Bible says so plainly.
 
 *"Now faith is the substance of things hoped for, the evidence of things not seen."* (Hebrews 11:1)
 
-Faith IS the substance. Faith IS the evidence. The writer of Hebrews does not say faith produces assurance, or faith leads to assurance, or faith is one thing and assurance is another. He says faith IS the ground of confidence. The Greek word *hypostasis*, translated "substance," means "standing under" -- a foundation. Faith is not a step toward assurance. Faith is the assurance itself. And this is exactly what the framework predicts: faith is the application layer becoming aware that the firmware has been flashed (Chapter 16). Assurance is the same awareness. They are not two experiences. They are one experience with one name.
+Faith IS the substance. Faith IS the evidence. The writer of Hebrews does not say faith produces assurance, or faith leads to assurance, or faith is one thing and assurance is another. He says faith IS the ground of confidence. The Greek word *hypostasis*, translated "substance," means "standing under," a foundation. Faith is not a step toward assurance. Faith is the assurance itself. And this is exactly what the framework predicts: faith is the application layer becoming aware that the firmware has been flashed (Chapter 16). Assurance is the same awareness. They are not two experiences. They are one experience with one name.
 
 But if faith and assurance are the same thing, why do believers doubt?
 
-Because doubt is not the absence of assurance. Doubt is the old firmware sending competing signals to the application layer. The new firmware says "you belong to God." The old firmware says "look at your sin." Both signals arrive at the conscious mind. And the conscious mind, processing both at once, experiences the conflict as doubt. The assurance is at the firmware level -- settled, permanent, installed by the Spirit. The doubt is at the application layer -- temporary, fluctuating, driven by the war between the flesh and the Spirit (Galatians 5:17).
+Because doubt is not the absence of assurance. Doubt is the old firmware sending competing signals to the application layer. The new firmware says "you belong to God." The old firmware says "look at your sin." Both signals arrive at the conscious mind. And the conscious mind, processing both at once, experiences the conflict as doubt. The assurance is at the firmware level, settled, permanent, installed by the Spirit. The doubt is at the application layer, temporary, fluctuating, driven by the war between the flesh and the Spirit (Galatians 5:17).
 
 You can have absolute assurance in the firmware while experiencing real doubt in the application layer. They are at two different layers. And the Westminster error was treating them as if they were at the same layer. They separated faith and assurance because they saw people who believed and still doubted, and they concluded that faith and assurance must be different things. But the four-layer model explains what Westminster couldn't: faith and assurance are the same thing at the same layer, and doubt is a different thing at a different layer. Both are real. Both are authored. And the doubt will end when the old firmware is removed at glorification. Until then, the believer lives with two signals, and the new one holds.
 
@@ -108,7 +108,7 @@ You can have absolute assurance in the firmware while experiencing real doubt in
 
 I want to end this chapter by addressing something that many people raise when they hear about absolute predestination: "If God ordained everything, what's the point of prayer?"
 
-And I understand the question. If the script is written. If every frame of the filmstrip is already set. If God sees the whole thing simultaneously and nothing you pray will change what He's already decreed -- then why pray? Why bother? It's a reasonable question from the application layer.
+And I understand the question. If the script is written. If every frame of the filmstrip is already set. If God sees the whole thing simultaneously and nothing you pray will change what He's already decreed, then why pray? Why bother? It's a reasonable question from the application layer.
 
 But it's the wrong question.
 
@@ -118,7 +118,7 @@ Prayer is part of the script. God ordained both the prayer and the answer. He do
 
 He already knows. So why ask? Because the asking is the communion. And the communion is the point.
 
-Prayer isn't changing God's mind. It's participating in the story He's writing. The character prays because the Author wrote the prayer into the script. And the joy of the prayer is real -- the character's experience is genuine, even though the Author sees the whole filmstrip at once. You don't stop talking to your spouse just because you can predict what they'll say. The conversation IS the relationship. The exchange IS the intimacy.
+Prayer isn't changing God's mind. It's participating in the story He's writing. The character prays because the Author wrote the prayer into the script. And the joy of the prayer is real; the character's experience is genuine, even though the Author sees the whole filmstrip at once. You don't stop talking to your spouse just because you can predict what they'll say. The conversation IS the relationship. The exchange IS the intimacy.
 
 *"Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus."* (Philippians 4:6-7)
 
@@ -138,7 +138,7 @@ And Colossians removes any remaining ambiguity:
 
 *"Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days: Which are a shadow of things to come; but the body is of Christ."* (Colossians 2:16-17)
 
-Let no man judge you. Not "let no man judge you unless it's Christmas." Let no man judge you in respect of ANY holy day. Because holy days are shadows. And the body -- the substance -- is Christ. The substance precedes the ceremony (Chapter 10). The invisible precedes the visible. Christ is the reality that every holy day was pointing to. And now that the reality has arrived, the shadow is a matter of conscience, not commandment.
+Let no man judge you. Not "let no man judge you unless it's Christmas." Let no man judge you in respect of ANY holy day. Because holy days are shadows. And the body, the substance, is Christ. The substance precedes the ceremony (Chapter 10). The invisible precedes the visible. Christ is the reality that every holy day was pointing to. And now that the reality has arrived, the shadow is a matter of conscience, not commandment.
 
 Christmas celebrates the incarnation. The framework celebrates the incarnation in Chapter 6. If a believer wants to set aside December 25 to remember that the Author stepped into His own story, that is liberty. If another believer treats December 25 as any other day because every day celebrates the incarnation, that is also liberty. Both are right. Both are free. Both are serving the Lord in their own conscience.
 
@@ -146,7 +146,7 @@ Easter celebrates the resurrection. The framework celebrates the resurrection in
 
 What is NOT liberty is making holy days a test of fellowship. The Puritan who condemns the Christmas-keeper and the Catholic who condemns the non-observer are both violating Romans 14. Both are judging another man's servant. Both are imposing where Paul commanded freedom. And Chapter 20 already established the framework's posture toward imposers: rebuke them.
 
-The Christian calendar is a rendering. Christ is the substance. Celebrate or don't celebrate. But don't judge the brother who makes a different choice than you. That's the same liberty that says "believe in Jesus and do as you please" -- applied to the calendar.
+The Christian calendar is a rendering. Christ is the substance. Celebrate or don't celebrate. But don't judge the brother who makes a different choice than you. That's the same liberty that says "believe in Jesus and do as you please," applied to the calendar.
 
 ## Modesty
 
@@ -156,7 +156,7 @@ Modesty is real. The Scriptures teach it. But the Scriptures teach it as a postu
 
 *"In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array; But (which becometh women professing godliness) with good works."* (1 Timothy 2:9-10)
 
-Look at what Paul actually says. The contrast is not between long sleeves and short sleeves. The contrast is between outward display and inward godliness. "Not with broided hair, or gold, or pearls, or costly array" -- Paul is addressing ostentation, not skin. The woman who wears a $5,000 dress to church with every inch covered has violated the spirit of this passage more than the woman in a sundress who came to worship.
+Look at what Paul actually says. The contrast is not between long sleeves and short sleeves. The contrast is between outward display and inward godliness. "Not with broided hair, or gold, or pearls, or costly array"; Paul is addressing ostentation, not skin. The woman who wears a $5,000 dress to church with every inch covered has violated the spirit of this passage more than the woman in a sundress who came to worship.
 
 And Peter says the same thing:
 
@@ -188,11 +188,11 @@ This is what liberty looks like when it's fully grown. Not a man shouting about 
 
 ## Objections and Answers
 
-**"'Do as you please' is dangerous -- people will abuse it."**
+**"'Do as you please' is dangerous; people will abuse it."**
 
-If someone's heart is unchanged by the Spirit, no amount of law will make them godly. The law never produced a single righteous person. It was weak through the flesh (Romans 8:3). So the law isn't the solution to abuse. If someone's heart *is* changed by the Spirit, they will please God naturally -- because their pleasure and God's pleasure align. The question "what stops them from sinning?" always reveals more about the asker's theology than about the person they're asking about. If you think the only thing between a believer and rampant sin is a set of rules, you have a very low view of the Spirit's power.
+If someone's heart is unchanged by the Spirit, no amount of law will make them godly. The law never produced a single righteous person. It was weak through the flesh (Romans 8:3). So the law isn't the solution to abuse. If someone's heart *is* changed by the Spirit, they will please God naturally, because their pleasure and God's pleasure align. The question "what stops them from sinning?" always reveals more about the asker's theology than about the person they're asking about. If you think the only thing between a believer and rampant sin is a set of rules, you have a very low view of the Spirit's power.
 
-**"Assurance can't be separated from obedience -- James says faith without works is dead."**
+**"Assurance can't be separated from obedience; James says faith without works is dead."**
 
 I understand the weight of this objection. James has been in the canon for two thousand years, and "faith without works is dead" is one of the most quoted verses in the New Testament. I'm not dismissing it. I'm asking where it sits in relation to the clearest voices in Scripture. James 2:17 is the most weaponized verse in every system that wants to graft human effort quietly back into the assurance of salvation. And as we'll develop more fully in Chapter 26, James is the weakest self-authenticating book in the canon, the one Luther called "an epistle of straw," and the one most consistently used to override the clearest statements of the homologoumena. Paul says, repeatedly, across multiple letters, in the clearest possible language, that justification is by faith apart from works (Romans 4:5). That the righteousness of Christ is imputed, not earned. That your works are filthy rags (Isaiah 64:6). You don't use James to override Romans. You use Romans to interpret James. And when you do, "faith without works is dead" becomes a description of what false profession looks like from the outside, not a condition placed on the believer's assurance. Your assurance rests on Christ's work, not yours. If you look at your works for assurance, you'll despair. Assurance comes from looking at Christ, not at yourself.
 
@@ -200,7 +200,7 @@ I understand the weight of this objection. James has been in the canon for two t
 
 Fatalism says "nothing matters, so do nothing." Sovereignty says "everything matters, because the Author wrote it all." The character in the novel who talks to the Author isn't engaging in a meaningless exercise. The conversation is part of the story. God ordained the prayer AND the answer AND the relationship that grows through the praying. Fatalism removes meaning. Sovereignty infuses it. The pray-er knows that God didn't need the prayer. But God wanted the communion. And so did the pray-er. That's not fatalism. That's love.
 
-**"You said 'believe in Jesus and do as you please' -- Augustine said it first."**
+**"You said 'believe in Jesus and do as you please'; Augustine said it first."**
 
 He did. "Love God and do what you will."[^c21-augustine] And Augustine was right about that one, even if he got other things wrong. The principle is simple: if you truly love God, your will is aligned with His. What you please to do is what He pleases for you to do. Not perfectly -- not in this life. But the trajectory is His. The desire is His. The engine that drives the obedience is love, not legislation. And a person driven by love will always outperform a person driven by law. Because love doesn't get tired. Law always does.
 

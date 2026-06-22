@@ -54,13 +54,13 @@ The Bible says the exact opposite.
 
 *"In the beginning was the Word, and the Word was with God, and the Word was God."* (John 1:1)
 
-In the beginning was the *Word*. Not in the beginning was the atom. Not in the beginning was the particle. The *Word*. Logos. Information. Language. Mind. Before there was a single speck of matter in the universe, there was a Word. And the Word was God. And the Word was *with* God. Information before matter. Mind before molecules. The invisible before the visible.
+In the beginning was the *Word*. Not in the beginning was the atom. Not in the beginning was the particle. The *Word*. Logos. Information. Language. Mind. Before there was a single speck of matter in the universe, there was a Word. And the Word was God. And the Word was *with* God. Information stood before matter, and mind before molecules. The invisible came first.
 
 And the writer of Hebrews drives it home:
 
 *"Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear."* (Hebrews 11:3)
 
-Read that carefully. *"Things which are seen were not made of things which do appear."* The visible world was not made from visible material. It was made from something invisible. Something unseen. Something that does not *appear* in the physical sense. The entire physical universe is derived from a non-physical source. That source is the Word. The thought. The mind of God.
+Read that carefully. *"Things which are seen were not made of things which do appear."* The visible world was not made from visible material. It was made from something invisible and unseen, a source that does not *appear* in the physical sense at all. The entire physical universe is derived from a non-physical source. That source is the Word. The thought. The mind of God.
 
 And Paul again in Colossians:
 
@@ -84,7 +84,7 @@ So I take from Plato his ontology and reject his ethics. I use his best insight 
 
 ## In the Mind of God
 
-Not a thought floating in the void. A thought *in the mind of God*. Specific. Personal. Located. The physical world is not an abstraction. It's not the product of an impersonal force or an unconscious process. It's the product of a Person who is thinking it on purpose.
+Not a thought floating in the void. A thought *in the mind of God*, specific to a person and fixed in a place. The physical world is not an abstraction. It's not the product of an impersonal force or an unconscious process. It's the product of a Person who is thinking it on purpose.
 
 And this is where idealism becomes theology. Because secular idealism, and there are secular idealists, can propose that reality is information without proposing a Mind behind it. The simulation hypothesis, which has gained popularity in recent years, asks whether we might be living in a computer simulation. And the honest answer from this framework is: yes. In a sense, we are. But the Simulator is not a machine. The Simulator is personal, sovereign, conscious, and the simulation is called creation. The secular version asks the right question with the wrong answer.
 
@@ -96,7 +96,7 @@ That's why Colossians 1:17 uses the present tense. *"By him all things consist."
 
 ## Sustained by His Will
 
-Not wound up and left to run. *Sustained.* Actively. Continuously. Every moment.
+Not wound up and left to run. *Sustained* actively and continuously, at every single moment.
 
 Some theological systems treat God's relationship to creation as if He built a watch, wound it up, set it on a shelf, and occasionally intervenes when something goes wrong. They call this "providence," and it sounds pious, but it's actually a form of deism with a prayer life. The God of that system is a watchmaker. The God of this system is an Author who is writing in real time.
 
@@ -104,13 +104,13 @@ Some theological systems treat God's relationship to creation as if He built a w
 
 Upholding. Present participle. Not "having upheld." Not "will uphold." *Upholding.* Right now. This instant. God is sustaining reality by His will at this very moment. If His will were withdrawn from a single atom, that atom would cease. If His will were withdrawn from a single soul, that soul would cease. Nothing self-sustains. Everything is held.
 
-And this means there are no accidents. No surprises. No events that catch God off guard. Because every event is His thought. You don't get surprised by your own thoughts. You author them.
+And this means there are no accidents. Nothing surprises Him, and no event in history ever catches God off guard. Because every event is His thought. You don't get surprised by your own thoughts. You author them.
 
 ## Authored by His Purpose
 
 This is absolute predestination. And I'm not going to soften it.
 
-Every event in history was authored by God before it happened. *"Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure."* (Isaiah 46:10). Every word, every action, every sin, every grace, every raindrop, every heartbeat. Authored. Not permitted. Not foreseen. Not responded to. *Authored.*
+Every event in history was authored by God before it happened. *"Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure."* (Isaiah 46:10). Every word, every action, every sin, every grace, every raindrop, every heartbeat. Authored. Not permitted after the fact, not foreseen, not improvised in response. *Authored.*
 
 *"Permission"* is sovereignty with plausible deniability. And God doesn't need plausible deniability. He doesn't need to protect Himself from the charge of authoring evil, because He told us plainly that He creates it. Every system built to soften that breaks under the weight of Isaiah 45:7. I know that's a hard sentence. I know it's uncomfortable. But the Scriptures don't give us comfortable. They give us truth.
 
@@ -158,7 +158,7 @@ The covenant precedes the ceremony. The regeneration precedes the faith. The pro
 
 In every single domain of life, the invisible reality comes first, and the visible expression follows. The reason is the ontology itself: the substance is the thought in God's mind, and the ceremony is the rendering of that thought into visible form. God thinks before He renders. The invisible precedes the visible because information precedes matter. This is not a preference. This is the architecture of reality, derived from the sentence. And it is not just a theory. It operates. Every chapter in this book is the same ontological principle *operating* in a new domain.
 
-And once you see it, you can't unsee it. Every chapter in this book is an application of this one principle to a different domain. And if the principle is true, if the invisible really does precede the visible in every case, then every system of thought that puts the visible first, that makes the ceremony the cause of the reality, that treats the physical as fundamental and the spiritual as derivative, is backwards.
+Run the sentence through any domain and it holds. Every chapter in this book applies this one principle to a different domain. And if the principle is true, if the invisible really does precede the visible in every case, then every system of thought that puts the visible first, that makes the ceremony the cause of the reality, that treats the physical as fundamental and the spiritual as derivative, is backwards.
 
 Most of the errors in the history of Christianity can be traced to this single inversion. Making the water the cause of regeneration. Making the preaching the cause of conversion. Making the law the cause of righteousness. Making correct doctrine the cause of salvation. Making the institution the cause of the church. Making the ceremony the cause of the covenant. Every one of these errors puts the visible before the invisible. And every one of them collapses under the weight of the sentence we started with.
 

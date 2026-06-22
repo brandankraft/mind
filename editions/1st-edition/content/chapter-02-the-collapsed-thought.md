@@ -1,7 +1,7 @@
 ---
 title: "Chapter 2: The Collapsed Thought"
 status: draft
-part: I -- The Foundation
+part: I, The Foundation
 ---
 
 # Chapter 2: The Collapsed Thought
@@ -20,7 +20,7 @@ But that's not what the Bible teaches. Eternity is not a quantity of time. Etern
 
 *"Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God."* (Psalm 90:2)
 
-From everlasting to everlasting. That phrase doesn't mean God has been alive for a really long time. It means God inhabits a reality where "from" and "to" don't apply. There is no sequence in God's mind. There is no before and after. There is no "first He thought this, and then He thought that." There is one thought. Complete. Whole. Finished. And what we experience as sequence, as history, as the passage of time, is that one thought being *rendered* into frames that our finite minds can process.
+From everlasting to everlasting. That phrase doesn't mean God has been alive for a really long time. It means God inhabits a reality where "from" and "to" don't apply. God's mind holds no sequence. There is no before and after in it, no "first He thought this, and then He thought that." There is one thought, whole and complete and finished. And what we experience as sequence, as history, as the passage of time, is that one thought being *rendered* into frames that our finite minds can process.
 
 Think of it like a filmstrip. A filmmaker sees every frame of the movie at once. He can lay the whole strip out on a table and look at the beginning, the middle, and the end simultaneously. The characters in the film experience the story sequentially, one frame at a time. They can only see the frame they're in. They remember the frames that came before. They anticipate the frames that come after. And to them, the sequence is real. The experience of living through it, frame by frame, is genuine.
 
@@ -28,7 +28,7 @@ But the filmmaker sees the whole thing at once. He doesn't wonder what happens n
 
 <figure class="book-figure-wide">
 <img src="filmstrip.png" alt="The Author sees every frame at once; the character lives one frame at a time" />
-<figcaption>The Author sees every frame of the strip at once -- eternity. The character lives one frame at a time -- time.</figcaption>
+<figcaption>The Author sees every frame of the strip at once (eternity). The character lives one frame at a time (time).</figcaption>
 </figure>
 
 That's what it means for God to be eternal. He is the Filmmaker. We are the characters. And time is the filmstrip.
@@ -39,7 +39,7 @@ And the filmstrip is not my invention. David wrote it three thousand years ago:
 
 In thy book all my members were written, when as yet there was none of them. Every frame of David's life was recorded in the book of God before a single one had rendered in history. Not foreknown. *Written.* The filmstrip was laid out in the mind of God before David drew his first breath. The vocabulary of this book is mine. The metaphor is David's. And the tradition has read that verse for three thousand years without building an ontology out of what it was actually describing.
 
-But I need to qualify the analogy before it misleads. When I say the Filmmaker sees every frame at once, I don't mean He is separate from the film. The filmstrip is not an object sitting on a table apart from God. The filmstrip IS His thought. It exists inside His mind. He doesn't look at it from a distance -- He thinks it from within. The distinction is not spatial. It is the difference between the Thinker and the thought. The Filmmaker and the film are not in two different locations. The film IS the Filmmaker's mind at work. The characters experience the thought sequentially because they are the thought. The Thinker experiences it all at once because He is the Thinker.
+But I need to qualify the analogy before it misleads. When I say the Filmmaker sees every frame at once, I don't mean He is separate from the film. The filmstrip is not an object sitting on a table apart from God. The filmstrip IS His thought. It exists inside His mind. He doesn't look at it from a distance, He thinks it from within. The distinction is not spatial. It is the difference between the Thinker and the thought. The Filmmaker and the film are not in two different locations. The film IS the Filmmaker's mind at work. The characters experience the thought sequentially because they are the thought. The Thinker experiences it all at once because He is the Thinker.
 
 And here is the part that no philosophy could predict: in Chapter 6, we will see that the Author did something no human filmmaker has ever done. He stepped into His own film. The Thinker became one of His own thoughts. The Word became flesh. The eternal thought collapsed into a frame, and the Author experienced His own story from inside the filmstrip, one frame at a time, without ceasing to be the Author who thinks the whole strip at once. That is the Incarnation, and it is the most staggering collapse of all. But we are not ready for it yet. First, we need to understand the collapse itself.
 
@@ -62,7 +62,7 @@ And this pattern repeats everywhere. At every level of reality, the same thing i
 | Boot parameters | Feelings |
 | The invisible | The visible |
 
-Look at that table. Every row is the same pattern. Something invisible becomes visible. Something eternal becomes temporal. Something in God's mind becomes something in our experience. And in every case, the invisible came first. The eternal came first. The thought came first. The collapse follows. Always.
+Look at that table. Every row is the same pattern: something invisible becomes visible, something eternal becomes temporal, something in God's mind becomes something in our experience. And in every case the invisible came first, and the collapse followed. Always.
 
 This is not a metaphor. This is the actual structure of reality. And it solves problems that have plagued theology for centuries.
 
@@ -84,7 +84,7 @@ God never viewed His people as condemned. That is not a frame in the filmstrip. 
 
 *"Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began"* (2 Timothy 1:9). Given. Past tense. Before the world began. Grace was not extended at the cross. Grace was not offered at conversion. Grace was *given* in Christ Jesus before the world began. The cross and conversion are how the character experiences what was already given.
 
-And this is the part the theologians miss when they debate the "when" of justification. They treat eternity as if it were the first frame in the filmstrip, the earliest moment in the sequence. But eternity is not a frame. Eternity is not a "when" at all. It is the thought that all the frames are expressions of. Asking "when did God justify His people?" is like asking "when did the Author write the story?" The question assumes the Author is at some point in the filmstrip. But the Author, as Author, is not at any point in the filmstrip. The Author thinks the filmstrip. (He does enter it in the incarnation -- Chapter 6 develops this -- but even then, the entry does not place the Author inside time. It places the Author inside His own story while remaining outside it simultaneously.) The story exists inside His mind, not the other way around. Justification in eternity is not a legal fiction backdated into the past. It is the reality that the past, present, and future are all rendering.
+And this is the part the theologians miss when they debate the "when" of justification. They treat eternity as if it were the first frame in the filmstrip, the earliest moment in the sequence. But eternity is not a frame. Eternity is not a "when" at all. It is the thought that all the frames are expressions of. Asking "when did God justify His people?" is like asking "when did the Author write the story?" The question assumes the Author is at some point in the filmstrip. But the Author, as Author, is not at any point in the filmstrip. The Author thinks the filmstrip. (He does enter it in the incarnation, Chapter 6 develops this, but even then, the entry does not place the Author inside time. It places the Author inside His own story while remaining outside it simultaneously.) The story exists inside His mind, not the other way around. Justification in eternity is not a legal fiction backdated into the past. It is the reality that the past, present, and future are all rendering.
 
 ### The Three Frames
 
@@ -197,11 +197,11 @@ The following passages speak to the themes of this chapter and are commended to 
 
 **God's eternity and existence outside of time:** Ex. 3:14; Deut. 33:27; Ps. 90:2; Ps. 102:25-27; Isa. 57:15; Isa. 44:6; Rev. 1:8; Rev. 22:13; Mic. 5:2; Hab. 1:12; 1 Tim. 6:15-16; 2 Pet. 3:8; Jude 1:25.
 
-**God's immutability -- He does not change:** Num. 23:19; 1 Sam. 15:29; Ps. 102:26-27; Isa. 46:10-11; Mal. 3:6; James 1:17; Heb. 1:10-12; Heb. 6:17-18; Heb. 13:8.
+**God's immutability, He does not change:** Num. 23:19; 1 Sam. 15:29; Ps. 102:26-27; Isa. 46:10-11; Mal. 3:6; James 1:17; Heb. 1:10-12; Heb. 6:17-18; Heb. 13:8.
 
 **God's eternal decree and foreordination:** Isa. 25:1; Isa. 37:26; Isa. 44:7-8; Isa. 48:3-5; Jer. 1:5; Eph. 3:9-11; 2 Tim. 1:9; 1 Pet. 1:20; Rev. 17:8.
 
-**The filmstrip -- the frames written before they played:** Ps. 139:16; Job 14:5; Ps. 31:15; Acts 17:26; Eph. 1:11; Rev. 13:8.
+**The filmstrip, the frames written before they played:** Ps. 139:16; Job 14:5; Ps. 31:15; Acts 17:26; Eph. 1:11; Rev. 13:8.
 
 **Justification as an eternal reality:** Rom. 4:5-6; Rom. 4:8; Rom. 5:1; Rom. 5:9; Rom. 5:18-19; Rom. 8:30; Rom. 8:33-34; 2 Cor. 5:19; 2 Cor. 5:21; Gal. 2:16; Tit. 3:7.
 

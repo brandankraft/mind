@@ -6,7 +6,7 @@ part: VIII -- The End
 
 # Chapter 29: The Higher Resolution Rendering
 
-I need to confess something before I start this chapter. I used to think the resurrection body was a miracle. Something God *added* to the human body. Something supernatural layered on top of the natural. As if Jesus walked out of the tomb and God had bolted on a set of supernatural abilities -- the ability to walk through walls, the ability to appear and disappear, the ability to ascend into the sky -- like upgrades to a base model. Resurrection body 2.0. More features. Better specs.
+I need to confess something before I start this chapter. I used to think the resurrection body was a miracle. Something God *added* to the human body, something supernatural layered on top of the natural. As if Jesus walked out of the tomb and God had bolted on a set of supernatural abilities (the ability to walk through walls, the ability to appear and disappear, the ability to ascend into the sky) like upgrades to a base model. Resurrection body 2.0. More features. Better specs.
 
 And I was wrong. Not about the resurrection. About what the resurrection *is*. The resurrection body isn't God adding things to the human body. It's God *stopping subtracting*. The miraculous properties of the resurrection body aren't additions. They're what happens when the rendering constraints are removed. The old rendering engine was limiting the body. The new one stops limiting it. And what's left is what was always there.
 
@@ -32,11 +32,11 @@ Reach hither thy finger. Thrust it into my side. This is a physical body with ph
 
 *"Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you."* (John 20:19)
 
-The doors were shut. And Jesus stood in the midst. He didn't knock. He didn't open the door. He was simply *there*. And if you're tempted to say this means the body is immaterial, remember what we just established. He ate fish. Thomas touched Him. The body is physical -- we just established that. But it walks through locked doors. Which means locked doors are a rendering constraint, not a feature of reality. In the old rendering, walls are barriers. In the higher resolution rendering, walls are not barriers. The wall didn't change. The body's relationship to the wall changed. The constraint was removed.
+The doors were shut. And Jesus stood in the midst. He didn't knock. He didn't open the door. He was simply *there*. And if you're tempted to say this means the body is immaterial, remember what we just established. He ate fish. Thomas touched Him. The body is physical; we just established that. But it walks through locked doors. Which means locked doors are a rendering constraint, not a feature of reality. In the old rendering, walls are barriers. In the higher resolution rendering, walls are not barriers. The wall didn't change. The body's relationship to the wall changed. The constraint was removed.
 
 *"And their eyes were opened, and they knew him; and he vanished out of their sight."* (Luke 24:31)
 
-He vanished. Disappeared. Was present and then was not present. Again, not because the body is immaterial. Because locality -- being stuck in one place -- is a rendering constraint. The old rendering engine says you can only be in one location at a time. The new rendering engine doesn't impose that constraint. Jesus can appear, be present, teach, and then vanish. Not because He's flickering in and out of existence. Because He's operating at a resolution where the rules that bind our bodies don't bind His.
+He vanished. Disappeared. Was present and then was not present. Again, not because the body is immaterial. Because locality, being stuck in one place, is a rendering constraint. The old rendering engine says you can only be in one location at a time. The new rendering engine doesn't impose that constraint. Jesus can appear, be present, teach, and then vanish. Not because He's flickering in and out of existence. Because He's operating at a resolution where the rules that bind our bodies don't bind His.
 
 And He ascended.
 
@@ -60,9 +60,9 @@ They walked with Him for miles. They talked with Him. They reasoned with Him. An
 
 *"And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them. And their eyes were opened, and they knew him; and he vanished out of their sight."* (Luke 24:30-31)
 
-Their eyes were opened. Note that carefully. The text doesn't say Jesus changed. The text says their *eyes* were opened. The change was in their perception, not in His appearance. His rendering was already at higher resolution. Their firmware needed a moment to adjust. They recognized Him in the breaking of bread -- a gesture, a habit, a signature of who He was. Not the surface. The signature.
+Their eyes were opened. Note that carefully. The text doesn't say Jesus changed. The text says their *eyes* were opened. The change was in their perception, not in His appearance. His rendering was already at higher resolution. Their firmware needed a moment to adjust. They recognized Him in the breaking of bread: a gesture, a habit, a signature of who He was. Not the surface. The signature.
 
-This is what the higher resolution rendering preserves. Not the surface appearance. Not the exact arrangement of features. The *person*. The voice. The habits. The way He breaks bread. The way He says your name. The higher resolution rendering doesn't make you *less* you. It makes you *more* you. It strips away the rendering constraints that were limiting the expression of who you are, and what's left is the clearest, most faithful rendering of the original thought that God ever expressed.
+This is what the higher resolution rendering preserves. Not the surface appearance, not the exact arrangement of features. The *person*. The voice. The habits. The way He breaks bread. The way He says your name. The higher resolution rendering doesn't make you *less* you. It makes you *more* you. It strips away the rendering constraints that were limiting the expression of who you are, and what's left is the clearest, most faithful rendering of the original thought that God ever expressed.
 
 Mary recognized Him by His voice. The Emmaus disciples recognized Him in the breaking of bread. The higher resolution body preserves the *signature*, not the surface.
 
@@ -72,13 +72,13 @@ Now let me say what this is in the language of the framework.
 
 The resurrection is not a miracle in the traditional sense of God intervening from outside to do something the system can't do on its own. The resurrection is God upgrading the rendering engine to be more faithful to the original thought. The current rendering engine limits. It constrains. It takes the infinite thought that is a person and renders it into a body that gets tired, gets sick, ages, and dies. Not because the thought is limited. Because the rendering engine is limited. The thought has always been more than the body could express.
 
-The resurrection body is what happens when the rendering engine stops limiting. The "miraculous" properties -- walking through walls, appearing and disappearing, ascending, being unconstrained by gravity and locality -- are not additions. They are what was *always* true about the thought, now expressed without constraint. The old rendering engine was subtracting from the thought. The new rendering engine stops subtracting. And what's left is the full thought, rendered faithfully, at the resolution the Author always intended.
+The resurrection body is what happens when the rendering engine stops limiting. The "miraculous" properties (walking through walls, appearing and disappearing, ascending, being unconstrained by gravity and locality) are not additions. They are what was *always* true about the thought, now expressed without constraint. The old rendering engine was subtracting from the thought. The new rendering engine stops subtracting. And what's left is the full thought, rendered faithfully, at the resolution the Author always intended.
 
 *"It is sown in corruption; it is raised in incorruption: It is sown in dishonour; it is raised in glory: it is sown in weakness; it is raised in power: It is sown a natural body; it is raised a spiritual body."* (1 Corinthians 15:42-44)
 
-Look at the pairs. Corruption and incorruption. Dishonor and glory. Weakness and power. Natural and spiritual. Every pair is the same information at two different rendering resolutions. The thought doesn't change. The rendering changes. Corruption, weakness, dishonor -- these are rendering constraints, not properties of the person. Remove the constraints, and what was always there becomes visible.
+Look at the pairs. Corruption and incorruption. Dishonor and glory. Weakness and power. Natural and spiritual. Every pair is the same information at two different rendering resolutions. The thought doesn't change. The rendering changes. Corruption, weakness, dishonor: these are rendering constraints, not properties of the person. Remove the constraints, and what was always there becomes visible.
 
-"It is sown a natural body; it is raised a spiritual body." And here is where people get confused, because they read "spiritual body" and think "immaterial body." But that is not what Paul is saying. A "spiritual body" is a body animated and governed by the Spirit. The "natural body" is animated by the soul -- the *psyche*, the natural life, the old firmware. The "spiritual body" is animated by the Spirit -- the *pneuma*, the new firmware, the power of God Himself. Same body. Different operating system. The body doesn't become less physical. It becomes less *constrained*. The Spirit doesn't make the body immaterial. The Spirit makes the body *free*.
+"It is sown a natural body; it is raised a spiritual body." And here is where people get confused, because they read "spiritual body" and think "immaterial body." But that is not what Paul is saying. A "spiritual body" is a body animated and governed by the Spirit. The "natural body" is animated by the soul: the *psyche*, the natural life, the old firmware. The "spiritual body" is animated by the Spirit: the *pneuma*, the new firmware, the power of God Himself. Same body. Different operating system. The body doesn't become less physical. It becomes less *constrained*. The Spirit doesn't make the body immaterial. The Spirit makes the body *free*.
 
 ## Not Gnosticism
 
@@ -88,7 +88,7 @@ I'm saying the exact opposite.
 
 Gnosticism taught that matter is evil, that the body is a prison, that the goal of salvation is to escape the physical and ascend to the spiritual. The Gnostics despised the body. They called it corrupt, shameful, a trap for the divine spark.
 
-The framework of this book says matter gets *upgraded*. The rendering *improves*. The body doesn't go away. The body gets *better*. Jesus after the resurrection is the prototype of what embodiment was always meant to be. He is touched. He carries wounds. He is physical in ways that make the disciples uncomfortable -- they think they're seeing a ghost, and He corrects them by eating in front of them.
+The framework of this book says matter gets *upgraded*. The rendering *improves*. The body doesn't go away. The body gets *better*. Jesus after the resurrection is the prototype of what embodiment was always meant to be. He is touched. He carries wounds. He is physical in ways that make the disciples uncomfortable; they think they're seeing a ghost, and He corrects them by eating in front of them.
 
 *"Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have."* (Luke 24:39)
 
@@ -139,7 +139,7 @@ Let me bring it together.
 
 Every person is a thought in the mind of God. The current physical body is the rendering of that thought at limited resolution. And for a time, the thought experiences itself through those constraints.
 
-The resurrection is the Author upgrading the rendering engine. What was always true about the person -- the *real* person, the thought in God's mind -- becomes visible for the first time. The body becomes what it was always meant to be. Not something different. Something *truer*.
+The resurrection is the Author upgrading the rendering engine. What was always true about the person, the *real* person, the thought in God's mind, becomes visible for the first time. The body becomes what it was always meant to be. Not something different. Something *truer*.
 
 And the higher resolution rendering is MORE real, not less. Jesus ate fish. Thomas touched His wounds. Mary heard His voice. The Emmaus disciples recognized His gesture. The signature persists. The person persists.
 
@@ -169,11 +169,11 @@ No. Matthew 22:30 answers the Sadducees' levirate trap about whose wife a widow 
 
 It's the opposite, and I addressed it directly in "Not Gnosticism." The Gnostics said matter is evil and the body is a prison. The framework says matter gets *upgraded*. The rendering *improves*. The body gains, it doesn't lose. The Gnostic wants to escape the body. The Christian gets a *better* body.
 
-**"If the 'miraculous' properties are just removed constraints, Jesus' earthly miracles are the same kind of thing -- which trivializes them."**
+**"If the 'miraculous' properties are just removed constraints, Jesus' earthly miracles are the same kind of thing, which trivializes them."**
 
-Yes. Every miracle Jesus performed was a preview of the higher resolution rendering. Walking on water -- gravity constraints removed. Healing the sick -- corruption constraints removed. Raising the dead -- mortality constraints removed. The miracles weren't additions to the system. They were glimpses of what the system looks like without the constraints. The Author briefly ran the rendering engine at a higher resolution, inside the low-resolution world, to show what the final product will be. Every miracle is a trailer for the resurrection.
+Yes. Every miracle Jesus performed was a preview of the higher resolution rendering. Walking on water: gravity constraints removed. Healing the sick: corruption constraints removed. Raising the dead: mortality constraints removed. The miracles weren't additions to the system. They were glimpses of what the system looks like without the constraints. The Author briefly ran the rendering engine at a higher resolution, inside the low-resolution world, to show what the final product will be. Every miracle is a trailer for the resurrection.
 
-**"The framework's claim that we can't imagine the resurrection is too limiting -- we can imagine it."**
+**"The framework's claim that we can't imagine the resurrection is too limiting; we can imagine it."**
 
 You can imagine. But your imagination runs on old firmware. The experiential content of the higher resolution rendering exceeds what the current firmware can process. It's like asking a character in a two-dimensional drawing to imagine three dimensions. The character can gesture at it. The character can use metaphors. But the character cannot *experience* it from inside the drawing. The upgrade has to happen before the experience is available. And it will. The Author has already written the page where the rendering changes. We just haven't turned to it yet.
 

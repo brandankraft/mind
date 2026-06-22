@@ -100,7 +100,7 @@ On the propositional floor, the polemicist defends the substrate by attacking de
 
 ### The Pastor Becomes a Gardener Again
 
-On the propositional floor, the pastor is a gatekeeper. He polices the substrate. He defends the confession. He marks the deviants. His primary function is sorting the doctrinally qualified from the doctrinally disqualified. On the framework's floor, the pastor is a gardener. He describes the Author truly so the saints rest in the Author truly. He corrects wrong descriptions so the saints describe the Author more faithfully. He does not confuse his work of describing with the Author's work of rendering. The saints in his care were rendered by the Author. He tends them. He does not save them. He does not gatekeep the salvation the Author already accomplished. The tending is the calling. The gatekeeping was always a Platonic costume.
+On the propositional floor, the pastor is a gatekeeper. He polices the substrate, defends the confession, marks the deviants. His primary function is sorting the doctrinally qualified from the doctrinally disqualified. On the framework's floor, the pastor is a gardener. He describes the Author truly so the saints rest in the Author truly. He corrects wrong descriptions so the saints describe the Author more faithfully. He does not confuse his work of describing with the Author's work of rendering. The saints in his care were rendered by the Author. He tends them. He does not save them. He does not gatekeep the salvation the Author already accomplished. The tending is the calling. The gatekeeping was always a Platonic costume.
 
 ### The Theologian Becomes a Worshipper
 

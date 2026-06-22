@@ -11,11 +11,11 @@ Eschatology has been the most speculative and the most abused corner of systemat
 
 ## On the Origins of Dispensationalism
 
-Chapter 27 rejects dispensational premillennialism and traces its modern form to John Nelson Darby in the 1830s. But the error is older than Darby. Much older. Bob Higby demonstrated that dispensationalism in its original form was a first-century Jewish Christian heresy -- and the apostles themselves rejected it in their own writings.
+Chapter 27 rejects dispensational premillennialism and traces its modern form to John Nelson Darby in the 1830s. But the error is older than Darby. Much older. Bob Higby demonstrated that dispensationalism in its original form was a first-century Jewish Christian heresy, and the apostles themselves rejected it in their own writings.
 
 The original eleven apostles initially held a two-peoples theology. They believed God would maintain a distinct Jewish elect community committed to the law alongside Gentile believers saved through faith. They expected a literal restoration of the kingdom to Israel. *"Lord, wilt thou at this time restore again the kingdom to Israel?"* (Acts 1:6). Jesus did not confirm their expectation. He redirected them: *"It is not for you to know the times or the seasons, which the Father hath put in his own power"* (Acts 1:7). And then He sent them to the nations.
 
-But the expectation persisted. James's party in Jerusalem taught that Jewish believers remained under the law while Gentiles were saved by grace alone. Two peoples. Two programs. Two destinies. This is dispensationalism -- not in its nineteenth-century prophetic chart form, but in its theological DNA. The distinction between Israel and the church as two separate programs of God originated in Acts 15, not in Plymouth Brethren.
+But the expectation persisted. James's party in Jerusalem taught that Jewish believers remained under the law while Gentiles were saved by grace alone. Two peoples. Two programs. Two destinies. This is dispensationalism, not in its nineteenth-century prophetic chart form, but in its theological DNA. The distinction between Israel and the church as two separate programs of God originated in Acts 15, not in Plymouth Brethren.
 
 The Jerusalem council failed to fully condemn the radical Judaizers, and the heresy spread. But the apostles themselves abandoned it as the Spirit increased the resolution (Chapter 9). Peter ate with Gentiles (Acts 10). Paul confronted Peter when he withdrew from them (Galatians 2:11-14). And Paul's mature theology demolished the two-peoples framework entirely: *"There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus. And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise"* (Galatians 3:28-29).
 
@@ -31,21 +31,21 @@ Full preterism teaches that all biblical prophecy, including the resurrection of
 
 Paul didn't call this a minor doctrinal difference. He called it cancer. He named the men by name. And their error was specific: saying the resurrection is past already. That is full preterism. The exact same claim, the exact same error, identified by the apostle Paul as soul-destroying.
 
-The framework makes this even sharper. Chapter 29 establishes that the resurrection body is physical -- more physical, not less. Christ ate broiled fish (Luke 24:42-43). Thomas touched His wounds (John 20:27). He had flesh and bones and said so: *"Handle me, and see; for a spirit hath not flesh and bones, as ye see me have"* (Luke 24:39). The resurrection body is not a metaphor. It's not a spiritual concept. It's a physical body with the rendering constraints removed.
+The framework makes this even sharper. Chapter 29 establishes that the resurrection body is physical, more physical, not less. Christ ate broiled fish (Luke 24:42-43). Thomas touched His wounds (John 20:27). He had flesh and bones and said so: *"Handle me, and see; for a spirit hath not flesh and bones, as ye see me have"* (Luke 24:39). The resurrection body is not a metaphor. It's not a spiritual concept. It's a physical body with the rendering constraints removed.
 
 If the resurrection has already occurred, where are the new bodies? We still sin. We still get sick. We still die. The rendering clearly hasn't upgraded. The firmware is still running both codes (Chapter 16). The groaning hasn't stopped. Romans 8:23 is explicit:
 
 *"And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body."* (Romans 8:23)
 
-WAITING. Present tense. For the redemption of our BODY. Not our soul -- our body. Paul wrote this decades after the cross. He was still waiting. If the resurrection had already occurred, Paul was either confused or lying. And Paul wasn't confused.
+WAITING. Present tense. For the redemption of our BODY. Not our soul, our body. Paul wrote this decades after the cross. He was still waiting. If the resurrection had already occurred, Paul was either confused or lying. And Paul wasn't confused.
 
 *"Who shall change our vile body, that it may be fashioned like unto his glorious body"* (Philippians 3:21). SHALL change. Future. Our vile body -- the one we currently occupy -- will be fashioned like His glorious body. That hasn't happened. Look at your body. It's aging, decaying, and heading for the ground. If that's the resurrection body, the Author has some explaining to do.
 
-Full preterism is Gnosticism in sovereign grace clothing. The Gnostics spiritualized the resurrection because they despised the physical. Full preterists do the same thing -- they take every physical promise in Scripture and make it metaphorical. No new earth. No new body. No return of Christ. Just "spiritual" fulfillment that leaves the world exactly as it is -- full of death, sin, and suffering, forever.
+Full preterism is Gnosticism in sovereign grace clothing. The Gnostics spiritualized the resurrection because they despised the physical. Full preterists do the same thing: they take every physical promise in Scripture and make it metaphorical. No new earth. No new body. No return of Christ. Just "spiritual" fulfillment that leaves the world exactly as it is, full of death, sin, and suffering, forever.
 
 And Paul said their word eats like cancer. I preached a full sermon on this in September 2020 from 2 Timothy 2:14-18 and Romans 8:18-39. I have personally encountered people who hold this position within the sovereign grace world. They mockingly call those of us who believe in a future resurrection "futurists." And they claim to have a more spiritual understanding of Scripture. But what they actually have is the error of Hymenaeus and Philetus, which Paul identified by name and condemned as cancerous.
 
-The framework is partial preterist (Chapter 27). Much was fulfilled in AD 70. But the physical resurrection, the return of Christ, and the new creation are future. The rendering hasn't upgraded yet. We're still groaning. And the groaning has a terminus -- but that terminus is ahead of us, not behind.
+The framework is partial preterist (Chapter 27). Much was fulfilled in AD 70. But the physical resurrection, the return of Christ, and the new creation are future. The rendering hasn't upgraded yet. We're still groaning. And the groaning has a terminus, but that terminus is ahead of us, not behind.
 
 *"If in this life only we have hope in Christ, we are of all men most miserable."* (1 Corinthians 15:19)
 
@@ -53,11 +53,11 @@ The framework is partial preterist (Chapter 27). Much was fulfilled in AD 70. Bu
 
 ## On the Rapture
 
-The rapture as taught in popular dispensationalism -- a secret snatching of believers before a seven-year tribulation -- has no support in this framework.
+The rapture as taught in popular dispensationalism, a secret snatching of believers before a seven-year tribulation, has no support in this framework.
 
 *"Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord"* (1 Thessalonians 4:17).
 
-This is the second coming. Not a separate, secret event preceding the second coming. There is one return of Christ, visible, glorious, and final. The "caught up" is the rendering upgrade at the end of the age -- the living saints transformed and the dead saints raised, all at once, all together, at the last trumpet.
+This is the second coming. Not a separate, secret event preceding the second coming. There is one return of Christ, visible, glorious, and final. The "caught up" is the rendering upgrade at the end of the age, the living saints transformed and the dead saints raised, all at once, all together, at the last trumpet.
 
 *"Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, In a moment, in the twinkling of an eye, at the last trump"* (1 Corinthians 15:51-52).
 
@@ -69,7 +69,7 @@ At the last trump. The trumpet of the one return. There is no earlier, secret tr
 
 Chapter 27 establishes the amillennial, partial preterist, historicist position. Most of what dispensationalism assigns to a future seven-year tribulation has already been fulfilled. The destruction of Jerusalem in AD 70 fulfilled Matthew 24. The "abomination of desolation" was the Roman armies surrounding the temple. The "great tribulation" was the siege and destruction that, by Josephus's account, killed over a million people.[^a6-josephus]
 
-The antichrist is not a single future figure. *"Even now are there many antichrists"* (1 John 2:18). John said "many" and "even now." The spirit of antichrist has been present in every age. The papacy, the state churches, the false teachers, the theological systems that deny the sovereignty of God in salvation -- all of these are antichrist in the biblical sense.
+The antichrist is not a single future figure. *"Even now are there many antichrists"* (1 John 2:18). John said "many" and "even now." The spirit of antichrist has been present in every age. The papacy, the state churches, the false teachers, the theological systems that deny the sovereignty of God in salvation, all of these are antichrist in the biblical sense.
 
 Will there be a final, climactic manifestation of evil before Christ returns? Possibly. The framework holds eschatological timing with open hands (Chapter 27). But the framework doesn't require a single future antichrist. It requires only what Scripture requires: many antichrists, a final return of Christ, and the rendering upgrade that resolves everything.
 
@@ -81,11 +81,11 @@ Will there be a final, climactic manifestation of evil before Christ returns? Po
 
 The great apostasy is not a future event on a prophecy chart. It began in the first century. Paul saw it. John named it. And the church has been living in it ever since.
 
-Paul told Timothy: *"This thou knowest, that all they which are in Asia be turned away from me"* (2 Timothy 1:15). All of them. In Asia. Turned away. Not from Christ in the abstract -- from Paul, from the gospel he preached, from the doctrine of sovereign grace that he spent his life proclaiming. The apostasy was already underway before Paul died.
+Paul told Timothy: *"This thou knowest, that all they which are in Asia be turned away from me"* (2 Timothy 1:15). All of them. In Asia. Turned away. Not from Christ in the abstract, but from Paul, from the gospel he preached, from the doctrine of sovereign grace that he spent his life proclaiming. The apostasy was already underway before Paul died.
 
 John confirmed it: *"Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time"* (1 John 2:18). Even NOW. Many antichrists. Not one future figure. Many. Already present. Already working. The "last time" began in the first century and has been running for two thousand years.
 
-In the historicist framework (Chapter 27), the great apostasy is not a sudden event at the end of history. It is a progressive degradation of the rendering -- the truth getting harder to find, the gospel getting diluted, the church drifting from the simplicity of grace into works, offers, duty faith, and institutional religion. Every century adds another layer of Plato's law (Chapter 1). Every generation builds a new Babel (see above). The sovereign grace theology that the Teacher of Righteousness wrote down in 200 BC (Appendix F) and that Paul preached in the first century has been buried, recovered, buried again, recovered again, and buried again -- for two millennia.
+In the historicist framework (Chapter 27), the great apostasy is not a sudden event at the end of history. It is a progressive degradation of the rendering: the truth getting harder to find, the gospel getting diluted, the church drifting from the simplicity of grace into works, offers, duty faith, and institutional religion. Every century adds another layer of Plato's law (Chapter 1). Every generation builds a new Babel (see above). The sovereign grace theology that the Teacher of Righteousness wrote down in 200 BC (Appendix F) and that Paul preached in the first century has been buried, recovered, buried again, recovered again, and buried again, for two millennia.
 
 The apostasy is not coming. The apostasy is here. It has been here since Asia turned away from Paul. And the elect in every generation have been the remnant who held the truth while the institutions abandoned it. *"Even so then at this present time also there is a remnant according to the election of grace"* (Romans 11:5). A remnant. Not a majority. Not an institution. Not a denomination. A remnant. And the remnant is always small, always scattered, always accused of being heretics by the system they refused to join.
 
@@ -99,13 +99,13 @@ The Author wrote the apostasy into the story. He also wrote the remnant. And the
 
 The number is 666. And the key to understanding it is in the text itself: it is *the number of a man*. Not the number of a god. Not the number of a supernatural being. The number of a man.
 
-In Scripture, seven is the number of divine completion. God rested on the seventh day. The seven Spirits before the throne. The seven churches. The seven seals. Seven is God's number. Six falls short. And 666 is six tripled -- man at his highest achievement, repeated three times, and still falling short of divine perfection. The beast is the pinnacle of human power, human religion, and human control. And it is not enough. It never reaches seven. It never reaches God. The tower of Babel, rebuilt in every generation, and never reaching heaven.
+In Scripture, seven is the number of divine completion. God rested on the seventh day. The seven Spirits before the throne. The seven churches. The seven seals. Seven is God's number. Six falls short. And 666 is six tripled, man at his highest achievement, repeated three times, and still falling short of divine perfection. The beast is the pinnacle of human power, human religion, and human control. And it is not enough. It never reaches seven. It never reaches God. The tower of Babel, rebuilt in every generation, and never reaching heaven.
 
 In the historicist framework (Chapter 27), the beast is not one future individual with a barcode on his forehead. The beast is a pattern. It is the recurring system that centralizes political power, religious authority, and economic control under a human head, claiming for itself what belongs to God alone. Nero's name in Hebrew gematria equals 666.[^a6-nero] The medieval papacy, claiming for a man the titles and prerogatives of God, became the pattern's most visible Christian-era instance. Every empire that has demanded worship of its leader, every religious system that has placed a man between God and His people, every economic structure that has required compliance with a human authority in exchange for the right to "buy or sell" (Revelation 13:17) -- all of them are the beast. The number identifies the pattern. The pattern keeps repeating because the Author wrote it to repeat until the final rendering.
 
-In the framework: the beast is a thought in the mind of God. Authored. Decreed. Serving a purpose. The beast exists because the contrast is necessary. The human system that claims to be God is the backdrop against which the real God is seen most clearly. The tower that never reaches heaven proves that heaven cannot be reached by human effort. And the number -- 666 -- is the signature of every attempt. Man. Man. Man. Never God.
+In the framework: the beast is a thought in the mind of God, authored and decreed, serving a purpose. The beast exists because the contrast is necessary. The human system that claims to be God is the backdrop against which the real God is seen most clearly. The tower that never reaches heaven proves that heaven cannot be reached by human effort. And the number, 666, is the signature of every attempt. Man. Man. Man. Never God.
 
-The mark of the beast is not a future technology. It is the allegiance. The willingness to submit to a human system in exchange for participation in the world's economy and culture. And in every age, the saints have refused the mark -- not because they knew its number, but because they knew their King. And their King is not a man. Their King is God. And His number is seven.
+The mark of the beast is not a future technology. It is the allegiance. The willingness to submit to a human system in exchange for participation in the world's economy and culture. And in every age, the saints have refused the mark, not because they knew its number, but because they knew their King. And their King is not a man. Their King is God. And His number is seven.
 
 **For further study:** Dan. 3:1-6; Dan. 3:18; Dan. 7:25; Dan. 11:36-37; Matt. 24:24; 2 Thess. 2:3-4; 2 Thess. 2:9-12; 1 John 2:18; 1 John 4:3; Rev. 13:1-18; Rev. 14:9-11; Rev. 15:2; Rev. 17:9-14; Rev. 19:19-20; Rev. 20:4.
 
@@ -113,15 +113,15 @@ The mark of the beast is not a future technology. It is the allegiance. The will
 
 *"And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years, And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season."* (Revelation 20:2-3)
 
-In the amillennial framework (Chapter 27), the thousand years is the current church age. Not literal. Symbolic. The "binding" is not Satan being inactive -- he still prowls like a roaring lion (1 Peter 5:8). The binding is a rendering constraint on his ability to deceive the nations at the global scale. During the church age, the gospel goes out to the nations. Satan can harass, tempt, accuse, and attack individuals. But he cannot stop the elect from being gathered. The rendering parameters limit his reach.
+In the amillennial framework (Chapter 27), the thousand years is the current church age. Not literal. Symbolic. The "binding" is not Satan being inactive; he still prowls like a roaring lion (1 Peter 5:8). The binding is a rendering constraint on his ability to deceive the nations at the global scale. During the church age, the gospel goes out to the nations. Satan can harass, tempt, accuse, and attack individuals. But he cannot stop the elect from being gathered. The rendering parameters limit his reach.
 
 The "loosing for a little season" is God removing that constraint at the end of the age. The Author lifts the rendering parameter that was limiting Satan's influence. Deception increases. The nations gather against God's people. Apostasy spreads. The truth gets harder to find.
 
 *"And when the thousand years are expired, Satan shall be loosed out of his prison, And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle."* (Revelation 20:7-8)
 
-The loosing is short -- "a little season" compared to the binding. It is a final rendering degradation before the final rendering upgrade. One last drop in resolution before the full resolution arrives.
+The loosing is short, "a little season" compared to the binding. It is a final rendering degradation before the final rendering upgrade. One last drop in resolution before the full resolution arrives.
 
-After the loosing: *"And fire came down from God out of heaven, and devoured them. And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever"* (Revelation 20:9-10). The loosing ends. The quarantine becomes permanent. The rendering upgrades. And the three groups of self-conscious beings in the final creation (Chapter 12) -- elect angels, elect humans, reprobate -- interact in the new reality. The demons are quarantined. They do not interact. The system runs clean.
+After the loosing: *"And fire came down from God out of heaven, and devoured them. And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever"* (Revelation 20:9-10). The loosing ends. The quarantine becomes permanent. The rendering upgrades. And the three groups of self-conscious beings in the final creation (Chapter 12), elect angels, elect humans, reprobate, interact in the new reality. The demons are quarantined. They do not interact. The system runs clean.
 
 **For further study:** Gen. 3:15; Isa. 24:21-22; Matt. 12:29; Mark 3:27; Luke 10:18; John 12:31; John 16:11; Col. 2:15; Heb. 2:14; 1 John 3:8; Rev. 12:7-12; Rev. 20:1-3; Rev. 20:7-10; Rev. 20:14-15.
 
@@ -153,13 +153,13 @@ And the intermediate state is not the end of the story. Chapter 29 handles the p
 
 ### What the seam actually is
 
-The frame we live in is rendered with constraints. Aging. Illness. Forgetting. Grief. Sin still running its residual code in the firmware. Time flowing one direction. The body wearing out. The rendering engine is doing exactly what the Author designed it to do within this frame, and within this frame the rendering includes the wearing out.
+The frame we live in is rendered with constraints: aging, illness, forgetting, grief. Sin still running its residual code in the firmware. Time flowing one direction. The body wearing out. The rendering engine is doing exactly what the Author designed it to do within this frame, and within this frame the rendering includes the wearing out.
 
-The seam is where the constraints lift. Not all at once for the elect -- fully at resurrection, partially at the moment of death. The believer who dies enters paradise without the body for a season, conscious, at rest, waiting.
+The seam is where the constraints lift. Not all at once for the elect: fully at resurrection, partially at the moment of death. The believer who dies enters paradise without the body for a season, conscious, at rest, waiting.
 
 *"And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them"* (Revelation 14:13).
 
-Rest. Works followed them. The person is intact. The person is at rest. The person is with the Lord.
+Rest. Works followed them. The person is intact, at rest, with the Lord.
 
 This is not Gnostic escape. The body is not the prison. The body is the current frame of the rendering. The seam is not the soul breaking free of matter. The seam is the soul entering paradise while waiting for the body to be re-rendered at higher resolution. The Gnostic resents the body. The framework honors the body as the current frame and waits confidently for its restoration in the next.
 
@@ -167,7 +167,7 @@ This is not Gnostic escape. The body is not the prison. The body is the current 
 
 ### The seam is not the same edge for everyone
 
-Chapter 28 handled this. Same Lord. Same reality. Different firmware. The fire IS the Lord's presence. The shame is the uncovered self standing in the presence of the light it was never fitted to bear. For the elect, the seam opens onto the waiting Presence -- the covering is applied, the firmware was flashed, the Person is known. For the reprobate, the seam opens onto the same Presence without the covering and without the flash, and the Presence becomes the fire. The seam is neutral as an edge. What matters is what the edge opens onto. And what opens onto which soul was decided in the eternal thought before the frame was rendered.
+Chapter 28 handled this. Same Lord. Same reality. Different firmware. The fire IS the Lord's presence. The shame is the uncovered self standing in the presence of the light it was never fitted to bear. For the elect, the seam opens onto the waiting Presence: the covering is applied, the firmware was flashed, the Person is known. For the reprobate, the seam opens onto the same Presence without the covering and without the flash, and the Presence becomes the fire. The seam is neutral as an edge. What matters is what the edge opens onto. And what opens onto which soul was decided in the eternal thought before the frame was rendered.
 
 ### Grief is appropriate at the seam
 
@@ -175,7 +175,7 @@ The framework does not require the believer to pretend death is nothing. Jesus w
 
 *"But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope"* (1 Thessalonians 4:13). Sorrow, yes. Present tense. Just not as those who have no hope. The hope does not abolish the grief. The hope is what carries the grief across.
 
-And the bond that crosses the seam with the believer is not only the bond with Christ. Covenant relations cross too. The marriage covenant persists into eternity -- see *On the Covenant Companion in the New Creation* below. The son still belongs to the father. The friend still belongs to the friend. The body of Christ does not fragment at the edge. The seam is the edge through which all the real things cross intact into the rendering where they are finally seen at full resolution.
+And the bond that crosses the seam with the believer is not only the bond with Christ. Covenant relations cross too. The marriage covenant persists into eternity, see *On the Covenant Companion in the New Creation* below. The son still belongs to the father. The friend still belongs to the friend. The body of Christ does not fragment at the edge. The seam is the edge through which all the real things cross intact into the rendering where they are finally seen at full resolution.
 
 ### What to say at a bedside
 
@@ -293,7 +293,7 @@ And then: *"I said, I will go up to the palm tree, I will take hold of the bough
 
 This is what God celebrates. Not tolerates. Celebrates. The church that teaches shame about oral intimacy within marriage is teaching against the Song of Solomon. The pastor who won't address this topic from the pulpit is refusing to preach a book that God put in the canon. And the young couple who enters marriage believing that certain acts of love are "dirty" has been catechized by Plato, not by the Holy Spirit.
 
-God is not embarrassed by sex. He designed it. He described it. He celebrated it. And He told us to drink abundantly.
+God is not embarrassed by sex. He designed it, described it, celebrated it. And He told us to drink abundantly.
 
 So if God Himself celebrates the full range of marital intimacy, what does the framework say about boundaries?
 
@@ -504,7 +504,7 @@ The framework is not that. The framework is the opposite of that. The framework 
 
 The Mormon system requires their temple. The framework requires only the Author. That is not a small difference. That is the entire difference.
 
-**"Your view collapses on remarriage -- a widow who remarried would have two husbands at the resurrection."**
+**"Your view collapses on remarriage, a widow who remarried would have two husbands at the resurrection."**
 
 I answered this in *On Remarriage After the Death of a Spouse*. The two-register answer. The first marriage was real and remains in the ontological register. The second marriage is also real and remains in the ontological register. The legal register ended at the first death; that is what permitted the second marriage. The Author handles the rendering of both at the feast. The framework refuses to dissolve either covenant He authored, and the framework refuses to chart a specific arrangement Scripture has not charted.
 
@@ -552,7 +552,7 @@ No. And the question reveals where the substrate has been working in the questio
 
 The fear behind the question is that loving one's spouse forever competes with loving Christ forever. That fear is itself the Platonic substrate. The fear assumes the saints' affections are zero-sum, that loving the spouse subtracts from loving Christ. The Bible never assumes that. *"He that loveth not knoweth not God; for God is love"* (1 John 4:8). Loving the spouse the Author gave you teaches you to love Him. The persistence of the spouse-love into the feast is part of the love-of-Christ being completed at the feast. The two are not in competition. They were never in competition. The substrate told the church they were and the church believed the substrate.
 
-**"This proves too much. If marriage persists, so must every bond -- children, parents, friends. The framework has no stopping point."**
+**"This proves too much. If marriage persists, so must every bond: children, parents, friends. The framework has no stopping point."**
 
 The framework does not draw a line because Scripture does not draw a line. The covenants the Author authored in time persist into the new creation insofar as the Author authored them. The parent-child bond is one He authored (Eph. 6:1-4). The friendship of David and Jonathan was one He acknowledged (1 Sam. 18:1-3). The church-as-body is one He named (1 Cor. 12:12-27). All of these endure. None of them dissolve at the seam.
 

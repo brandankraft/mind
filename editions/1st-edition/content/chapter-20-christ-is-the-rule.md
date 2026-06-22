@@ -16,7 +16,7 @@ I was pointing believers to the law. And every time I did, I was taking their ey
 
 This is one of the hardest things for religious people to hear, and I'm going to say it as plainly as I can.
 
-The believer is dead to *all* the law. Not just the ceremonial law. Not just the civil law. Not just the sacrificial system. *All* of it. The moral law included. The Ten Commandments included. Every requirement, every standard, every "thou shalt" and "thou shalt not" that was written on stone tablets and delivered at Sinai -- the believer is dead to it. Completely. Finally. Irreversibly.
+The believer is dead to *all* the law. Not just the ceremonial law. Not just the civil law. Not just the sacrificial system. *All* of it. The moral law included. The Ten Commandments included. Every requirement, every standard, every "thou shalt" and "thou shalt not" that was written on stone tablets and delivered at Sinai: the believer is dead to it. Completely, finally, and with no way back.
 
 *"Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God."* (Romans 7:4)
 
@@ -24,7 +24,7 @@ Dead to the law. By the body of Christ. Not partially dead. Not dead to some par
 
 *"For Christ is the end of the law for righteousness to every one that believeth."* (Romans 10:4)
 
-The *end* of the law. Not the modifier of the law. Not the reinterpreter of the law. Not the one who softened the law's demands so we could keep up with them. The *end*. Christ brought the law to its conclusion. He fulfilled every requirement, met every standard, satisfied every demand, and then said *"It is finished"* (John 19:30). And when He said it, He meant it.
+The *end* of the law. Not the modifier of the law, not the reinterpreter, not the one who softened its demands so we could keep up. The *end*. Christ brought the law to its conclusion. He fulfilled every requirement, met every standard, satisfied every demand, and then said *"It is finished"* (John 19:30). And when He said it, He meant it.
 
 ## The Purpose of the Law
 
@@ -74,7 +74,7 @@ And the difference matters enormously, because the law of the Spirit doesn't wor
 
 The law *could not do* what needed to be done. It was weak through the flesh. Not weak in itself, but weak in its ability to produce righteousness in fallen people. The standard was perfect. The subjects were dead. And you can write the most beautiful set of rules the world has ever seen, and if the people you hand them to are spiritually dead, the rules will only produce condemnation. That's all the law ever did. That's all the law ever *can* do.
 
-But what the law could not do, God did. By sending His Son. By the Spirit. By the new covenant written on the heart, not on stone. And the righteousness of the law is *fulfilled in us* -- not by us. In us. By the Spirit. The law's demands are met, but they're met by someone else, living in us, producing the fruit we could never produce on our own.
+But what the law could not do, God did. By sending His Son. By the Spirit. By the new covenant written on the heart, not on stone. And the righteousness of the law is *fulfilled in us*, not by us. In us. By the Spirit. The law's demands are met, but they're met by someone else, living in us, producing the fruit we could never produce on our own.
 
 ## Pointing Believers to the Law Takes Their Eyes Off Christ
 
@@ -94,7 +94,7 @@ That's what changes a person. Not the law. Christ.
 
 ## The Three Divisions of the Law
 
-I want to address something that I hear constantly from people who disagree with this chapter. They'll say, "We agree that the ceremonial law is fulfilled. And the civil law was for Israel. But the moral law -- the Ten Commandments -- is eternal and binding."
+I want to address something that I hear constantly from people who disagree with this chapter. They'll say, "We agree that the ceremonial law is fulfilled. And the civil law was for Israel. But the moral law, the Ten Commandments, is eternal and binding."
 
 This is the standard Reformed position, and it's wrong.
 
@@ -114,7 +114,7 @@ Christ fulfilled *all* of it. Not just the types and shadows. Not just the dieta
 
 **"Without the law over believers, there's nothing to stop them from sinning."**
 
-The Holy Spirit. As I showed above, the law never stopped *anyone* from sinning -- it *increased* sin (Romans 5:20). The law was powerless to produce righteousness in fallen people. The Spirit does what the law never could. The love of Christ *constrains* the believer (2 Corinthians 5:14) -- not a written code imposed from outside, but a living Person working from inside. And the Person is far more effective than the code ever was.
+The Holy Spirit. As I showed above, the law never stopped *anyone* from sinning; it *increased* sin (Romans 5:20). The law was powerless to produce righteousness in fallen people. The Spirit does what the law never could. The love of Christ *constrains* the believer (2 Corinthians 5:14), not a written code imposed from outside, but a living Person working from inside. And the Person is far more effective than the code ever was.
 
 **"The moral law is eternal and binding on all people."**
 
@@ -124,7 +124,7 @@ Christ fulfilled *all* of it. The believer is dead to the law by the body of Chr
 
 Let me tell you what real antinomianism looks like. Real antinomians lower God's law to a standard they think they can keep. They say, "God's law is reasonable. God's demands are attainable. If you just try hard enough and surrender enough and commit enough, you can meet the standard." *That* is lowering the law. *That* is anti-law, because it replaces God's actual standard with a watered-down version humans can manage.
 
-God's standard is *perfection*. "Be ye therefore perfect, even as your Father which is in heaven is perfect" (Matthew 5:48). Only Christ met it. Only Christ could meet it. And resting in His perfect obedience isn't lawlessness. It's the only honest response to a law that demands what no human being has ever been able to give. The man who says "I am dead to the law because Christ fulfilled it for me" has the *highest* view of the law -- because he acknowledges it demanded perfection, and he knows he couldn't deliver it.
+God's standard is *perfection*. "Be ye therefore perfect, even as your Father which is in heaven is perfect" (Matthew 5:48). Only Christ met it. Only Christ could meet it. And resting in His perfect obedience isn't lawlessness. It's the only honest response to a law that demands what no human being has ever been able to give. The man who says "I am dead to the law because Christ fulfilled it for me" has the *highest* view of the law, because he acknowledges it demanded perfection, and he knows he couldn't deliver it.
 
 **"Without the law as a moral guide, believers have no standard for right and wrong."**
 

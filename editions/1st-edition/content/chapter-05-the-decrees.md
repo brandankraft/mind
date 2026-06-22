@@ -44,7 +44,7 @@ But that's not what Scripture describes. Scripture describes a God who *authored
 
 *"Him, being delivered by the determinate counsel and foreknowledge of God, ye have taken, and by wicked hands have crucified and slain."* (Acts 2:23)
 
-The *determinate counsel* of God. Determined. Planned. Authored. The wicked hands that nailed Christ to the cross were part of the plan. The crucifixion was not an emergency. It was the decree. And the decree was from the end to the beginning.
+The *determinate counsel* of God. He set the end, chose the means, and wrote every step. The wicked hands that nailed Christ to the cross were part of the plan. The crucifixion was not an emergency. It was the decree. And the decree was from the end to the beginning.
 
 Bob Higby laid out the distinction between selection and election in a comparison table that I've included in the appendix of this book, and I commend it to every reader who wants to see the differences drawn out in detail. But the core distinction is this: infralapsarianism says God *reacted* to the fall. Supralapsarianism says God *authored* the fall. And the framework of this book requires the latter, because a God who reacts to events He didn't author is a God who isn't fully sovereign. And a God who isn't fully sovereign is not the God of Isaiah 46:10.
 
@@ -64,7 +64,7 @@ And God doesn't need an alibi. He never asked for one. He told us plainly:
 
 *"The LORD hath made all things for himself: yea, even the wicked for the day of evil."* (Proverbs 16:4)
 
-God creates evil. God causes evil. God made the wicked for the day of evil. These are not proof-texts ripped from context. These are the consistent testimony of Scripture from Genesis to Revelation. And the theological tradition that adds the word "permission" to soften them is not being faithful to the text. It's being faithful to Plato.
+God creates evil. He causes it. He made the wicked for the day of evil. These are not proof-texts ripped from context. These are the consistent testimony of Scripture from Genesis to Revelation. And the theological tradition that adds the word "permission" to soften them is not being faithful to the text. It's being faithful to Plato.
 
 The law of Plato, again. The assumption that God cannot be the source of evil. An assumption that comes from Greek philosophy, not from the Hebrew Scriptures. And an assumption that has distorted Reformed theology from the Patristic era to the present day.
 
@@ -80,7 +80,7 @@ If God authored the fall for the purpose of redemption, and if both the elect an
 
 *"What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction: And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory."* (Romans 9:22-23)
 
-*Fitted to destruction.* Not "fell into destruction." Not "chose destruction." *Fitted.* Shaped. Prepared. Authored. The vessels of wrath were designed for their purpose the same way the vessels of mercy were designed for theirs.
+*Fitted to destruction.* Not "fell into destruction." Not "chose destruction." *Fitted.* Shaped for the purpose, prepared for the day, authored for it. The vessels of wrath were designed for their purpose the same way the vessels of mercy were designed for theirs.
 
 And the purpose of the vessels of wrath is not a tragic afterthought. It's a positive decree. God *wills* to show His wrath. God *wills* to make His power known. The damnation of the reprobate glorifies God. Not in the way a tyrant glorifies himself through cruelty, but in the way an Author glorifies Himself through the completeness of His story. The story requires both mercy and justice. Both light and darkness. Both seeds. And the Author planned them both, from the end to the beginning, for one purpose: His glory.
 
@@ -92,7 +92,7 @@ And providence, in this framework, is not God watching the machine run. It's God
 
 *"Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father."* (Matthew 10:29)
 
-Not a sparrow falls without your Father. Not "without your Father's knowledge." Without your *Father.* He's involved. Directly. Personally. In every event. In every frame. Not watching from a distance. Thinking it into existence.
+Not a sparrow falls without your Father. Not "without your Father's knowledge." Without your *Father.* He's involved, directly and personally, in every event and every frame. He isn't watching from a distance; He's thinking it into existence.
 
 And the men who hid their scrolls in the caves above the Dead Sea had already written this down. They did not have film, so they reached for the only image that could carry it. They said history was *engraved.* Set down in ink, before the first of the appointed times, and kept:
 
@@ -120,7 +120,7 @@ I need to explain where the name comes from, because you won't find "Modified Co
 | God's relation to evil | Permits | Permits | Permits | Authors (Isa 45:7) |
 | Lapsarian consistency | Mixed (most are infra) | Not addressed | Not addressed | Fully supralapsarian |
 
-Modified Covenant Theology is the only system that carries the supralapsarian logic all the way. God authored the fall. God created evil. God made Adam sinful, not righteous. God created Satan evil, not fallen. God fashioned the two seeds with different natures and different destinies. And none of this is "permission." All of it is authorship. All of it is the determinate counsel of God, planned from the end to the beginning, executed from the beginning to the end.
+Modified Covenant Theology is the only system that carries the supralapsarian logic all the way. God authored the fall and created evil. He made Adam sinful, not righteous, and Satan evil, not fallen. He fashioned the two seeds with different natures and different destinies. And none of this is "permission." All of it is authorship. All of it is the determinate counsel of God, planned from the end to the beginning, executed from the beginning to the end.
 
 As I mentioned in the preface, I stress-tested this framework against one of the best covenant theologians I knew, and he couldn't break it. I defended it against Phil Johnson, and he wouldn't engage. And in more than two decades of holding this position, I have never found a Scripture that contradicts it or a logical argument that breaks it.
 

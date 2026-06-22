@@ -5,7 +5,7 @@ status: draft
 
 # Appendix A5: The Church
 
-The church as body is covered in Chapter 23. This appendix applies the sentence to the institutional questions the body has wrestled with for two thousand years -- how it is governed, what it sings, what it confesses, how it sends, and where it has drifted. These are practical questions. The framework answers them the same way it answers everything else: by derivation from the sentence.
+The church as body is covered in Chapter 23. This appendix applies the sentence to the institutional questions the body has wrestled with for two thousand years: how it is governed, what it sings, what it confesses, how it sends, and where it has drifted. These are practical questions. The framework answers them the same way it answers everything else: by derivation from the sentence.
 
 > *"Everything that exists is a thought in the mind of God, sustained by His will, authored by His purpose, and held together by personal covenants of love."*
 
@@ -29,7 +29,7 @@ The New Testament knows nothing of a single pastor leading a church. Nothing. Ev
 
 *"Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine"* (1 Timothy 5:17). Elders. Plural. Some labor in the word. Some rule. But the structure is always plural.
 
-The single-pastor model is an institutional invention. It has no precedent in Scripture and no mandate from Christ. It consolidates authority in one man, which is exactly what Christ said not to do (Matthew 23:8-11). It creates a clergy-laity divide that the New Testament never intended. And it produces the one-man pulpit problem described in Chapter 23 -- the ball hog who does all the speaking while the rest of the body sits mute.
+The single-pastor model is an institutional invention. It has no precedent in Scripture and no mandate from Christ. It consolidates authority in one man, which is exactly what Christ said not to do (Matthew 23:8-11). It creates a clergy-laity divide that the New Testament never intended. And it produces the one-man pulpit problem described in Chapter 23, the ball hog who does all the speaking while the rest of the body sits mute.
 
 In the framework, plural eldership follows directly from the participatory ecclesiology of Chapter 23. The church is a body, not a business. A body doesn't have one organ that does everything while the others watch. It has many members, each contributing, each functioning, each necessary. Elders are the mature members who shepherd by example (1 Peter 5:1-3), not by hierarchical authority. They are among the flock, not above it. And there are always more than one, because no one man should carry the weight of a body alone, and no one man should be trusted with unchecked authority over the souls of others.
 
@@ -45,7 +45,7 @@ There is only one who should be called Reverend, and it is not a man. The title 
 
 *"But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren. And call no man your father upon the earth: for one is your Father, which is in heaven. Neither be ye called masters: for one is your Master, even Christ. But he that is greatest among you shall be your servant"* (Matthew 23:8-11).
 
-Christ's instructions are explicit. No Rabbi. No Father. No Master. And the principle extends to any title that sets one believer above another -- Reverend, Doctor of Divinity, Bishop as a rank rather than a function. These titles feed the pride monster (Chapter 21) and contradict the participatory ecclesiology of Chapter 23. All of God's people are ministers. All are brethren. All stand in the same righteousness. The gifts are varied, but the standing is equal.
+Christ's instructions are explicit. No Rabbi. No Father. No Master. And the principle extends to any title that sets one believer above another: Reverend, Doctor of Divinity, Bishop as a rank rather than a function. These titles feed the pride monster (Chapter 21) and contradict the participatory ecclesiology of Chapter 23. All of God's people are ministers. All are brethren. All stand in the same righteousness. The gifts are varied, but the standing is equal.
 
 The man who insists on "Reverend" before his name has not stolen God's glory. But he has borrowed something that wasn't offered. Holy and reverend is *His* name. Not ours.
 
@@ -55,7 +55,7 @@ The man who insists on "Reverend" before his name has not stolen God's glory. Bu
 
 Paul made tents.
 
-That is not a footnote in Acts. That is Paul's theology of ministry in action. The man who wrote two-thirds of the New Testament, who planted churches across the Roman Empire, who gave us the doctrines of grace in their clearest form -- that man worked with his hands to pay his own way. And he did it on purpose.
+That is not a footnote in Acts. That is Paul's theology of ministry in action. The man who wrote two-thirds of the New Testament, who planted churches across the Roman Empire, who gave us the doctrines of grace in their clearest form, that man worked with his hands to pay his own way. And he did it on purpose.
 
 *"Neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you."* (2 Thessalonians 3:8)
 
@@ -71,7 +71,7 @@ The modern church has built an entire professional class on the right Paul refus
 
 I'm not saying every paid pastor is a hireling. I've known paid men who love Christ and serve faithfully despite the structure. But the structure itself creates a conflict of interest that Paul deliberately avoided. And the church that pays a man to preach has introduced a dynamic that the apostolic church never had: financial dependence between the preacher and the audience.
 
-In the participatory model (Chapter 23), every believer contributes. No one man is paid to do what the body was designed to do together. The elders who labor in the word deserve honor (1 Timothy 5:17), and the church should support brothers in genuine need. But the professionalization of the ministry -- the creation of a permanent paid clergy class -- was not the apostolic pattern. Paul made tents. Peter fished. The gospel was free because the preachers had jobs.
+In the participatory model (Chapter 23), every believer contributes. No one man is paid to do what the body was designed to do together. The elders who labor in the word deserve honor (1 Timothy 5:17), and the church should support brothers in genuine need. But the professionalization of the ministry, the creation of a permanent paid clergy class, was not the apostolic pattern. Paul made tents. Peter fished. The gospel was free because the preachers had jobs.
 
 The truth is free. This book is free. Paul's tent-making was the prototype. And the man who gives the gospel away without charge is the man whose conscience is freest to say what the gospel actually teaches.
 
@@ -83,13 +83,13 @@ In participatory ecclesiology (Chapter 23), discipline doesn't come from institu
 
 *"Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother"* (Matthew 18:15). The process starts small. One to one. Then with witnesses. Then before the church. Then, if unrepentant, *"let him be unto thee as an heathen man and a publican"* (Matthew 18:17).
 
-This process works in a participatory model. You don't need a pastor to execute discipline. You need the Spirit working through brothers and sisters who love each other enough to confront sin. The hospital model (Chapter 23 -- "churches are hospitals for sick people, I'm a patient too") doesn't eliminate discipline. It reframes it. Discipline in a hospital is an intervention, not a sentencing. The goal is restoration, not punishment.
+This process works in a participatory model. You don't need a pastor to execute discipline. You need the Spirit working through brothers and sisters who love each other enough to confront sin. The hospital model (Chapter 23, "churches are hospitals for sick people, I'm a patient too") doesn't eliminate discipline. It reframes it. Discipline in a hospital is an intervention, not a sentencing. The goal is restoration, not punishment.
 
 **For further study:** Lev. 19:17; Prov. 27:5-6; Matt. 18:15-20; Luke 17:3; 1 Cor. 5:1-13; 2 Cor. 2:5-11; Gal. 6:1-2; 2 Thess. 3:6; 2 Thess. 3:14-15; 1 Tim. 5:19-20; Titus 3:10-11; James 5:19-20.
 
 ## On Creeds and Confessions
 
-I don't sign confessions. That's the campless identity (Preface). Not because confessions are worthless -- they're not. The Westminster Confession, the London Baptist Confession, the Heidelberg Catechism -- these are serious, careful theological work. I respect them.
+I don't sign confessions. That's the campless identity (Preface). Not because confessions are worthless; they're not. The Westminster Confession, the London Baptist Confession, the Heidelberg Catechism: these are serious, careful theological work. I respect them.
 
 But I don't sign them because every confession contains the errors of the men who wrote it alongside the truths they saw. And signing requires endorsing the whole. I'd rather derive my positions from the sentence and arrive where I arrive, even if no existing confession contains me.
 
@@ -99,15 +99,15 @@ The framework produces a man who reads every confession with appreciation and si
 
 ## On the Antilegomena and the Flat Canon
 
-Chapter 26 establishes the distinction between the homologoumena (undisputed books) and the antilegomena (disputed books). But the history of *how* that distinction was buried deserves its own treatment, because the burying was not accidental. It was deliberate -- and it was done twice, on both sides of the Reformation divide.
+Chapter 26 establishes the distinction between the homologoumena (undisputed books) and the antilegomena (disputed books). But the history of *how* that distinction was buried deserves its own treatment, because the burying was not accidental. It was deliberate, and it was done twice, on both sides of the Reformation divide.
 
 At the Diet of Regensburg in 1541, the papal strategist Johann Eck reached agreement with the Protestant negotiators Martin Bucer and Philipp Melanchthon on a string of articles -- the condition of man before the fall, free will, the cause of sin, original sin. Four of the five compromises were on the table in a single room.[^a5-regensburg] The canon was the one that got away there; how far it was even conceded at Regensburg is unclear. Rome closed its own canon five years later, at the Council of Trent in 1546 -- a Catholic council, no Protestant in the room -- fixing its Scriptures with the deuterocanon included and pronouncing an anathema on anyone who ranked one book beneath another.[^a5-trent] That was Rome's flat canon.
 
 The Protestants arrived at the same flatness by another road, and it ran through Calvin. By accepting a flat canon -- every book at the same volume -- they surrendered the hermeneutical tool that Luther himself had used to recover justification by faith. Luther ranked the books. Luther called James "an epistle of straw." Luther was honest about the antilegomena. But Calvin's French Confession of 1559 -- thirteen years after Trent -- enumerated the sixty-six as a single, level shelf, every book equally authoritative.[^a5-calvin1559] The Belgic Confession followed in 1561, Westminster in 1646. A different list than Rome's. The same posture. And the men who came after Luther agreed to stop being honest.
 
-Bob Higby identified this as one of five compromises that bound Protestantism to Roman Catholic theological foundations for all time. The other four -- acceptance of free will, the axiom that God cannot author evil, original perfection before the fall, and original sin as a common fall through federal headship -- are addressed throughout this book. But the canon compromise is the one that most directly undermines Chapter 26, because it is the reason most Protestants today have never heard of the homologoumena and antilegomena. The categories were not erased by Rome alone. The Reformers' own confessions signed them away.
+Bob Higby identified this as one of five compromises that bound Protestantism to Roman Catholic theological foundations for all time. The other four (acceptance of free will, the axiom that God cannot author evil, original perfection before the fall, and original sin as a common fall through federal headship) are addressed throughout this book. But the canon compromise is the one that most directly undermines Chapter 26, because it is the reason most Protestants today have never heard of the homologoumena and antilegomena. The categories were not erased by Rome alone. The Reformers' own confessions signed them away.
 
-The framework restores what the confessions set down. The clear interprets the unclear. The homologoumena govern the antilegomena. And the courage to say so is not a departure from the Reformation. It is the recovery of the Reformation's original hermeneutical principle -- the one Luther held, and his heirs let go.
+The framework restores what the confessions set down. The clear interprets the unclear. The homologoumena govern the antilegomena. And the courage to say so is not a departure from the Reformation. It is the recovery of the Reformation's original hermeneutical principle, the one Luther held, and his heirs let go.
 
 **For further study:** 2 Pet. 3:15-16; Acts 17:11; Isa. 8:20; Luke 24:27; Luke 24:44; Rom. 4:5; James 2:17; Heb. 5:12-14; 2 Tim. 3:16-17; Rev. 22:18-19.
 
@@ -115,9 +115,9 @@ The framework restores what the confessions set down. The clear interprets the u
 
 *"Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord"* (Colossians 3:16).
 
-Psalms, hymns, and spiritual songs. All three. Not just psalms (exclusive psalmody). Not just hymns (formal worship). Not just spiritual songs (contemporary praise). All three. The Spirit inspires worship in every form.
+Psalms, hymns, and spiritual songs. All three. Not just psalms (exclusive psalmody), not just hymns (formal worship), not just spiritual songs (contemporary praise). All three. The Spirit inspires worship in every form.
 
-There is no sacred style. There is no profane instrument. God is not honored by pipe organs more than guitars, or by 18th-century meter more than modern melody. He is honored by hearts that mean what they sing. The rendering of worship changes across cultures and centuries. The substance -- a heart in love with Christ -- remains the same.
+There is no sacred style. There is no profane instrument. God is not honored by pipe organs more than guitars, or by 18th-century meter more than modern melody. He is honored by hearts that mean what they sing. The rendering of worship changes across cultures and centuries. The substance, a heart in love with Christ, remains the same.
 
 **For further study:** Ex. 15:1-2; 1 Chron. 16:9; 2 Chron. 5:13; Ps. 33:1-3; Ps. 96:1-2; Ps. 98:4-6; Ps. 100:1-2; Ps. 150:1-6; Eph. 5:19; Col. 3:16; Heb. 2:12; James 5:13; Rev. 5:9; Rev. 14:3; Rev. 15:3.
 
@@ -125,11 +125,11 @@ There is no sacred style. There is no profane instrument. God is not honored by 
 
 *"We have an altar, whereof they have no right to eat which serve the tabernacle"* (Hebrews 13:10).
 
-Christ is the altar. Christ is the sacrifice. Christ is the high priest. And Christ is the Sabbath rest. Every physical element of Old Testament worship -- the altar, the incense, the candles, the robes, the holy furniture -- pointed to Him. Now that the substance has arrived, the shadows are no longer needed.
+Christ is the altar, the sacrifice, the high priest, and the Sabbath rest. Every physical element of Old Testament worship (the altar, the incense, the candles, the robes, the holy furniture) pointed to Him. Now that the substance has arrived, the shadows are no longer needed.
 
 The book of Hebrews makes this explicit. The ornate instruments of Old Testament worship were types and shadows. They served their purpose under the old rendering (Chapter 9). But in the new rendering, we worship in Spirit and in Truth (John 4:24). We don't need crosses on the wall, stained glass windows, candles, robes, or any other physical object to feel that we are worshipping. These things are distractions. They lead the eye to the formality instead of the substance. They create the impression that holiness resides in furniture rather than in Christ.
 
-This is the covenant-before-the-ceremony principle (Chapter 10) applied to worship. The substance is Christ. The ceremony -- the physical trappings, the sacred furniture, the ornate sanctuary -- is the visible expression. And when the visible becomes more important than the invisible, when the furniture becomes the focus instead of the Christ the furniture was supposed to point to, idolatry has crept in through the back door.
+This is the covenant-before-the-ceremony principle (Chapter 10) applied to worship. The substance is Christ. The ceremony (the physical trappings, the sacred furniture, the ornate sanctuary) is the visible expression. And when the visible becomes more important than the invisible, when the furniture becomes the focus instead of the Christ the furniture was supposed to point to, idolatry has crept in through the back door.
 
 I can't condemn anyone for worshipping in a building with a cross on the wall. But I can say this: Christ is the only altar the believer needs. And the Lord will have His people worship Him in Spirit and in Truth, not in wood and stone.
 
@@ -149,9 +149,9 @@ The question is not "is it sin to own an icon?" The question is "does the icon l
 
 ## On Evangelism and Soul Winning
 
-True evangelism means announcing good news. That's it. *Euangelion* -- good news. The Gospel is the announcement that Christ *has already redeemed* His people. It is not an offer requiring acceptance. It is not an invitation requiring a response. It is a proclamation of accomplished salvation.
+True evangelism means announcing good news. That's it. *Euangelion*, good news. The Gospel is the announcement that Christ *has already redeemed* His people. It is not an offer requiring acceptance. It is not an invitation requiring a response. It is a proclamation of accomplished salvation.
 
-Modern soul winning inverts this entirely. It treats evangelism as persuasion -- getting people to make a decision, walk an aisle, pray a prayer. Its two premises are both false: that salvation is found in conversion, and that all men are redeemable. If the premises are wrong, the methods are wrong, and the results are false converts who were never regenerated but were pressured into a profession.
+Modern soul winning inverts this entirely. It treats evangelism as persuasion, getting people to make a decision, walk an aisle, pray a prayer. Its two premises are both false: that salvation is found in conversion, and that all men are redeemable. If the premises are wrong, the methods are wrong, and the results are false converts who were never regenerated but were pressured into a profession.
 
 I will proclaim the Gospel to anyone who will listen. I love it too much to keep quiet. But I will not give out "free offers." I will not use the terrors of hell to scare people into a profession. I will not "love bomb" someone into a church. I will not treat the Gospel as a sales pitch that needs a close.
 
@@ -173,7 +173,7 @@ Some in the sovereign grace world have used election as an excuse to sit still. 
 
 And this is precisely what distinguishes itinerant preaching from the modern "missionary" enterprise. The itinerant preacher goes because Christ said go. He preaches because Christ said preach. He baptizes because Christ said baptize. The results are not his to manufacture. The Spirit applies the word. The preacher delivers it.
 
-The modern enterprise often inverts this. It measures success by conversions. It counts decisions. It reports numbers. It treats the preacher as a salesman and the sinner as a customer. But the Great Commission says nothing about quotas. It says go, teach, and baptize. The imperative is obedience, not results.
+The modern enterprise often inverts this. It measures success by conversions, counts decisions, reports numbers. It treats the preacher as a salesman and the sinner as a customer. But the Great Commission says nothing about quotas. It says go, teach, and baptize. The imperative is obedience, not results.
 
 **We preach to everyone because we don't know who is elect.** The decree is hidden. The Book of Life is not published. I cannot look at a man and know whether God wrote his name in it before the foundation of the world. So I preach to everyone. I teach everyone. I offer the truth to everyone who will hear it. And I trust the Spirit to sort the results.
 
@@ -183,7 +183,7 @@ The Spirit never fails. Not once. Every person God intended to save will be save
 
 This means the urgency of itinerant preaching is obedience, not rescue. I am not preaching to save people FROM God. I am preaching because God commanded it and because the truth is glorious. The elect don't need me to rescue them. The Spirit will bring them in with or without my participation. But Christ told me to go. And going is not optional.
 
-The charge that sovereign grace people don't care about preaching is answered by the Great Commission itself. We preach BECAUSE of sovereignty, not in spite of it. We go BECAUSE the Spirit guarantees the results. We teach BECAUSE the elect will hear. We are not anxious about the outcome because the outcome was settled from eternity. And that freedom -- that certainty that the Spirit will not fail -- is the greatest motivation for itinerant preaching that exists.
+The charge that sovereign grace people don't care about preaching is answered by the Great Commission itself. We preach BECAUSE of sovereignty, not in spite of it. We go BECAUSE the Spirit guarantees the results. We teach BECAUSE the elect will hear. We are not anxious about the outcome because the outcome was settled from eternity. And that freedom, that certainty that the Spirit will not fail, is the greatest motivation for itinerant preaching that exists.
 
 **For further study:** Matt. 10:5-15; Matt. 28:18-20; Mark 16:15; Luke 10:1-12; Luke 24:47; John 10:16; John 17:20; Acts 1:8; Acts 8:26-40; Acts 13:2-4; Acts 16:9-10; Rom. 10:14-17; 1 Cor. 1:21; 1 Cor. 3:5-9; 2 Tim. 4:2.
 

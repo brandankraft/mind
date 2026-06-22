@@ -56,18 +56,18 @@ Read that passage again. "Justification is of God." "By the righteousness of God
 
 These texts teach:
 
-- **Absolute sovereignty** over every person's way and works -- "nothing is done without thee."
-- **Two seeds** created differently from the womb -- the righteous established for grace, the wicked created for wrath.
-- **Predestination before creation** -- "before ever You created him," "before creating them Thou knewest their works for ever and ever."
-- **No human contribution** -- "not by human strength," "neither can any person firm his own step."
-- **Justification by God's righteousness alone** -- "my justification lies with God," "by His righteousness is my transgression blotted out."
-- **The deity of the Messiah** -- "Son of God," "Son of the Most High," "a great God of gods."
+- **Absolute sovereignty** over every person's way and works: "nothing is done without thee."
+- **Two seeds** created differently from the womb: the righteous established for grace, the wicked created for wrath.
+- **Predestination before creation**: "before ever You created him," "before creating them Thou knewest their works for ever and ever."
+- **No human contribution**: "not by human strength," "neither can any person firm his own step."
+- **Justification by God's righteousness alone**: "my justification lies with God," "by His righteousness is my transgression blotted out."
+- **The deity of the Messiah**: "Son of God," "Son of the Most High," "a great God of gods."
 
 This is the same theology presented in this book. Not because we borrowed from the scrolls. Because both derive from the same Scriptures. And it is no wonder that modern scholars have dismissed this theology. It violates their free will and conditional system. The Pharisees of today are the same as yesterday.
 
 ## The Suppression
 
-Modern scholars have largely dismissed the predestinarian theology of the scrolls. The emphasis in Dead Sea Scrolls scholarship has been on the archaeology, the textual variants, the community's practices, and the historical context. The *theology* -- the explicit, unambiguous predestinarianism -- is routinely downplayed, recontextualized, or ignored.
+Modern scholars have largely dismissed the predestinarian theology of the scrolls. The emphasis in Dead Sea Scrolls scholarship has been on the archaeology, the textual variants, the community's practices, and the historical context. The *theology*, the explicit and unambiguous predestinarianism, is routinely downplayed, recontextualized, or ignored.
 
 The Pharisees of the first century suppressed this theology with political power. The scholars of the twentieth and twenty-first centuries suppress it with academic indifference. The method changed. The result is the same.
 
@@ -75,7 +75,7 @@ The Pharisees of the first century suppressed this theology with political power
 
 The Dead Sea Scrolls demonstrate that sovereign grace theology is not a later invention of Augustine, Calvin, or the Reformers. It is the *original* Hebrew theology. The predestinarianism that the church attributes to Calvin in the sixteenth century was already present in Jewish nonconformist communities two centuries before Christ. The Pharisees corrupted it with Greek philosophy. The scrolls preserve what the Pharisees tried to destroy.
 
-This matters because it places the framework of this book in a historical lineage that stretches far beyond the Reformation. The Teacher of Righteousness, Luther, Toplady, Gill, Higby, and this book are all standing in the same stream. Different centuries. Same truth. Same suppression. Same Author behind it all.
+This matters because it places the framework of this book in a historical lineage that stretches far beyond the Reformation. The Teacher of Righteousness, Luther, Toplady, Gill, Higby, and this book are all standing in the same stream. Different centuries, but the same truth, the same suppression, the same Author behind it all.
 
 ## Further Reading
 

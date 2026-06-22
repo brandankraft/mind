@@ -28,7 +28,7 @@ The heart thinks before the head reasons. The firmware precedes the application 
 
 *"I will put my law in their inward parts, and write it in their hearts."* (Jeremiah 31:33)
 
-Jeremiah names the inward parts and the hearts as the place where God writes His law. Not the conscious mind. Not the application layer. The inward parts. The firmware. The new covenant is specifically a firmware-level covenant: the Spirit writes God's law directly where the boot parameters live, beneath conscious awareness, where the man himself cannot reach to edit it. That is regeneration as firmware flash, stated prophetically, six centuries before Christ.
+Jeremiah names the inward parts and the hearts as the place where God writes His law. Not the conscious mind, not the application layer. The inward parts. The firmware. The new covenant is specifically a firmware-level covenant: the Spirit writes God's law directly where the boot parameters live, beneath conscious awareness, where the man himself cannot reach to edit it. That is regeneration as firmware flash, stated prophetically, six centuries before Christ.
 
 ## How Feelings Work
 
@@ -71,7 +71,7 @@ For any given feeling: **which channel sent this?**
 - New firmware? Recognize and follow.
 - Hardware interrupt from the Spirit? Recognize and obey immediately.
 
-Same feeling-type experience. Three different sources. Three different responses. This discernment is the difference between wisdom and confusion.
+Same feeling-type experience, but three different sources and three different responses. This discernment is the difference between wisdom and confusion.
 
 ## The Neuroscience Mapping
 
@@ -96,7 +96,7 @@ The invisible (the feeling) precedes the visible (the interpretation). Substance
 
 *"Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom."* (Psalm 51:6)
 
-David names the inward parts and the hidden part as the place where God makes a man know wisdom. That is the firmware. The hidden part. Not the application layer. The place beneath conscious awareness where God operates directly. David wrote this three thousand years ago. The framework is the attempt to describe the architecture David was already pointing to when he said "hidden part."
+David names the inward parts and the hidden part as the place where God makes a man know wisdom. That is the firmware, the hidden part, not the application layer. The place beneath conscious awareness where God operates directly. David wrote this three thousand years ago. The framework is the attempt to describe the architecture David was already pointing to when he said "hidden part."
 
 ## Groanings and Utterances: Below Language
 
@@ -132,7 +132,7 @@ The Clarkian tradition holds that all knowledge is propositional and all spiritu
 
 **The body responds before the mind can process.** *"When I kept silence, my bones waxed old through my roaring all the day long"* (Psalm 32:3). David's bones responded to unconfessed sin before his conscious mind articulated it. The body knew before the mind spoke. *"My soul thirsteth for God, for the living God"* (Psalm 42:2). Thirst is not a proposition. It is a signal. Pre-verbal, pre-propositional, real information arriving below language.
 
-**Infants respond without propositions.** *"The babe leaped in her womb for joy"* (Luke 1:44). John the Baptist, in utero, responded to the presence of Christ. No application layer. No propositions. No language. Pre-propositional recognition at the firmware level, expressed in a physical leap. A Clarkian must say John's leap was not knowledge. The framework says it was -- information processed at a layer Clark's system does not account for.
+**Infants respond without propositions.** *"The babe leaped in her womb for joy"* (Luke 1:44). John the Baptist, in utero, responded to the presence of Christ. No application layer. No propositions. No language. Pre-propositional recognition at the firmware level, expressed in a physical leap. A Clarkian must say John's leap was not knowledge. The framework says it was: information processed at a layer Clark's system does not account for.
 
 Clark was right that theology is propositional. The sentence is a proposition. Every chapter is built on propositions. But the delivery system for those propositions runs through layers that are not propositional. The Spirit flashes the firmware (not propositional). The feeling arrives (not propositional). The application layer interprets the feeling (propositional). The proposition is the output. But the process that produces it runs through pre-propositional layers that Clark's system has no vocabulary for. The framework extends Clark. It does not reject him. Clark's fortress protects the propositions. The framework explains how the propositions get to the fortress in the first place.
 
@@ -142,7 +142,7 @@ I built the four-layer model on my own, from Scripture and my own experience, wi
 
 **Philosophy.** Michael Polanyi, *Personal Knowledge* (1958) and *The Tacit Dimension* (1966), argued that "we know more than we can tell," and that all knowing is rooted in tacit knowing. Polanyi is the closest philosophical precedent to pre-propositional information. Eugene Gendlin's concept of the "felt sense" in *Focusing* (1978) describes pre-verbal meanings that carry real information before words can form them. Maurice Merleau-Ponty, *Phenomenology of Perception* (1945), developed the idea of pre-reflective consciousness, where the body knows before the mind articulates. William James, *Principles of Psychology* (1890), described the "fringe" of emotional awareness that precedes conscious thought.
 
-**Neuroscience.** Joseph LeDoux, *The Emotional Brain* (1996), mapped the two-pathway model of emotional processing -- the fast subcortical "low road" to the amygdala and the slower cortical "high road" -- that grounds the feelings-before-thoughts sequence cited throughout this appendix. Antonio Damasio, *Descartes' Error* (1994), proposed the somatic marker hypothesis, arguing that body states inform decisions before conscious thought. Daniel Kahneman, *Thinking, Fast and Slow* (2011), distinguished System 1 (fast, pre-conscious) from System 2 (slow, deliberate), mapping the same architecture in different vocabulary. Iain McGilchrist, *The Master and His Emissary* (2009), argued that the right hemisphere attends pre-linguistically to the whole gestalt while the left handles propositions, with the right as primary and the left as the emissary.
+**Neuroscience.** Joseph LeDoux, *The Emotional Brain* (1996), mapped the two-pathway model of emotional processing (the fast subcortical "low road" to the amygdala and the slower cortical "high road") that grounds the feelings-before-thoughts sequence cited throughout this appendix. Antonio Damasio, *Descartes' Error* (1994), proposed the somatic marker hypothesis, arguing that body states inform decisions before conscious thought. Daniel Kahneman, *Thinking, Fast and Slow* (2011), distinguished System 1 (fast, pre-conscious) from System 2 (slow, deliberate), mapping the same architecture in different vocabulary. Iain McGilchrist, *The Master and His Emissary* (2009), argued that the right hemisphere attends pre-linguistically to the whole gestalt while the left handles propositions, with the right as primary and the left as the emissary.
 
 **Theology.** Jonathan Edwards, *Religious Affections* (1746), argued that the affections are the seat of religious experience, not the reason, and that the heart moves before the head articulates. Edwards is the closest theological precedent to what I am arguing, though he did not have neuroscience vocabulary or a layered mind model. He was arguing the same direction with the tools of his era. James K. A. Smith, *Desiring the Kingdom* (2009) and *Imagining the Kingdom* (2013), argues that humans are fundamentally desiring creatures whose pre-reflective liturgical practices shape the heart before the mind articulates doctrine.
 

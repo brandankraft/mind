@@ -10,7 +10,7 @@ The Reformation was built on five solas. *Sola Scriptura. Sola Fide. Sola Gratia
 
 And then the Reformers turned around and built a tradition.
 
-Confessions. Catechisms. Seminaries. Denominations. Hierarchies. Creeds that function exactly like the magisterium they rejected, except with different letterhead. And the five solas, which were supposed to free the church from tradition, became the tradition. The battle cry became the fence. And the men inside the fence forgot that the whole point was to tear fences down.
+Confessions, catechisms, seminaries, denominations, hierarchies, creeds that function exactly like the magisterium they rejected, except with different letterhead. And the five solas, which were supposed to free the church from tradition, became the tradition. The battle cry became the fence. And the men inside the fence forgot that the whole point was to tear fences down.
 
 This book gives the five solas back. Without the fence.
 
@@ -23,7 +23,7 @@ This book gives the five solas back. Without the fence.
 
 The Reformers said *Sola Scriptura* and then signed the Westminster Confession. They said the Bible is the final authority and then built a confessional system that functions as the interpretive authority over the Bible. The confession tells the reader what the Bible means. The denomination enforces the confession. And the man who reads the Bible and arrives at a conclusion the confession does not contain is labeled a heretic, not by the Bible, but by the confession the Bible supposedly stands above.
 
-This book derives everything from Scripture. Not from Augustine. Not from Calvin. Not from the Westminster Confession. Not from any creed, confession, or catechism. From the text.
+This book derives everything from Scripture. Not from Augustine, not from Calvin, not from the Westminster Confession, not from any creed, confession, or catechism. From the text.
 
 The sentence comes from Hebrews 11:3 (*"things which are seen were not made of things which do appear"*), Colossians 1:17 (*"by him all things consist"*), Acts 17:28 (*"in him we live, and move, and have our being"*), and Isaiah 45:7 (*"I make peace, and create evil"*). Every chapter traces back to Scripture through the derivation map in Appendix B. Every position is derived, not inherited. Every objection is answered from the text, not from the tradition. No confession is required. No tradition is assumed.
 
@@ -43,7 +43,7 @@ And Chapter 30 says: if correct doctrine does not save, then incorrect doctrine 
 
 The Reformers said *Sola Gratia* and then most of their heirs reintroduced human contribution through the back door. "God is sovereign, BUT man is responsible to believe." That "but" is the back door. It puts a duty back onto the believer. It makes faith a condition the sinner must meet. And a grace that requires a human condition to activate is not grace alone. It is grace plus cooperation.
 
-This book says: no common grace (Chapter 19). No well-meant offer. No human "responsibility" to savingly believe. Grace is particular. Grace is effectual. Grace is sovereign. The Spirit gives the faith (Ephesians 2:8). The Spirit flashes the firmware (Chapter 16). The Spirit produces the fruit (Galatians 5:22). Man contributes nothing. Not even the believing.
+This book says: no common grace (Chapter 19), no well-meant offer, no human "responsibility" to savingly believe. Grace is particular, effectual, and sovereign. The Spirit gives the faith (Ephesians 2:8). The Spirit flashes the firmware (Chapter 16). The Spirit produces the fruit (Galatians 5:22). Man contributes nothing. Not even the believing.
 
 Rain on the wicked is not grace. It is common bounty, the sustaining of the stage for the sake of the elect (Psalm 92:7). Calling it grace profanes the word. Grace is what Christ did for His bride. It is particular and effectual. It is not shared with the stranger down the street in a "general" sense. A husband who tells his wife he loves someone else too, even "generally," has not honored his wife. And a theology that tells the elect that God "generally" loves the reprobate too has not honored the Bridegroom.
 

@@ -19,7 +19,7 @@ She is a thought God is still thinking. The rendering changed. The body stopped.
 
 **"Why did God take my baby?"**
 
-God did not take the baby from you. The baby is a thought God is still thinking. The rendering was short. The frame was brief. But the thought is eternal. The baby was authored on purpose, and the brevity of the rendering does not diminish the permanence of the thought. And if the baby is among the elect -- and infants who die are addressed in this appendix -- then the next rendering is glory. The baby did not miss anything. The baby skipped the hard frames and arrived at the destination ahead of you. You will see the thought at full resolution.
+God did not take the baby from you. The baby is a thought God is still thinking. The rendering was short. The frame was brief. But the thought is eternal. The baby was authored on purpose, and the brevity of the rendering does not diminish the permanence of the thought. And if the baby is among the elect, and infants who die are addressed in this appendix, then the next rendering is glory. The baby did not miss anything. The baby skipped the hard frames and arrived at the destination ahead of you. You will see the thought at full resolution.
 
 ## On Abortion
 
@@ -33,7 +33,7 @@ Every sin is the same distance from grace, which is no distance at all. The bloo
 
 The child is a specific thought in the mind of God. The disability is a rendering constraint, not a flaw in the thought. The thought is complete. The rendering is limited. And the next rendering will be unlimited.
 
-God did not make a mistake. *"Who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?"* (Exodus 4:11). The Lord made the child. The Lord authored the constraint. And the Lord has a purpose for both -- the child and the constraint -- that extends beyond what any parent can see from inside the current frame.
+God did not make a mistake. *"Who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?"* (Exodus 4:11). The Lord made the child. The Lord authored the constraint. And the Lord has a purpose for both, the child and the constraint, that extends beyond what any parent can see from inside the current frame.
 
 The parent who grieves what their child cannot do is grieving a rendering constraint, not a defective thought. The child is not less of a thought because the rendering is limited. The child is the full thought, rendered at a resolution that does not yet display everything the thought contains. And the day the rendering upgrades, the child will be everything the thought always was. No constraints. No limitations. The full thought at full resolution. And the parent will see the child for the first time as the Author has always seen them.
 
@@ -41,13 +41,13 @@ The parent who grieves what their child cannot do is grieving a rendering constr
 
 **"We've lost what we had."**
 
-The covenant precedes the ceremony (Chapter 10). The substance is still there even when the rendering is strained. The thought that is your marriage -- the thought God is thinking about the two of you together -- did not change because the feelings changed. Feelings are pre-propositional information (Chapter 17). They arrive before the thoughts can process them. The frame you are in right now may feel like the whole story. It is not. It is one frame. And the Author who wrote the frame where you fell in love also wrote the frame where the love deepens through the valley. The glass comes down between husbands and wives the same way it comes down between the soul and God -- slowly, frame by frame, through the hard frames, not around them.
+The covenant precedes the ceremony (Chapter 10). The substance is still there even when the rendering is strained. The thought that is your marriage, the thought God is thinking about the two of you together, did not change because the feelings changed. Feelings are pre-propositional information (Chapter 17). They arrive before the thoughts can process them. The frame you are in right now may feel like the whole story. It is not. It is one frame. And the Author who wrote the frame where you fell in love also wrote the frame where the love deepens through the valley. The glass comes down between husbands and wives the same way it comes down between the soul and God: slowly, frame by frame, through the hard frames, not around them.
 
 ## On Watching Someone You Love Reject God
 
 **"My son doesn't believe."**
 
-The Spirit prepares His people their entire lives before they actually believe (Chapter 16). The grammar stage -- the loading of data -- may take decades. You do not know what frame your son is in. You do not know what the Spirit is loading underneath the surface, beneath awareness, in the firmware your son cannot inspect. You cannot see the filmstrip from above. You can only see the frame you are in. And in this frame, your son does not believe. But the Author who wrote this frame also wrote the next one. And the next. And the one after that. And if your son is elect, the firmware flash is coming. It was decreed before the foundation of the world. And your prayers for him are part of the means the Author ordained to bring it about. Pray. Wait. And trust the Author who sees the whole strip.
+The Spirit prepares His people their entire lives before they actually believe (Chapter 16). The grammar stage, the loading of data, may take decades. You do not know what frame your son is in. You do not know what the Spirit is loading underneath the surface, beneath awareness, in the firmware your son cannot inspect. You cannot see the filmstrip from above. You can only see the frame you are in. And in this frame, your son does not believe. But the Author who wrote this frame also wrote the next one. And the next. And the one after that. And if your son is elect, the firmware flash is coming. It was decreed before the foundation of the world. And your prayers for him are part of the means the Author ordained to bring it about. Pray. Wait. And trust the Author who sees the whole strip.
 
 ## On Forgiving Someone Who Will Not Apologize
 
@@ -55,7 +55,7 @@ The Spirit prepares His people their entire lives before they actually believe (
 
 The frame was authored. The person who hurt you was a character in the story the Author wrote. And the Author who wrote the frame where they hurt you also wrote the frame where Joseph stood before his brothers and said: *"But as for you, ye thought evil against me; but God meant it unto good"* (Genesis 50:20).
 
-Joseph did not excuse his brothers. He did not say "it was okay." He did not pretend the evil was not evil. He said: you meant it for evil. It WAS evil. AND God meant it for good. Both. At the same time. Two layers of one event. The brothers authored the betrayal at the rendering level. God authored the purpose at the thought level. And the purpose was bigger than the pain.
+Joseph did not excuse his brothers, did not say "it was okay," did not pretend the evil was not evil. He said: you meant it for evil. It WAS evil. AND God meant it for good. Both. At the same time. Two layers of one event. The brothers authored the betrayal at the rendering level. God authored the purpose at the thought level. And the purpose was bigger than the pain.
 
 Forgiving them is not excusing them. Forgiving them is releasing the character from a debt the Author already accounted for. The debt is real. The pain is real. And the purpose is real. And the purpose includes the pain. And the Author who wrote the frame where you were hurt also wrote the frame where the hurt becomes the thing that made you who you are now.
 
@@ -89,7 +89,7 @@ The doubt is old firmware sending competing signals to the application layer. Th
 
 **"How do I know I'm saved?"**
 
-Who are you resting in? Not what do you know about the five points. Not can you articulate the ordo salutis. Who are you resting in? If the answer is Christ -- His work, His righteousness, His blood -- then that is the evidence. That rest is the fruit of the firmware flash. The natural man does not rest in Christ. He cannot. The boot parameters do not allow it (1 Corinthians 2:14). The fact that you are asking the question from a position of concern rather than indifference is itself evidence that the Spirit is at work. Indifference does not ask. Concern does. And concern about your salvation is the application layer recognizing that the firmware matters. *"The Spirit itself beareth witness with our spirit, that we are the children of God"* (Romans 8:16).
+Who are you resting in? Not what do you know about the five points. Not can you articulate the ordo salutis. Who are you resting in? If the answer is Christ, His work, His righteousness, His blood, then that is the evidence. That rest is the fruit of the firmware flash. The natural man does not rest in Christ. He cannot. The boot parameters do not allow it (1 Corinthians 2:14). The fact that you are asking the question from a position of concern rather than indifference is itself evidence that the Spirit is at work. Indifference does not ask. Concern does. And concern about your salvation is the application layer recognizing that the firmware matters. *"The Spirit itself beareth witness with our spirit, that we are the children of God"* (Romans 8:16).
 
 ## On When God Feels Silent
 
@@ -97,7 +97,7 @@ Who are you resting in? Not what do you know about the five points. Not can you 
 
 The silence is a frame. The Author did not stop writing. The Spirit did not go silent. The application layer lost reception temporarily.
 
-Think of it this way. The new firmware is still running. It was installed at regeneration and it does not get uninstalled (Chapter 15 -- preservation). But the old firmware is generating noise -- doubt, distraction, exhaustion, grief, sin -- and the noise is drowning out the new firmware's signal. The signal is still there. The reception is blocked by interference at the surface.
+Think of it this way. The new firmware is still running. It was installed at regeneration and it does not get uninstalled (Chapter 15, preservation). But the old firmware is generating noise (doubt, distraction, exhaustion, grief, sin) and the noise is drowning out the new firmware's signal. The signal is still there. The reception is blocked by interference at the surface.
 
 The silence is not God withdrawing. It is the signal-to-noise ratio shifting in a frame the Author wrote on purpose. And the Author who wrote the silent frame also wrote the frame where the signal breaks through again. David knew this: *"How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?"* (Psalm 13:1). David felt the silence. And two verses later: *"But I have trusted in thy mercy; my heart shall rejoice in thy salvation"* (Psalm 13:5). The silence was a frame. The mercy was the filmstrip.
 
@@ -111,13 +111,13 @@ God can. He authored the frame. He knew about it before the first frame of the f
 
 **"I feel guilty about what I enjoy with my spouse."**
 
-God put the Song of Solomon in the canon. He celebrates the one-flesh union. The physical ecstasy between husband and wife is the covenant collapsed into nerve endings. The pleasure is the rendering of the substance. And a God who wrote "his fruit was sweet to my taste" (Song of Solomon 2:3) and "eat, O friends; drink, yea, drink abundantly, O beloved" (Song of Solomon 5:1) is not embarrassed by what He designed. The shame you feel is the law of Plato running in your firmware -- the assumption that the body is lesser than the spirit, that pleasure is suspicious, that sex is tolerable but not celebratory. That assumption came from a Greek philosopher, not from Scripture. The Bible is not ashamed of the body. Plato is.
+God put the Song of Solomon in the canon. He celebrates the one-flesh union. The physical ecstasy between husband and wife is the covenant collapsed into nerve endings. The pleasure is the rendering of the substance. And a God who wrote "his fruit was sweet to my taste" (Song of Solomon 2:3) and "eat, O friends; drink, yea, drink abundantly, O beloved" (Song of Solomon 5:1) is not embarrassed by what He designed. The shame you feel is the law of Plato running in your firmware: the assumption that the body is lesser than the spirit, that pleasure is suspicious, that sex is tolerable but not celebratory. That assumption came from a Greek philosopher, not from Scripture. The Bible is not ashamed of the body. Plato is.
 
 ## On the Fear of Man
 
 **"I'm afraid of what people think of me."**
 
-You are a thought in the mind of God. What people think of you is their rendering of you -- a low-resolution version filtered through their own firmware, their own boot parameters, their own curator. Their opinion of you is not you. You are what God thinks of you. And what God thinks of you was settled before the foundation of the world. *"The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe"* (Proverbs 29:25). The snare is letting a low-resolution rendering of yourself replace the high-resolution thought the Author is thinking. His thought is the real one. Theirs is a rendering of a rendering.
+You are a thought in the mind of God. What people think of you is their rendering of you, a low-resolution version filtered through their own firmware, their own boot parameters, their own curator. Their opinion of you is not you. You are what God thinks of you. And what God thinks of you was settled before the foundation of the world. *"The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe"* (Proverbs 29:25). The snare is letting a low-resolution rendering of yourself replace the high-resolution thought the Author is thinking. His thought is the real one. Theirs is a rendering of a rendering.
 
 ## On Being Born a Certain Way
 
@@ -135,7 +135,7 @@ But the Potter passage is not the whole chapter. Romans 9 opens with love. *"Jac
 
 The old firmware is running a loop. The application layer knows it is wrong but cannot override firmware-level drives. The man white-knuckling his way through sobriety is trying to fix a firmware problem with application-layer willpower. And willpower operates at the surface. The loop operates underneath.
 
-Only the Spirit has root access (Chapter 16). He is the only one who can rewrite the loop. But that does not mean the man does nothing while he waits. Therapy helps you manage the application layer's response to the loop. Accountability puts guardrails at the surface. Medicine, where applicable, addresses the hardware. And all of these are means the Spirit uses -- the same way preaching is a means the Spirit uses to flash the firmware (Chapter 16). The farmer plants and waters. God gives the increase. And the increase, when it comes, happens at the firmware level, beneath awareness, where the loop was always running.
+Only the Spirit has root access (Chapter 16). He is the only one who can rewrite the loop. But that does not mean the man does nothing while he waits. Therapy helps you manage the application layer's response to the loop. Accountability puts guardrails at the surface. Medicine, where applicable, addresses the hardware. And all of these are means the Spirit uses, the same way preaching is a means the Spirit uses to flash the firmware (Chapter 16). The farmer plants and waters. God gives the increase. And the increase, when it comes, happens at the firmware level, beneath awareness, where the loop was always running.
 
 The addiction is not your identity. The addiction is old firmware running code the Author wrote for a season. And the Author who wrote the season also wrote the end of the season. *"Sin shall not have dominion over you: for ye are not under the law, but under grace"* (Romans 6:14). The dominion is temporary. The grace is eternal.
 
@@ -151,9 +151,9 @@ The Author does. He sees the whole filmstrip. He wrote every frame before the fi
 
 This is not the same as doubt. This is not the same as spiritual failure. This may be the hardware.
 
-The four-layer model (Chapter 17) distinguishes the hardware (the brain) from the firmware (the presuppositions) from the operating system (the subconscious) from the application layer (the conscious mind). Depression often originates at the hardware layer -- serotonin, dopamine, cortisol, the neurochemistry that God designed and that operates according to biological processes the Author authored.
+The four-layer model (Chapter 17) distinguishes the hardware (the brain) from the firmware (the presuppositions) from the operating system (the subconscious) from the application layer (the conscious mind). Depression often originates at the hardware layer: serotonin, dopamine, cortisol, the neurochemistry that God designed and that operates according to biological processes the Author authored.
 
-A man whose brain chemistry is malfunctioning is not lacking faith. He is experiencing a rendering constraint on the hardware. Medicine addresses hardware. The Spirit addresses firmware. Therapy addresses the application layer. All three are real. All three have value. And confusing the layers -- telling a man with a chemical imbalance to pray harder -- is like telling a man with a broken leg to walk it off. The leg is hardware. Fix the hardware. And while the hardware is being fixed, the firmware is still running, the Spirit is still present, and the thought that is you is not diminished by the malfunction of the machine that renders it.
+A man whose brain chemistry is malfunctioning is not lacking faith. He is experiencing a rendering constraint on the hardware. Medicine addresses hardware. The Spirit addresses firmware. Therapy addresses the application layer. All three are real. All three have value. And confusing the layers, telling a man with a chemical imbalance to pray harder, is like telling a man with a broken leg to walk it off. The leg is hardware. Fix the hardware. And while the hardware is being fixed, the firmware is still running, the Spirit is still present, and the thought that is you is not diminished by the malfunction of the machine that renders it.
 
 *"He knoweth our frame; he remembereth that we are dust"* (Psalm 103:14). He knows the hardware is fragile. He designed it that way. And He is not disappointed when the dust does what dust does.
 
@@ -161,7 +161,7 @@ A man whose brain chemistry is malfunctioning is not lacking faith. He is experi
 
 **"Why is God doing this to me?"**
 
-Suffering is not punishment. If you are in Christ, ALL your sins -- past, present, and future -- have already been punished. Not in you. In Christ. The chastisement that brought your peace already fell on Him (Isaiah 53:5). God cannot punish you for sins He already punished in His Son. What you are experiencing is the Author writing a frame that conforms you to the image of Christ (Romans 8:29). The suffering is not arbitrary. It has a purpose. And the purpose is not retribution. It is rendering. The Author is making you look more like the Son. And how did the Son become the Savior? Through suffering. *"Though he were a Son, yet learned he obedience by the things which he suffered"* (Hebrews 5:8).
+Suffering is not punishment. If you are in Christ, ALL your sins (past, present, and future) have already been punished. Not in you. In Christ. The chastisement that brought your peace already fell on Him (Isaiah 53:5). God cannot punish you for sins He already punished in His Son. What you are experiencing is the Author writing a frame that conforms you to the image of Christ (Romans 8:29). The suffering is not arbitrary. It has a purpose. And the purpose is not retribution. It is rendering. The Author is making you look more like the Son. And how did the Son become the Savior? Through suffering. *"Though he were a Son, yet learned he obedience by the things which he suffered"* (Hebrews 5:8).
 
 ## On Prayer Under Sovereignty
 
@@ -181,16 +181,16 @@ The Author does. He wrote every frame of it before you drew your first breath. T
 
 The rendering constraints are increasing. Not because God is withdrawing. Because the current rendering is approaching its terminus. The body slows. The memory fades. The strength diminishes. The rendering is degrading, frame by frame, the way all physical rendering degrades under the constraints imposed at Genesis 3:19.
 
-But the thought does not degrade. The thought that is you -- the specific, personal, authored thought in the mind of God -- is as complete today as the day He first thought it. The rendering is limited. The thought is not. And the next rendering has no constraints at all (Chapter 29). No fatigue. No forgetting. No diminishing. The higher resolution body does things the current body cannot. And it does them not because abilities were added but because limitations were removed.
+But the thought does not degrade. The thought that is you (the specific, personal, authored thought in the mind of God) is as complete today as the day He first thought it. The rendering is limited. The thought is not. And the next rendering has no constraints at all (Chapter 29). No fatigue. No forgetting. No diminishing. The higher resolution body does things the current body cannot. And it does them not because abilities were added but because limitations were removed.
 
-The man who cannot remember what he could, who cannot do what he used to, who feels himself diminishing -- he is watching the rendering wind down. But the Author is not winding down. The Author is preparing the upgrade. And the upgrade is closer today than it was yesterday. *"For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day"* (2 Corinthians 4:16). The outward man perishes. The inward man is renewed. Two layers. Two directions. Same person.
+The man who cannot remember what he could, who cannot do what he used to, who feels himself diminishing, he is watching the rendering wind down. But the Author is not winding down. The Author is preparing the upgrade. And the upgrade is closer today than it was yesterday. *"For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day"* (2 Corinthians 4:16). The outward man perishes. The inward man is renewed. Two layers. Two directions. Same person.
 
 ## On Fear of Death
 
 **"I'm afraid to die."**
 
-You are a thought in the mind of God. Thoughts do not end when the hardware stops. The body is the rendering. The thought is you. And when the rendering changes -- when the body shuts down and the physical display goes dark -- the thought continues. The information persists. The Author does not stop thinking you. Death is a rendering constraint, imposed at Genesis 3:19, and it will be removed at the resurrection (Chapter 29). It is not the end of the thought. It is the end of the current rendering. And the next rendering is better. *"For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better"* (Philippians 1:23). Far better. Paul was not dreading it. He was eager for it.
+You are a thought in the mind of God. Thoughts do not end when the hardware stops. The body is the rendering. The thought is you. And when the rendering changes, when the body shuts down and the physical display goes dark, the thought continues. The information persists. The Author does not stop thinking you. Death is a rendering constraint, imposed at Genesis 3:19, and it will be removed at the resurrection (Chapter 29). It is not the end of the thought. It is the end of the current rendering. And the next rendering is better. *"For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better"* (Philippians 1:23). Far better. Paul was not dreading it. He was eager for it.
 
 ## A Final Word
 
-The bedside is where theology earns its keep or exposes itself as theater. The framework holds here because the sentence is not a slogan -- it is a Person. The Author who wrote the frame you are sitting in right now wrote it on purpose, with love, and He is in the room. He was before the frame began. He will be after the frame ends. The sentence holds at the bedside. And so does He.
+The bedside is where theology earns its keep or exposes itself as theater. The framework holds here because the sentence is not a slogan; it is a Person. The Author who wrote the frame you are sitting in right now wrote it on purpose, with love, and He is in the room. He was before the frame began. He will be after the frame ends. The sentence holds at the bedside. And so does He.

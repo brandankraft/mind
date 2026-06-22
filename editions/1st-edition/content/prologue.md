@@ -35,7 +35,7 @@ I was thirty years old. I had no seminary degree. I had no denominational backin
 
 That was over twenty-one years ago. I still hold every doctrine he attacked me for. And I've added a few more since then that would make his original criticism look like a compliment.
 
-This book contains everything I believe. All of it. Not just the parts that are safe to say in Reformed company. Not just the parts that will get a nod from the sovereign grace world. *Everything.* The doctrines that earned me the label "hyper-calvinist." The positions that cost me friendships. And the conclusion that none of my critics expected, that after holding the hardest theology I know how to hold, the last word is love.
+This book contains everything I believe. All of it. Not just the parts that are safe to say in Reformed company, not just the parts that will get a nod from the sovereign grace world. *Everything.* The doctrines that earned me the label "hyper-calvinist." The positions that cost me friendships. And the conclusion that none of my critics expected, that after holding the hardest theology I know how to hold, the last word is love.
 
 I didn't build this framework in a seminary. I built it in the Scriptures, in conversations with a man named Bob Higby who became one of the most important people in my life, in late night sessions on my website, predestinarian.net, and in the slow, painful process of watching the sovereign grace world eat itself alive while I tried to figure out what was true and what was just tribal loyalty dressed up as doctrine.
 

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: The Author, Not the Clock"
 status: draft
-part: I -- The Foundation
+part: I, The Foundation
 ---
 
 # Chapter 4: The Author, Not the Clock
@@ -28,7 +28,7 @@ Whether God created the universe in six twenty-four-hour days or in six ages spa
 
 Now here's where my position will bother the young earth crowd specifically, and I want to be fair about it.
 
-The fossil record is real. The geological layers are real. The light from distant stars is real. The evidence that the universe has significant age is real. I don't deny any of that. But I interpret it differently than both sides of the debate.
+The fossil record is real, and so are the geological layers and the light from distant stars. The evidence that the universe has significant age is real. I don't deny any of that. But I interpret it differently than both sides of the debate.
 
 The typical young earth response to this evidence is that God created the universe with the *appearance* of age. And the typical atheist retort is that this makes God a deceiver, planting fake evidence to mislead honest investigators. And the old earth Christian tries to split the difference by accepting the evidence at face value and harmonizing it with Scripture.
 
@@ -38,7 +38,7 @@ When a novelist writes "it was a dark and stormy night," the novelist isn't lyin
 
 *"He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end."* (Ecclesiastes 3:11)
 
-No man can find out the work that God maketh from the beginning to the end. The Author didn't promise you a transparent timeline. He promised beauty and depth. God is the Author. And He wrote a universe with depth. The fossil record isn't a trick. It's the backstory. The geological layers aren't fake evidence. They're the context of the narrative. The light from distant stars isn't a deception. It's the Author painting a backdrop that extends beyond the edges of the stage.
+No man can find out the work that God maketh from the beginning to the end. The Author didn't promise you a transparent timeline. He promised beauty and depth. God is the Author. And He wrote a universe with depth. The fossil record isn't a trick, the layers aren't fake evidence, the distant starlight isn't a deception. They're the backstory, the context of the narrative, the Author painting a backdrop that extends beyond the edges of the stage.
 
 This doesn't mean the backstory is fictional. In a novel, the backstory is part of the truth of the novel. It's consistent with the story. It holds together. It can be investigated and explored. And it serves the narrative. The same is true of the physical universe. The fossils are there because the Author put them there. The layers are there because the Author put them there. And they're consistent with each other and with the world God is sustaining, because God doesn't do sloppy work.
 
@@ -62,7 +62,7 @@ I addressed this in the previous chapter, but it bears repeating in the context 
 
 The difference matters. If God is a designer, then DNA is a machine that runs independently once built. If God is an Author, then DNA is a thought He is currently thinking. Remove the thought, and the code doesn't just stop running. It vanishes. Every cell in your body, every nucleotide in every strand of DNA, is being sustained right now by a God who hasn't stopped thinking about it.
 
-And this applies to the whole of creation. Not just the living things. *"He telleth the number of the stars; he calleth them all by their names"* (Psalm 147:4). The stars are thoughts. The mountains are thoughts. The laws of physics are thoughts. Gravity is not an impersonal force operating by its own authority. Gravity is a pattern in God's thinking, as reliable as He is, as consistent as His character, and as dependent on His mind as the words on this page are dependent on the mind that wrote them.
+And this applies to the whole of creation. Not just the living things. *"He telleth the number of the stars; he calleth them all by their names"* (Psalm 147:4). The stars are thoughts, and so are the mountains and the laws of physics. Gravity is not an impersonal force operating by its own authority. Gravity is a pattern in God's thinking, as reliable as He is, as consistent as His character, and as dependent on His mind as the words on this page are dependent on the mind that wrote them.
 
 ## Objections and Answers
 

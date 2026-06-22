@@ -8,7 +8,7 @@ part: V -- Salvation
 
 I spent years thinking God was angry with me.
 
-Not in the abstract. In the gut. I would lay in bed at night and feel the weight of every failure, every sinful thought, every shortcoming, and I would think -- *He sees all of this.* And the theology I was absorbing in my early years didn't help, because even the Calvinists I was reading framed justification as something that happened at the cross, or at conversion, or at the moment of faith. Which meant there was a "before." A window of time when God looked at me and saw what I really was. A window when His wrath rested on me. A window when I was genuinely, actually condemned.
+Not in the abstract. In the gut. I would lay in bed at night and feel the weight of every failure, every sinful thought, every shortcoming, and I would think: *He sees all of this.* And the theology I was absorbing in my early years didn't help, because even the Calvinists I was reading framed justification as something that happened at the cross, or at conversion, or at the moment of faith. Which meant there was a "before." A window of time when God looked at me and saw what I really was. A window when His wrath rested on me. A window when I was genuinely, actually condemned.
 
 And I believed it. Most of the sovereign grace world believes it right now.
 
@@ -50,11 +50,11 @@ If justification is from eternity, then the sin that justification addresses was
 
 *"Who verily was foreordained before the foundation of the world, but was manifest in these last times for you."* (1 Peter 1:20)
 
-Christ was foreordained. Not the plan of redemption in the abstract. *Christ* was foreordained. The Person, the sacrifice, the blood, the obedience, the death, the resurrection -- all of it was the decree before any of it was the event. And if the sacrifice was foreordained before the foundation, then the sins it covered were foreordained to be covered before the foundation. The charge was on Christ before the charge existed in time.
+Christ was foreordained. Not the plan of redemption in the abstract. *Christ* was foreordained. The Person, the sacrifice, the blood, the obedience, the death, the resurrection: all of it was the decree before any of it was the event. And if the sacrifice was foreordained before the foundation, then the sins it covered were foreordained to be covered before the foundation. The charge was on Christ before the charge existed in time.
 
 *"Who his own self bare our sins in his own body on the tree."* (1 Peter 2:24)
 
-He bare our sins. Past tense. Accomplished. Finished. Not "offered to bear" or "made it possible to bear." He *bare* them. And if you take the eternal perspective, which is the only perspective God has, He was always bearing them. The tree in time was the rendering of what was always true in the mind of God.
+He bare our sins. The tense is past, the work accomplished and finished. Not "offered to bear" or "made it possible to bear." He *bare* them. And if you take the eternal perspective, which is the only perspective God has, He was always bearing them. The tree in time was the rendering of what was always true in the mind of God.
 
 This eliminates the entire category of "God was angry with me before I believed." No. God was never angry with you if you are in Christ. His wrath was never aimed at you. It was aimed at Christ, who stood in your place from eternity. The cross didn't redirect God's wrath. The cross *displayed* the wrath that was always on Christ, for you, from the beginning.
 
@@ -62,11 +62,11 @@ This eliminates the entire category of "God was angry with me before I believed.
 
 *"When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost."* (John 19:30)
 
-Three words. *It is finished.* Tetelestai. Accomplished. Done. Not "it is begun." Not "it is offered." Not "the first part is done and the rest depends on you." Finished.
+Three words. *It is finished.* Tetelestai, the debt paid in full. Not "it is begun," not "it is offered," not "the first part is done and the rest depends on you." Finished.
 
 And if it is finished, then nothing remains. No additional work. No human contribution. No faith required to *complete* what Christ only *started*. If anything remains after "It is finished," then it wasn't finished. And if it wasn't finished, Christ lied on the cross. That's the logical consequence of any system that makes salvation contingent on anything after Calvary.
 
-The already/not-yet distinction that theologians love to make is real, but it's *experiential*, not actual. From God's perspective, everything about salvation has already occurred. Justification -- done from eternity. Regeneration -- decreed from eternity, rendered in time. Faith -- a gift given at the appointed moment, but decreed from eternity. Glorification -- as certain as justification, because it comes from the same decree. The "not yet" is in our experience. The "already" is in God's mind. And God's mind is the one that matters.
+The already/not-yet distinction that theologians love to make is real, but it's *experiential*, not actual. From God's perspective, everything about salvation has already occurred. Justification: done from eternity. Regeneration: decreed from eternity, rendered in time. Faith: a gift given at the appointed moment, but decreed from eternity. Glorification: as certain as justification, because it comes from the same decree. The "not yet" is in our experience. The "already" is in God's mind. And God's mind is the one that matters.
 
 ## The MCT Ordo Salutis
 
@@ -76,9 +76,9 @@ In Modified Covenant Theology, the order is:
 
 **1. Eternal Justification.**[^c15-eternaljust] God never viewed His people as condemned. This is first because it is first. Before anything else, in the timeless mind of God, the elect were righteous in Christ. This is the foundation on which everything else stands.
 
-**2. Regeneration.** The Spirit flashes the firmware. He changes the boot parameters beneath awareness. This happens in time, but *before faith*. The person does not choose to be regenerated. They don't even know it's happening. The Spirit rewrites the deepest layer of the soul, the presuppositions that live below conscious thought, and the person wakes up different without knowing why. Effectual calling, as the Reformed tradition uses the term, is absorbed into regeneration in this framework. The calling is the means the Spirit uses -- the preaching, the testimony, the Word, the lifelong loading of data that Chapter 16 will describe -- and the regeneration is what the Spirit does through those means. They are two descriptions of one event, not two events.
+**2. Regeneration.** The Spirit flashes the firmware. He changes the boot parameters beneath awareness. This happens in time, but *before faith*. The person does not choose to be regenerated. They don't even know it's happening. The Spirit rewrites the deepest layer of the soul, the presuppositions that live below conscious thought, and the person wakes up different without knowing why. Effectual calling, as the Reformed tradition uses the term, is absorbed into regeneration in this framework. The calling is the means the Spirit uses (the preaching, the testimony, the Word, the lifelong loading of data that Chapter 16 will describe) and the regeneration is what the Spirit does through those means. They are two descriptions of one event, not two events.
 
-**3. Faith and Conversion.** The application layer recognizes the firmware flash and turns. Faith is the *experience* of salvation, not the *cause*. It's a gift (Galatians 5:22), not a duty. The regenerate person doesn't manufacture faith. They receive it. And the moment they receive it, they realize what was always true -- that Christ is theirs and they are His. And the turning follows immediately -- the conscious turning from sin to Christ, the visible expression of the invisible regeneration. The prodigal son realizing he is still a son and getting up and walking home are not two events separated by time. They are one moment. He didn't become a son by walking home. He walked home because he was already a son. And the realization and the walking are the same step.
+**3. Faith and Conversion.** The application layer recognizes the firmware flash and turns. Faith is the *experience* of salvation, not the *cause*. It's a gift (Galatians 5:22), not a duty. The regenerate person doesn't manufacture faith. They receive it. And the moment they receive it, they realize what was always true: that Christ is theirs and they are His. And the turning follows immediately, the conscious turning from sin to Christ, the visible expression of the invisible regeneration. The prodigal son realizing he is still a son and getting up and walking home are not two events separated by time. They are one moment. He didn't become a son by walking home. He walked home because he was already a son. And the realization and the walking are the same step.
 
 **4. Continuous Sanctification.** Growth in grace and knowledge. Not progressive holiness, because Christ IS the believer's holiness. Continuous means ongoing. It means the Spirit keeps teaching, keeps revealing, keeps growing the believer in understanding. But the status never changes. They are as holy the day they first believed as the day they die. We'll develop this fully in Chapter 18.
 
@@ -109,7 +109,7 @@ The prodigal was always a son. Even in the pig pen. Even while spending his inhe
 
 *"For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father."* (Romans 8:15)
 
-The Spirit of adoption. The Spirit doesn't create the adoption. He reveals it. He is the firmware flash that enables the conscious mind to recognize what was always true -- you are a child of God. You always were. The experience is new. The reality is eternal.
+The Spirit of adoption. The Spirit doesn't create the adoption. He reveals it. He is the firmware flash that enables the conscious mind to recognize what was always true: you are a child of God. You always were. The experience is new. The reality is eternal.
 
 *"And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father."* (Galatians 4:6)
 
@@ -121,7 +121,7 @@ Notice the order. *Because ye are sons*, God sent the Spirit. Not "the Spirit wa
 
 Look at the order Jude gives. Sanctified. Preserved. Called. Sanctified *before* called. Preserved *before* called. The sanctification and the preservation preceded the calling. The elect were set apart and kept safe *before* they were effectually called. Before they believed. Before they knew Christ. Before they even existed in time.
 
-This is preservation from eternity, not just preservation after conversion. The "P" in TULIP -- the Perseverance of the Saints -- doesn't go far enough. It starts the clock at conversion. But the framework starts the clock at eternity. The elect were preserved in Christ from before the foundation of the world. They were joined to Him in the decree. And that means they could not and would not die before being effectually called. Every aspect of their lives was ordered by God. They were preserved even while ignorant of Him.
+This is preservation from eternity, not just preservation after conversion. The "P" in TULIP, the Perseverance of the Saints, doesn't go far enough. It starts the clock at conversion. But the framework starts the clock at eternity. The elect were preserved in Christ from before the foundation of the world. They were joined to Him in the decree. And that means they could not and would not die before being effectually called. Every aspect of their lives was ordered by God. They were preserved even while ignorant of Him.
 
 And if they were preserved from eternity, they were never in danger. A man who was justified from eternity and preserved from eternity was never at risk of hell. Not for one second. The wrath of God was never aimed at him. The condemnation was never on him. He was always safe. He just didn't know it yet.
 
@@ -133,7 +133,7 @@ The cross is the eternal decree collapsed into history. We established in Chapte
 
 Eternal redemption. Not temporary. Not conditional. Not "possible if you believe." Eternal. Obtained. Finished. And obtained *by His own blood*. Not by your faith. Not by your works. Not by your decision. By His blood.
 
-This is substitutionary atonement. Christ stood in the place of His people as their surety. Their sin was charged to Him. His righteousness was charged to them. As we saw earlier, He bore our sins in His own body on the tree (1 Peter 2:24) -- and in doing so, He bore THEIR sins. In HIS body. On the tree. That is substitution. The innocent dying in the place of the guilty. The Surety paying the debt of those He represented. And because the substitution was particular -- for the elect only -- every sin it covered was actually covered. No leftover debt. No unpaid balance. No one for whom Christ died who remains under condemnation. The substitution was complete because the Substitute was God. And God does not fail.
+This is substitutionary atonement. Christ stood in the place of His people as their surety. Their sin was charged to Him. His righteousness was charged to them. As we saw earlier, He bore our sins in His own body on the tree (1 Peter 2:24), and in doing so, He bore THEIR sins. In HIS body. On the tree. That is substitution. The innocent dying in the place of the guilty. The Surety paying the debt of those He represented. And because the substitution was particular, for the elect only, every sin it covered was actually covered. No leftover debt. No unpaid balance. No one for whom Christ died who remains under condemnation. The substitution was complete because the Substitute was God. And God does not fail.
 
 Christ didn't make salvation *possible*. He *accomplished* it. This is the difference between particular redemption and universal atonement. Universal atonement says Christ died for everyone and salvation becomes effective when the sinner believes. Particular redemption says Christ died for the elect only and His death *accomplished* their salvation completely, without remainder, without condition.
 
@@ -141,23 +141,23 @@ And particular redemption is the only view that takes "It is finished" seriously
 
 ## The Obedience of One
 
-But the blood is only half of what was imputed. The death of Christ pays for what His people *did*. It does not, by itself, supply what they failed to *do*. The law demanded more than a penalty for breaking it. It demanded a life that kept it. His people owed both debts, and the Surety paid both -- His death for their sins, His life for their righteousness. Theologians call the two sides His *passive obedience*, the suffering that paid the penalty, and His *active obedience*, the living that kept the law.
+But the blood is only half of what was imputed. The death of Christ pays for what His people *did*. It does not, by itself, supply what they failed to *do*. The law demanded more than a penalty for breaking it. It demanded a life that kept it. His people owed both debts, and the Surety paid both: His death for their sins, His life for their righteousness. Theologians call the two sides His *passive obedience*, the suffering that paid the penalty, and His *active obedience*, the living that kept the law.
 
 Christ's obedience was far more than outward legal compliance with Sinai. He was obedient to the Father's will in *all* things. Every thought. Every word. Every act. Every moment of thirty-three years. Obedient in the wilderness. Obedient in the garden. Obedient on the cross. Obedient unto death.
 
 *"For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous."* (Romans 5:19)
 
-By the obedience of one. Not by the death of one only, though the death is central. By the *obedience*. The entire life of Christ -- His perfect submission to the Father, His total conformity to the divine will, His righteous living from cradle to grave -- all of it is imputed to His sheep. Not infused, as Rome teaches. Not earned by their faith. Imputed by God's decree. The righteousness of Christ is the righteousness of every believer. And it's a perfect righteousness. Not partial. Not progressive. Perfect and complete, covering every sin from eternity to eternity.
+By the obedience of one. Not by the death of one only, though the death is central. By the *obedience*. The entire life of Christ (His perfect submission to the Father, His total conformity to the divine will, His righteous living from cradle to grave), all of it is imputed to His sheep. Not infused, as Rome teaches. Not earned by their faith. Imputed by God's decree. The righteousness of Christ is the righteousness of every believer. And it's a perfect righteousness. Not partial. Not progressive. Perfect and complete, covering every sin from eternity to eternity.
 
 *"For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him."* (2 Corinthians 5:21)
 
-The whole transaction is in that one verse. Made *sin* -- there is the charge, laid on the One who knew no sin. Made *the righteousness of God* -- there is the credit, given to the ones who had none. Two imputations. One exchange. He received what they earned. They received what He earned. And neither side of the exchange was earned by its receiver. The tradition calls it *double imputation*. Paul calls it being *made* -- made sin, made righteousness.
+The whole transaction is in that one verse. Made *sin*: there is the charge, laid on the One who knew no sin. Made *the righteousness of God*: there is the credit, given to the ones who had none. Two imputations. One exchange. He received what they earned. They received what He earned. And neither side of the exchange was earned by its receiver. The tradition calls it *double imputation*. Paul calls it being *made*: made sin, made righteousness.
 
-And this is the rest of the answer for the man lying awake at night, because forgiveness alone would not have been enough. Forgiveness brings the account to zero. It cancels the debt and leaves you standing there with nothing -- not guilty, but not righteous either. That is not what the gospel gives. When God looks at one of His own, He does not see a pardoned sinner with an empty ledger. He sees the thirty-three years. He sees the wilderness obedience and the garden obedience and the cross obedience, credited as though you had lived every moment of it. The elect were never rendered unclothed in the mind of God. The robe was on them before the rags existed.
+And this is the rest of the answer for the man lying awake at night, because forgiveness alone would not have been enough. Forgiveness brings the account to zero. It cancels the debt and leaves you standing there with nothing, not guilty, but not righteous either. That is not what the gospel gives. When God looks at one of His own, He does not see a pardoned sinner with an empty ledger. He sees the thirty-three years. He sees the wilderness obedience and the garden obedience and the cross obedience, credited as though you had lived every moment of it. The elect were never rendered unclothed in the mind of God. The robe was on them before the rags existed.
 
 *"And this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS."* (Jeremiah 23:6)
 
-It is His *name*. Not a title He earned late, not a role He performs on request. The LORD our righteousness. And the name was given through Jeremiah six hundred years before Bethlehem -- because the righteousness, like the justification it secures, was never waiting on time.
+It is His *name*. Not a title He earned late, not a role He performs on request. The LORD our righteousness. And the name was given through Jeremiah six hundred years before Bethlehem, because the righteousness, like the justification it secures, was never waiting on time.
 
 ## Objections and Answers
 
@@ -165,15 +165,15 @@ It is His *name*. Not a title He earned late, not a role He performs on request.
 
 The cross didn't create the justification. It *rendered* the justification. In the framework, the invisible precedes the visible. The thought precedes the matter. The decree precedes the event. Justification was the decree. The cross was the event. The cross was necessary because God determined to display His justice and mercy in time, in blood, in history. The decree was always real. But the rendering made it visible to the creatures living inside the filmstrip. Christ's death didn't change anything in the mind of God. It changed everything in the experience of the elect.
 
-**"Ephesians 2:3 says we were 'by nature children of wrath' -- God was angry with the elect before conversion."**
+**"Ephesians 2:3 says we were 'by nature children of wrath'; God was angry with the elect before conversion."**
 
-I understand why this verse trips people up. It's strong language. And if you stop at verse 3, it sounds like God's wrath was on the elect. But Paul doesn't stop at verse 3. The very next words are: *"But God, who is rich in mercy, for his great love wherewith he loved us"* (Ephesians 2:4). Not a love that began at conversion. Not a mercy that kicked in when you believed. A love *wherewith* He loved us -- already in motion, already there, breaking into the temporal frame.
+I understand why this verse trips people up. It's strong language. And if you stop at verse 3, it sounds like God's wrath was on the elect. But Paul doesn't stop at verse 3. The very next words are: *"But God, who is rich in mercy, for his great love wherewith he loved us"* (Ephesians 2:4). Not a love that began at conversion. Not a mercy that kicked in when you believed. A love *wherewith* He loved us, already in motion, already there, breaking into the temporal frame.
 
-The elect experienced the *consequences* of being in a fallen world -- ignorance of God, bondage to sin, the weight of guilt. For a time, before conversion, they lived under the same temporal conditions as the reprobate. But God's wrath never actually rested on them. "Children of wrath" describes temporal experience, not eternal standing. The same way the prodigal son was in the pig pen -- really there, really suffering, really miserable -- but never ceased being a son. And verse 4 is the Father running down the road.
+The elect experienced the *consequences* of being in a fallen world: ignorance of God, bondage to sin, the weight of guilt. For a time, before conversion, they lived under the same temporal conditions as the reprobate. But God's wrath never actually rested on them. "Children of wrath" describes temporal experience, not eternal standing. The same way the prodigal son was in the pig pen (really there, really suffering, really miserable) but never ceased being a son. And verse 4 is the Father running down the road.
 
 **"Romans 8:30 says 'whom he justified' in the past tense. That implies a point in time when justification occurred."**
 
-The golden chain -- predestinated, called, justified, glorified -- describes one thought rendered in sequence for our experience. The aorist tense in Greek describes a completed action. But completed from whose perspective? From God's. The Author sees the whole filmstrip at once (Chapter 2). Every link in the chain is already finished in His mind. Paul is not describing a temporal sequence. He is describing an eternal thought that the character experiences sequentially. The predestinating, the calling, the justifying, and the glorifying are one act seen from four angles -- the same way justification is one thought expressed in three frames (Chapter 2). The past tense is the Author's past tense. Not the character's.
+The golden chain (predestinated, called, justified, glorified) describes one thought rendered in sequence for our experience. The aorist tense in Greek describes a completed action. But completed from whose perspective? From God's. The Author sees the whole filmstrip at once (Chapter 2). Every link in the chain is already finished in His mind. Paul is not describing a temporal sequence. He is describing an eternal thought that the character experiences sequentially. The predestinating, the calling, the justifying, and the glorifying are one act seen from four angles, the same way justification is one thought expressed in three frames (Chapter 2). The past tense is the Author's past tense. Not the character's.
 
 **"Limited atonement makes God stingy."**
 

@@ -27,7 +27,7 @@ Every book has acknowledgments. Most of them are formal. This one is going to be
 
 **The Pristine Grace community.** For nearly three decades I have received thousands of messages from the saints scattered all over the world, and their words have been encouraging. This book is for them as much as it is for me.
 
-**Mike Dickmann.** Thank you for making Grace Baptist Chapel available. I miss the fellowship there, and I appreciate the way those believers attended their meetings -- participatory, body-driven, the ekklesia in practice. Grace Baptist Chapel was also the environment I needed in order to learn from Bob. It was there that Bob showed up after he found my website, and the first real in-person years of the theological partnership that became this book took place under Mike's roof. The chapel was the room the Author authored for the work to begin.
+**Mike Dickmann.** Thank you for making Grace Baptist Chapel available. I miss the fellowship there, and I appreciate the way those believers attended their meetings: participatory, body-driven, the ekklesia in practice. Grace Baptist Chapel was also the environment I needed in order to learn from Bob. It was there that Bob showed up after he found my website, and the first real in-person years of the theological partnership that became this book took place under Mike's roof. The chapel was the room the Author authored for the work to begin.
 
 **Rick Hein, John Lanferman, Sam Poe, and Bryan Mowrey.** Of Jubilee Church in St. Louis, Missouri. Rick, John, and Sam were the three elders who removed me from the assembly. As Rick delivered the verdict, he said to me: *"One day, you will look back on this moment, and come to thank me."* The removal was painful at the time. It was also the environment I needed in order to learn. Being cast out of one body taught me that the institution is not the covenant, and the same lesson later became the architecture of Chapter 23 and the diagnosis of Appendix N. These three men were the mechanism whether they knew it or not. Bryan was my small group leader at Jubilee. He handed me John Piper's *What We Believe About the Five Points of Calvinism* after a small group meeting, and that paper set the fire that became this book. When the removal came, Bryan pleaded with me in my living room, prayed with me, and begged me to repent. I refused. He walked away. I still love him. I still miss him. The paper he handed me is underneath every page that follows. And the people of Jubilee Church, whose participatory worship shaped me in ways I have carried for twenty-five years, are in the architecture of Chapter 23 and in the song "Every One of You" on Sweet Release. The ekklesia I glimpsed in those meetings was a gift. And today, in print, I answer the line Rick left me standing in that doorway with: *You were right, brother.*
 
@@ -45,7 +45,7 @@ Every book has acknowledgments. Most of them are formal. This one is going to be
 
 **John Reisinger.** His periodical *Sound of Grace* was the bridge I walked from Dispensationalism into New Covenant Theology and eventually into Bob's Modified Covenant Theology. Reisinger articulated the discontinuity between the old and new covenants with a precision Dispensationalism lacked, and his patient teaching in print opened the door for the covenantal framework this book renders. I named MCT. Reisinger's bridge made the naming possible.
 
-**Henry Mahan.** Decades in the pulpit, and not a single Sunday spent on anything but Christ crucified. Mahan preached free grace the way it was meant to be preached -- not as a system to defend, not as a label to wear, but as the news of a finished work. He kept the warmth in it when warmth was the first thing the sovereign grace world lost. He kept the joy in it when joy was the first thing nitpickery drained out. When half the brethren calcified into doctrinal gatekeeping and the other half stopped preaching altogether, Mahan stayed in the pulpit. Generations of sovereign grace men learned from him -- some in person, most through the tapes and the sermons -- and absorbed a cadence the academy could not have taught them. The Lord used him to keep the Gospel audible across a generation that nearly forgot how to preach it. I am grateful for him.
+**Henry Mahan.** Decades in the pulpit, and not a single Sunday spent on anything but Christ crucified. Mahan preached free grace the way it was meant to be preached, not as a system to defend, not as a label to wear, but as the news of a finished work. He kept the warmth in it when warmth was the first thing the sovereign grace world lost. He kept the joy in it when joy was the first thing nitpickery drained out. When half the brethren calcified into doctrinal gatekeeping and the other half stopped preaching altogether, Mahan stayed in the pulpit. Generations of sovereign grace men learned from him, some in person, most through the tapes and the sermons, and absorbed a cadence the academy could not have taught them. The Lord used him to keep the Gospel audible across a generation that nearly forgot how to preach it. I am grateful for him.
 
 **Don Fortner.** Fortner helped me see clearly that the law was fully abolished. He preached the end of the law with a pastoral clarity most sovereign grace men never reach. No tripartite division. No third use. No new law reinstated in covenant dress. The believer is dead to the law, and Christ is the rule (Romans 7:4, 2 Corinthians 5:14). Fortner held this without bitterness, and his voice was the voice that finally let me stop straining for a standard Christ had already fulfilled on my behalf. Chapter 20 carries his fingerprint. Appendix A3 carries his work on prevenient grace. He freed me from a law that was never mine to carry.
 
@@ -73,43 +73,43 @@ Every book has acknowledgments. Most of them are formal. This one is going to be
 
 What follows is the book in one column. Every name in the long-form above gave one specific thing to the architecture, and I have tried to name that thing in a single phrase. Read the list as both an index and a benediction. The line beside the name is the thank-you.
 
-- The Father -- the Author
-- Christ -- the Author who stepped into the story
-- The Holy Spirit -- the firmware
-- Angie -- the anchor & *covenant companion*
-- Cole -- the humility
-- Wayne and Carole -- the foundation
-- Aaron -- the roots
-- Joyce -- the simplicity
-- Mick and Darlene -- the faithfulness
-- Bob -- the bricks
-- Greg -- the friendship
-- Eileen -- the tenderness lived
-- Nick -- the encouragement
-- The facilitators -- the forum
-- The PG community -- the saints
-- Dickmann -- the chapel
-- Hein -- the dismissal
-- Drew and Melinda / The Jackson saints -- the gospel lived
-- Byrd -- the pulpit
-- Tate -- the warmth
-- The Ashland saints -- the welcome
-- Erkel / Zens / Reisinger -- the body / covenants
-- Mahan -- the Gospel kept audible
-- Fortner -- the abolition
-- Clark -- the logic
-- Gill -- the scholarship
-- Spurgeon -- the heart
-- Swindoll -- the tenderness installed
-- Piper -- the catalyst
-- Sproul -- the example
-- Luther -- the bravery
-- Brinsmead -- the stream
-- Robbins / Trinity -- the keeper
-- Carpenter -- the warning
-- Bain / Heath -- the friends the fence claimed
+- The Father: the Author
+- Christ: the Author who stepped into the story
+- The Holy Spirit: the firmware
+- Angie: the anchor & *covenant companion*
+- Cole: the humility
+- Wayne and Carole: the foundation
+- Aaron: the roots
+- Joyce: the simplicity
+- Mick and Darlene: the faithfulness
+- Bob: the bricks
+- Greg: the friendship
+- Eileen: the tenderness lived
+- Nick: the encouragement
+- The facilitators: the forum
+- The PG community: the saints
+- Dickmann: the chapel
+- Hein: the dismissal
+- Drew and Melinda / The Jackson saints: the gospel lived
+- Byrd: the pulpit
+- Tate: the warmth
+- The Ashland saints: the welcome
+- Erkel / Zens / Reisinger: the body / covenants
+- Mahan: the Gospel kept audible
+- Fortner: the abolition
+- Clark: the logic
+- Gill: the scholarship
+- Spurgeon: the heart
+- Swindoll: the tenderness installed
+- Piper: the catalyst
+- Sproul: the example
+- Luther: the bravery
+- Brinsmead: the stream
+- Robbins / Trinity: the keeper
+- Carpenter: the warning
+- Bain / Heath: the friends the fence claimed
 
-And to Cheryl Absher, Milton Almeida, David Alvord, Darlene Arthur, Kyle Baker, Deryl Baumgardner, Gilbert Beebe, Donnie Bell, W.E. Best, David Bishop, Linda Black, Larry Brown, Geneva Burns, Nancy Byrd, John Calvin, Andrew Carpenter, Monty Collier, Mary Covington, Bruce and Cindy Crabtree, Chris Cunningham, Katie Cunningham, Darryl Dunn, Cynthia Earnshaw, Jonathan Edwards, George Ella, Terry and Danita Elliott, Greg Elmquist, Brenda Fatchett, Travis Findley, William Gadsby, Ron and Sherry Gatewood, Sean Gerety, Gabriel Gonzalez, Jeff Greer, Ron and Carol Gregg, Danny Harris, Dan Higby, Ruth Higby, Herman Hoeksema, Tammi and Chip Holbrook, Carol Huckle, Roger Huckle, Caroline, Faycal, Zayn, Aiden, and Amelia Ibnabdeljalil, Renat Ilyasov, Gail and Alan Ison, Marc Jacobsson, Tim and Debbie James, James Johnson, Phil Johnson, Ray Johnson, Abe and Carol Keil, Dan and Debbie Keuss, Ray Kickert, Joe Kinney, Mike Krall, Paul Kuehne, Ron and Wendy Kuehne, Nicholas Laurienzo, Matt Lemmings, Wendy Lester, Marty Lewis, Keith Mathis, Jennifer Maynard, Don and Cynthia McClean, Bill McDaniel, Glenn McGrew, Norman McGrew, Al and Rita Meek, Craig Miklosik, Tom and Anitra Morgan, C.C. Morris, Conrad Murrell, John Newton, Todd Nibert, Dan O'Dell, Scott O'Nanski, Crystal and Brady Osburn, Bill and Debbie Parker, Phyllis Payne, John Pedersen, Bill and Connie Pemberton, Paula Pendleton, Bill and Theresa Pennington, Stanley Phillips, J.C. Philpot, Leta Picklesimer, A.W. Pink, Ian Potts, Scott Price, Nathan Rages, Cassie Reagan, Becky Reffit, Glenda Rodriguez, Julie Ruell, J.C. Ryle, Carl and Jean Shannon, Gary Shepard, Charles Shofstahl, Karen Smallwood, Jason and Alissa Smith, Larry and Nina Smith, Mikal Smith, Chuck and Susan Stapleton, Janet Tate, Joe and Bonnie Terrell, Stan and Sheila Terry, Ivor Thomas, Jim Thompson, James Tippins, Augustus Toplady, Ron and Trish Trabrandt, Joe and Jill Turner, Brandon Tussey, Mary Kathryn Valencourt, Richard Warmack, Paul Washer, Norm Wells, John Wetzel, Chuck Wiese, Steve and Myrna Winchester, Pam Winegar (Batman's wife), Richard and Cora Winters, and every person whose name should be here but isn't -- thank you.
+And to Cheryl Absher, Milton Almeida, David Alvord, Darlene Arthur, Kyle Baker, Deryl Baumgardner, Gilbert Beebe, Donnie Bell, W.E. Best, David Bishop, Linda Black, Larry Brown, Geneva Burns, Nancy Byrd, John Calvin, Andrew Carpenter, Monty Collier, Mary Covington, Bruce and Cindy Crabtree, Chris Cunningham, Katie Cunningham, Darryl Dunn, Cynthia Earnshaw, Jonathan Edwards, George Ella, Terry and Danita Elliott, Greg Elmquist, Brenda Fatchett, Travis Findley, William Gadsby, Ron and Sherry Gatewood, Sean Gerety, Gabriel Gonzalez, Jeff Greer, Ron and Carol Gregg, Danny Harris, Dan Higby, Ruth Higby, Herman Hoeksema, Tammi and Chip Holbrook, Carol Huckle, Roger Huckle, Caroline, Faycal, Zayn, Aiden, and Amelia Ibnabdeljalil, Renat Ilyasov, Gail and Alan Ison, Marc Jacobsson, Tim and Debbie James, James Johnson, Phil Johnson, Ray Johnson, Abe and Carol Keil, Dan and Debbie Keuss, Ray Kickert, Joe Kinney, Mike Krall, Paul Kuehne, Ron and Wendy Kuehne, Nicholas Laurienzo, Matt Lemmings, Wendy Lester, Marty Lewis, Keith Mathis, Jennifer Maynard, Don and Cynthia McClean, Bill McDaniel, Glenn McGrew, Norman McGrew, Al and Rita Meek, Craig Miklosik, Tom and Anitra Morgan, C.C. Morris, Conrad Murrell, John Newton, Todd Nibert, Dan O'Dell, Scott O'Nanski, Crystal and Brady Osburn, Bill and Debbie Parker, Phyllis Payne, John Pedersen, Bill and Connie Pemberton, Paula Pendleton, Bill and Theresa Pennington, Stanley Phillips, J.C. Philpot, Leta Picklesimer, A.W. Pink, Ian Potts, Scott Price, Nathan Rages, Cassie Reagan, Becky Reffit, Glenda Rodriguez, Julie Ruell, J.C. Ryle, Carl and Jean Shannon, Gary Shepard, Charles Shofstahl, Karen Smallwood, Jason and Alissa Smith, Larry and Nina Smith, Mikal Smith, Chuck and Susan Stapleton, Janet Tate, Joe and Bonnie Terrell, Stan and Sheila Terry, Ivor Thomas, Jim Thompson, James Tippins, Augustus Toplady, Ron and Trish Trabrandt, Joe and Jill Turner, Brandon Tussey, Mary Kathryn Valencourt, Richard Warmack, Paul Washer, Norm Wells, John Wetzel, Chuck Wiese, Steve and Myrna Winchester, Pam Winegar (Batman's wife), Richard and Cora Winters, and every person whose name should be here but isn't. Thank you.
 
 Some of the names on this list are men I disagreed with deeply. Some preached against me from pulpits without ever picking up the phone. Some labeled me things I would never call myself. I include them because the Author put them in the filmstrip with me, and every one of them, whether they know it or not, contributed to the man who wrote this book. Iron sharpens iron. Even when the iron draws blood.
 

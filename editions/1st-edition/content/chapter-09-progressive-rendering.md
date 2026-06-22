@@ -42,7 +42,7 @@ Jesus Himself said it:
 
 *"I have yet many things to say unto you, but ye cannot bear them now. Howbeit when he, the Spirit of truth, is come, he will guide you into all truth."* (John 16:12-13)
 
-*"Guide you into all truth."* Not hand it to you all at once. Not download it instantly. *Guide you into.* That's a journey. A process. Something that happens over time. The Spirit would teach them. He would reveal things to them. He would increase the resolution as they were ready for it.
+*"Guide you into all truth."* Not handed to you all at once, not downloaded instantly. *Guide you into.* That's a journey, a process that unfolds over time. The Spirit would teach them. He would reveal things to them. He would increase the resolution as they were ready for it.
 
 And if Jesus Himself said the apostles needed time, if He said they had to be guided into truth step by step, then why do we expect ourselves or anyone else to get it all immediately?
 

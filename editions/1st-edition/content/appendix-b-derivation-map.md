@@ -40,7 +40,7 @@ The sentence has five load-bearing clauses. Each clause generates a set of impli
                   H, I, J, N, O
 ```
 
-The sentence is the center. Every chapter and appendix is a spoke. Not in sequence -- simultaneously. The system does not unfold like a story with chapters added one at a time. It radiates from one proposition into every domain at once.
+The sentence is the center. Every chapter and appendix is a spoke. Not in sequence. Simultaneously. The system does not unfold like a story with chapters added one at a time. It radiates from one proposition into every domain at once.
 
 ## The Reach
 
@@ -139,7 +139,7 @@ One sentence. Every domain. The sentence is the center and every domain is a spo
 
 **Chapter 23: The Church.** "Personal covenants" means the church is a gathering of the covenant people, not an institution. Participatory, not one-man-pulpit. The church derives from the covenant clause applied to ecclesiology. The covenant is personal, so the gathering is personal.
 
-**Chapter 24: Women in Ministry.** "Held together by personal covenants of love" applied through the substance-before-shadow principle (Chapter 10) and liberty (Chapter 21). The authority structure is the thought. The covering is the rendering. Complementarian, but the pulpit shouldn't exist for anyone. Head coverings -- the hair is the natural rendering God already provided. Conscience decides matters of liberty. Derives from the covenant clause intersecting with substance-over-formality and the participatory ecclesiology of Chapter 23.
+**Chapter 24: Women in Ministry.** "Held together by personal covenants of love" applied through the substance-before-shadow principle (Chapter 10) and liberty (Chapter 21). The authority structure is the thought. The covering is the rendering. Complementarian, but the pulpit shouldn't exist for anyone. Head coverings: the hair is the natural rendering God already provided. Conscience decides matters of liberty. Derives from the covenant clause intersecting with substance-over-formality and the participatory ecclesiology of Chapter 23.
 
 **Chapter 25: Presuppositionalism -- All Reasoning Is Circular.** "A thought in the mind of God" means all knowledge is derivative. We do not discover truth. We receive it. The boot parameters determine what we can see. All reasoning is circular because the Author is the substrate. No neutral ground. The system predicts its own rejection (1 Corinthians 2:14). The framework and TULIP arrived at the same place from different roads. Derives from the ontological clause applied to how we know what we know.
 

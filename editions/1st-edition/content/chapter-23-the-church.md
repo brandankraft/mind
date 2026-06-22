@@ -24,13 +24,13 @@ I'm not angry. I'm not disgruntled. I love the people in these churches. I still
 
 ## What "Church" Actually Means
 
-The English word "church" comes from the Greek *kuriakon*, meaning "the Lord's house." But that's not the word in the New Testament. The word in the New Testament is *ekklesia*. And *ekklesia* does not mean a house. It does not mean a building. It does not mean a religious service. It does not mean an institution with a pastor, a board, and a tax exemption.
+The English word "church" comes from the Greek *kuriakon*, meaning "the Lord's house." But that's not the word in the New Testament. The word in the New Testament is *ekklesia*. And *ekklesia* does not mean a house, a building, or a religious service. It does not mean an institution with a pastor, a board, and a tax exemption.
 
 *Ekklesia* means a called-out assembly. A decision-making body. In secular Greek, an *ekklesia* was the assembly of citizens who gathered to deliberate and make decisions for the city. It was participatory by definition. Every citizen had a voice. Every member of the assembly contributed to the deliberation. It was not a lecture hall. It was not an audience watching a speaker. It was a body of equals, assembled for a purpose, making decisions together.
 
-When the New Testament writers used this word, they chose it deliberately. They didn't use *synagoge*, which was the Jewish word for a gathering place. They didn't use *oikos* for a household, or *naos* for a temple. They used *ekklesia* -- the word for a participatory, decision-making assembly. And that choice tells you everything about what the church was supposed to be.
+When the New Testament writers used this word, they chose it deliberately. They didn't use *synagoge*, which was the Jewish word for a gathering place. They didn't use *oikos* for a household, or *naos* for a temple. They used *ekklesia*, the word for a participatory, decision-making assembly. And that choice tells you everything about what the church was supposed to be.
 
-The mistranslation happened centuries ago when the word *ekklesia* was rendered as "church" in English Bibles, borrowing from *kuriakon* -- the Lord's house. And with that one translation decision, the concept shifted from a *gathering of people who participate* to a *building where people attend*. From a verb to a noun. From something the body *does* to somewhere the body *goes*.
+The mistranslation happened centuries ago when the word *ekklesia* was rendered as "church" in English Bibles, borrowing from *kuriakon*, the Lord's house. And with that one translation decision, the concept shifted from a *gathering of people who participate* to a *building where people attend*. From a verb to a noun. From something the body *does* to somewhere the body *goes*.
 
 That single mistranslation has shaped the entire Western concept of church. We "go to church" on Sunday. We "join a church." We "leave a church." All of this language treats the church as a location, an institution, a thing external to the people. But the *ekklesia* is the people. It's not where they go. It's what they are when they gather.
 
@@ -46,7 +46,7 @@ The critique is of the structure, not of every man stewarding it. The faithful p
 
 *"How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying."* (1 Corinthians 14:26)
 
-*Every one of you.* Not one of you. Every one. When the Corinthian church gathered, the expectation was participation. Multiple people contributed. One had a psalm. Another had a doctrine. Another had a revelation. The meeting was a body in motion, not an audience at a lecture. And Paul doesn't correct this model. He endorses it. He says *let all things be done unto edifying* -- keep it orderly, keep it constructive, but the participation itself is the design.
+*Every one of you.* Not one of you. Every one. When the Corinthian church gathered, the expectation was participation. Multiple people contributed. One had a psalm. Another had a doctrine. Another had a revelation. The meeting was a body in motion, not an audience at a lecture. And Paul doesn't correct this model. He endorses it. He says *let all things be done unto edifying*: keep it orderly, keep it constructive, but the participation itself is the design.
 
 This is the ecclesiology that Darryl Erkel articulated and that Jon Zens has labored over for decades in his magazine *Searching Together*, and it is the ecclesiology I have held for twenty-six years. It's called participatory ecclesiology. And the New Testament shows it on nearly every page.
 
@@ -76,9 +76,9 @@ You fill out a card. You attend a class. Someone reads your name from the front.
 
 You are in the body of Christ by regeneration. The Spirit placed you there. No card. No vote. No class. No human being's approval was required. *"For by one Spirit are we all baptized into one body"* (1 Corinthians 12:13). The Spirit baptized you in. Not the church. Not the pastor. Not the membership committee. The Spirit.
 
-And the thief on the cross -- again -- was in the body of Christ without being a member of anything. No church. No baptism. No membership. No pastor. Just the Spirit's work and the Lord's word: *"To day shalt thou be with me in paradise"* (Luke 23:43).
+And the thief on the cross, again, was in the body of Christ without being a member of anything. No church, no baptism, no membership, no pastor. Just the Spirit's work and the Lord's word: *"To day shalt thou be with me in paradise"* (Luke 23:43).
 
-Now, I'm not saying that formal church structures are evil. They serve practical purposes. Someone needs to manage the building. Someone needs to handle the finances. Someone needs to coordinate the meetings. Organizational structure has its place. But the moment the structure becomes the *thing* -- the moment someone says "you can't take communion because you're not a member" or "you can't participate because you haven't been officially received" -- they've made the institution the gatekeeper of something God didn't give them authority to gate-keep.
+Now, I'm not saying that formal church structures are evil. They serve practical purposes. Someone needs to manage the building. Someone needs to handle the finances. Someone needs to coordinate the meetings. Organizational structure has its place. But the moment the structure becomes the *thing*, the moment someone says "you can't take communion because you're not a member" or "you can't participate because you haven't been officially received," they've made the institution the gatekeeper of something God didn't give them authority to gate-keep.
 
 The institutions of man are flawed. Those six words contain my entire worldview, and they apply to the church as much as they apply to government, business, or any other human organization. The church is the body of Christ. The *institution* of the church is a human structure built around the body. And the structure should serve the body, not replace it.
 
@@ -110,7 +110,7 @@ This verse is often quoted in defense of institutional structure. But look at th
 
 The early church in Acts met in homes. They broke bread together. They shared their possessions. They taught and were taught. They prayed. And they did it without buildings, without budgets, without boards of deacons, without constitutions, and without a senior pastor. And the gospel spread faster in that first century than it has in any century since.
 
-The institutional model didn't produce the spread of the gospel. The Spirit did. Through ordinary believers, participating in a body where everyone mattered and no one was elevated above the rest. The institution came later. And it brought with it all the problems that institutions always bring -- power struggles, politics, control, and the substitution of structure for substance.
+The institutional model didn't produce the spread of the gospel. The Spirit did. Through ordinary believers, participating in a body where everyone mattered and no one was elevated above the rest. The institution came later. And it brought with it all the problems that institutions always bring: power struggles, politics, control, and the substitution of structure for substance.
 
 I'm not naive about this. I know that house churches can have problems too. Where two or three are gathered, there's politics. But the answer isn't to build a bigger institution. The answer is to trust the Spirit to do what He promised to do: guide His people into all truth, through the body functioning as a body.
 
@@ -122,19 +122,19 @@ Yes, it does. And the word translated "rule" is *hegeomai*, which means to lead,
 
 **"Without a pastor and formal structure, churches descend into chaos."**
 
-The church in 1 Corinthians 14 had order without a one-man pulpit. Paul gives detailed instructions for how a participatory meeting should work -- speak in turn, let others judge, let women ask their husbands at home, let all things be done decently and in order. None of those instructions require a senior pastor. They require maturity, mutual submission, and the Spirit's guidance. The assumption that chaos is the default without institutional control says more about your view of the Spirit's power than about the structure of the church.
+The church in 1 Corinthians 14 had order without a one-man pulpit. Paul gives detailed instructions for how a participatory meeting should work: speak in turn, let others judge, let women ask their husbands at home, let all things be done decently and in order. None of those instructions require a senior pastor. They require maturity, mutual submission, and the Spirit's guidance. The assumption that chaos is the default without institutional control says more about your view of the Spirit's power than about the structure of the church.
 
 **"Without church membership, there's no real accountability."**
 
 The Spirit holds me accountable. And the brethren I walk with hold me accountable through relationship, not through institutional authority. Accountability doesn't require a membership roll. It requires love, honesty, and the willingness to speak truth to one another. I have that in both churches and outside of both churches. Accountability is relational, not organizational. And reducing it to a membership card cheapens it.
 
-**"The church is the pillar and ground of the truth (1 Timothy 3:15) -- you're undermining the church."**
+**"The church is the pillar and ground of the truth (1 Timothy 3:15); you're undermining the church."**
 
 I'm not undermining the church. I'm undermining the *institution* that has claimed to be the church. As I said above, the body of Christ and the institutional structures built around it are not the same thing. The body is the pillar and ground of the truth. The institutions are expressions of the body, valuable and important, but they are not the body itself. Confusing the two is the same error as confusing the ceremony with the covenant. The substance is bigger than the structure.
 
 **"The visible church is the organized, institutional expression of the invisible church."**
 
-The distinction between the "visible church" and the "invisible church" is a theological invention, not a biblical one. Scripture knows one church -- the body of Christ, composed of every regenerate believer across all time, baptized into one body by the Spirit (1 Corinthians 12:13, quoted above). That's it. One church. There is no second church.
+The distinction between the "visible church" and the "invisible church" is a theological invention, not a biblical one. Scripture knows one church, the body of Christ, composed of every regenerate believer across all time, baptized into one body by the Spirit (1 Corinthians 12:13, quoted above). That's it. One church. There is no second church.
 
 The "visible church" category was invented to give the institution theological legitimacy. It allows an organization to say "we are the visible expression of the real church" and then claim authority on that basis. But the *ekklesia* doesn't need a visible counterpart to be real. When believers gather, they are the assembly. When they scatter, they are still the body. The gathering is the act. The body is the reality. And neither one requires a building, a constitution, or a hierarchical structure to exist.
 

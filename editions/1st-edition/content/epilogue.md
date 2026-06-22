@@ -25,7 +25,7 @@ We are just God's eternal thoughts collapsed in a moment in time.
 
 That is not a cold proposition. It is the warmest truth I know. Because if you are a thought in the mind of God, then you were never an accident. You were never a surprise. You were never a problem to be solved or a contingency to be managed. You were *intended*. Thought before you were born. Known before the first frame of history played. Loved in the only way that matters, by a God who does not change His mind because He authored His mind before time began.
 
-I believe all of this because it is what I see. Not because a confession told me to. Not because a denomination requires it. Not because a seminary taught it. Not because a man I admire handed it to me. I see it. In the Scriptures. In the architecture of reality. In the rendering of every physical thing around me. In the firmware running beneath my own thoughts. I followed the logic wherever it led, and it led here. And I would believe it if no one else in the world agreed with me, because the seeing doesn't require agreement. It requires honesty.
+I believe all of this because it is what I see. Not because a confession told me to, not because a denomination requires it, not because a seminary taught it, not because a man I admire handed it to me. I see it. In the Scriptures. In the architecture of reality. In the rendering of every physical thing around me. In the firmware running beneath my own thoughts. I followed the logic wherever it led, and it led here. And I would believe it if no one else in the world agreed with me, because the seeing doesn't require agreement. It requires honesty.
 
 And if I have learned anything in more than two decades of building this framework, in the late nights and the arguments and the losses, it is this: the truth does not need me to protect it. It does not need my sharp edges or my debate skills or my ability to dismantle an opponent. It needs to be said. Clearly. Without apology. And then it needs to be *left* with the Lord, who is sovereign over who hears it and who doesn't.
 
@@ -127,7 +127,7 @@ I am not bitter. I want to be clear about that. I love the people in those churc
 
 *"Where two or three are gathered together in my name, there am I in the midst of them."* (Matthew 18:20)
 
-Two or three. Not two hundred. Not a building. Not a budget. Not a 501(c)(3). Two or three, gathered in His name. That is the church. That has always been the church. And every website visitor who reads this book and finds Christ in it is gathered with me, whether they know my name or not.
+Two or three. Not two hundred, not a building, not a budget, not a 501(c)(3). Two or three, gathered in His name. That is the church. That has always been the church. And every website visitor who reads this book and finds Christ in it is gathered with me, whether they know my name or not.
 
 I want to spend the rest of my life feeding Christ's sheep. That is all I want. Not a title. Not a position. Not recognition from men who wouldn't recognize the truth if it sat in their pew for twenty years. I want to teach. I want to write. I want to open the Scriptures and show people what I see. And I want to do it from here, from the platform the Lord gave me, without gatekeepers, without credentials, without a single person standing between me and the people the Author sends to find the truth.
 

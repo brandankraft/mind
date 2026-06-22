@@ -34,9 +34,9 @@ The law was a schoolmaster. Not a covenant of grace. A tutor. A temporary instit
 
 So in the Old Testament, two covenants ran simultaneously:
 
-1.  **The covenant of grace** -- eternal, overarching, present in all ages. Every elect person partook of it. They had the Spirit. They were regenerated. They were justified. They had new firmware, to use the language we'll develop later in this book. Abraham *"believed God, and it was counted unto him for righteousness"* (Romans 4:3). David wrote, *"Blessed is the man unto whom the LORD imputeth not iniquity"* (Psalm 32:2). These men were in the covenant of grace centuries before Sinai. And they remained in it during and after Sinai.
+1.  **The covenant of grace**: eternal, overarching, present in all ages. Every elect person partook of it. They had the Spirit. They were regenerated. They were justified. They had new firmware, to use the language we'll develop later in this book. Abraham *"believed God, and it was counted unto him for righteousness"* (Romans 4:3). David wrote, *"Blessed is the man unto whom the LORD imputeth not iniquity"* (Psalm 32:2). These men were in the covenant of grace centuries before Sinai. And they remained in it during and after Sinai.
 
-2.  **The covenant of works at Sinai** -- a separate overlay. A curse. Temporary. Added because of transgressions. Designed to reveal sin, increase guilt, and drive the elect to Christ. The ceremonies, the sacrifices, the priesthood, the dietary laws, the Sabbath regulations, all of it. Real. Valid. Served its purpose. But it was *not* the covenant of grace. It was the visible rendering constraint layered on top of the invisible substance.
+2.  **The covenant of works at Sinai**: a separate overlay. A curse. Temporary. Added because of transgressions. Designed to reveal sin, increase guilt, and drive the elect to Christ. The ceremonies, the sacrifices, the priesthood, the dietary laws, the Sabbath regulations, all of it. Real and valid, and it served its purpose. But it was *not* the covenant of grace. It was the visible rendering constraint layered on top of the invisible substance.
 
 And when Christ fulfilled the law, the overlay was removed. What was left was what was always there: the covenant of grace, now visible at higher resolution, no longer veiled behind the ceremonies of Sinai.
 
@@ -44,17 +44,17 @@ And when Christ fulfilled the law, the overlay was removed. What was left was wh
 
 Let me show you how the individual covenants of the Old Testament relate to the overarching covenant of grace:
 
-**The Adamic covenant** (Genesis 3:15) -- the first visible rendering of the covenant of grace in time. God promises enmity between the seed of the woman and the seed of the serpent. The two seeds announced. Redemption promised. The covenant of grace begins its temporal expression.
+**The Adamic covenant** (Genesis 3:15): the first visible rendering of the covenant of grace in time. God promises enmity between the seed of the woman and the seed of the serpent. The two seeds announced. Redemption promised. The covenant of grace begins its temporal expression.
 
-**The Noahic covenant** (Genesis 9) -- God's promise to preserve the stage on which redemption unfolds. The rainbow is a sign of continuity, not of salvation. God won't destroy the world by flood again because the story isn't finished yet. The rendering needs to continue.
+**The Noahic covenant** (Genesis 9): God's promise to preserve the stage on which redemption unfolds. The rainbow is a sign of continuity, not of salvation. God won't destroy the world by flood again because the story isn't finished yet. The rendering needs to continue.
 
-**The Abrahamic covenant** (Genesis 17) -- the covenant of grace rendered in promise to a specific man. *"And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee"* (Genesis 17:7). Circumcision as the visible sign. But the real sign was always the circumcision of the *heart*. The visible sign pointed at the invisible reality.
+**The Abrahamic covenant** (Genesis 17): the covenant of grace rendered in promise to a specific man. *"And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee"* (Genesis 17:7). Circumcision as the visible sign. But the real sign was always the circumcision of the *heart*. The visible sign pointed at the invisible reality.
 
-**The Mosaic covenant at Sinai** -- NOT a dispensation of the covenant of grace. A covenant of WORKS. The exception. The one covenant in the Old Testament that is not a rendering of the covenant of grace but a separate overlay for a specific purpose: to curse, to increase transgressions, to drive the elect to Christ. Every other covenant in the Bible is a rendering of grace. This one is law.
+**The Mosaic covenant at Sinai**: NOT a dispensation of the covenant of grace. A covenant of WORKS. The exception. The one covenant in the Old Testament that is not a rendering of the covenant of grace but a separate overlay for a specific purpose: to curse, to increase transgressions, to drive the elect to Christ. Every other covenant in the Bible is a rendering of grace. This one is law.
 
-**The Davidic covenant** (2 Samuel 7) -- the covenant of grace rendered in kingship. An eternal throne promised to David's line. Fulfilled in Christ. The visible king pointed to the invisible reign. *"Of the increase of his government and peace there shall be no end"* (Isaiah 9:7).
+**The Davidic covenant** (2 Samuel 7): the covenant of grace rendered in kingship. An eternal throne promised to David's line. Fulfilled in Christ. The visible king pointed to the invisible reign. *"Of the increase of his government and peace there shall be no end"* (Isaiah 9:7).
 
-**The New Covenant as revealed in the New Testament** -- the covenant of grace at its highest temporal resolution. The Sinai overlay removed. The veil lifted. Faith alone. Law finished. The Spirit poured out. Not a *new* covenant in substance, because the substance was always there. New in *resolution*. The same thought, rendered at higher fidelity.
+**The New Covenant as revealed in the New Testament**: the covenant of grace at its highest temporal resolution. The Sinai overlay removed, the veil lifted. What remains is faith alone, the law finished, the Spirit poured out. Not a *new* covenant in substance, because the substance was always there. New in *resolution*. The same thought, rendered at higher fidelity.
 
 | Covenant | Reference | What is rendered | Visible sign | Relation to the covenant of grace |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ They had the substance. They didn't have the full rendering resolution. Abraham 
 
 **"This is New Covenant Theology, not Covenant Theology."**
 
-It's neither. NCT says the New Covenant started at a point in time. MCT says the covenant of grace is eternal and overarching. NCT rejects the covenant of works, which is correct, but most NCT proponents still hold some form of Adamic representation -- they question the framework but keep the headship. MCT rejects federal headship entirely, because the ontology demands it: each person is a direct thought in God's mind, not downstream of Adam. MCT retains the covenant of works as specific to Sinai, which is better than either CT or NCT. NCT doesn't go far enough. CT goes too far. MCT walks the line between them and holds what Scripture actually teaches.
+It's neither. NCT says the New Covenant started at a point in time. MCT says the covenant of grace is eternal and overarching. NCT rejects the covenant of works, which is correct, but most NCT proponents still hold some form of Adamic representation; they question the framework but keep the headship. MCT rejects federal headship entirely, because the ontology demands it: each person is a direct thought in God's mind, not downstream of Adam. MCT retains the covenant of works as specific to Sinai, which is better than either CT or NCT. NCT doesn't go far enough. CT goes too far. MCT walks the line between them and holds what Scripture actually teaches.
 
 **"The Dead Sea Scrolls aren't Scripture."**
 

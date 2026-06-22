@@ -11,7 +11,7 @@ Personal ethics is where theology meets the body. What is done with sexuality, w
 
 ## On Divorce and Remarriage
 
-The covenant precedes the ceremony (Chapter 10). Marriage is the invisible reality -- mutual commitment and union. The ceremony announces it. The legal document records it. But what makes a marriage is the covenant, and what breaks a marriage is the breaking of the covenant.
+The covenant precedes the ceremony (Chapter 10). Marriage is the invisible reality: mutual commitment and union. The ceremony announces it. The legal document records it. But what makes a marriage is the covenant, and what breaks a marriage is the breaking of the covenant.
 
 Christ said: *"Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery"* (Matthew 19:9). The exception is there. Fornication breaks the covenant. Not just legally. Actually. The invisible reality is damaged.
 
@@ -81,7 +81,7 @@ Paul makes the bodily mutuality explicit in another letter.
 
 *"Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband. The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife. Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency."* (1 Corinthians 7:3-5)
 
-Mutual obligation. Mutual ownership. Mutual consent on any pause. Withholding is named as fraud. The Pauline marriage bed is symmetric in both directions, and abstention without consent is sin against the covenant partner. The husband does not own the wife's body in any sense the wife does not equally own the husband's. The bedroom is one of the places where mutual submission shows up most plainly, and Paul uses it as an example of what the covenant actually means in the body.
+Mutual obligation, mutual ownership, mutual consent on any pause. Withholding is named as fraud. The Pauline marriage bed is symmetric in both directions, and abstention without consent is sin against the covenant partner. The husband does not own the wife's body in any sense the wife does not equally own the husband's. The bedroom is one of the places where mutual submission shows up most plainly, and Paul uses it as an example of what the covenant actually means in the body.
 
 The man who reads Ephesians 5 as authority over his wife while ignoring 1 Corinthians 7's mutual-debt language has read half of Paul. The wife has the same standing in the bedroom that the husband has. Both have the obligation to render. Both are forbidden to defraud. The covenant is symmetric where Paul names it most explicitly.
 
@@ -107,7 +107,7 @@ The husband goes first in love. He initiates sacrifice. He takes the heavier wei
 
 The wife offers herself freely within that covenant. She trusts his care because his care is trustworthy. She receives his leadership because his leadership is serving her, not using her. She honors him because he honors her first.
 
-Both are dying to self. Both are serving. Both are submitting to Christ. The particular word "submit" is Paul's way of describing her posture within the mutual submission that structures the whole body. It is not a statement of her value. It is a description of the flow of self-giving in a tender marriage.
+Both are dying to self, serving, submitting to Christ. The particular word "submit" is Paul's way of describing her posture within the mutual submission that structures the whole body. It is not a statement of her value. It is a description of the flow of self-giving in a tender marriage.
 
 ### The Framework View
 
@@ -163,11 +163,11 @@ God loves homosexuals. He also hates homosexuals. The difference is not the sin.
 
 Homosexuality is sin. Paul said what he said (Romans 1, 1 Corinthians 6:9). It is an abomination. But it is not so great a sin that it can cause God to stop loving one of His elect children. If an unregenerate elect child of God is caught up in the sin of homosexuality, they will be called out of that lifestyle. The Spirit will bring the Gospel to that individual, cause them to look to Christ, and put within them a new heart.
 
-The Westboro theology -- "God hates fags" -- fails because it refuses to distinguish between the seeds. It treats all homosexuals as reprobate. But God has elect people in every category of sin. The elect homosexual is loved with an everlasting love (Jeremiah 31:3), even while living in a sin that God calls an abomination. And the self-righteous Pharisee who thanks God he is not like the publican (Luke 18:9-14) may be in worse shape than the sinner he despises.
+The Westboro theology, "God hates fags," fails because it refuses to distinguish between the seeds. It treats all homosexuals as reprobate. But God has elect people in every category of sin. The elect homosexual is loved with an everlasting love (Jeremiah 31:3), even while living in a sin that God calls an abomination. And the self-righteous Pharisee who thanks God he is not like the publican (Luke 18:9-14) may be in worse shape than the sinner he despises.
 
 In the framework: absolute predestination means the orientation was authored. It is not a "choice." It is not a "lifestyle decision." God creates each person with a sin nature according to His sovereign purpose (Chapter 11). The homosexual's nature was ordained the same way every person's nature was ordained. This position is too honest for most conservatives and too traditional for most progressives. But the framework doesn't bend for either audience.
 
-The answer is not condemnation. The answer is not celebration. The answer is Christ. *"We drink iniquity like water"* (Job 15:16). Every sin is the same distance from grace (Chapter 14). And the sharpest doctrine produces the widest arms (Chapter 30).
+The answer is not condemnation, not celebration. The answer is Christ. *"We drink iniquity like water"* (Job 15:16). Every sin is the same distance from grace (Chapter 14). And the sharpest doctrine produces the widest arms (Chapter 30).
 
 **For further study:** Gen. 19:1-13; Lev. 18:22; Lev. 20:13; Rom. 1:26-28; 1 Cor. 6:9-11; 1 Tim. 1:9-10; Jude 7; Matt. 9:10-13; Mark 2:17; Luke 7:36-50; Luke 15:1-2; John 3:16-17; Gal. 5:19-21; Rev. 21:8.
 

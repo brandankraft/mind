@@ -5,7 +5,7 @@ status: draft
 
 # Appendix A10: The Christian Life
 
-The Christian life is not a doctrine. It is a walk. What follows is the framework applied to the lived experience of the believer -- awareness, doubt, grief, the cautions against using truth as a weapon. These are not abstract. These are close to the bone. The sentence holds here too, and the walk is kinder when it does.
+The Christian life is not a doctrine. It is a walk. What follows is the framework applied to the lived experience of the believer: awareness, doubt, grief, the cautions against using truth as a weapon. These are not abstract. These are close to the bone. The sentence holds here too, and the walk is kinder when it does.
 
 > *"Everything that exists is a thought in the mind of God, sustained by His will, authored by His purpose, and held together by personal covenants of love."*
 
@@ -15,13 +15,13 @@ The Christian life is not a doctrine. It is a walk. What follows is the framewor
 
 This verse appears throughout the book's study lists, and it deserves to be quoted and unpacked here, because it is the clearest picture in all of Scripture of what the firmware flash looks like from the outside.
 
-Three things happened in sequence. First, Lydia "worshipped God" -- she was already religious, already seeking, already oriented toward the divine. The Spirit had been preparing her firmware before Paul ever arrived. Second, "the Lord opened" her heart -- the firmware flash. Not Lydia opening her own heart. The LORD opening it. The active agent is God, not the hearer. Third, she "attended unto the things which were spoken" -- the application layer became aware of what the firmware had just received. Faith arrived. Conscious engagement followed. The order is preparation, firmware flash, then conscious faith.
+Three things happened in sequence. First, Lydia "worshipped God"; she was already religious, already seeking, already oriented toward the divine. The Spirit had been preparing her firmware before Paul ever arrived. Second, "the Lord opened" her heart, the firmware flash. Not Lydia opening her own heart. The LORD opening it. The active agent is God, not the hearer. Third, she "attended unto the things which were spoken"; the application layer became aware of what the firmware had just received. Faith arrived. Conscious engagement followed. The order is preparation, firmware flash, then conscious faith.
 
 And notice what the verse does NOT say. It does not say Lydia chose to open her heart. It does not say Paul's argument persuaded her. It does not say the evidence was compelling enough that any reasonable person would have believed. The Lord opened her heart. Period. The opening was the Spirit's act. The attending was the application layer's response to the opening. The firmware was flashed, and the application layer woke up.
 
-This is the pattern for every conversion in the book of Acts and in the history of the church. The Spirit prepares (the grammar phase -- Chapter 16). The Spirit flashes the firmware at the appointed time. The application layer becomes conscious of the change and calls it faith. The person did not choose to believe. The person became aware that they already did. And the awareness follows the flash the way light follows the switch. You don't choose to see the light. The switch was flipped, and now you see.
+This is the pattern for every conversion in the book of Acts and in the history of the church. The Spirit prepares (the grammar phase, Chapter 16). The Spirit flashes the firmware at the appointed time. The application layer becomes conscious of the change and calls it faith. The person did not choose to believe. The person became aware that they already did. And the awareness follows the flash the way light follows the switch. You don't choose to see the light. The switch was flipped, and now you see.
 
-Can there be a lag? Can the firmware be flashed before the application layer fully wakes up to it? The architecture implies yes. The firmware operates beneath conscious awareness (Chapter 16). The application layer processes what the firmware sends up through the operating system (Chapter 17). And there is always a processing delay -- feelings arrive before thoughts. The spiritual version of that delay could be longer. The person who is "seeking" -- restless, hungry, drawn to Christ but unable to articulate why -- may be experiencing the early signals of a firmware flash that the application layer hasn't yet named. The seeking IS the evidence. And the Author who authored the flash also authored the timing of the awareness.
+Can there be a lag? Can the firmware be flashed before the application layer fully wakes up to it? The architecture implies yes. The firmware operates beneath conscious awareness (Chapter 16). The application layer processes what the firmware sends up through the operating system (Chapter 17). And there is always a processing delay: feelings arrive before thoughts. The spiritual version of that delay could be longer. The person who is "seeking," restless, hungry, drawn to Christ but unable to articulate why, may be experiencing the early signals of a firmware flash that the application layer hasn't yet named. The seeking IS the evidence. And the Author who authored the flash also authored the timing of the awareness.
 
 **For further study:** Acts 2:37; Acts 8:30-35; Acts 9:3-6; Acts 10:44; Acts 13:48; Acts 16:14; Acts 16:30-31; Acts 18:10; John 6:37; John 6:44; John 6:65; John 10:16; John 10:27; Eph. 2:1-5; Phil. 1:6; 2 Tim. 1:9.
 
@@ -57,7 +57,7 @@ The framework's whole soteriology is compressed into this one episode.
 
 3. **No duty faith.** The thief had no prior obligation to respond to a general offer that had been extended to him for a lifetime of hearing. He had no gospel-preaching childhood, no evangelistic campaign, no altar call. Faith arrived in him as gift at the hour the Father had appointed. The firmware was flashed on a cross at noon. The application layer confessed by late afternoon. The thief did not respond to an offer. He was given faith.
 
-4. **The intermediate state.** *"To day shalt thou be with me in paradise."* Not someday. Not after a purgative stay. Not after soul-sleep. Today. The moment the thief died, his soul was with Christ, conscious, in paradise. The framework's reading of the intermediate state (Appendix A3) is this episode generalized to every believer. Absent from the body, present with the Lord.
+4. **The intermediate state.** *"To day shalt thou be with me in paradise."* Not someday, not after a purgative stay, not after soul-sleep. Today. The moment the thief died, his soul was with Christ, conscious, in paradise. The framework's reading of the intermediate state (Appendix A3) is this episode generalized to every believer. Absent from the body, present with the Lord.
 
 **What the thief exposes about every gatekeeper.**
 
@@ -87,7 +87,7 @@ A tribe that claims sovereign grace and refuses fellowship to a marginal profess
 
 I have genuine doubts about God and Christ. I said it in Chapter 2 and I'll say it again here, because most preachers won't.
 
-There are seasons when I stop reading the Scriptures. Life gets busy, the world gets loud, and the text gets quiet. And in those seasons, the doubt creeps in. Not because the framework is weak. Because the firmware needs feeding. When I stop reading, my application layer starts processing whatever else is in front of it -- and the world offers its own firmware. Evolution documentaries. Secular philosophy. The persistent hum of a culture that assumes God is not there. And if I listen to that hum long enough without returning to the text, I start to wonder.
+There are seasons when I stop reading the Scriptures. Life gets busy, the world gets loud, and the text gets quiet. And in those seasons, the doubt creeps in. Not because the framework is weak. Because the firmware needs feeding. When I stop reading, my application layer starts processing whatever else is in front of it, and the world offers its own firmware. Evolution documentaries. Secular philosophy. The persistent hum of a culture that assumes God is not there. And if I listen to that hum long enough without returning to the text, I start to wonder.
 
 And then I open the Bible. And the hum stops. And the framework holds again. And the doubt was never a verdict. It was a signal. The Spirit pulling me back to the Word.
 
@@ -107,7 +107,7 @@ The Psalms are full of grief. David cried out to God in anguish. Job cursed the 
 
 And here is something that needs to be said, because the sovereign grace world sometimes forgets it: believing in absolute predestination does not mean you stop feeling. The old firmware still runs. The grief is real. The loss is real. The frame you are standing in right now may be the hardest frame in the filmstrip. And the theology that tells you "God authored this for your good" does not make the frame hurt less. It makes the hurt meaningful. But it does not make it disappear.
 
-Lament is not a failure of faith. It is the old firmware processing the frame. David knew God was sovereign. David still cried. Job knew God was in control. Job still cursed the day he was born. The two things coexist because the framework predicts them both -- the sovereignty is real AND the experience is real. The theology holds the grief. But holding is not the same as erasing.
+Lament is not a failure of faith. It is the old firmware processing the frame. David knew God was sovereign. David still cried. Job knew God was in control. Job still cursed the day he was born. The two things coexist because the framework predicts them both: the sovereignty is real AND the experience is real. The theology holds the grief. But holding is not the same as erasing.
 
 Some saints lament loudly. Some carry it quietly. Some never feel the need to scream at God because the framework caught the grief before it became rage. All of these are authored responses to authored circumstances. The saint who weeps is not less faithful than the saint who doesn't. And the saint who doesn't weep is not less human than the saint who does. Both are frames in the filmstrip. Both are being held.
 
@@ -121,13 +121,13 @@ The mourning is real. The comfort is real. And both were authored before the fir
 
 The last section told you what grief IS in the framework. This section tells you what to DO when you're standing next to someone who's in it.
 
-Don't explain the sovereignty. Not first. Not yet. The man whose wife just died does not need Romans 8:28 in the first hour. He needs a body next to his body. He needs someone to sit with him the way Job's friends sat with him -- before they opened their mouths and ruined it. *"So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great"* (Job 2:13). The best thing Job's friends ever did was shut up for a week.
+Don't explain the sovereignty. Not first. Not yet. The man whose wife just died does not need Romans 8:28 in the first hour. He needs a body next to his body. He needs someone to sit with him the way Job's friends sat with him, before they opened their mouths and ruined it. *"So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great"* (Job 2:13). The best thing Job's friends ever did was shut up for a week.
 
 The sovereign grace believer has a unique temptation in grief: to theologize too fast. "God ordained this." "It's all part of the plan." "He's in a better place." All of that may be true. None of it helps in the first hour. The theology is for the second week. The first hour needs presence.
 
 *"Rejoice with them that do rejoice, and weep with them that weep"* (Romans 12:15). Paul didn't say "explain sovereignty to them that weep." He said WEEP. Match the frequency. Be in the frame with them. The theology can hold the grief -- but the theology arrives through relationship, not through lecture.
 
-When the time comes -- and the grieving person will tell you when, because the question will come out of their mouth, not yours -- then you can say what the framework says. God ordained this frame. He was not surprised by it. He was not absent from it. He was not watching helplessly while evil happened to your family. He wrote this frame, and He wrote the next one, and the next one, and He holds every frame simultaneously, including the one where the pain stops. That is not a comfortable answer. But it is an honest one. And an honest answer from a God who holds you is better than a comfortable answer from a theology that doesn't know what to do with suffering.
+When the time comes (and the grieving person will tell you when, because the question will come out of their mouth, not yours) then you can say what the framework says. God ordained this frame. He was not surprised by it. He was not absent from it. He was not watching helplessly while evil happened to your family. He wrote this frame, and He wrote the next one, and the next one, and He holds every frame simultaneously, including the one where the pain stops. That is not a comfortable answer. But it is an honest one. And an honest answer from a God who holds you is better than a comfortable answer from a theology that doesn't know what to do with suffering.
 
 *"Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God"* (2 Corinthians 1:3-4).
 
@@ -174,7 +174,7 @@ That is the sentence applied to a cat in Ashland, Kentucky. And if you can see i
 
 I need to confess something in this book, because the book would be dishonest without it.
 
-There was a season in my life when I used the truth as a weapon. I was right about the theology. I was wrong about the delivery. I took the doctrines in this book -- the same doctrines, the same framework, the same positions -- and I wielded them against people on social media like a man swinging a sword in a hospital. I cut people who were already bleeding. I corrected people who needed encouragement, not correction. I won arguments that nobody asked me to enter. And I did it all in the name of defending the Gospel.
+There was a season in my life when I used the truth as a weapon. I was right about the theology. I was wrong about the delivery. I took the doctrines in this book (the same doctrines, the same framework, the same positions) and I wielded them against people on social media like a man swinging a sword in a hospital. I cut people who were already bleeding. I corrected people who needed encouragement, not correction. I won arguments that nobody asked me to enter. And I did it all in the name of defending the Gospel.
 
 I was so right that I was wrong. That is the sneakiest form of pride, and I lived in it for years.
 
@@ -182,7 +182,7 @@ The truth does not need a defender. The truth needs a presenter. And there is a 
 
 I have hurt people. I will not name them here, because the confession is about me, not them. But I know who they are. Some of them will never forgive me, and I understand that. Some of them were never mine to correct in the first place. And some of them needed a shepherd, and I gave them a prosecutor.
 
-I wrote the articles on cynical nitpickery and heresy hunting because I saw myself in every word. The man in those articles was me. And the book you are reading now is the man I became after the Lord broke that pride and taught me, slowly, painfully, over many years, that the sharpest doctrine produces the widest arms -- not the sharpest tongue.
+I wrote the articles on cynical nitpickery and heresy hunting because I saw myself in every word. The man in those articles was me. And the book you are reading now is the man I became after the Lord broke that pride and taught me, slowly, painfully, over many years, that the sharpest doctrine produces the widest arms, not the sharpest tongue.
 
 If I have hurt you with my theology, I am sorry. The theology was not wrong. I was.
 
@@ -208,7 +208,7 @@ This does not mean vocabulary is unimportant. It matters. Words carry implicatio
 
 ## On Heresy Hunting
 
-There is a difference between contending for the faith and hunting for heretics. Contending for the faith is Jude 1:3 -- earnestly, because the truth matters. Heresy hunting is pride wearing a theology uniform. And after twenty-five years of operating theological websites and forums, I know the difference because I have been both.
+There is a difference between contending for the faith and hunting for heretics. Contending for the faith is Jude 1:3, earnestly, because the truth matters. Heresy hunting is pride wearing a theology uniform. And after twenty-five years of operating theological websites and forums, I know the difference because I have been both.
 
 The heresy hunter is not looking for truth. He is looking for error to expose. And the exposure is not for the protection of the flock. It is for the exaltation of the hunter. The feedback loop is simple: find error, expose it publicly, receive praise from the pack, repeat. And once the loop is running, the hunter's religion becomes the hunt itself. Remove the enemy, and the hunter has nothing left to worship.
 
@@ -218,13 +218,13 @@ The framework explains why heresy hunting fails and why the tactics are dishones
 
 **Poisoning the well.** Before addressing the argument, the hunter attacks the person. He brings up past failures, associations, or scandals that have nothing to do with the theological claim. This is the opposite of what Chapter 30 teaches. *"Who art thou that judgest another man's servant?"* (Romans 14:4). The truth does not change based on who says it. And a man's sin does not invalidate his doctrine any more than a man's righteousness validates his.
 
-**Slapping labels.** The hunter assigns a label and then condemns the label instead of engaging the argument. "Hyper-calvinist." "Compromiser." "Tolerant." The label replaces the conversation. And once the label is applied, the hunter no longer needs to listen. He has filed the target in a category and closed the drawer. This is the shibboleth problem applied offensively -- using vocabulary as a weapon instead of a tool for understanding.
+**Slapping labels.** The hunter assigns a label and then condemns the label instead of engaging the argument. "Hyper-calvinist." "Compromiser." "Tolerant." The label replaces the conversation. And once the label is applied, the hunter no longer needs to listen. He has filed the target in a category and closed the drawer. This is the shibboleth problem applied offensively, using vocabulary as a weapon instead of a tool for understanding.
 
 **False implications.** The hunter takes a statement, traces what he believes to be its logical implications, and then condemns the person for believing the implication rather than the statement. But the implication is the hunter's derivation, not the target's belief. And a man cannot be held accountable for conclusions he has not drawn. Chapter 30 addresses this directly: the confusion is not the rebellion. A man who uses imprecise language is not the same as a man who believes a false gospel. And the hunter who cannot tell the difference has lost the right to judge.
 
-**Sensationalizing.** The hunter needs an audience. The exposure must be public. The scalp must be displayed. This is the opposite of Matthew 18:15 -- go to your brother privately first. And it is the opposite of 1 Thessalonians 4:11 -- study to be quiet. The hunter who posts his rebuke on YouTube before picking up the phone has revealed his motive. He is not seeking restoration. He is seeking applause.
+**Sensationalizing.** The hunter needs an audience. The exposure must be public. The scalp must be displayed. This is the opposite of Matthew 18:15: go to your brother privately first. And it is the opposite of 1 Thessalonians 4:11: study to be quiet. The hunter who posts his rebuke on YouTube before picking up the phone has revealed his motive. He is not seeking restoration. He is seeking applause.
 
-**Crusading.** The hunter builds his entire platform on the exposure of others. His content is not positive teaching but negative polemic. Without an enemy, his religion collapses. I wrote a song about this called "Cannibal!" -- the church eating its own. And "Has Jesus Been Lost in Your TULIP?" asks what happens when doctrine becomes the object of worship instead of Christ. And "Your Knowledge Won't Save You" addresses the fatal assumption that correct articulation of the gospel is what saves, when in fact it is Christ alone. A religion that requires an enemy to function is not Christianity. It is the Pharisee in Luke 18, needing the publican in order to feel righteous.
+**Crusading.** The hunter builds his entire platform on the exposure of others. His content is not positive teaching but negative polemic. Without an enemy, his religion collapses. I wrote a song about this called "Cannibal!" (the church eating its own). And "Has Jesus Been Lost in Your TULIP?" asks what happens when doctrine becomes the object of worship instead of Christ. And "Your Knowledge Won't Save You" addresses the fatal assumption that correct articulation of the gospel is what saves, when in fact it is Christ alone. A religion that requires an enemy to function is not Christianity. It is the Pharisee in Luke 18, needing the publican in order to feel righteous.
 
 **Nit pickery.** The hunter finds heresy in every sermon, every article, every prayer. Nothing the target says is worthy. Every word is scrutinized for error. This is the pride monster from Chapter 14, feeding on the failures of others. And it is the opposite of Paul's instruction: *"Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things"* (Philippians 4:8). Think on what is good. Not on what you can destroy.
 
@@ -244,7 +244,7 @@ The gatekeeper does not hunt heretics on YouTube. He is subtler than that. He si
 
 *"Who art thou that judgest another man's servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand."* (Romans 14:4)
 
-The person you are examining does not belong to you. He belongs to God. And God is able to make him stand. Not you. Not your doctrinal checklist. God.
+The person you are examining does not belong to you. He belongs to God. And God is able to make him stand. Not you, not your doctrinal checklist. God.
 
 There is a particular form of gatekeeping that deserves to be named, because it is the most common weapon in the sovereign grace world: preaching against a man's position from the pulpit without engaging his arguments. The gatekeeper reads Chapter 30 of this book, reduces it to "he says it doesn't matter what you believe," and preaches against that reduction to an audience that will never read the original. The straw man is built in the sermon. The audience burns it down. And the actual argument is never heard.
 
@@ -294,4 +294,4 @@ The Christian inside this framework does not have to wait for heaven to be amaze
 
 ## A Final Word
 
-The Christian life inside the framework is a walk under the watchful eye of a Father who authored every step. The doubts are authored. The grief is authored. The comfort is authored. The cautions against weaponizing theology are authored too -- and they cut the closest, because they cut the writer.
+The Christian life inside the framework is a walk under the watchful eye of a Father who authored every step. The doubts are authored, the grief, the comfort. The cautions against weaponizing theology are authored too, and they cut the closest, because they cut the writer.

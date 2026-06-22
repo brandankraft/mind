@@ -10,7 +10,7 @@ I hold this chapter with more open hands than anything else in the book.
 
 That's an unusual way to start a chapter on eschatology, because eschatology is the one domain where everyone seems to have absolute certainty. The dispensationalists have their charts. The postmillennialists have their optimism. The premillennialists have their timelines and their rebuilt temples and their seven-year tribulations and their rapture indexes. Everyone has a system. Everyone is sure. And I'm going to tell you what I believe and then I'm going to tell you that I hold it more loosely than I hold justification from eternity or the two seeds or the authorship of evil. Because God *deliberately* obscured apocalyptic literature. He wrote Revelation in a genre designed to conceal as much as it reveals. And the man who reads a deliberately obscured text and comes away with absolute certainty about every detail has mistaken his confidence for comprehension.
 
-I've watched men build entire ministries on prophecy charts. I've watched them calculate dates. I've watched them read every headline through the lens of their eschatological system and declare that *this* war, *this* treaty, *this* political figure is the fulfillment of *that* verse. And they've been wrong every single time. Not wrong about the *nature* of the last things. Wrong about the *timing*. Wrong about the *specifics*. Wrong about the details they were most sure about. And they never seem to learn, because the next headline produces the next confident interpretation, and the cycle repeats.
+I've watched men build entire ministries on prophecy charts. I've watched them calculate dates. I've watched them read every headline through the lens of their eschatological system and declare that *this* war, *this* treaty, *this* political figure is the fulfillment of *that* verse. And they've been wrong every single time. Not wrong about the *nature* of the last things, but wrong about the *timing*, the *specifics*, the details they were most sure about. And they never seem to learn, because the next headline produces the next confident interpretation, and the cycle repeats.
 
 I'm not going to do that. I'm going to tell you what the framework derives about the nature of the end, and I'm going to hold the timing and the details loosely, because the Author wrote this chapter of His story in a genre that doesn't yield to human certainty.
 
@@ -22,13 +22,13 @@ Why would eschatology be different?
 
 *"Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence."* (John 18:36)
 
-My kingdom is *not of this world*. Christ said it plainly. He said it to Pilate, who was looking for a political threat, and Christ told him there isn't one. Not because Christ doesn't have a kingdom. He does. But because His kingdom is invisible. Spiritual. Real in the way that everything invisible in this book has been real -- more real than the physical rendering, not less.
+My kingdom is *not of this world*. Christ said it plainly. He said it to Pilate, who was looking for a political threat, and Christ told him there isn't one. Not because Christ doesn't have a kingdom. He does. But because His kingdom is invisible. Spiritual. Real in the way that everything invisible in this book has been real, more real than the physical rendering, not less.
 
 *"Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you."* (Luke 17:21)
 
-Within you. Not in a rebuilt temple. Not in a thousand-year geopolitical reign. Not on a throne in Jerusalem with nations sending ambassadors. *Within you.* The kingdom is the regenerated heart. The kingdom is the new firmware. The kingdom is Christ reigning in His people right now, this moment, in every believer across the globe.
+Within you. Not in a rebuilt temple, not in a thousand-year geopolitical reign, not on a throne in Jerusalem with nations sending ambassadors. *Within you.* The kingdom is the regenerated heart. The kingdom is the new firmware. The kingdom is Christ reigning in His people right now, this moment, in every believer across the globe.
 
-And this is the amillennial position. Not that there is no millennium. But that the millennium is the present age. Christ is reigning *now*. He has been reigning since His ascension. The kingdom was inaugurated at the cross, not at some future date on a prophecy chart. And the millennium -- the "thousand years" of Revelation 20 -- is a symbolic number describing the entire period between Christ's first and second comings.
+And this is the amillennial position. Not that there is no millennium. But that the millennium is the present age. Christ is reigning *now*. He has been reigning since His ascension. The kingdom was inaugurated at the cross, not at some future date on a prophecy chart. And the millennium, the "thousand years" of Revelation 20, is a symbolic number describing the entire period between Christ's first and second comings.
 
 *"All power is given unto me in heaven and in earth."* (Matthew 28:18)
 
@@ -50,7 +50,7 @@ All power. Given. Past tense. Not "all power will be given to me when I return."
 
 Much of the New Testament's apocalyptic language was fulfilled in the destruction of Jerusalem in AD 70. And I need to be precise here, because full preterism says *everything* was fulfilled in AD 70, including the second coming and the resurrection, and I reject that completely. Christ will return bodily. The resurrection is future. The final judgment is future. Those things are not accomplished.
 
-But the Olivet Discourse -- Matthew 24, Mark 13, Luke 21 -- is largely about the destruction of the temple, not the end of the world. And Jesus said so explicitly.
+But the Olivet Discourse (Matthew 24, Mark 13, Luke 21) is largely about the destruction of the temple, not the end of the world. And Jesus said so explicitly.
 
 *"Verily I say unto you, This generation shall not pass, till all these things be fulfilled."* (Matthew 24:34)
 
@@ -58,7 +58,7 @@ But the Olivet Discourse -- Matthew 24, Mark 13, Luke 21 -- is largely about the
 
 The early church understood this. It's only the modern church, saturated in dispensational futurism, that reads Matthew 24 as if it's entirely about the twenty-first century. Jesus was answering a specific question from His disciples: *"When shall these things be? and what shall be the sign of thy coming, and of the end of the world?"* (Matthew 24:3). And He answered both questions. The destruction of the temple was near. The end of the world was distant. The discourse weaves both together, and the interpreter's job is to distinguish between the near fulfillment and the far.
 
-Most of Revelation's early chapters -- the seven churches, the seals, the trumpets -- correspond to events that have already occurred. The persecution under Rome. The fall of Jerusalem. The spread of the early church. The conflicts and heresies of the first centuries. This is not a novel interpretation. This is what the church believed for most of its history.
+Most of Revelation's early chapters (the seven churches, the seals, the trumpets) correspond to events that have already occurred. The persecution under Rome. The fall of Jerusalem. The spread of the early church. The conflicts and heresies of the first centuries. This is not a novel interpretation. This is what the church believed for most of its history.
 
 <figure class="book-figure-wide"><img src="partial_preterism.png" alt="Partial preterism timeline" /><figcaption>Partial preterism: much was fulfilled in AD 70, but the return, resurrection, and final judgment remain genuinely future.</figcaption></figure>
 
@@ -68,15 +68,15 @@ Most of Revelation's early chapters -- the seven churches, the seals, the trumpe
 
 And here is the piece that modern evangelicalism has almost entirely forgotten.
 
-The historicist interpretation of Revelation holds that the book is a map of church history unfolding across the centuries. The seals, the trumpets, the beasts, the plagues -- they correspond to real historical events and movements. Not to a seven-year tribulation at the end of time. Not to a rebuilt temple in the twenty-first century. To *history*. To the story that has been unfolding since the first century.
+The historicist interpretation of Revelation holds that the book is a map of church history unfolding across the centuries. The seals, the trumpets, the beasts, the plagues: they correspond to real historical events and movements. Not to a seven-year tribulation at the end of time. Not to a rebuilt temple in the twenty-first century. To *history*. To the story that has been unfolding since the first century.
 
 *"And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force."* (Matthew 11:12)
 
-The kingdom has been under assault since it was announced. That's not a future event. That's church history. This was the *original* Reformed eschatological framework. Luther identified the papacy with the antichrist. Calvin held a historicist reading. Knox held it. The Westminster divines held it. Wycliffe, Huss, Tyndale -- every major Reformer read Revelation as a map of the church's ongoing struggle. The identification of the beast with Rome and the papacy wasn't a fringe position. It was *the* position. For fifteen hundred years.
+The kingdom has been under assault since it was announced. That's not a future event. That's church history. This was the *original* Reformed eschatological framework. Luther identified the papacy with the antichrist. Calvin held a historicist reading. Knox held it. The Westminster divines held it. Wycliffe, Huss, Tyndale. Every major Reformer read Revelation as a map of the church's ongoing struggle. The identification of the beast with Rome and the papacy wasn't a fringe position. It was *the* position. For fifteen hundred years.
 
 And then John Nelson Darby came along in the 1830s, invented dispensationalism, split history into seven ages, divided God's program for Israel from God's program for the church, and introduced the pretribulational rapture. And within two hundred years, his system completely replaced the one that had stood for a millennium and a half. The Scofield Reference Bible popularized it. Hal Lindsey's *Late Great Planet Earth* made it a bestseller. The *Left Behind* novels made it pop culture.[^c27-dispensationalism] And now most evangelicals think dispensational premillennialism is *the* biblical position and they've never even heard of historicism.
 
-None of this came from Scripture. It came from Darby. The charts, the rebuilt temple, the pretribulational rapture, the distinction between Israel and the church as two separate programs of God -- none of it is derived from the text. It is a system imposed ON the text. And the church adopted it wholesale because the system was exciting and the books sold well. Not because it was true.
+None of this came from Scripture. It came from Darby. The charts, the rebuilt temple, the pretribulational rapture, the distinction between Israel and the church as two separate programs of God, none of it is derived from the text. It is a system imposed ON the text. And the church adopted it wholesale because the system was exciting and the books sold well. Not because it was true.
 
 I hold the historicist position because it fits the framework. The Author is still writing the story. Revelation maps the ongoing narrative. The seals have been opening across centuries. The trumpets have been sounding across centuries. The beasts have risen and fallen across centuries. And reading Revelation requires the same pattern recognition across history that the Author built into every other domain of this book. The invisible precedes the visible. The plan precedes the execution. And the story is still unfolding, page by page, because the Author hasn't written "The End" yet.
 
@@ -86,7 +86,7 @@ Premillennialism, especially in its dispensational form, is the eschatological s
 
 Dispensational premillennialism requires a physical kingdom. A literal thousand-year reign of Christ on earth, sitting on a physical throne in physical Jerusalem, governing physical nations with physical laws. It requires a rebuilt temple with reinstated animal sacrifices. It requires a distinction between Israel and the church as two separate peoples of God with two separate destinies.
 
-And every one of those requirements puts the visible before the invisible. The physical throne before the spiritual reign. The rebuilt temple before the indwelling Spirit. The geopolitical nation before the covenant people. It's the same error this book has been attacking since Chapter 1, applied to eschatology. The kingdom is *not* of this world. The kingdom is within you. The covenant precedes the ceremony, and the spiritual kingdom precedes any physical expression of it.
+And every one of those requirements puts the visible before the invisible. The physical throne before the spiritual reign, the rebuilt temple before the indwelling Spirit, the geopolitical nation before the covenant people. It's the same error this book has been attacking since Chapter 1, applied to eschatology. The kingdom is *not* of this world. The kingdom is within you. The covenant precedes the ceremony, and the spiritual kingdom precedes any physical expression of it.
 
 And the prophecy charts. The timelines. The date calculations. The newspaper exegesis. The entire infrastructure of dispensational eschatology has more in common with institutional formality than with personal covenant. It turns the book of Revelation into a puzzle to be solved rather than a story to be lived. And it has produced more false predictions and more embarrassed prophets than any other system in the history of the church.
 
@@ -98,7 +98,7 @@ And I hold it with more sympathy than premillennialism, because at least it take
 
 *"This know also, that in the last days perilous times shall come."* (2 Timothy 3:1)
 
-The world is not getting better. The gospel is not progressively winning. The gates of hell are not falling one by one in an orderly march toward global Christianization. The world is doing what the world has always done -- some souls are being called, others are hardening, and the Author is writing a story that includes *both* simultaneously.
+The world is not getting better. The gospel is not progressively winning. The gates of hell are not falling one by one in an orderly march toward global Christianization. The world is doing what the world has always done: some souls are being called, others are hardening, and the Author is writing a story that includes *both* simultaneously.
 
 Postmillennialism is triumphalist, and triumphalism is a kind of pride. It assumes we can *see* the direction of history by looking at the rendering. But we can't. Only the Author sees the filmstrip from above. The character in the story can't tell whether the plotline is rising or falling by looking at the current page. And the posture of a character who trusts the Author isn't triumphalism. It's faithfulness. Quiet, steady, soft-spoken faithfulness. Present the truth. Wait on the Lord. He knows the ending. We don't.
 
@@ -108,7 +108,7 @@ Mary Van Weelden makes the same case from the biblical-theological side in her e
 
 I need to be transparent about something. What follows is speculation. Clearly labeled, clearly identified as my own observation, not a derivation from the framework. The framework derives the *nature* of the last things. This section speculates about a possible *mechanism*.
 
-For all of recorded history, every "beast" -- every totalitarian system, every empire, every surveillance state -- has been limited by human bandwidth. The Roman Empire couldn't monitor every citizen because there weren't enough soldiers. The Soviet Union couldn't surveil every conversation because there weren't enough KGB agents. Even the most oppressive regimes in history had cracks, because the humans running the systems couldn't process the volume of information required for total control.
+For all of recorded history, every "beast" (every totalitarian system, every empire, every surveillance state) has been limited by human bandwidth. The Roman Empire couldn't monitor every citizen because there weren't enough soldiers. The Soviet Union couldn't surveil every conversation because there weren't enough KGB agents. Even the most oppressive regimes in history had cracks, because the humans running the systems couldn't process the volume of information required for total control.
 
 AI removes that limit.
 
@@ -116,9 +116,9 @@ For the first time in the history of the world, it is *technically feasible* to 
 
 *"And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name."* (Revelation 13:17)
 
-For nineteen centuries, that verse was incomprehensible. How could any system control every transaction? Now it's not only comprehensible -- it's technically trivial. A central digital currency, a biometric identifier, a social credit system, an AI-driven approval network. The technology exists. The implementation is a policy decision, not an engineering challenge.
+For nineteen centuries, that verse was incomprehensible. How could any system control every transaction? Now it's not only comprehensible, it's technically trivial. A central digital currency, a biometric identifier, a social credit system, an AI-driven approval network. The technology exists. The implementation is a policy decision, not an engineering challenge.
 
-I'm not saying AI *is* the beast. I'm not saying we're in the final chapter. I'm not building a prophecy chart with AI at the center. That would be doing exactly what I criticized the dispensationalists for doing. But I am observing that the historicist framework, which reads Revelation as a map of church history unfolding across centuries, has arrived at a point in history where one of the most specific and puzzling descriptions in the text -- total economic control -- is technically feasible for the first time. And the mechanism that makes it feasible is artificial intelligence.
+I'm not saying AI *is* the beast. I'm not saying we're in the final chapter. I'm not building a prophecy chart with AI at the center. That would be doing exactly what I criticized the dispensationalists for doing. But I am observing that the historicist framework, which reads Revelation as a map of church history unfolding across centuries, has arrived at a point in history where one of the most specific and puzzling descriptions in the text, total economic control, is technically feasible for the first time. And the mechanism that makes it feasible is artificial intelligence.
 
 That's not a prophecy. It's an observation. And the observation is worth noting, even with uncertainty, even with the full acknowledgment that I might be wrong about the significance.
 
@@ -128,7 +128,7 @@ The Author is still writing. And the ink on the current page looks different tha
 
 Here is what the framework *does* derive about eschatology, distinct from timing and details.
 
-The principle I established at the top of this chapter -- the invisible is more real than the visible -- means the victory is accomplished even though the battle appears ongoing. Everything we've built across twenty-six chapters applies here.
+The principle I established at the top of this chapter, the invisible is more real than the visible, means the victory is accomplished even though the battle appears ongoing. Everything we've built across twenty-six chapters applies here.
 
 The Author is writing the story. This means history is not random, not cyclical, and not meaningless. It is *going* somewhere. The filmstrip has a last frame. And the Author, who sees every frame simultaneously, is moving the narrative toward a conclusion that we can't see from inside the rendering but that is as certain as every other decree.
 
@@ -188,7 +188,7 @@ Because the framework has something to say about the *nature* of the last things
 
 **"AI and eschatology is speculation."**
 
-It is. I said so before I made the observation and I'm saying it again now. But the observation itself -- that total economic surveillance and control is technically feasible for the first time in history, and that the mechanism is artificial intelligence -- is not speculation. That's fact. The speculative part is the connection to Revelation 13. And I hold that connection with the same open hands I hold the rest of eschatology. But I'd rather observe it honestly and hold it loosely than ignore it entirely and pretend the technical landscape doesn't matter.
+It is. I said so before I made the observation and I'm saying it again now. But the observation itself (that total economic surveillance and control is technically feasible for the first time in history, and that the mechanism is artificial intelligence) is not speculation. That's fact. The speculative part is the connection to Revelation 13. And I hold that connection with the same open hands I hold the rest of eschatology. But I'd rather observe it honestly and hold it loosely than ignore it entirely and pretend the technical landscape doesn't matter.
 
 **"The state of the world proves Christ is not reigning now."**
 

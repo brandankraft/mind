@@ -15,7 +15,7 @@ The means vs. anti-means debate has split churches and ended friendships, and I 
 
 The "means" position says God uses the preaching of the Gospel as the instrument of regeneration. The "anti-means" position says regeneration is a supernatural act of the Spirit that may precede or accompany Gospel knowledge but is not caused by it. Both sides agree on two facts: the Holy Spirit does all the regenerating work, and all the elect will believe the Gospel. If both sides agree on those two things, the practical implications of the disagreement are vanishingly small.
 
-The means camp correctly emphasizes the epistemological nature of the Spirit's work -- He gives knowledge, truth, understanding. The anti-means camp correctly emphasizes the supernatural nature of the Spirit's work -- He flashes the firmware (Chapter 16) beneath the level of conscious awareness. Both are true. The Spirit operates at the firmware level and uses information to do it. The preaching of the Gospel is the occasion, the Spirit is the cause, and the two are so intertwined that separating them into competing categories creates a debate where none needs to exist.
+The means camp correctly emphasizes the epistemological nature of the Spirit's work: He gives knowledge, truth, understanding. The anti-means camp correctly emphasizes the supernatural nature of the Spirit's work: He flashes the firmware (Chapter 16) beneath the level of conscious awareness. Both are true. The Spirit operates at the firmware level and uses information to do it. The preaching of the Gospel is the occasion, the Spirit is the cause, and the two are so intertwined that separating them into competing categories creates a debate where none needs to exist.
 
 *"I will never forget thy precepts: for with them thou hast quickened me"* (Psalm 119:93). With them. The precepts were involved. The quickening was God's. Both.
 
@@ -33,7 +33,7 @@ Abraham was justified before the cross. The Dead Sea Scrolls community held sove
 
 The gospel is the means God normally uses. Preaching is ordained. Itinerant preachers are sent. *"How shall they hear without a preacher?"* (Romans 10:14). The means are real. But the means are not the efficient cause. The Spirit is. And the Spirit is not limited to the means He normally employs.
 
-Chapter 30 says: *"Christ saves through the cracks in bad theology just as easily as He saves through the front door of good theology."* This extends the principle: Christ saves through the cracks in no theology too. The elect in remote villages, in ancient civilizations, in unreached tribes -- if God decreed their salvation before the foundation (Ephesians 1:4), the absence of a preacher doesn't override the decree. The Spirit finds them. He always does. He has never lost one.
+Chapter 30 says: *"Christ saves through the cracks in bad theology just as easily as He saves through the front door of good theology."* This extends the principle: Christ saves through the cracks in no theology too. The elect in remote villages, in ancient civilizations, in unreached tribes. If God decreed their salvation before the foundation (Ephesians 1:4), the absence of a preacher doesn't override the decree. The Spirit finds them. He always does. He has never lost one.
 
 This doesn't eliminate the preaching mandate. We preach because God told us to. The preacher is the means. But the security of the elect doesn't depend on human logistics. It depends on the Spirit who has root access and has never failed to flash the firmware of every soul the Father gave to the Son.
 
@@ -45,11 +45,11 @@ All infants who die in infancy are elect. And the framework derives this cleaner
 
 If God authors every death, and an infant dies, it is because God decreed that infant's story to end there. The Author wrote a short rendering for that thought. And since the framework rejects federal headship (Chapters 7 and 11), there is no legal mechanism transmitting Adam's guilt to anyone, let alone a baby. Each person is authored directly. No inherited guilt. No condemnation apart from actual transgression.
 
-The infant has no actual transgression. The curse of the law (Chapter 12) requires transgression. A baby hasn't transgressed. There's nothing to measure. Nothing to punish. The application layer hasn't come online -- a baby can't think about thinking, can't suppress truth in unrighteousness (Romans 1:18), can't process truth propositionally. The mechanisms of condemnation simply don't apply.
+The infant has no actual transgression. The curse of the law (Chapter 12) requires transgression. A baby hasn't transgressed. There's nothing to measure. Nothing to punish. The application layer hasn't come online: a baby can't think about thinking, can't suppress truth in unrighteousness (Romans 1:18), can't process truth propositionally. The mechanisms of condemnation simply don't apply.
 
-The condemnation of the gospel requires hearing and rejecting. Chapter 12 distinguishes the curse of the law from the condemnation of the gospel. The condemnation -- *"the savour of death unto death"* (2 Corinthians 2:15-16) -- requires encountering the gospel through a functioning mind and rejecting it. An infant hasn't encountered anything.
+The condemnation of the gospel requires hearing and rejecting. Chapter 12 distinguishes the curse of the law from the condemnation of the gospel. The condemnation, *"the savour of death unto death"* (2 Corinthians 2:15-16), requires encountering the gospel through a functioning mind and rejecting it. An infant hasn't encountered anything.
 
-And here is where the framework goes further than most systems dare: if God authored that infant's death in infancy, He did so because that infant was always elect. The thought was always His. The rendering was brief, but the thought persists in God's mind -- He doesn't stop thinking it. And the God who authors everything does not author the death of an infant only to condemn the infant He killed. The death itself is the evidence of election. God took the child home before the rendering reached the stage where sin could be expressed at the conscious level. That is not an accident. That is the Author writing a short story with a guaranteed ending.
+And here is where the framework goes further than most systems dare: if God authored that infant's death in infancy, He did so because that infant was always elect. The thought was always His. The rendering was brief, but the thought persists in God's mind; He doesn't stop thinking it. And the God who authors everything does not author the death of an infant only to condemn the infant He killed. The death itself is the evidence of election. God took the child home before the rendering reached the stage where sin could be expressed at the conscious level. That is not an accident. That is the Author writing a short story with a guaranteed ending.
 
 David knew this. *"I shall go to him, but he shall not return to me"* (2 Samuel 12:23). David expected reunion. Not hope. Expectation. Because David knew who authored the child's death. And he knew the Author does not waste His thoughts.
 
@@ -57,7 +57,7 @@ David knew this. *"I shall go to him, but he shall not return to me"* (2 Samuel 
 
 ## On the Mentally Disabled
 
-The same logic applies. If the application layer never comes fully online -- whether because of age or because of cognitive disability -- the mechanisms of condemnation don't apply. No propositional rejection. No suppression of truth. No conscious rebellion.
+The same logic applies. If the application layer never comes fully online, whether because of age or because of cognitive disability, the mechanisms of condemnation don't apply. No propositional rejection. No suppression of truth. No conscious rebellion.
 
 The thought persists in God's mind. The rendering was constrained by the hardware (the brain's limitations). But condemnation requires a functioning application layer, and if the application layer was never operative, the condemnation has no target. You can't rebel against truth you can't process. You can't suppress what you can't hold.
 
@@ -69,17 +69,17 @@ This is one of the most pastorally important derivations in the framework. The s
 
 Suicide is authored, not just permitted. Everything is (Chapter 5). But suicide is not proof of reprobation.
 
-Samson killed himself (Judges 16:30). He is listed among the heroes of faith in Hebrews 11:32. The act of self-destruction did not change his eternal standing. The authoring of the event -- the sovereign decree that included the manner of his death -- did not override the justification that existed from eternity.
+Samson killed himself (Judges 16:30). He is listed among the heroes of faith in Hebrews 11:32. The act of self-destruction did not change his eternal standing. The authoring of the event, the sovereign decree that included the manner of his death, did not override the justification that existed from eternity.
 
 If justification is from eternity (Chapter 15), and if nothing can separate the elect from the love of God (Romans 8:38-39), then the manner of death cannot separate them either. A believer who takes his own life has committed a sin. But the elect sin. That's what the temporary firmware does. And the sin of suicide is not a special category that overrides the cross. The blood of Christ covers all sin for the elect. All of it. Including the last one.
 
-I say this knowing the pastoral weight of these words. Suicide is devastating. It leaves wreckage in families that never fully heals. But the wreckage is for the living. The dead are in God's hands. And if they were elect, they were always in God's hands -- before the act, during it, and after.
+I say this knowing the pastoral weight of these words. Suicide is devastating. It leaves wreckage in families that never fully heals. But the wreckage is for the living. The dead are in God's hands. And if they were elect, they were always in God's hands: before the act, during it, and after.
 
 **For further study:** 1 Sam. 31:4-5; 2 Sam. 17:23; 1 Kings 16:18; Judges 16:28-30; Ps. 34:18; Ps. 51:17; John 6:39; John 10:28-29; Rom. 8:1; Rom. 8:35-39; 1 John 1:7; Heb. 7:25.
 
 ## On Assurance of Salvation
 
-Assurance rests on Christ's work, not yours. If you look at your works for assurance, you'll despair -- because your works are filthy rags (Isaiah 64:6). If you look at your theology for assurance, you'll worry -- because no one has every doctrine right. If you look at Christ, you'll rest -- because His work is finished.
+Assurance rests on Christ's work, not yours. If you look at your works for assurance, you'll despair, because your works are filthy rags (Isaiah 64:6). If you look at your theology for assurance, you'll worry, because no one has every doctrine right. If you look at Christ, you'll rest, because His work is finished.
 
 *"These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life"* (1 John 5:13). That ye may KNOW. Not hope. Not guess. Know.
 
@@ -97,9 +97,9 @@ The elect cannot apostatize. If justification is from eternity (Chapter 15), and
 
 Never perish. No man pluck them. The security is absolute.
 
-What about the passages that warn against falling away? Hebrews 6:4-6. Hebrews 10:26-29. These are warnings directed at the reprobate who sit among the visible church. They describe people who have been *near* the truth -- who have tasted, who have been enlightened, who have partaken of the Spirit's common operations -- but who were never regenerated. The tasting is not the eating. The enlightening is not the firmware flash. They experienced the rendering of the truth without receiving the substance.
+What about the passages that warn against falling away? Hebrews 6:4-6. Hebrews 10:26-29. These are warnings directed at the reprobate who sit among the visible church. They describe people who have been *near* the truth (who have tasted, who have been enlightened, who have partaken of the Spirit's common operations) but who were never regenerated. The tasting is not the eating. The enlightening is not the firmware flash. They experienced the rendering of the truth without receiving the substance.
 
-The elect hear these warnings and tremble -- because the old firmware is still running and the proximity to danger feels real. But the new firmware holds. And the Shepherd doesn't lose sheep.
+The elect hear these warnings and tremble, because the old firmware is still running and the proximity to danger feels real. But the new firmware holds. And the Shepherd doesn't lose sheep.
 
 **For further study:** Ps. 37:24; Ps. 89:30-34; Ps. 125:1-2; Jer. 32:40; Matt. 24:24; John 6:39-40; John 17:11-12; Rom. 8:28-30; 1 Cor. 1:8-9; Phil. 1:6; 2 Tim. 2:19; 1 Pet. 1:5; 1 John 2:19; Jude 24-25.
 
@@ -107,7 +107,7 @@ The elect hear these warnings and tremble -- because the old firmware is still r
 
 *"All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy against the Holy Ghost shall not be forgiven unto men"* (Matthew 12:31).
 
-In the framework, the unforgivable sin is the reprobate's final rejection of the Spirit's testimony. It is the firmware of the seed of the serpent doing what it was authored to do -- rejecting the truth permanently, without the capacity for repentance.
+In the framework, the unforgivable sin is the reprobate's final rejection of the Spirit's testimony. It is the firmware of the seed of the serpent doing what it was authored to do: rejecting the truth permanently, without the capacity for repentance.
 
 The elect cannot commit it. The new firmware won't allow it. The Spirit who flashed the boot parameters is greater than any sin the old firmware can produce. If you're worried you've committed the unforgivable sin, the worry itself is evidence that you haven't. Worry about grieving the Spirit is a symptom of the new firmware. The old firmware doesn't worry. It blasphemes and feels nothing.
 
@@ -123,15 +123,15 @@ Paul didn't say "absent from the body and unconscious until the resurrection." H
 
 Christ made this even more explicit on the cross. *"And Jesus said unto him, Verily I say unto thee, Today shalt thou be with me in paradise"* (Luke 23:43). Today. Not "at the resurrection." Not "after a period of soul sleep." Today. The thief would be with Christ in paradise that same day. The body would hang and rot. The person would be with Christ.
 
-**Soul sleep is rejected.** The idea that the soul is unconscious between death and resurrection comes from a misreading of passages that describe death AS sleep -- which is a metaphor for the body, not a description of the soul's experience. *"Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep"* (John 11:11). The body sleeps. The person is elsewhere.
+**Soul sleep is rejected.** The idea that the soul is unconscious between death and resurrection comes from a misreading of passages that describe death AS sleep, which is a metaphor for the body, not a description of the soul's experience. *"Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep"* (John 11:11). The body sleeps. The person is elsewhere.
 
 The rich man and Lazarus confirms this. *"The rich man also died, and was buried; And in hell he lift up his eyes, being in torments"* (Luke 16:22-23). Whether parable or literal account, the theological point is the same: the rich man was conscious after death. He saw. He spoke. He felt torment. He remembered his brothers. That is not sleep.
 
 **In the framework, the intermediate state is a lower-resolution rendering.** The soul is conscious. The elect are in God's presence. The reprobate are under judgment. But neither group has received the resurrection body yet. The full rendering upgrade (Chapter 29) hasn't occurred. Think of it as the difference between a preview and the finished product. The preview is real. It's not a dream. You're experiencing something genuine. But it's not the full resolution. The resurrection body is the upgrade that brings everything to final clarity.
 
-For the elect, the intermediate state is better than anything in this life. *"For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better"* (Philippians 1:23). Paul called it FAR BETTER. He wasn't dreading unconsciousness. He was eager for what he knew was waiting. But it's still not the final state. The final state includes a body -- a real, physical, glorified body that eats fish and walks through walls (Chapter 29). The intermediate state is the soul without that body. Present with the Lord, conscious, at peace, but not yet complete.
+For the elect, the intermediate state is better than anything in this life. *"For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better"* (Philippians 1:23). Paul called it FAR BETTER. He wasn't dreading unconsciousness. He was eager for what he knew was waiting. But it's still not the final state. The final state includes a body, a real, physical, glorified body that eats fish and walks through walls (Chapter 29). The intermediate state is the soul without that body. Present with the Lord, conscious, at peace, but not yet complete.
 
-For the reprobate, the intermediate state is conscious torment. The rich man's experience in Luke 16 is the preview of the final state described in Chapter 28 -- the same God, the same presence, experienced through corrupted firmware with no covering and no upgrade. The full resolution comes at the final judgment, when the glass comes down for everyone and the rendering upgrades permanently. But the preview is already terrible.
+For the reprobate, the intermediate state is conscious torment. The rich man's experience in Luke 16 is the preview of the final state described in Chapter 28: the same God, the same presence, experienced through corrupted firmware with no covering and no upgrade. The full resolution comes at the final judgment, when the glass comes down for everyone and the rendering upgrades permanently. But the preview is already terrible.
 
 **The framework's derivation:** If the soul is information in the mind of God, and God doesn't stop thinking any thought, then the soul doesn't cease to exist at death. The rendering changes. The physical hardware (the body) shuts down. But the information -- the thought -- continues. The intermediate state is God continuing to think the thought without rendering it physically. The thought is still conscious because consciousness is in the information, not in the hardware. The hardware was always just the rendering of the information, not the source of it.
 
@@ -145,9 +145,9 @@ I reject this.
 
 The reward is Christ. Not Christ plus a bonus. Not Christ plus a bigger mansion. Not Christ plus a higher rank. Christ. *"The LORD is the portion of mine inheritance and of my cup"* (Psalm 16:5). The inheritance IS the Lord. Not something the Lord gives you on top of Himself.
 
-If justification is from eternity (Chapter 15), and if sanctification is positional and not progressive (Chapter 18), then there is no scale on which to measure one believer's performance against another's. All of the elect are equally justified. All are equally sanctified in Christ. All stand in the same righteousness -- Christ's, not their own. And if none of them contributed anything to their salvation, how can any of them earn a differential reward?
+If justification is from eternity (Chapter 15), and if sanctification is positional and not progressive (Chapter 18), then there is no scale on which to measure one believer's performance against another's. All of the elect are equally justified. All are equally sanctified in Christ. All stand in the same righteousness, Christ's, not their own. And if none of them contributed anything to their salvation, how can any of them earn a differential reward?
 
-The parables of the talents are about stewardship, not eternal pay grades. The parable of the minas in Luke 19 -- "have thou authority over ten cities" and "be thou also over five cities" -- is the same. The cities are not eternal compensation packages. They are the parabolic language of a nobleman distributing responsibility upon his return. And in the framework, the saints DO reign (Chapter 28, Revelation 5:10) -- but they reign equally, in the same reality, with the same Christ, at the same resolution. The "cities" are the reign. Not tiers within the reign. The "gold, silver, precious stones" passage in 1 Corinthians 3 is about the quality of a minister's work surviving the test of fire -- not about the minister receiving a bigger crown. And "great is your reward in heaven" is Christ Himself. He IS the great reward. The reward doesn't vary because Christ doesn't vary.
+The parables of the talents are about stewardship, not eternal pay grades. The parable of the minas in Luke 19, "have thou authority over ten cities" and "be thou also over five cities," is the same. The cities are not eternal compensation packages. They are the parabolic language of a nobleman distributing responsibility upon his return. And in the framework, the saints DO reign (Chapter 28, Revelation 5:10), but they reign equally, in the same reality, with the same Christ, at the same resolution. The "cities" are the reign. Not tiers within the reign. The "gold, silver, precious stones" passage in 1 Corinthians 3 is about the quality of a minister's work surviving the test of fire, not about the minister receiving a bigger crown. And "great is your reward in heaven" is Christ Himself. He IS the great reward. The reward doesn't vary because Christ doesn't vary.
 
 The entire concept of degrees of reward makes a believer's own works decide his standing in glory. It tells believers that what they DO in this life determines what they GET in eternity. That is a works-based incentive structure dressed in gospel clothing. And it contradicts everything this book has said about the finished work of Christ, the sovereignty of God in sanctification, and the impossibility of human contribution to what God has already accomplished.
 
@@ -157,7 +157,7 @@ Every saint will see Christ at the same resolution. Every saint will reign with 
 
 ## On Common Grace
 
-Grace is always particular. Always discriminatory. Always effectual. The Hebrew is *khane*. The Greek is *charis*. And in Scripture, it is never aimed at everyone universally. Grace is *favor*. And God's favor is reserved for His people.
+Grace is always particular, discriminatory, and effectual. The Hebrew is *khane*. The Greek is *charis*. And in Scripture, it is never aimed at everyone universally. Grace is *favor*. And God's favor is reserved for His people.
 
 The doctrine of common grace teaches that God loves everyone in some general sense, that rain and sunshine on the wicked are expressions of His love, and that this love gives God the basis to "offer" salvation to all. I reject this entirely.
 
@@ -165,9 +165,9 @@ The doctrine of common grace teaches that God loves everyone in some general sen
 
 *"It was of the LORD to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour"* (Joshua 11:20). No favour. No grace. God actively hardened them for destruction.
 
-The doctrine of common grace exists because the free offer system needs it. If you're selling salvation through offers, you need a God who loves everybody at least a little. You need a theological basis for the pitch. Common grace is that basis. Strip it away and the whole offer system collapses -- which is exactly why it was invented.
+The doctrine of common grace exists because the free offer system needs it. If you're selling salvation through offers, you need a God who loves everybody at least a little. You need a theological basis for the pitch. Common grace is that basis. Strip it away and the whole offer system collapses, which is exactly why it was invented.
 
-I have no objection to "common bounty" or "common goodness." God does cause the wicked to prosper temporarily. I don't deny that. But calling it *grace* -- calling it *favor* -- cheapens the word. Grace is what Christ did for His bride. It is particular, effectual, and saving. *"Husbands, love your wives, even as Christ also loved the church, and gave himself for it"* (Ephesians 5:25). That love is not shared with the woman down the street. And if a husband told his wife he loved someone else too, even in a "general" sense, there would be serious trouble. Because it devalues the love. And that is what common grace does to effectual grace. It cheapens it. It profanes it. And the offer preachers need it to increase their numbers.
+I have no objection to "common bounty" or "common goodness." God does cause the wicked to prosper temporarily. I don't deny that. But calling it *grace*, calling it *favor*, cheapens the word. Grace is what Christ did for His bride. It is particular, effectual, and saving. *"Husbands, love your wives, even as Christ also loved the church, and gave himself for it"* (Ephesians 5:25). That love is not shared with the woman down the street. And if a husband told his wife he loved someone else too, even in a "general" sense, there would be serious trouble. Because it devalues the love. And that is what common grace does to effectual grace. It cheapens it. It profanes it. And the offer preachers need it to increase their numbers.
 
 **For further study:** Gen. 6:5-7; Deut. 7:6-8; Ps. 5:5; Ps. 11:5; Ps. 73:18-20; Ps. 92:7; Prov. 16:4; Mal. 1:2-3; Matt. 5:45; Rom. 2:4-5; Rom. 9:13; Rom. 9:21-23; 2 Pet. 2:9; Jude 4.
 
@@ -201,7 +201,7 @@ The reason most Calvinists reject the term is that they associate it exclusively
 
 And He has. And He will. For every frame of the filmstrip that remains between this moment and the consummation, He has already prepared the road. The same God who went before me in my mother's womb will go before me in every frame that remains.
 
-Grace precedes. Grace prepares. Grace arrives. And after grace arrives, grace continues. That is the whole ordo rendered in the older English word that Calvinists should not have given away.
+Grace precedes, prepares, and arrives. And after grace arrives, grace continues. That is the whole ordo rendered in the older English word that Calvinists should not have given away.
 
 **For further study:** Gen. 18:19; Gen. 24:7; Ps. 21:3; Ps. 34:8; Ps. 59:10; Ps. 79:8; Ps. 89:14; Ps. 119:148; Eccl. 3:11; Isa. 49:1; Jer. 1:5; Matt. 13:3-9; Luke 1:76; John 6:44-45; Acts 13:48; Rom. 8:28-30; 1 Cor. 4:7; Gal. 1:15; Eph. 1:4-5; Eph. 2:10; 2 Tim. 1:9; 1 Pet. 1:2.
 

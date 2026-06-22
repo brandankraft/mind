@@ -25,7 +25,7 @@ The following chart compares four major covenant systems across the thirteen the
 
 **The framework's distinctive positions, expanded.**
 
-*Decrees and supralapsarianism.* MCT is the only true supralapsarian system. God decreed all events from the end to the beginning -- the Lamb slain from the foundation, the elect chosen for glory, creation as the stage on which the plan unfolds.
+*Decrees and supralapsarianism.* MCT is the only true supralapsarian system. God decreed all events from the end to the beginning: the Lamb slain from the foundation, the elect chosen for glory, creation as the stage on which the plan unfolds.
 
 [^c-supra-only]: Supralapsarianism is a minority position -- historically fewer than five percent of all Calvinists -- and it lives entirely inside the Reformed/Covenant tradition. It does not appear in Dispensationalism, which is not creedally Calvinistic (its adherents range from Arminian to, less often, infralapsarian Calvinist), nor in New Covenant Theology, which is Calvinistic in soteriology but infralapsarian where the lapsarian question is engaged at all. Covenant Theology is the only system here with a genuine supralapsarian wing, and Chapter 5 argues that even those supralapsarians are not consistent.
 
@@ -35,11 +35,11 @@ The following chart compares four major covenant systems across the thirteen the
 
 *The law and liberty.* All the law ended in Christ; the believer is dead to all of it. The Spirit writes the commandments on the heart. Rebuke the imposers.
 
-*Federal headship rejected.* God creates each person sinful directly. No intermediary. No representation. No legal machinery between Adam and his descendants.
+*Federal headship rejected.* God creates each person sinful directly. No intermediary, no representation, no legal machinery between Adam and his descendants.
 
-*Adam, Satan, and the seeds.* Adam was created sinful, not righteous; the fall revealed a nature already inclined toward sin. Satan was created evil, never fell -- Isaiah 14 is about Babylon, Ezekiel 28 about Tyre. The elect and the reprobate are ontologically different seeds, as different as a rock from an apple.
+*Adam, Satan, and the seeds.* Adam was created sinful, not righteous; the fall revealed a nature already inclined toward sin. Satan was created evil, never fell: Isaiah 14 is about Babylon, Ezekiel 28 about Tyre. The elect and the reprobate are ontologically different seeds, as different as a rock from an apple.
 
-*Gospel and common grace.* The gospel is proclamation, not offer. Faith is a gift, not a duty. There is no "human responsibility" concerning salvation. God's provision to the reprobate is common bounty, not grace -- calling it grace profanes Christ's love for His bride.
+*Gospel and common grace.* The gospel is proclamation, not offer. Faith is a gift, not a duty. There is no "human responsibility" concerning salvation. God's provision to the reprobate is common bounty, not grace; calling it grace profanes Christ's love for His bride.
 
 *Covenant of redemption.* The three persons of the Trinity covenanted for the salvation of the elect before the foundation of the world.
 
@@ -47,6 +47,6 @@ The following chart compares four major covenant systems across the thirteen the
 
 ## The Core Distinction
 
-CT says you're a member of a covenant class. MCT says you're a specific, personal thought of God -- an eternal promise made to YOU, not to a category you belong to.
+CT says you're a member of a covenant class. MCT says you're a specific, personal thought of God, an eternal promise made to YOU, not to a category you belong to.
 
 Every other system requires a legal mechanism between God and His people. MCT says the mechanism IS the promise. And a promise from a timeless God to a thought in His own mind doesn't need a courtroom. It just needs love.

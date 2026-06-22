@@ -6,7 +6,7 @@ part: IV -- The People
 
 # Chapter 14: Every Sin, Same Distance from Grace
 
-I have sat in church buildings where the preacher spent forty-five minutes on one sin and zero minutes on the sin sitting in the pew next to him. I have watched congregations work themselves into righteous fury over sins they would never commit while practicing, daily, sins they would never name. I have seen men who couldn't stop gossiping thunder about sexual immorality. I have seen men who couldn't control their pride deliver sermons about the evils of worldliness. And I have watched the church, over and over, construct a tier list of sins -- the really bad ones at the top, the respectable ones at the bottom -- and then arrange their self-righteousness accordingly.
+I have sat in church buildings where the preacher spent forty-five minutes on one sin and zero minutes on the sin sitting in the pew next to him. I have watched congregations work themselves into righteous fury over sins they would never commit while practicing, daily, sins they would never name. I have seen men who couldn't stop gossiping thunder about sexual immorality. I have seen men who couldn't control their pride deliver sermons about the evils of worldliness. And I have watched the church, over and over, construct a tier list of sins, the really bad ones at the top, the respectable ones at the bottom, and then arrange their self-righteousness accordingly.
 
 And every time I see it, I think of Luke 18.
 
@@ -20,7 +20,7 @@ The tier list is the Pharisee's list. It is the list that says *my* sin is toler
 
 *"What is man, that he should be clean? and he which is born of a woman, that he should be righteous? Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight. How much more abominable and filthy is man, which drinketh iniquity like water?"* (Job 15:14-16)
 
-Like *water*. Not like poison, which you avoid. Not like medicine, which you take reluctantly. Like water. The most natural thing in the world. You drink it without thinking. You reach for it instinctively. That is what sin is to the human race. Not an occasional lapse. Not a regrettable accident. The default behavior of a nature that was authored to produce it.
+Like *water*. Not like poison, which you avoid. Not like medicine, which you take reluctantly. Like water. The most natural thing in the world. You drink it without thinking. You reach for it instinctively. That is what sin is to the human race. Not an occasional lapse or a regrettable accident, but the default behavior of a nature authored to produce it.
 
 And here is the leveling truth that every church needs to hear: if we all drink iniquity like water, then no one's glass is cleaner than anyone else's. The murderer and the minister are drinking from the same well. The adulterer and the gossip are consuming the same substance. The homosexual and the self-righteous elder are swallowing the same poison. The difference is not in the nature of what they're drinking. The difference is that some of them know it, and some of them don't.
 
@@ -48,9 +48,9 @@ Yes. He did.
 
 *"But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee."* (Matthew 11:24)
 
-There are degrees of temporal punishment. There are degrees of responsibility. There are sins that cause more earthly damage than others. A murder is more destructive than a harsh word. A rape is more devastating than a lie. This is obvious, and I am not denying it.
+There are degrees of temporal punishment and degrees of responsibility. Some sins cause more earthly damage than others. A murder is more destructive than a harsh word. A rape is more devastating than a lie. This is obvious, and I am not denying it.
 
-But degrees of punishment are not degrees of grace. The existence of a hierarchy in temporal consequences does not create a hierarchy in the distance between the sinner and God's mercy. The murderer doesn't need *more* of Christ's blood than the gossip. The blood covers all equally. The murderer may face more severe temporal consequences -- imprisonment, execution, the destruction of lives around him. But before the cross, he stands exactly where the gossip stands. Both are infinitely short of God's glory. Both are covered, if they are elect, by the same blood.
+But degrees of punishment are not degrees of grace. The existence of a hierarchy in temporal consequences does not create a hierarchy in the distance between the sinner and God's mercy. The murderer doesn't need *more* of Christ's blood than the gossip. The blood covers all equally. The murderer may face more severe temporal consequences: imprisonment, execution, the destruction of lives around him. But before the cross, he stands exactly where the gossip stands. Both are infinitely short of God's glory. Both are covered, if they are elect, by the same blood.
 
 This is the distinction the church consistently misses. They see degrees of punishment and assume degrees of grace. They see a hierarchy of earthly consequences and project it onto the heavenly economy. But the heavenly economy doesn't work that way. Grace is not a sliding scale. It is total or it is nothing. Christ either bore your sin or He didn't. And if He bore it, He bore *all* of it. No sin remaining. No partial coverage. No sin that is harder for Christ to atone for than another.
 
@@ -70,7 +70,7 @@ Known before formation. Written before existence. Every member fashioned in God'
 
 Even in rape. Even in incest. Even in medical crisis. Because the circumstances that produced the child were predestinated. God doesn't make accidental people. The child conceived in the worst circumstances is still a thought God is thinking. The suffering of the mother is real. The horror of the circumstances is real. And the humanity of the child is real. You don't solve one evil by committing another.
 
-But -- and this is where the tier list has to die -- I will not demonize the woman.
+But (and this is where the tier list has to die) I will not demonize the woman.
 
 The woman who has an abortion is a sinner. So is the man who drove her to it. So is the counselor who recommended it. So is the politician who funded it. So is the preacher who thundered about it on Sunday morning while ignoring his own pride for thirty years. Every one of them is a sinner. And if the woman is elect, if she is among the people God authored for glory, then the sin of abortion is covered by the same blood that covers every other sin. The guilt Christ bore on the cross included that sin. Not because it's small. Because the blood is big enough.
 
@@ -94,11 +94,11 @@ But here is where absolute predestination demands more honesty than most conserv
 
 The orientation was *ordained*. Not a "choice." Not a "lifestyle decision." Not a "rebellion against God's design" in the sense that the person freely chose to rebel. God creates each person with a sin nature according to His sovereign purpose, as we established in Chapter 11. The homosexual's nature was ordained the same way every other person's nature was ordained. God authored the inclination. The person experiences it. The sin is real. And the authorship is God's.
 
-This is too honest for most conservatives. They want to call it a choice because that preserves the idea that the person is responsible and God is not. But we've already dismantled that assumption in this book. There is one cause. God. The creature does not independently cause anything. The creature IS the cause rendered. The creature's sin is God's decree expressed in the rendering. One thought. One event. Two levels of one thing -- the decree and the rendering of the decree.
+This is too honest for most conservatives. They want to call it a choice because that preserves the idea that the person is responsible and God is not. But we've already dismantled that assumption in this book. There is one cause. God. The creature does not independently cause anything. The creature IS the cause rendered. The creature's sin is God's decree expressed in the rendering. One thought. One event. Two levels of one thing: the decree and the rendering of the decree.
 
 The Reformed tradition invented "secondary causes" to create a gap between God and the act, the same way they invented "permission" to create a gap between God and evil. Both are attempts to get God off the hook. Both fail for the same reason: in operational idealism, there IS no gap between the thought and the rendering. The rendering IS the thought expressed. The creature doesn't act independently of the decree. The creature IS the decree in action.
 
-And yet the creature is judged. Not because the creature is an independent agent who chose freely. Because the creature IS the nature. The creature doesn't have a nature -- the creature IS the nature, rendered into the physical world. The creature sins because the creature was authored to sin. And God judges the sin because judging it is also part of the decree. The Author authored the villain, the crime, and the verdict. All one thought. All one act. The pot and the potter. The character and the Author. The sin is real, and the authorship is sovereign.
+And yet the creature is judged. Not because the creature is an independent agent who chose freely. Because the creature IS the nature. The creature doesn't have a nature; the creature IS the nature, rendered into the physical world. The creature sins because the creature was authored to sin. And God judges the sin because judging it is also part of the decree. The Author authored the villain, the crime, and the verdict. All one thought. All one act. The pot and the potter. The character and the Author. The sin is real, and the authorship is sovereign.
 
 And here is the other thing the church needs to hear, and it's going to sting: the church that obsesses over homosexuality while ignoring pride is the Pharisee in Luke 18. The preacher who spends forty-five minutes on Romans 1 and zero minutes on Romans 2 has read half the letter. Because Romans 2 turns the spotlight back on the person doing the judging:
 
@@ -116,7 +116,7 @@ The real danger in the church is not the sins everyone talks about. It's the sin
 
 *"Pride goeth before destruction, and an haughty spirit before a fall."* (Proverbs 16:18)
 
-Pride is the one sin that disguises itself as virtue. Every other sin knows it's a sin. The thief knows he's stealing. The adulterer knows he's sinning. The murderer knows what he's done. But the proud man thinks he's righteous. He mistakes his self-righteousness for holiness and his judgment for discernment. And that's what makes pride the most dangerous sin in the pew -- not because it's worse in some cosmic hierarchy, but because it's the one sin that convinces you that you don't have it.
+Pride is the one sin that disguises itself as virtue. Every other sin knows it's a sin. The thief knows he's stealing. The adulterer knows he's sinning. The murderer knows what he's done. But the proud man thinks he's righteous. He mistakes his self-righteousness for holiness and his judgment for discernment. And that's what makes pride the most dangerous sin in the pew, not because it's worse in some cosmic hierarchy, but because it's the one sin that convinces you that you don't have it.
 
 The Pharisees were the proudest men in Israel and the most doctrinally rigorous. They tithed on their garden herbs. They fasted twice a week. They memorized the law and debated its finest points. And Christ called them whitewashed tombs full of dead men's bones (Matthew 23:27). Not because their doctrine was wrong. Because their hearts were rotten. Their doctrine was impeccable and their pride was bottomless, and they couldn't see the contradiction because the pride had blinded them to it.
 
@@ -130,7 +130,7 @@ One final point, because someone will ask it.
 
 No. And here is why.
 
-God ordained the crucifixion. It was the worst act in human history -- the murder of the Son of God by wicked men. And it was the greatest good in human history -- the redemption of God's elect. God ordained the act. The men who performed it were still wicked for performing it. Both truths coexist. The ordination does not excuse the actors.
+God ordained the crucifixion. It was the worst act in human history, the murder of the Son of God by wicked men. And it was the greatest good in human history, the redemption of God's elect. God ordained the act. The men who performed it were still wicked for performing it. Both truths coexist. The ordination does not excuse the actors.
 
 *"Him, being delivered by the determinate counsel and foreknowledge of God, ye have taken, and by wicked hands have crucified and slain."* (Acts 2:23)
 
@@ -150,7 +150,7 @@ I'm being hard on self-righteousness. The point isn't that sin doesn't matter. I
 
 **"If God ordained homosexuality and abortion, we have no business opposing them."**
 
-See the section on "Ordained Does Not Mean Approved" above. The crucifixion is the supreme example -- ordained by God, performed by wicked hands. We call sin what Scripture calls it, present the truth softly, and leave the results to the Spirit.
+See the section on "Ordained Does Not Mean Approved" above. The crucifixion is the supreme example: ordained by God, performed by wicked hands. We call sin what Scripture calls it, present the truth softly, and leave the results to the Spirit.
 
 **"You're just trying to make everyone comfortable with their sin."**
 
@@ -158,7 +158,7 @@ No. I'm trying to make everyone uncomfortable with their *self-righteousness*. T
 
 **"The Bible says some sins cry out to heaven. That makes them worse than others."**
 
-Sins that cry out to heaven -- murder (Genesis 4:10), sodomy (Genesis 18:20), oppression of the poor (Exodus 22:23) -- provoke more visible temporal judgment. God responds to them more dramatically in history. But "crying out to heaven" describes God's temporal response, not the sin's eternal weight. Before the cross, every sin weighs the same: infinite, requiring infinite atonement, which Christ provided in full.
+Sins that cry out to heaven, murder (Genesis 4:10), sodomy (Genesis 18:20), oppression of the poor (Exodus 22:23), provoke more visible temporal judgment. God responds to them more dramatically in history. But "crying out to heaven" describes God's temporal response, not the sin's eternal weight. Before the cross, every sin weighs the same: infinite, requiring infinite atonement, which Christ provided in full.
 
 ## For Further Study
 

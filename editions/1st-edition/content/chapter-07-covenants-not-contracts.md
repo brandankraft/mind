@@ -64,7 +64,7 @@ That's not the language of a courtroom. That's the language of a marriage. That'
 
 And in operational idealism, this is the only kind of covenant that makes sense. Because in operational idealism, there is only one independent mind: God's. The characters in the story don't have independent existence. They are thoughts in God's mind. And a thought can't negotiate with the mind that thinks it. A thought can only receive what the mind gives.
 
-So the covenant is always unilateral. Always. God promises. God fulfills. God sustains. God completes. The people of God are held by the covenant. They don't hold it. They rest in it. They don't earn it. They experience it. They don't maintain it.
+So the covenant is always unilateral. Always. God promises, fulfills, sustains, and completes it. The people of God are held by the covenant. They don't hold it; they rest in it. They don't earn it or maintain it; they simply experience it.
 
 And this is where the warmth of the system lives. Because a God who makes personal promises, not legal contracts, is a God who relates to His people as persons, not as cases in a courtroom. You're not a defendant hoping for a favorable verdict. You're a child who was claimed before you were born. And the claiming was a promise, and the promise was love, and the love was from eternity.
 
