@@ -16,7 +16,7 @@ If Adam was perfectly righteous, how did he sin?
 
 This is the crack in the foundation that the entire federal system cannot repair. And it's so simple that the foundation underneath gives way.
 
-A perfectly righteous being *cannot* sin. Not "will not." Cannot. If righteousness is the absence of any inclination toward evil, then a righteous being has no mechanism by which to produce sin. Sin requires a desire to rebel, a turning of the will away from God. But if the will is perfectly aligned with God, it cannot turn. Not because of external restraint, but because of internal nature. Water flows downhill because it's the nature of water to flow downhill. A perfectly righteous being obeys God because it's the nature of a perfectly righteous being to obey God. And just as water doesn't spontaneously flow uphill, a perfectly righteous will doesn't spontaneously rebel.
+A perfectly righteous being *cannot* sin. Not "will not." Cannot. If righteousness is the absence of any inclination toward evil, then a righteous being has no mechanism by which to produce sin. Sin requires a desire to rebel, a turning of the will away from God. But if the will is perfectly aligned with God, it cannot turn, not because of external restraint, but because of internal nature. Water flows downhill because it's the nature of water to flow downhill. A perfectly righteous being obeys God because it's the nature of a perfectly righteous being to obey God. And just as water doesn't spontaneously flow uphill, a perfectly righteous will doesn't spontaneously rebel.
 
 This is not an argument I invented. This is logic that anyone can follow. If Adam was created perfectly righteous, and perfect righteousness means perfect alignment with God's will, then the fall was impossible. You cannot get rebellion from perfection, or sin from sinlessness. The output cannot contain something the input did not.
 
@@ -24,7 +24,7 @@ This is not an argument I invented. This is logic that anyone can follow. If Ada
 
 Christ said it Himself. A good tree *cannot* bring forth evil fruit. Cannot. Not "usually doesn't." Cannot. If Adam was a good tree, perfectly righteous, then he could not have produced the evil fruit of sin. And if he produced sin, he was not a good tree.
 
-The traditional answer to this is the concept of the *posse peccare*, the ability to sin. Adam was righteous, the tradition says, but he had the *ability* to sin. He was mutable. He could go either way. And I understand the appeal of that answer. But it doesn't survive scrutiny. Because if Adam had the ability to sin, then he had a nature that *inclined* toward sin under the right conditions. And a nature that inclines toward sin under any conditions is not perfect righteousness. It's something else. It's a nature that contains the seed of rebellion. And where did that seed come from?
+The traditional answer to this is the concept of the *posse peccare*, the ability to sin. Adam was righteous, the tradition says, but he had the *ability* to sin. He was mutable. He could go either way. And I understand the appeal of that answer. But it doesn't survive scrutiny, because if Adam had the ability to sin, then he had a nature that *inclined* toward sin under the right conditions. And a nature that inclines toward sin under any conditions is not perfect righteousness. It's something else. It's a nature that contains the seed of rebellion. And where did that seed come from?
 
 If you say it came from Adam's free will, you've just said that Adam's free will could produce something God didn't put there. And that means something exists in the universe that God did not author. And we've already established in Chapter 1 that *everything* that exists is a thought in the mind of God. There are no exceptions.
 
@@ -36,7 +36,7 @@ I know what that sounds like. And I know it's going to offend people who have sp
 
 *"Behold, I was shapen in iniquity; and in sin did my mother conceive me."* (Psalm 51:5)
 
-David doesn't say, "I was born into a world corrupted by Adam." He says, "I was *shapen* in iniquity." Shapen by His hand, formed and crafted in it. The language is personal and direct. God shaped David in iniquity. Not because David inherited Adam's guilt through a federal headship, but because God created David with a sin nature, directly, personally, as a specific thought in His mind.
+David doesn't say, "I was born into a world corrupted by Adam." He says, "I was *shapen* in iniquity." Shapen by His hand, formed and crafted in it. The language is personal and direct. God shaped David in iniquity, not because David inherited Adam's guilt through a federal headship, but because God created David with a sin nature, directly, personally, as a specific thought in His mind.
 
 And here's where the framework makes this personal instead of abstract. Each person is a thought in the mind of God. Not a member of a class, not a unit in a federal system. A *thought*. Specific, individual, personal. God didn't think "humanity" in the abstract and then produce six billion copies. He thought each person individually. Your sin nature is not a generic inheritance from Adam. It is part of the specific thought that *is you*. God authored your nature the way He authored everything else: deliberately, purposefully, and for His glory.
 
@@ -54,9 +54,7 @@ The men who copied this hymn in the Judean wilderness were writing two centuries
 
 Federal headship is the doctrine that Adam served as the representative head of all humanity. When Adam sinned, his sin was legally *imputed* to everyone he represented. You were born guilty not because of anything you did, but because your representative failed the test. It's a courtroom metaphor. Adam was the defendant on behalf of the entire human race, and when he was found guilty, the verdict applied to everyone he represented.
 
-And I reject it.
-
-Not because it isn't clever. It is. Not because it doesn't have a long pedigree. It does. I reject it because it is an *institutional* covenant imposed from outside, and the framework of this book requires *personal* covenants formed from within.
+And I reject it, not because it isn't clever (it is) and not because it doesn't have a long pedigree (it does), but because it is an *institutional* covenant imposed from outside, and the framework of this book requires *personal* covenants formed from within.
 
 Federal headship treats the relationship between Adam and his descendants as a legal arrangement. Adam was appointed by God as the federal head, and his actions had binding legal consequences for everyone in his headship. But this is a contract, not a covenant. And as we established in Chapter 7, God's covenants are personal promises of love, not legal frameworks negotiated between independent parties.
 
@@ -108,13 +106,13 @@ Federal theology hangs its hat on Romans 5:12, and it's the first passage anyone
 
 "By one man sin entered into the world." This is true. Adam was the first human to sin. Sin *entered* the world through his act. He was the door through which sin became visible in human history. But "entering the world" is not the same as "being imputed to all men." The verse does not say, "Adam's sin was charged to everyone's account." It says sin *entered*, and death *passed upon all men, for that all have sinned*.
 
-For that *all have sinned*. Not "for that Adam sinned on their behalf." All have sinned. Each person sins because each person was created with a nature that sins. Adam was the first domino, but each person's sin nature was authored by God directly in each soul. Death passed upon all men because all men sin. Not because one man sinned and the rest were charged with his guilt.
+For that *all have sinned*. Not "for that Adam sinned on their behalf." All have sinned. Each person sins because each person was created with a nature that sins. Adam was the first domino, but each person's sin nature was authored by God directly in each soul. Death passed upon all men because all men sin, not because one man sinned and the rest were charged with his guilt.
 
 And verse 14 makes this even clearer:
 
 *"Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression."* (Romans 5:14)
 
-There are those who did not sin "after the similitude of Adam's transgression," that is, they sinned differently than Adam did. Their sin was not a repeat of Adam's specific act. They didn't eat forbidden fruit. They sinned in their own ways, according to their own natures, because God authored them with natures that sin. The death still reached them. Not because Adam's guilt was imputed to them, but because their own sin nature, authored directly by God, produced its own fruit.
+There are those who did not sin "after the similitude of Adam's transgression," that is, they sinned differently than Adam did. Their sin was not a repeat of Adam's specific act. They didn't eat forbidden fruit. They sinned in their own ways, according to their own natures, because God authored them with natures that sin. The death still reached them, not because Adam's guilt was imputed to them, but because their own sin nature, authored directly by God, produced its own fruit.
 
 The passage is about the *universality* of sin and death, not about the *mechanism* of federal imputation. Paul is explaining that sin and death are universal because all men sin. Adam was first. But the authorship of each person's sinful nature goes back to God, not to a federal head.
 

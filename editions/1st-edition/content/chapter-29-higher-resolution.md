@@ -16,7 +16,7 @@ Christ's resurrection body is the prototype. The first one off the line. The mod
 
 **It is physical.**
 
-This is the first thing. And it is the most important thing. Because every Gnostic instinct in us wants to make the resurrection body less physical, not more. We want to spiritualize it. We want to say the body was transcendent, ethereal, ghostly. And Jesus goes out of His way to demonstrate the opposite.
+This is the first thing. And it is the most important thing, because every Gnostic instinct in us wants to make the resurrection body less physical, not more. We want to spiritualize it. We want to say the body was transcendent, ethereal, ghostly. And Jesus goes out of His way to demonstrate the opposite.
 
 *"And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat? And they gave him a piece of a broiled fish, and of an honeycomb. And he took it, and did eat before them."* (Luke 24:41-43)
 
@@ -26,7 +26,7 @@ And Thomas.
 
 *"Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing."* (John 20:27)
 
-Reach hither thy finger. Thrust it into my side. This is a physical body with physical wounds that a physical hand can touch. The nail prints are still there. The spear wound is still there. The body carries the marks of the crucifixion in the resurrection. Not because the body is incomplete or broken. Because the marks are part of the information. They are part of who Jesus is. The wounds are the signature of the covenant, rendered in flesh, carried into eternity. The body doesn't shed the cross. The body *wears* the cross, permanently, as proof of what was accomplished.
+Reach hither thy finger. Thrust it into my side. This is a physical body with physical wounds that a physical hand can touch. The nail prints are still there. The spear wound is still there. The body carries the marks of the crucifixion in the resurrection, not because the body is incomplete or broken, but because the marks are part of the information. They are part of who Jesus is. The wounds are the signature of the covenant, rendered in flesh, carried into eternity. The body doesn't shed the cross. The body *wears* the cross, permanently, as proof of what was accomplished.
 
 **It is unconstrained.**
 
@@ -36,7 +36,7 @@ The doors were shut. And Jesus stood in the midst. He didn't knock. He didn't op
 
 *"And their eyes were opened, and they knew him; and he vanished out of their sight."* (Luke 24:31)
 
-He vanished. Disappeared. Was present and then was not present. Again, not because the body is immaterial. Because locality, being stuck in one place, is a rendering constraint. The old rendering engine says you can only be in one location at a time. The new rendering engine doesn't impose that constraint. Jesus can appear, be present, teach, and then vanish. Not because He's flickering in and out of existence. Because He's operating at a resolution where the rules that bind our bodies don't bind His.
+He vanished. Disappeared. Was present and then was not present. Again, not because the body is immaterial, but because locality, being stuck in one place, is a rendering constraint. The old rendering engine says you can only be in one location at a time. The new rendering engine doesn't impose that constraint. Jesus can appear, be present, teach, and then vanish, not because He's flickering in and out of existence, but because He's operating at a resolution where the rules that bind our bodies don't bind His.
 
 And He ascended.
 
@@ -70,7 +70,7 @@ Mary recognized Him by His voice. The Emmaus disciples recognized Him in the bre
 
 Now let me say what this is in the language of the framework.
 
-The resurrection is not a miracle in the traditional sense of God intervening from outside to do something the system can't do on its own. The resurrection is God upgrading the rendering engine to be more faithful to the original thought. The current rendering engine limits. It constrains. It takes the infinite thought that is a person and renders it into a body that gets tired, gets sick, ages, and dies. Not because the thought is limited. Because the rendering engine is limited. The thought has always been more than the body could express.
+The resurrection is not a miracle in the traditional sense of God intervening from outside to do something the system can't do on its own. The resurrection is God upgrading the rendering engine to be more faithful to the original thought. The current rendering engine limits. It constrains. It takes the infinite thought that is a person and renders it into a body that gets tired, gets sick, ages, and dies, not because the thought is limited, but because the rendering engine is limited. The thought has always been more than the body could express.
 
 The resurrection body is what happens when the rendering engine stops limiting. The "miraculous" properties (walking through walls, appearing and disappearing, ascending, being unconstrained by gravity and locality) are not additions. They are what was *always* true about the thought, now expressed without constraint. The old rendering engine was subtracting from the thought. The new rendering engine stops subtracting. And what's left is the full thought, rendered faithfully, at the resolution the Author always intended.
 
@@ -118,7 +118,7 @@ So I will say what the exegesis has been saying against the tradition for decade
 
 The specific form at the feast is the Author's to render. Scripture does not hand the church a chart, and I am not pretending to hand one out. What Scripture does positively teach is that the covenant endures, the person is known, the one-flesh is honored, and the companion is still the companion. Whether the specifics of the earthly marriage bed are rendered forward at higher resolution, or whether the covenant companionship is carried into a register the framework cannot picture from this side, the Author will render in a way that is not less than the pointer. He does not dissolve what He authored. That is Plato's god. Not the Author of Scripture.
 
-I will say one thing plainly because it has landed in my own house. My wife and I spoke forever aloud together in April 2026. We agreed we stay married in the new creation. We agreed that *till death do us part* does not apply to us, and we removed the phrase from the vow we had made each other twenty-seven years earlier, because it smuggled in the small heaven we had not yet learned to diagnose. We agreed that if either of us outlives the other, the survivor will not remarry. We have had our tombstone made already, one stone for the two of us, while we are both still living. The covenant is not frozen in the liturgy of 1999. The covenant is living, and when the framework showed us the old wording was wrong, we amended the wording together. The Author did not waver. The covenant did not crack. It got cleaner. That is what living covenants do when the saints see the costume for what it is and walk out of it.
+I will say one thing plainly because it has landed in my own house. My wife and I spoke forever aloud together in April 2026. We agreed we stay married in the new creation. We agreed that *till death do us part* does not apply to us, and we removed the phrase from the vow we had made each other twenty-seven years earlier, because it imported the small heaven we had not yet learned to diagnose. We agreed that if either of us outlives the other, the survivor will not remarry. We have had our tombstone made already, one stone for the two of us, while we are both still living. The covenant is not frozen in the liturgy of 1999. The covenant is living, and when the framework showed us the old wording was wrong, we amended the wording together. The Author did not waver. The covenant did not crack. It got cleaner. That is what living covenants do when the saints see the costume for what it is and walk out of it.
 
 <figure class="book-figure-center book-figure-pair">
 <img src="wedding1.jpg" alt="Our wedding" />
@@ -151,9 +151,9 @@ Fashioned like unto *His* glorious body. The prototype. The model. The same resu
 
 The thought will finally match the rendering. And the rendering will finally match the thought.
 
-And what that will *feel* like, the framework cannot say. Because eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love Him.
+And what that will *feel* like, the framework cannot say, because eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love Him.
 
-But the Author knows. He's always known. Because we were always the thought. And the thought was always this.
+But the Author knows. He's always known, because we were always the thought. And the thought was always this.
 
 ## Objections and Answers
 

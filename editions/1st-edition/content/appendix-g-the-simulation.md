@@ -8,13 +8,13 @@ part: Appendices
 
 This appendix is not written for theologians. It is written for the person who has never opened a Bible but suspects that reality is not what it appears to be.
 
-If you are a materialist who believes consciousness is an accident of chemistry, this appendix is not for you. You've already decided, and nothing I say will change your boot parameters. But if you are one of the growing number of people who look at the structure of reality and think "this looks designed" or "this looks like a simulation" or "information seems more fundamental than matter," then this appendix is for you. Because you are closer to the truth than you think. And the truth has a name.
+If you are a materialist who believes consciousness is an accident of chemistry, this appendix is not for you. You've already decided, and nothing I say will change your boot parameters. But if you are one of the growing number of people who look at the structure of reality and think "this looks designed" or "this looks like a simulation" or "information seems more fundamental than matter," then this appendix is for you, because you are closer to the truth than you think. And the truth has a name.
 
 ## The Question the World Is Asking
 
 In 2003, philosopher Nick Bostrom published "Are You Living in a Computer Simulation?" and proposed that at least one of three propositions must be true: civilizations go extinct before creating simulations, advanced civilizations choose not to run simulations, or we are almost certainly living in a simulation.[^g-bostrom] The argument is statistical. If simulated realities outnumber base reality, the odds that we're in the original are vanishingly small.
 
-In 2016, Elon Musk told a conference audience that "the odds that we're in base reality is one in billions."[^g-musk] The room didn't laugh. They nodded. Because the architecture of reality increasingly looks like it was built, not stumbled upon.
+In 2016, Elon Musk told a conference audience that "the odds that we're in base reality is one in billions."[^g-musk] The room didn't laugh. They nodded, because the architecture of reality increasingly looks like it was built, not stumbled upon.
 
 This is not a fringe idea anymore. It is a serious philosophical position held by physicists, technologists, and philosophers at the highest levels of secular thought. And I want to tell you something that might surprise you: they're almost right.
 
@@ -78,7 +78,7 @@ No simulation theory predicts this. No philosophy imagines it. No religion outsi
 
 And then He upgraded. The resurrection is the prototype of the rendering upgrade (Chapter 29). Christ after the resurrection could eat fish AND walk through walls. Same information. Fewer constraints. More real, not less. The Programmer demonstrated what the full-resolution rendering looks like by previewing it in His own body.
 
-If you are a simulation theorist, this should stop you cold. Because the one thing your hypothesis cannot account for is a Simulator who loves the simulation enough to enter it, suffer inside it, die inside it, and then upgrade it from the inside out.
+If you are a simulation theorist, this should stop you cold, because the one thing your hypothesis cannot account for is a Simulator who loves the simulation enough to enter it, suffer inside it, die inside it, and then upgrade it from the inside out.
 
 ## The Rendering Upgrade
 

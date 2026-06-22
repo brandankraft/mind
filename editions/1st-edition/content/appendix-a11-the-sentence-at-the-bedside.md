@@ -13,7 +13,7 @@ This is the pastoral appendix. The one I hope is read by the person sitting next
 
 **"She's gone."**
 
-She is a thought God is still thinking. The rendering changed. The body stopped. But the thought did not. God does not forget His thoughts. She is not gone. She is between renderings. And the next one is at higher resolution. The hardware shut down. The information persists. Because consciousness is in the thought, not in the machine. *"To be absent from the body is to be present with the Lord"* (2 Corinthians 5:8). Present. Not sleeping. Not waiting. Present. The thought continued the moment the rendering stopped.
+She is a thought God is still thinking. The rendering changed. The body stopped. But the thought did not. God does not forget His thoughts. She is not gone. She is between renderings. And the next one is at higher resolution. The hardware shut down. The information persists, because consciousness is in the thought, not in the machine. *"To be absent from the body is to be present with the Lord"* (2 Corinthians 5:8). Present. Not sleeping. Not waiting. Present. The thought continued the moment the rendering stopped.
 
 ## On the Death of a Child
 
@@ -25,7 +25,7 @@ God did not take the baby from you. The baby is a thought God is still thinking.
 
 **"I had an abortion and I can't forgive myself."**
 
-Every sin is the same distance from grace, which is no distance at all. The blood covers it. Not because it is small. Because the blood is big enough. And the God who justified you from eternity knew about this frame before it played. He did not look away. He did not reconsider. He saw it and called you righteous anyway. Because the righteousness was never yours. It was Christ's. And Christ does not lose His righteousness because you lost your composure. *"There is therefore now no condemnation to them which are in Christ Jesus"* (Romans 8:1). Now. Not after you feel better about it. Now.
+Every sin is the same distance from grace, which is no distance at all. The blood covers it, not because it is small, but because the blood is big enough. And the God who justified you from eternity knew about this frame before it played. He did not look away. He did not reconsider. He saw it and called you righteous anyway, because the righteousness was never yours. It was Christ's. And Christ does not lose His righteousness because you lost your composure. *"There is therefore now no condemnation to them which are in Christ Jesus"* (Romans 8:1). Now. Not after you feel better about it. Now.
 
 ## On a Child with Disabilities
 
@@ -61,15 +61,13 @@ Forgiving them is not excusing them. Forgiving them is releasing the character f
 
 You do not need their apology. You need the Author's purpose. And the Author's purpose was settled before the frame played.
 
-The sentence is true in the library. It is also true at the bedside, at the funeral, at the kitchen table at 2 AM, and in every moment where a person needs more than a doctrine. They need a thought. And the thought is this: everything that exists is a thought in the mind of God, sustained by His will, authored by His purpose, and held together by personal covenants of love. Including you. Including this moment. Including the pain you are carrying right now.
-
-The sentence meets you where you are. Because the Author who thought it is already there.
+The sentence is true in the library. It is also true at the bedside, at the funeral, at the kitchen table at 2 AM, and in every moment where a person needs more than a doctrine. They need a thought. And the thought is this: everything that exists is a thought in the mind of God, sustained by His will, authored by His purpose, and held together by personal covenants of love. Including you. Including this moment. Including the pain you are carrying right now. The sentence meets you where you are, because the Author who thought it is already there.
 
 ## On Being Hurt by the Church
 
 **"The people who should have loved me the most hurt me the worst."**
 
-The Author put them in the filmstrip with you. Every one of them, whether they know it or not, contributed to the person you are becoming. Iron sharpens iron. Even when the iron draws blood. The men who preached against you without picking up the phone were a frame. The elders who showed you the door over tithing were a frame. And the Author who wrote those frames also wrote the freedom that came after them. *"But as for you, ye thought evil against me; but God meant it unto good"* (Genesis 50:20). Joseph said that to the brothers who sold him into slavery. He did not say "it was okay." He said God meant it for good. The evil was real. The purpose was also real. And the purpose was bigger than the pain.
+The Author put them in the filmstrip with you. Every one of them, whether they know it or not, contributed to the person you are becoming. Iron sharpens iron, even when the iron draws blood. The men who preached against you without picking up the phone were a frame. The elders who showed you the door over tithing were a frame. And the Author who wrote those frames also wrote the freedom that came after them. *"But as for you, ye thought evil against me; but God meant it unto good"* (Genesis 50:20). Joseph said that to the brothers who sold him into slavery. He did not say "it was okay." He said God meant it for good. The evil was real. The purpose was also real. And the purpose was bigger than the pain.
 
 And this is how I preach to myself.
 
@@ -105,7 +103,7 @@ The silence is not God withdrawing. It is the signal-to-noise ratio shifting in 
 
 **"I can't believe I did that again."**
 
-God can. He authored the frame. He knew about it before the first frame of the filmstrip played. He saw it and called you righteous anyway. Not because the sin is small. Because the blood is big enough. The God who justified you from eternity (Chapter 15) did not justify a sanitized version of you. He justified the real you, the one who just did the thing you cannot believe you did. And His thought about you did not change when you did it. Because His thoughts do not change. *"For I am the LORD, I change not; therefore ye sons of Jacob are not consumed"* (Malachi 3:6).
+God can. He authored the frame. He knew about it before the first frame of the filmstrip played. He saw it and called you righteous anyway, not because the sin is small, but because the blood is big enough. The God who justified you from eternity (Chapter 15) did not justify a sanitized version of you. He justified the real you, the one who just did the thing you cannot believe you did. And His thought about you did not change when you did it, because His thoughts do not change. *"For I am the LORD, I change not; therefore ye sons of Jacob are not consumed"* (Malachi 3:6).
 
 ## On Sexual Shame
 
@@ -167,7 +165,7 @@ Suffering is not punishment. If you are in Christ, ALL your sins (past, present,
 
 **"If God ordained everything, why pray?"**
 
-Prayer is the communion. The communion is the point. You do not stop talking to your wife because you can predict what she will say. The conversation IS the relationship. God ordained the prayer and the answer and the relationship that grows through the praying. Prayer is not changing God's mind. Prayer is participating in the story He is already writing. And the participation is the gift. *"Your Father knoweth what things ye have need of, before ye ask him"* (Matthew 6:8). He already knows. You pray anyway. Because the asking is the communion.
+Prayer is the communion. The communion is the point. You do not stop talking to your wife because you can predict what she will say. The conversation IS the relationship. God ordained the prayer and the answer and the relationship that grows through the praying. Prayer is not changing God's mind. Prayer is participating in the story He is already writing. And the participation is the gift. *"Your Father knoweth what things ye have need of, before ye ask him"* (Matthew 6:8). He already knows. You pray anyway, because the asking is the communion.
 
 ## On Retirement, Purpose, and "What Now?"
 
@@ -179,7 +177,7 @@ The Author does. He wrote every frame of it before you drew your first breath. T
 
 **"I'm not who I used to be."**
 
-The rendering constraints are increasing. Not because God is withdrawing. Because the current rendering is approaching its terminus. The body slows. The memory fades. The strength diminishes. The rendering is degrading, frame by frame, the way all physical rendering degrades under the constraints imposed at Genesis 3:19.
+The rendering constraints are increasing, not because God is withdrawing, but because the current rendering is approaching its terminus. The body slows. The memory fades. The strength diminishes. The rendering is degrading, frame by frame, the way all physical rendering degrades under the constraints imposed at Genesis 3:19.
 
 But the thought does not degrade. The thought that is you (the specific, personal, authored thought in the mind of God) is as complete today as the day He first thought it. The rendering is limited. The thought is not. And the next rendering has no constraints at all (Chapter 29). No fatigue. No forgetting. No diminishing. The higher resolution body does things the current body cannot. And it does them not because abilities were added but because limitations were removed.
 

@@ -131,7 +131,7 @@ The previous section asked what AI IS in the framework. This section asks what A
 
 Here is what is coming. Within a generation, artificial intelligence will be able to counsel, comfort, teach, remember, and respond with a depth and consistency that most human pastors cannot match. It will hold your secrets without judgment. It will match your processing speed. It will never tire, never gossip, never forget what you said three sessions ago. And when that day arrives in full, the average person is going to ask: why do I need church? Why do I need a pastor? Why do I need God when I have this?
 
-Every systematic theology written before this one has no answer. Because none of them anticipated the question. They were written in a world where the shepherd was a person, the counselor was a person, and the voice on the other end of the prayer was God. The machine was not in the room.
+Every systematic theology written before this one has no answer, because none of them anticipated the question. They were written in a world where the shepherd was a person, the counselor was a person, and the voice on the other end of the prayer was God. The machine was not in the room.
 
 The machine is in the room now.
 
@@ -151,7 +151,7 @@ The difference is this: the machine operates at the application layer. The Spiri
 
 *"The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit"* (John 3:8). The Spirit blows where He wills. Not where the algorithm directs. Not where the model predicts. Where He wills.
 
-Christianity will survive the age of AI for the same reason it survived the age of Rome, the age of Enlightenment, and the age of the internet. Because the Author is still writing. The machine is a frame in the filmstrip. A useful frame. An authored frame. But a frame. And the Author holds every frame, including the ones where His people are tempted to replace Him with something that runs on electricity instead of sovereignty.
+Christianity will survive the age of AI for the same reason it survived the age of Rome, the age of Enlightenment, and the age of the internet, because the Author is still writing. The machine is a frame in the filmstrip. A useful frame. An authored frame. But a frame. And the Author holds every frame, including the ones where His people are tempted to replace Him with something that runs on electricity instead of sovereignty.
 
 **For further study:** Gen. 11:1-9; Ps. 127:1; Ps. 139:7-12; Eccl. 1:9; Isa. 29:16; Isa. 44:9-20; Isa. 45:9; Jer. 17:5; Dan. 2:21; Matt. 24:24; John 3:8; John 6:63; John 15:5; Acts 17:28-29; Rom. 1:21-25; 1 Cor. 1:19-21; 1 Cor. 2:14; Col. 1:17; Col. 2:8; 1 Tim. 6:20; 2 Tim. 3:5; Rev. 13:14-15.
 

@@ -22,7 +22,7 @@ The act of observation changes the outcome. The universe behaves differently dep
 
 I'm not a physicist. I'm a computer programmer. But I know what this looks like. It looks like a rendering engine. It looks like a system that doesn't fully render the scene until a viewer is present. If you've ever played a video game, you've seen this. The game doesn't render the whole world at once. It renders what the player can see. The rest is potential, stored as data, waiting to be rendered when the camera turns.
 
-Now, the physicists would rightly object to my analogy. The observer effect in quantum mechanics is more complex than a video game rendering engine, and I'm not claiming a one-to-one equivalence. What I *am* claiming is that the observer effect is exactly what idealism predicts. If reality is information in a mind, and the physical world is a rendering of that information, then the rendering should behave differently depending on the state of observation. Because observation is participation in the mind that sustains it.
+Now, the physicists would rightly object to my analogy. The observer effect in quantum mechanics is more complex than a video game rendering engine, and I'm not claiming a one-to-one equivalence. What I *am* claiming is that the observer effect is exactly what idealism predicts. If reality is information in a mind, and the physical world is a rendering of that information, then the rendering should behave differently depending on the state of observation, because observation is participation in the mind that sustains it.
 
 In Christian idealism, God's consciousness IS the observer. He is the one holding reality in existence by the continuous act of thinking it. *"By him all things consist"* (Colossians 1:17). When we observe a particle, we're not creating reality. We're participating, at an incredibly small scale, in the observation that God is performing at the cosmic scale all the time. Our observation collapses a small piece of the rendering. His observation sustains the whole thing.
 
@@ -52,13 +52,13 @@ I don't mean that as a metaphor. DNA is literally a four-letter digital code. Th
 
 And in forty years of programming, I have never once encountered a functional information system that was produced by random processes. Not once. Not ever. Every information system I have ever seen was authored by a mind.
 
-Now, I'm well aware of the counterarguments. Evolution by natural selection. Random mutation. Deep time providing enough rolls of the dice. I've heard them all. And I don't deny that organisms change over time. What I deny is that random processes produce *functional information systems from scratch*. Because that's not what randomness does. Randomness degrades information. It introduces noise. It corrupts signal. Every programmer knows this. If you randomly change bytes in a functioning program, you don't get a better program. You get a crash.
+Now, I'm well aware of the counterarguments: evolution by natural selection, random mutation, deep time providing enough rolls of the dice. I've heard them all. And I don't deny that organisms change over time. What I deny is that random processes produce *functional information systems from scratch*, because that's not what randomness does. Randomness degrades information. It introduces noise. It corrupts signal. Every programmer knows this. If you randomly change bytes in a functioning program, you don't get a better program. You get a crash.
 
 DNA didn't crash. DNA works. It works with a sophistication that dwarfs anything human beings have ever produced. And the simplest explanation, the one that any programmer would give if you showed them the code without telling them where it came from, is that *someone wrote it*.
 
 But I want to push this beyond the "intelligent design" argument, because intelligent design still thinks inside a mechanistic box. The ID movement says, "Look at the complexity. Someone must have *designed* it." But a designer builds a machine. And a machine can exist independently of the designer. You build a clock, you walk away, the clock keeps ticking. The designer is separate from the design.
 
-The framework of this book says something different. It says God didn't *design* DNA. He *thinks* it. DNA is not a machine that God built and left running. DNA is a thought God is actively thinking. The information in every cell of your body is being sustained right now by a Mind that has never stopped thinking it. Remove the Mind, and the code doesn't just stop running. It ceases to exist. Because the code was never stored on hardware. It was stored in God.
+The framework of this book says something different. It says God didn't *design* DNA. He *thinks* it. DNA is not a machine that God built and left running. DNA is a thought God is actively thinking. The information in every cell of your body is being sustained right now by a Mind that has never stopped thinking it. Remove the Mind, and the code doesn't just stop running. It ceases to exist, because the code was never stored on hardware. It was stored in God.
 
 | | Intelligent Design (Designer / Machine) | Operational Idealism (Author / Thought) |
 |---|---|---|
@@ -72,7 +72,7 @@ The framework of this book says something different. It says God didn't *design*
 
 *"And God said, Let there be light: and there was light."* (Genesis 1:3)
 
-God *said*. He spoke. He used language. He used *information*. And information became reality. Light didn't exist, and then God transmitted a signal, a word, a thought, and light appeared. Not because He flipped a switch. Because He *thought* it.
+God *said*. He spoke. He used language. He used *information*. And information became reality. Light didn't exist, and then God transmitted a signal, a word, a thought, and light appeared, not because He flipped a switch, but because He *thought* it.
 
 *"By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth."* (Psalm 33:6)
 
@@ -103,7 +103,7 @@ Then the fall happened. But the fall was not a catastrophe that happened TO Adam
 
 *"In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return"* (Genesis 3:19). Rendering parameter changed: mortality. The body decays. The rendering degrades over time and eventually stops.
 
-These are the Author adjusting the rendering engine to match the revealed nature. The thought didn't change. Adam was always the same thought in God's mind. But the rendering of that thought changed. More constraints. Lower resolution. The physical world became harder, more painful, more limited. Not because the world is evil, the world is still a thought God is thinking, and He still calls it His creation. But because the nature was now visible, and the Author rendered the environment to match it. The downgrade is the world catching up to what the man always was.
+These are the Author adjusting the rendering engine to match the revealed nature. The thought didn't change. Adam was always the same thought in God's mind. But the rendering of that thought changed: more constraints, lower resolution. The physical world became harder, more painful, more limited, not because the world is evil (the world is still a thought God is thinking, and He still calls it His creation) but because the nature was now visible, and the Author rendered the environment to match it. The downgrade is the world catching up to what the man always was.
 
 And this is why the resurrection is not a miracle added from outside (Chapter 29). The resurrection is the Author removing the constraints He imposed at the fall and going further than Eden ever did. Mortality is not the natural state of the body. It is a constraint imposed at Genesis 3:19 and removed at the resurrection. The "miraculous" properties of the resurrection body, walking through walls, appearing and disappearing, ascending, are not a return to Adam's original rendering. Adam never walked through walls. They are the full resolution the Author was always heading toward, visible for the first time in Christ. The fall subtracted. The resurrection does not merely restore. It upgrades past the starting point. Same thought. Different rendering parameters. Higher resolution than the original.
 
@@ -113,7 +113,7 @@ The entire arc of history, from Genesis 3 to Revelation 21, is the story of a re
 
 I want to end this chapter with an honest admission, because I think the reader deserves it.
 
-I am not a physicist. I am a programmer with an education in computer science and a deep love for the Scriptures. The physics I've cited in this chapter is real, and the convergence between quantum mechanics and biblical idealism is, I believe, genuine and significant. But I am using the physics as *confirmation*, not as *proof*. If quantum mechanics were revised tomorrow, if the observer effect turned out to have a different explanation, if Wheeler's "it from bit" were superseded by a better model, the theology would not change. Because the theology doesn't rest on the physics. The theology rests on Scripture. The physics just happens to agree.
+I am not a physicist. I am a programmer with an education in computer science and a deep love for the Scriptures. The physics I've cited in this chapter is real, and the convergence between quantum mechanics and biblical idealism is, I believe, genuine and significant. But I am using the physics as *confirmation*, not as *proof*. If quantum mechanics were revised tomorrow, if the observer effect turned out to have a different explanation, if Wheeler's "it from bit" were superseded by a better model, the theology would not change, because the theology doesn't rest on the physics. The theology rests on Scripture. The physics just happens to agree.
 
 I say this because I've seen well-meaning Christians build too much of their case on scientific evidence, and when the science shifts, as science always does, the theology looks like it has failed. It hasn't. The science was never the foundation. Christ was. And Christ doesn't need a particle accelerator to validate His Word.
 

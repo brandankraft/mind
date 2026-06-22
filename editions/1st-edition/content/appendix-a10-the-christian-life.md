@@ -87,7 +87,7 @@ A tribe that claims sovereign grace and refuses fellowship to a marginal profess
 
 I have genuine doubts about God and Christ. I said it in Chapter 2 and I'll say it again here, because most preachers won't.
 
-There are seasons when I stop reading the Scriptures. Life gets busy, the world gets loud, and the text gets quiet. And in those seasons, the doubt creeps in. Not because the framework is weak. Because the firmware needs feeding. When I stop reading, my application layer starts processing whatever else is in front of it, and the world offers its own firmware. Evolution documentaries. Secular philosophy. The persistent hum of a culture that assumes God is not there. And if I listen to that hum long enough without returning to the text, I start to wonder.
+There are seasons when I stop reading the Scriptures. Life gets busy, the world gets loud, and the text gets quiet. And in those seasons, the doubt creeps in, not because the framework is weak, but because the firmware needs feeding. When I stop reading, my application layer starts processing whatever else is in front of it, and the world offers its own firmware: evolution documentaries, secular philosophy, the persistent hum of a culture that assumes God is not there. And if I listen to that hum long enough without returning to the text, I start to wonder.
 
 And then I open the Bible. And the hum stops. And the framework holds again. And the doubt was never a verdict. It was a signal. The Spirit pulling me back to the Word.
 
@@ -148,21 +148,21 @@ He had been living in the bushes outside a church building for months. People wa
 
 We took him home. And we have changed his diaper twice a day, every day, ever since.
 
-He did not choose us. He did not apply. He did not meet the qualifications. He did not demonstrate that he deserved a home by performing well enough to earn one. He was broken, helpless, and unwanted. And we chose him anyway. Not because of what he could do for us. Because of what we saw in him.
+He did not choose us. He did not apply. He did not meet the qualifications. He did not demonstrate that he deserved a home by performing well enough to earn one. He was broken, helpless, and unwanted. And we chose him anyway, not because of what he could do for us, but because of what we saw in him.
 
 That is the gospel.
 
 *"Ye have not chosen me, but I have chosen you."* (John 15:16)
 
-The elect did not choose God. They did not apply. They did not meet the qualifications. They were dead in trespasses and sins (Ephesians 2:1), broken, helpless, and by nature children of wrath (Ephesians 2:3). And God chose them anyway. Not because of what they could do for Him. Because of what He authored in them before the foundation of the world.
+The elect did not choose God. They did not apply. They did not meet the qualifications. They were dead in trespasses and sins (Ephesians 2:1), broken, helpless, and by nature children of wrath (Ephesians 2:3). And God chose them anyway, not because of what they could do for Him, but because of what He authored in them before the foundation of the world.
 
 OJ does not know why I love him. He cannot understand the decision that brought him into my home. He only knows that he is warm, fed, held, and safe. He experiences the love without comprehending its source. And that is exactly what salvation feels like from the inside. You wake up loved and you do not know why. You did not earn it. You cannot explain it. You can only receive it.
 
 And here is the part that matters most. I did not choose OJ because he was the best cat. I chose him because he was the one nobody else wanted. And that is not a flaw in the analogy. That is the point of the analogy. God does not choose the strong, the qualified, the impressive. *"God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty; And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are: That no flesh should glory in his presence"* (1 Corinthians 1:27-29).
 
-That no flesh should glory in His presence. That is why God chose the paralyzed cat. That is why God chose a programmer from the post office. That is why God chose you, if you are His. Not because you were qualified. Because He is sovereign. And His sovereignty means He loves whom He loves, for reasons that originate in His own will and nowhere else.
+That no flesh should glory in His presence. That is why God chose the paralyzed cat. That is why God chose a programmer from the post office. That is why God chose you, if you are His, not because you were qualified, but because He is sovereign. And His sovereignty means He loves whom He loves, for reasons that originate in His own will and nowhere else.
 
-I change OJ's diaper twice a day. It is not glamorous. It is not convenient. It costs me time and effort and supplies. And I would not trade him for any other cat on the planet. Because he is mine. Not because he earned it. Because I chose him.
+I change OJ's diaper twice a day. It is not glamorous. It is not convenient. It costs me time and effort and supplies. And I would not trade him for any other cat on the planet, because he is mine, not because he earned it, but because I chose him.
 
 *"I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion."* (Romans 9:15)
 
@@ -248,7 +248,7 @@ The person you are examining does not belong to you. He belongs to God. And God 
 
 There is a particular form of gatekeeping that deserves to be named, because it is the most common weapon in the sovereign grace world: preaching against a man's position from the pulpit without engaging his arguments. The gatekeeper reads Chapter 30 of this book, reduces it to "he says it doesn't matter what you believe," and preaches against that reduction to an audience that will never read the original. The straw man is built in the sermon. The audience burns it down. And the actual argument is never heard.
 
-This is dishonest. Not because the gatekeeper is a liar in his heart. He may genuinely believe the reduction is accurate. But the firmware that produced the reduction was set to "find the threat," and the application layer processed only what the firmware expected. He did not hear what the chapter said. He heard what his boot parameters told him it said. And his refutation is of something that exists only in his own processing.
+This is dishonest, not because the gatekeeper is a liar in his heart. He may genuinely believe the reduction is accurate. But the firmware that produced the reduction was set to "find the threat," and the application layer processed only what the firmware expected. He did not hear what the chapter said. He heard what his boot parameters told him it said. And his refutation is of something that exists only in his own processing.
 
 The honest response to a theological position you disagree with is to quote it accurately, state it in its strongest form, and then explain why you believe it is wrong. This is the principle of charity. It is also basic intellectual honesty. And it is the one thing the gatekeeper almost never does, because engaging the strongest form of the argument means risking that the argument is right. And if the argument is right, the gate comes down.
 

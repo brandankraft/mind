@@ -30,7 +30,7 @@ But I hold it because Paul said it. And Paul grounded it in creation. And I don'
 
 ## But the Pulpit Shouldn't Exist
 
-And here is where it gets complicated. Because I've just spent an entire chapter arguing that the one-man pulpit is unbiblical. That the participatory model in 1 Corinthians 14 is the New Testament pattern. That the institutional hierarchy of pastor-over-congregation is a human invention, not a biblical mandate. And now I'm saying women shouldn't stand at the front of a thing I don't think should exist.
+And here is where it gets complicated, because I've just spent an entire chapter arguing that the one-man pulpit is unbiblical, that the participatory model in 1 Corinthians 14 is the New Testament pattern, that the institutional hierarchy of pastor-over-congregation is a human invention, not a biblical mandate. And now I'm saying women shouldn't stand at the front of a thing I don't think should exist.
 
 Fair point. So let me thread the needle.
 
@@ -40,7 +40,7 @@ It shifts from "can a woman preach from the pulpit?" to "what does teaching and 
 
 And the answer is that teaching and authority still exist in a participatory setting. When a man stands up in a house church and opens the Scriptures and explains what they mean and applies them to the lives of the believers in the room, he is teaching. When a man exercises spiritual leadership by guiding the direction of the meeting, correcting error, and establishing doctrine, he is exercising authority. These functions exist whether there's a pulpit or not.
 
-And Paul says those functions belong to men. Not because men are smarter. Not because men are more spiritual. Not because women are less capable. Because he grounded it in creation order, as we saw above. I didn't design the order. I don't fully understand the order. But I accept it because the apostle who wrote more of the New Testament than anyone else said it was so and grounded it in Genesis.
+And Paul says those functions belong to men, not because men are smarter, not because men are more spiritual, not because women are less capable, but because he grounded it in creation order, as we saw above. I didn't design the order. I don't fully understand the order. But I accept it because the apostle who wrote more of the New Testament than anyone else said it was so and grounded it in Genesis.
 
 ## Women in the Participatory Model
 
@@ -48,7 +48,7 @@ But here's what the participatory model does that the institutional model can't:
 
 In the one-man pulpit model, participation and teaching authority are the same thing. If you speak from the front, you're exercising authority. Period. So women are either allowed to do everything (egalitarian) or nothing (hardline complementarian). There's no middle ground because the structure doesn't allow one.
 
-In the participatory model, the structure creates natural space. A woman can share a psalm, offer a word of encouragement, pray, ask a question, tell the body what God has done in her life. She can exercise her spiritual gifts (mercy, hospitality, exhortation, helps, giving) without exercising *teaching authority* over men. Because in a body where everyone speaks, not every act of speaking is an act of teaching authority.
+In the participatory model, the structure creates natural space. A woman can share a psalm, offer a word of encouragement, pray, ask a question, tell the body what God has done in her life. She can exercise her spiritual gifts (mercy, hospitality, exhortation, helps, giving) without exercising *teaching authority* over men, because in a body where everyone speaks, not every act of speaking is an act of teaching authority.
 
 This is closer to what the early church actually looked like. Priscilla helped teach Apollos (Acts 18:26). The daughters of Philip prophesied (Acts 21:9). Women were involved. They participated. They served. They spoke. But the authoritative teaching and the governance, the elder function, was restricted to men. And the two things coexisted without contradiction in a model where the body functioned as a body.
 
@@ -62,9 +62,7 @@ A woman who teaches men in a church is wrong about her role. But she is not lost
 
 Because if I'm honest, I'm wrong about things too. I'm sure there are positions in this book that I've gotten wrong. I don't know which ones yet; if I did, I'd fix them. But I know with certainty that I don't have perfect theology. Nobody does. And if God's grace covers my doctrinal errors, it covers hers. If God's grace covers my practical errors, it covers hers. If God's grace covers the man who baptizes infants when he shouldn't, and the man who uses grape juice instead of wine, and the man who observes the Sabbath on Sunday instead of Saturday, then God's grace covers the woman who teaches when Paul said not to.
 
-This is the same principle we established in the chapters on liberty and on the covenant: God's standard is perfection. Only Christ met it. Everyone else falls short in different places. And the beauty of the finished work is that the falling short was already paid for. The woman who teaches isn't sinning against a law that will condemn her. She's living in error that grace has already covered. Same as me. Same as you. Same as everyone in every church in the history of the world.
-
-I hold the principle and extend the grace simultaneously. Because that's what the gospel does.
+This is the same principle we established in the chapters on liberty and on the covenant: God's standard is perfection. Only Christ met it. Everyone else falls short in different places. And the beauty of the finished work is that the falling short was already paid for. The woman who teaches isn't sinning against a law that will condemn her. She's living in error that grace has already covered. Same as me. Same as you. Same as everyone in every church in the history of the world. I hold the principle and extend the grace simultaneously, because that's what the gospel does.
 
 ## The Debate Generates More Heat Than Light
 
@@ -89,7 +87,7 @@ And the Lord honored women higher than Paul ever did. When Christ rose from the 
 
 The complementarians, for their part, often hold the principle without the grace. They enforce the rule with the kind of rigid severity that makes it look like they enjoy the restriction. They guard the pulpit like bouncers at a club instead of brothers in a body. And the result is a version of complementarianism that looks more like male insecurity than theological conviction.
 
-I want nothing to do with either extreme. I look at Paul. I accept what he said. I accept why he said it. I extend grace to those who disagree. And I move on to what matters more. Because in the sweep of this entire book, the question of who teaches in the church is important, but it's not the main thing. Christ is the main thing. And I'd rather spend my energy pointing people to Him than policing who gets to stand where.
+I want nothing to do with either extreme. I look at Paul. I accept what he said. I accept why he said it. I extend grace to those who disagree. And I move on to what matters more, because in the sweep of this entire book, the question of who teaches in the church is important, but it's not the main thing. Christ is the main thing. And I'd rather spend my energy pointing people to Him than policing who gets to stand where.
 
 ## Tenderness
 

@@ -16,7 +16,7 @@ Here is the sentence:
 
 That's it. That's the whole system. Every chapter in this book is a derivation of that sentence. Every position I hold traces back to it. Every objection I answer is an objection to some part of it. And if you accept the sentence, everything else follows with a kind of inevitability that I didn't plan and couldn't have manufactured. The system builds itself. I simply noticed. The sentence is the seed. The framework is the tree. Throughout this book, when I say "the sentence," I mean the proposition above. When I say "the framework," I mean everything it produces.
 
-And if you reject the sentence, you can close this book now and save yourself the trouble. Because nothing that comes after it will make any sense without it.
+And if you reject the sentence, you can close this book now and save yourself the trouble, because nothing that comes after it will make any sense without it.
 
 Now let me show you what it means.
 
@@ -32,7 +32,7 @@ Now let me show you what it means.
 
 Not some things. *Everything.* Every atom, every thought, every sin, every act of grace. Every drop of rain and every heartbeat. Every word you've ever spoken and every feeling you've ever felt. Every event in history and every moment of your private life. *Everything that exists* is included. There are no exceptions, no carve-outs, no categories that fall outside the scope.
 
-This is where most people get uncomfortable, and I understand why. Because if everything that exists is a thought in the mind of God, then evil exists because God is thinking it. Sin exists because God is thinking it. The fall of Adam, the crucifixion of Christ, the suffering of innocents, the damnation of the wicked, all of it is included in the word *everything*. And most theologians, if they're being honest, will try to find a way around this. They'll talk about God "permitting" evil rather than authoring it. They'll invoke "secondary causes." They'll do everything they can to maintain God's sovereignty in theory while protecting Him from the accusation of authoring sin in practice.
+This is where most people get uncomfortable, and I understand why, because if everything that exists is a thought in the mind of God, then evil exists because God is thinking it. Sin exists because God is thinking it. The fall of Adam, the crucifixion of Christ, the suffering of innocents, the damnation of the wicked, all of it is included in the word *everything*. And most theologians, if they're being honest, will try to find a way around this. They'll talk about God "permitting" evil rather than authoring it. They'll invoke "secondary causes." They'll do everything they can to maintain God's sovereignty in theory while protecting Him from the accusation of authoring sin in practice.
 
 I won't do that. And the reason I won't do that is because the Scriptures won't let me.
 
@@ -66,7 +66,7 @@ And Paul again in Colossians:
 
 *"For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: And he is before all things, and by him all things consist."* (Colossians 1:16-17)
 
-*"By him all things consist."* The word *consist* means to hold together, to cohere. Present tense. Continuous. Not "by him all things were set in motion" as if God wound up a clock and walked away. By him all things *consist*. Right now. This moment. The physical universe is being held in existence by a mind that is actively thinking it. Remove the mind, and the matter ceases to exist. Not eventually. Instantly. Because the matter was never self-sustaining. It was always a thought.
+*"By him all things consist."* The word *consist* means to hold together, to cohere. Present tense. Continuous. Not "by him all things were set in motion" as if God wound up a clock and walked away. By him all things *consist*. Right now. This moment. The physical universe is being held in existence by a mind that is actively thinking it. Remove the mind, and the matter ceases to exist. Not eventually. Instantly. The matter was never self-sustaining. It was always a thought.
 
 And one more, from Paul's sermon on Mars Hill:
 
@@ -86,13 +86,13 @@ So I take from Plato his ontology and reject his ethics. I use his best insight 
 
 Not a thought floating in the void. A thought *in the mind of God*, specific to a person and fixed in a place. The physical world is not an abstraction. It's not the product of an impersonal force or an unconscious process. It's the product of a Person who is thinking it on purpose.
 
-And this is where idealism becomes theology. Because secular idealism, and there are secular idealists, can propose that reality is information without proposing a Mind behind it. The simulation hypothesis, which has gained popularity in recent years, asks whether we might be living in a computer simulation. And the honest answer from this framework is: yes. In a sense, we are. But the Simulator is not a machine. The Simulator is personal, sovereign, conscious, and the simulation is called creation. The secular version asks the right question with the wrong answer.
+And this is where idealism becomes theology, because secular idealism, and there are secular idealists, can propose that reality is information without proposing a Mind behind it. The simulation hypothesis, which has gained popularity in recent years, asks whether we might be living in a computer simulation. And the honest answer from this framework is: yes. In a sense, we are. But the Simulator is not a machine. The Simulator is personal, sovereign, conscious, and the simulation is called creation. The secular version asks the right question with the wrong answer.
 
 I am a programmer by trade, and I know what authored information looks like. When I look at DNA, I see code. I don't mean that metaphorically. I mean it literally. DNA is a four-letter digital code that stores, transmits, and executes information. It has syntax. It has error-correction. It has regulatory elements and nested instructions. And in forty years of programming, I have never once encountered a functional information system that was produced by random processes. Not once. Every information system I've ever seen was authored by a mind.
 
 This isn't the "intelligent design" argument, though it overlaps with it. Intelligent design still operates within a mechanistic framework. It says, "Look at the complexity. Someone must have *designed* it." But the framework of this book isn't about design. It's about authorship. A designer builds a machine. An Author thinks a thought. The difference is that the machine can exist independently of the designer. A thought cannot exist independently of the mind that thinks it. Remove the designer, and the machine keeps running. Remove the Author, and the thought, and everything it contains, vanishes.
 
-That's why Colossians 1:17 uses the present tense. *"By him all things consist."* The Author is still thinking. He never stopped. And if He stopped, we would cease to exist. Not die. Cease. Because we are not machines that God built and left running. We are thoughts He is actively thinking.
+That's why Colossians 1:17 uses the present tense. *"By him all things consist."* The Author is still thinking. He never stopped. And if He stopped, we would cease to exist. Not die. Cease. We are not machines that God built and left running. We are thoughts He is actively thinking.
 
 ## Sustained by His Will
 
@@ -104,7 +104,7 @@ Some theological systems treat God's relationship to creation as if He built a w
 
 Upholding. Present participle. Not "having upheld." Not "will uphold." *Upholding.* Right now. This instant. God is sustaining reality by His will at this very moment. If His will were withdrawn from a single atom, that atom would cease. If His will were withdrawn from a single soul, that soul would cease. Nothing self-sustains. Everything is held.
 
-And this means there are no accidents. Nothing surprises Him, and no event in history ever catches God off guard. Because every event is His thought. You don't get surprised by your own thoughts. You author them.
+And this means there are no accidents. Nothing surprises Him, and no event in history ever catches God off guard, because every event is His thought. You don't get surprised by your own thoughts. You author them.
 
 ## Authored by His Purpose
 
@@ -126,13 +126,13 @@ The God of the Bible makes *covenants*. Personal promises. Not legal contracts, 
 
 A covenant is not a contract. A contract requires two independent parties negotiating terms. But in idealism, there are no two independent parties. There is only the Author and His characters. The character cannot negotiate with the mind that thinks him into existence. The character can only receive. And what God gives is not a legal arrangement but a *promise*. A personal, unbreakable, eternal promise of love.
 
-This is what separates this framework from the cold, hard systems that give Calvinism its reputation. Sovereignty without love is tyranny. But sovereignty *with* love is the most comforting truth in the universe. Because it means the God who authored everything, including the hardest parts of your life, did so *within the context of a personal promise to you*. Not to a class of people. Not to a theological category. To *you*. Because you are a specific thought in His mind, and He holds you by a covenant that was made before you were born and will endure long after the stars burn out.
+This is what separates this framework from the cold, hard systems that give Calvinism its reputation. Sovereignty without love is tyranny. But sovereignty *with* love is the most comforting truth in the universe, because it means the God who authored everything, including the hardest parts of your life, did so *within the context of a personal promise to you*. Not to a class of people. Not to a theological category. To *you*. You are a specific thought in His mind, and He holds you by a covenant that was made before you were born and will endure long after the stars burn out.
 
 ## Operational Idealism
 
 Before we move on, I want to name the thread that runs through this entire book, because it reaches into every domain that follows.
 
-I call it *operational idealism*. And the word *operational* is doing more work in that phrase than the word *idealism*. Because idealism by itself is a philosophical position. Plato held idealism. Berkeley held idealism. Hegel held idealism. And none of them knew what to do with it on a Monday morning. Their idealism stayed in the lecture hall. It never walked off the page. It was a theory about reality that had no bearing on how you live, how you worship, how you baptize, how you marry, or how you die.
+I call it *operational idealism*. And the word *operational* is doing more work in that phrase than the word *idealism*, because idealism by itself is a philosophical position. Plato held idealism. Berkeley held idealism. Hegel held idealism. And none of them knew what to do with it on a Monday morning. Their idealism stayed in the lecture hall. It never walked off the page. It was a theory about reality that had no bearing on how you live, how you worship, how you baptize, how you marry, or how you die.
 
 Operational idealism is different. It operates in two registers simultaneously. The first register is philosophical: the invisible is more real than the visible. Mind precedes matter. Reality is information in the mind of God. That is the ontological claim. The second register is practical: the invisible precedes the visible in *every domain of daily life*. The covenant precedes the ceremony. The regeneration precedes the faith. The substance precedes the formality. Christ precedes the preaching. The Spirit precedes the water. That is the operational claim. And the operational claim is not a separate principle bolted onto the philosophy. It IS the philosophy, applied. The ontology walks off the page and into the kitchen and into the church and into the baptistry and into the marriage bed. Both registers are the same principle. One describes what reality IS. The other describes how reality WORKS. And in operational idealism, there is no gap between the two.
 

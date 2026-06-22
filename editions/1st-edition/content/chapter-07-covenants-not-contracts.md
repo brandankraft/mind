@@ -36,7 +36,7 @@ Not because I'm soft on the doctrine of original sin. I believe all men are sinn
 
 Here's why. Federal headship is a legal fiction. It requires that the guilt of one man be legally transferred to billions of people who didn't exist yet, through a representative mechanism they didn't agree to, under a contract they never signed. That's a contract, not a covenant. It's a legal framework imposed from the outside, not a personal relationship experienced from the inside.
 
-And it's unnecessary. If God creates each person directly with a sin nature, as I argued in Chapter 5, then there's no need for a legal mechanism to transfer Adam's guilt. God authored each person sinful. Not *because of* Adam. Because of His sovereign purpose. Adam was the first to sin in the line of the elect. He was the prototype. But the sin nature of every human being is authored fresh in each soul by God, not inherited through genes or imputed through legal representation.
+And it's unnecessary. If God creates each person directly with a sin nature, as I argued in Chapter 5, then there's no need for a legal mechanism to transfer Adam's guilt. God authored each person sinful, not *because of* Adam, but because of His sovereign purpose. Adam was the first to sin in the line of the elect. He was the prototype. But the sin nature of every human being is authored fresh in each soul by God, not inherited through genes or imputed through legal representation.
 
 This is where the law of Plato shows up in covenant theology. The reason federal headship was invented was to protect God from the charge of authoring sin. If Adam is the federal head, and Adam's sin is the source of everyone's sinfulness, then God can claim He only created Adam (who then fell on his own), and the rest of humanity's sin is Adam's fault. God gets plausible deniability.
 
@@ -52,7 +52,7 @@ This is one of the places where I agree fully with standard Covenant Theology. T
 
 *"According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will."* (Ephesians 1:4-5)
 
-Chosen before the foundation. Predestinated unto adoption. According to the good pleasure of His will. Not according to a legal mechanism. According to *pleasure*. This is a God who saves because He *wants* to. Because it *pleases* Him. Because the covenant of redemption was an act of love within the Godhead, not a legal transaction between parties.
+Chosen before the foundation. Predestinated unto adoption. According to the good pleasure of His will. Not according to a legal mechanism. According to *pleasure*. This is a God who saves because He *wants* to. It *pleases* Him. The covenant of redemption was an act of love within the Godhead, not a legal transaction between parties.
 
 ## Covenants as Personal Promises
 
@@ -62,11 +62,11 @@ In the framework of this book, a covenant is what it has always been in the Hebr
 
 That's not the language of a courtroom. That's the language of a marriage. That's a Father claiming His children. And the promise doesn't depend on the children doing anything. The Father made it. The Father keeps it. The children are the beneficiaries, not the partners.
 
-And in operational idealism, this is the only kind of covenant that makes sense. Because in operational idealism, there is only one independent mind: God's. The characters in the story don't have independent existence. They are thoughts in God's mind. And a thought can't negotiate with the mind that thinks it. A thought can only receive what the mind gives.
+And in operational idealism, this is the only kind of covenant that makes sense, because in operational idealism, there is only one independent mind: God's. The characters in the story don't have independent existence. They are thoughts in God's mind. And a thought can't negotiate with the mind that thinks it. A thought can only receive what the mind gives.
 
 So the covenant is always unilateral. Always. God promises, fulfills, sustains, and completes it. The people of God are held by the covenant. They don't hold it; they rest in it. They don't earn it or maintain it; they simply experience it.
 
-And this is where the warmth of the system lives. Because a God who makes personal promises, not legal contracts, is a God who relates to His people as persons, not as cases in a courtroom. You're not a defendant hoping for a favorable verdict. You're a child who was claimed before you were born. And the claiming was a promise, and the promise was love, and the love was from eternity.
+And this is where the warmth of the system lives, because a God who makes personal promises, not legal contracts, is a God who relates to His people as persons, not as cases in a courtroom. You're not a defendant hoping for a favorable verdict. You're a child who was claimed before you were born. And the claiming was a promise, and the promise was love, and the love was from eternity.
 
 ## Objections and Answers
 

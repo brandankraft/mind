@@ -14,7 +14,7 @@ But what I was really doing, at least in part, was feeding the pride monster. I 
 
 Then the Lord opened my eyes. And what I saw remade everything. And once I began saying it out loud, the same swords I had wielded for many years turned the other way.
 
-I've been called a compromiser more times than I can count. I've been called an arch-heretic of the first order. I've been called an unbeliever by people who claim to believe in sovereign grace. I've had men I considered friends preach against me from pulpits without ever picking up the phone. And the show must go on. Because none of that changed the truth. And none of it stopped me from following the truth wherever it led. Even when it led somewhere I didn't want to go.
+I've been called a compromiser more times than I can count. I've been called an arch-heretic of the first order. I've been called an unbeliever by people who claim to believe in sovereign grace. I've had men I considered friends preach against me from pulpits without ever picking up the phone. And the show must go on, because none of that changed the truth. And none of it stopped me from following the truth wherever it led. Even when it led somewhere I didn't want to go.
 
 And it led me here. To the last chapter of the hardest material I've ever written. After twenty-nine chapters of the sharpest theology I know how to hold, the last word is love. Not despite the theology. *Because* of it.
 
@@ -105,9 +105,9 @@ And John wrote, *"We know that we have passed from death unto life, because we l
 
 ## What I See Now
 
-Henry Mahan once asked a question that I have never been able to shake: "Where can I go this Lord's Day and hear the mercy of God and not the mechanics of grace?"[^c30-mahan] That question cuts to the bone. Because the sovereign grace world has become experts at the mechanics. We can outline the order of salvation. We can diagram the covenant of grace. We can debate the finer points of doctrine and give you five points this and three steps that. But somewhere along the way, we forgot to talk about mercy. We forgot to talk about a Savior who loves sinners, who died for the ungodly, who welcomes the weary and the heavy laden. We straightened out people's heads and neglected their hearts. We made them theologically precise and left them spiritually dry. We gave them the mechanics of grace, but they never tasted the mercy of God.
+Henry Mahan once asked a question that I have never been able to shake: "Where can I go this Lord's Day and hear the mercy of God and not the mechanics of grace?"[^c30-mahan] That question cuts to the bone, because the sovereign grace world has become experts at the mechanics. We can outline the order of salvation. We can diagram the covenant of grace. We can debate the finer points of doctrine and give you five points this and three steps that. But somewhere along the way, we forgot to talk about mercy. We forgot to talk about a Savior who loves sinners, who died for the ungodly, who welcomes the weary and the heavy laden. We straightened out people's heads and neglected their hearts. We made them theologically precise and left them spiritually dry. We gave them the mechanics of grace, but they never tasted the mercy of God.
 
-I used to be the guy who drew a hard line. And I drew it because the logic was clean. Too clean. Clean logic has a way of making you feel *righteous* when what you really are is *cold*. I could win every argument. I could expose every error. And I was *miserable*. Because there is no joy in being the doctrine police. There is no peace in spending your life making sure everyone around you has their theology exactly right before you will acknowledge them as a brother in Christ.
+I used to be the guy who drew a hard line. And I drew it because the logic was clean. Too clean. Clean logic has a way of making you feel *righteous* when what you really are is *cold*. I could win every argument. I could expose every error. And I was *miserable*, because there is no joy in being the doctrine police. There is no peace in spending your life making sure everyone around you has their theology exactly right before you will acknowledge them as a brother in Christ.
 
 The Pharisees won every argument too. They had the Scriptures memorized. They had the law down cold. And they couldn't see the Messiah standing right in front of them.
 
@@ -123,7 +123,7 @@ Nothing. All your knowledge, all your correct theology, all your ability to defe
 
 ## The Arminian in the TULIP Sweatshirt
 
-And once I saw the fruit, I had to reckon with the structure that produced it. Because cruelty this consistent and pride this inflated is not an accident. It is the downstream effect of a theological move that almost nobody in the tribe names out loud. Here is the move.
+And once I saw the fruit, I had to reckon with the structure that produced it, because cruelty this consistent and pride this inflated is not an accident. It is the downstream effect of a theological move that almost nobody in the tribe names out loud. Here is the move.
 
 The sovereign grace world I came up in preached election. It defended limited atonement. It wrote articles against Arminianism and held conferences on irresistible grace. And when you listen to the words, the theology sounds right. But when you watch the operation of the religion, the grammar has reversed. The felt assurance is not in Christ. It is in doctrinal literacy. The test for who else is saved is *"can this man articulate the five points."* The gatekeeping is *"does he use the right vocabulary."* And every one of those moves makes a human cognitive act the condition of salvation.
 
@@ -147,7 +147,7 @@ Paul wrote to a church that held the right doctrines and used them as a fence. T
 
 *"Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace."* (Galatians 5:4)
 
-Fallen from grace. Not fallen from doctrine. Not fallen into heresy. Fallen from *grace itself*. Because grace held as a fence is no longer grace. It is law dressed in grace's vocabulary. The Galatians had taken the very gospel Paul preached to them and converted it, by use, into the thing Paul had preached against. And once the conversion had happened, the right propositions on paper could not undo what the operation in their hearts had done.
+Fallen from grace. Not fallen from doctrine. Not fallen into heresy. Fallen from *grace itself*. Grace held as a fence is no longer grace. It is law dressed in grace's vocabulary. The Galatians had taken the very gospel Paul preached to them and converted it, by use, into the thing Paul had preached against. And once the conversion had happened, the right propositions on paper could not undo what the operation in their hearts had done.
 
 This is the same move our tribe makes. The Pharisee took the law and made it a fence. The Gospelist takes the gospel and makes it a fence. Same heart. Different fence material. The fence-building instinct does not care what material it has. Give the Pharisee Sinai, he will build a fence. Give the Gospelist Romans 9, he will build a fence. The fence is the *heart's posture*, not the *doctrine's content*. And when the doctrine of free grace becomes the post that holds the fence, the doctrine has been converted into law. The vocabulary is grace. The function is law. The two move in opposite directions and the holder does not notice because the words are the same.
 
@@ -205,9 +205,9 @@ That verse should humble every sovereign grace believer into silence when it com
 
 I told you in the prologue that after holding the hardest theology I know how to hold, the last word is love. And I meant it. This chapter is not an afterthought. It is not a softening at the end to make the hard stuff go down easier. This chapter is the *point*.
 
-Because here is what I have learned in more than two decades of writing theology. The man who holds the hardest positions should be the man who extends the most grace. And the reason is not complicated. If salvation is entirely Christ's work, with no contribution from man, then the man who truly believes that has no reason to hold anyone's theology against them. Not their bad theology. Not their confused theology. Not their inherited-from-a-false-religious-environment theology. Because *none of it* is a condition of salvation. Christ is the condition. Christ did it. Christ finished it. Christ paid for it. And Christ applies it by His Spirit to whom He pleases, when He pleases, in whatever state of doctrinal confusion He finds them in.
+Here is what I have learned in more than two decades of writing theology. The man who holds the hardest positions should be the man who extends the most grace. And the reason is not complicated. If salvation is entirely Christ's work, with no contribution from man, then the man who truly believes that has no reason to hold anyone's theology against them. Not their bad theology. Not their confused theology. Not their inherited-from-a-false-religious-environment theology. *None of it* is a condition of salvation. Christ is the condition. Christ did it. Christ finished it. Christ paid for it. And Christ applies it by His Spirit to whom He pleases, when He pleases, in whatever state of doctrinal confusion He finds them in.
 
-That is not a soft position. That is the hardest position in this book. Because it requires you to let go of the one thing sovereign grace people hold tightest: the right to decide who is in and who is out.
+That is not a soft position. That is the hardest position in this book, because it requires you to let go of the one thing sovereign grace people hold tightest: the right to decide who is in and who is out.
 
 God was patient with me when my theology was a mess. God was patient with me when I was a freewiller who didn't know any better. God was patient with me when I was a puffed up Calvinist who thought his knowledge made him righteous. And God is patient with me now, as I continue to grow and learn and shed the things that don't belong. If God can be that patient with me, who am I to be impatient with someone else?
 
@@ -235,7 +235,7 @@ That is the risk asymmetry at the center of this chapter. It is not a soft postu
 
 And here is the Savior's own posture on the city that had rejected Him. *"O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!"* (Matthew 23:37). He wept. He lamented. He did not shun. His hand stayed extended. He went to the cross still praying *"Father, forgive them; for they know not what they do"* (Luke 23:34) for the very men who had nailed Him there. If that is the posture of the One who actually knows who is elect and who is not, what business do I have holding a tighter grip than He did?
 
-*If I am gonna err, let it be love.* Not because I do not care about doctrine. Because I care about the verdict that is not mine to render. The man who holds the sharpest doctrine is the man who has the widest arms, and the reason is not that doctrine has gone soft. The reason is that sovereign grace leaves no sorting work for me to do. Christ sorts. I embrace.
+*If I am gonna err, let it be love.* Not because I do not care about doctrine, but because I care about the verdict that is not mine to render. The man who holds the sharpest doctrine is the man who has the widest arms, and the reason is not that doctrine has gone soft. The reason is that sovereign grace leaves no sorting work for me to do. Christ sorts. I embrace.
 
 ## The Song That Says It Better
 
@@ -243,13 +243,13 @@ I wrote a song about all of this. It's called "Enough for Me." And the chorus sa
 
 *If you're resting in Christ alone, not in something you've done or shown, then brother, that's enough for me.*
 
-That is where I have landed. And I am at peace with it. Not because I have compromised. Not because I have gone soft. But because I followed the doctrine I have preached all the way to where it leads. And where it leads is a table wide enough for everyone who trusts Christ, whether they can articulate the mechanics or not.
+That is where I have landed. And I am at peace with it, not because I have compromised, not because I have gone soft, but because I followed the doctrine I have preached all the way to where it leads. And where it leads is a table wide enough for everyone who trusts Christ, whether they can articulate the mechanics or not.
 
 *"By this shall all men know that ye are my disciples, if ye have love one to another."* (John 13:35)
 
 Not by your ability to win arguments. Not by your doctrinal precision. Not by how many Arminians you have refuted. By your *love*.
 
-And sovereign grace, real sovereign grace, the kind that says God does it all and man does nothing, that kind of grace should produce more love than any other theology on earth. Because the man who truly believes God does it all has nothing left to hold over anyone. He can only look at every other confessor of Christ and say, "If God saved me through the mess of my own ignorance, He can save you through yours."
+And sovereign grace, real sovereign grace, the kind that says God does it all and man does nothing, that kind of grace should produce more love than any other theology on earth, because the man who truly believes God does it all has nothing left to hold over anyone. He can only look at every other confessor of Christ and say, "If God saved me through the mess of my own ignorance, He can save you through yours."
 
 *"Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God. He that loveth not knoweth not God; for God is love."* (1 John 4:7-8)
 
@@ -285,7 +285,7 @@ I am saying doctrine matters *deeply*. The doctrines of grace are the truth. God
 
 Of course you cannot. Saving faith has content. You cannot trust a Christ you know nothing about. *"How shall they believe in him of whom they have not heard? and how shall they hear without a preacher?"* (Romans 10:14). *"Faith cometh by hearing, and hearing by the word of God"* (Romans 10:17). I affirm this without qualification. What I am denying is not the content. I am denying that the content is the substrate. The content is the Author's own speech about the Person the saint rests in. Doctrine is how the Person becomes describable to a finite creature. Doctrine operating that way is not anti-doctrinal. Doctrine is doing exactly what doctrine was designed to do.
 
-The objection almost always smuggles in a quantity claim without noticing. *"You cannot know Christ without doctrine"* gets pressed as if it meant *"you cannot know Christ without my tribe's full articulation of the doctrine."* Those are not the same claim. The minimal-content claim is Scripture's: the Person must be named, the work must be known in outline, the rest must be in Him. The maximal-articulation claim is the tribe's: the mechanism must be spelled out, the order of the decrees grasped, the five points defended on command, the vocabulary matched. Scripture requires the first. Scripture does not require the second. I keep them distinct. The tribe collapses them.
+The objection almost always sneaks in a quantity claim without noticing. *"You cannot know Christ without doctrine"* gets pressed as if it meant *"you cannot know Christ without my tribe's full articulation of the doctrine."* Those are not the same claim. The minimal-content claim is Scripture's: the Person must be named, the work must be known in outline, the rest must be in Him. The maximal-articulation claim is the tribe's: the mechanism must be spelled out, the order of the decrees grasped, the five points defended on command, the vocabulary matched. Scripture requires the first. Scripture does not require the second. I keep them distinct. The tribe collapses them.
 
 The test that ends the argument is the first-contact saving faiths in the New Testament itself. The thief on the cross had almost no doctrinal articulation and went to paradise that afternoon. The Ethiopian eunuch asked *"what doth hinder me to be baptized?"* before the mechanism had been explained to him. The Philippian jailer heard *"believe on the Lord Jesus Christ, and thou shalt be saved"* and was saved that night. If the maximal-articulation claim is the real test, every one of them fails it and Scripture is wrong. Scripture is not wrong. The test is wrong.
 
@@ -309,7 +309,7 @@ The second question is the harder one for the tribe. *"Does God leave His people
 
 Romans 10 is the passage the tribe uses against this answer, and it is the passage that actually settles it. *"How shall they believe in him of whom they have not heard?"* (Romans 10:14). Hearing is required. The Person must be named to be trusted. I affirm that. But notice what content Paul names as the saving content. *"That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved"* (Romans 10:9). Two clauses. Jesus is Lord. God raised Him from the dead. That is the saving content. Not the order of the decrees. Not the five points. Not the doctrine of justification from eternity. *Jesus is Lord. God raised Him. Trust Him.* That is what the Spirit uses to bring the elect to faith. The full mechanics are a glorious unfolding the saint walks into across his life. The minimum is the Person, named, and the trust extended to Him.
 
-So how can a man trust the true Christ when he has never been taught Him correctly? The same way you trust a friend when someone gave you a wrong description of him. You meet the Person. The Person speaks for Himself. The Spirit makes the introduction. The wrong description gets corrected over time, by the same Spirit, through the same Word, on the Lord's clock. And the trust that was in the Person from the moment of meeting was real trust the whole time. Not because the description was right. Because the Person was.
+So how can a man trust the true Christ when he has never been taught Him correctly? The same way you trust a friend when someone gave you a wrong description of him. You meet the Person. The Person speaks for Himself. The Spirit makes the introduction. The wrong description gets corrected over time, by the same Spirit, through the same Word, on the Lord's clock. And the trust that was in the Person from the moment of meeting was real trust the whole time, not because the description was right, but because the Person was.
 
 And does God leave His people in ignorance of His Gospel? Not of the Person. He never has. He has scattered His elect across every imprecise tradition on earth and walked each one of them home through the partial light they were given. He is sovereign over the partial light. He will not let the partial light damn one of His own. *"My sheep hear my voice, and I know them, and they follow me; And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand"* (John 10:27-28). The voice is the Person's voice. The sheep hear *Him*. They may not hear Him correctly described. They hear *Him*. And He keeps them.
 
@@ -319,7 +319,7 @@ Christ saves through the cracks. He always has. He always will. Sovereign grace 
 
 **"If Arminians can be saved, there's no reason to preach sovereign grace at all."**
 
-Because it is *true*. And the truth glorifies God. And knowing the truth produces deeper joy, stronger assurance, and greater worship. The doctrines of grace are not a ticket to heaven. They are the richest possible *experience* of the heaven you are already going to. You preach them because they are true and because they magnify the glory of God, not because they are the entry requirement. A man who has never tasted Burgundy can still enjoy wine. But the man who has tasted it knows what wine was *meant* to taste like. Sovereign grace is the Burgundy of theology. Preach it because it is glorious. Not because it is the gate.
+Because it is *true*. And the truth glorifies God. And knowing the truth produces deeper joy, stronger assurance, and greater worship. The doctrines of grace are not a ticket to heaven. They are the richest possible *experience* of the heaven you are already going to. You preach them because they are true and because they magnify the glory of God, not because they are the entry requirement. A man who has never tasted Burgundy can still enjoy wine. But the man who has tasted it knows what wine was *meant* to taste like. Sovereign grace is the Burgundy of theology. Preach it because it is glorious, not because it is the gate.
 
 **"You're being soft."**
 
@@ -363,7 +363,7 @@ The simple Gospel is Christ and Him crucified. *"For I determined not to know an
 
 But the *questions* about the simple Gospel are not simple. Why does evil exist if God is good? How is Christ's righteousness imputed across time? What is the relationship between God's mind and the atoms in my coffee cup? People ask those questions. And the Platonic framework has been answering them with Platonic answers for sixteen centuries, and the Platonic answers are wrong, and the wrongness has been wounding the church the whole way.
 
-I wrote the book because the real answers are better. Not because a man needs a degree to get to Christ. The book is scaffolding. The building is the sentence. *Everything that exists is a thought in the mind of God, sustained by His will, authored by His purpose, and held together by personal covenants of love.* Read the sentence. Rest in Christ. Be saved. If you never read another page, I am still glad you picked it up.
+I wrote the book because the real answers are better, not because a man needs a degree to get to Christ. The book is scaffolding. The building is the sentence. *Everything that exists is a thought in the mind of God, sustained by His will, authored by His purpose, and held together by personal covenants of love.* Read the sentence. Rest in Christ. Be saved. If you never read another page, I am still glad you picked it up.
 
 And here is the part that will irritate a certain kind of preacher. The man who refuses to examine his inherited framework on the grounds that it is *"too intellectual"* is not defending the simple Gospel. He is defending an unexamined intellectual framework. He has just never called it that. He calls it faithfulness. But faithfulness is not the refusal to think. Faithfulness is thinking to the ends of your tether and then honestly telling people what you saw. Paul thought all the way to *"he that is spiritual judgeth all things"* (1 Corinthians 2:15). That is not simplicity by subtraction. That is simplicity by going all the way through.
 
@@ -383,7 +383,7 @@ No. Chapter 12, "The Two Seeds," is the most dangerous chapter in this book. The
 
 I started this book with a sentence. Everything that exists is a thought in the mind of God, sustained by His will, authored by His purpose, and held together by personal covenants of love.
 
-I end with love. Not because I am softer than I used to be. But because the sentence *demands* it. If everything is held together by personal covenants of love, then love is the final word. Not doctrine. Not precision. Not the ability to articulate the mechanics of salvation. Love.
+I end with love, not because I am softer than I used to be, but because the sentence *demands* it. If everything is held together by personal covenants of love, then love is the final word. Not doctrine. Not precision. Not the ability to articulate the mechanics of salvation. Love.
 
 The hardest system in print. The widest arms.
 

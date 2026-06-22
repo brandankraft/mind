@@ -46,7 +46,7 @@ This is the single most important insight in all of apologetics, and most Christ
 
 The evidence *is* there. The arguments *are* valid. But they are valid *within the Christian presuppositional framework*. To the person operating from materialist boot parameters, the same evidence produces a different conclusion. The materialist looks at the resurrection and sees a legend that grew over time, at the fine-tuning of the universe and sees a multiverse, at consciousness and sees an emergent property of chemistry. The data didn't change. The firmware changed.
 
-And here is the devastating part: the materialist thinks he's being neutral. He thinks his framework is the default. He thinks that materialism isn't a presupposition at all -- it's just *how things are*. He calls his starting point "science" or "reason" or "evidence," and he calls the Christian's starting point "faith" -- as if faith were the departure from neutrality and his position were the baseline.
+And here is the devastating part: the materialist thinks he's being neutral. He thinks his framework is the default. He thinks that materialism isn't a presupposition at all: it's just *how things are*. He calls his starting point "science" or "reason" or "evidence," and he calls the Christian's starting point "faith," as if faith were the departure from neutrality and his position were the baseline.
 
 But it's not. Materialism is a presupposition. The belief that the physical world is all there is, that only empirically verifiable claims count as knowledge, that consciousness is reducible to chemistry: these are *starting assumptions*, not conclusions. They cannot be proved from within the materialist system without using the materialist system to validate itself. That's circular reasoning. And the materialist is guilty of the same circularity he accuses the Christian of.
 
@@ -72,7 +72,7 @@ The materialist has to account for morality. He can't. If there is no God, then 
 
 The materialist has to account for the intelligibility of the universe. He can't. Why does mathematics work? Why do the laws of physics hold from one moment to the next? Why is the universe comprehensible to the human mind at all? If the universe is the product of random, undirected processes, there is no reason to expect it to be orderly, predictable, or understandable. The materialist assumes order and then investigates it, but his system cannot explain *why* there is order to investigate.
 
-The materialist has to account for information. He can't. DNA is authored code. Functional, specified information does not arise from random processes. A programmer since age ten knows what authored information looks like. And the genetic code looks authored. Not because I need it to for my theology. Because it does.
+The materialist has to account for information. He can't. DNA is authored code. Functional, specified information does not arise from random processes. A programmer since age ten knows what authored information looks like. And the genetic code looks authored, not because I need it to for my theology, but because it does.
 
 The Christian presupposition accounts for all of this. Consciousness, reason, morality, order, information, beauty, love, the intelligibility of the universe, all of it is explained by a sovereign Mind that authored reality with purpose. The system is coherent. The system is complete. And the system predicts its own rejection.
 
@@ -136,13 +136,13 @@ But I want to be clear: I didn't arrive here because Van Til convinced me. I arr
 
 If all reasoning is circular, then the honest person admits it. He doesn't pretend his starting point is neutral. He doesn't call his presuppositions "science" and the other person's presuppositions "faith." He names his boot parameters and takes responsibility for them.
 
-If only the Spirit can change boot parameters, then humility is the only posture for the apologist. You are not the hero of the conversation. You are not going to save anyone with your clever arguments. You present truth. You expose false assumptions. You clear the ground. And you wait on the Lord. Because the Lord is the only one with root access, and root access is what this problem requires.
+If only the Spirit can change boot parameters, then humility is the only posture for the apologist. You are not the hero of the conversation. You are not going to save anyone with your clever arguments. You present truth. You expose false assumptions. You clear the ground. And you wait on the Lord, because the Lord is the only one with root access, and root access is what this problem requires.
 
 If the system predicts its own rejection, then the Christian is not surprised or threatened when people call the gospel foolishness. Paul told you they would. The rejection is not evidence against the system. The rejection is *predicted by* the system. And a system that accurately predicts the behavior of those who reject it is a system that accounts for reality better than the alternative.
 
 And if the Christian presupposition accounts for consciousness, reason, morality, order, information, beauty, and the intelligibility of the universe, while the materialist presupposition cannot account for any of them without borrowing from the Christian framework, then the honest mind knows which boot parameters produce a coherent rendering of the world.
 
-The honest mind. That's the key phrase. Because honesty itself is a presupposition. The willingness to examine your own starting points, to admit your reasoning is circular, to hold your system accountable to the world it claims to describe, that willingness is not produced by argument. It's produced by the Spirit. Which means the whole system loops back to the beginning, back to the sovereignty of God, back to the Author who writes both the questions and the answers, both the seekers and the scoffers, both the firmware and the flash.
+The honest mind. That's the key phrase, because honesty itself is a presupposition. The willingness to examine your own starting points, to admit your reasoning is circular, to hold your system accountable to the world it claims to describe, that willingness is not produced by argument. It's produced by the Spirit, which means the whole system loops back to the beginning, back to the sovereignty of God, back to the Author who writes both the questions and the answers, both the seekers and the scoffers, both the firmware and the flash.
 
 *"No man can come to me, except the Father which hath sent me draw him."* (John 6:44)
 

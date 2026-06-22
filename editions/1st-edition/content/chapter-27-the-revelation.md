@@ -8,7 +8,7 @@ part: VIII -- The End
 
 I hold this chapter with more open hands than anything else in the book.
 
-That's an unusual way to start a chapter on eschatology, because eschatology is the one domain where everyone seems to have absolute certainty. The dispensationalists have their charts. The postmillennialists have their optimism. The premillennialists have their timelines and their rebuilt temples and their seven-year tribulations and their rapture indexes. Everyone has a system. Everyone is sure. And I'm going to tell you what I believe and then I'm going to tell you that I hold it more loosely than I hold justification from eternity or the two seeds or the authorship of evil. Because God *deliberately* obscured apocalyptic literature. He wrote Revelation in a genre designed to conceal as much as it reveals. And the man who reads a deliberately obscured text and comes away with absolute certainty about every detail has mistaken his confidence for comprehension.
+That's an unusual way to start a chapter on eschatology, because eschatology is the one domain where everyone seems to have absolute certainty. The dispensationalists have their charts. The postmillennialists have their optimism. The premillennialists have their timelines and their rebuilt temples and their seven-year tribulations and their rapture indexes. Everyone has a system. Everyone is sure. And I'm going to tell you what I believe and then I'm going to tell you that I hold it more loosely than I hold justification from eternity or the two seeds or the authorship of evil, because God *deliberately* obscured apocalyptic literature. He wrote Revelation in a genre designed to conceal as much as it reveals. And the man who reads a deliberately obscured text and comes away with absolute certainty about every detail has mistaken his confidence for comprehension.
 
 I've watched men build entire ministries on prophecy charts. I've watched them calculate dates. I've watched them read every headline through the lens of their eschatological system and declare that *this* war, *this* treaty, *this* political figure is the fulfillment of *that* verse. And they've been wrong every single time. Not wrong about the *nature* of the last things, but wrong about the *timing*, the *specifics*, the details they were most sure about. And they never seem to learn, because the next headline produces the next confident interpretation, and the cycle repeats.
 
@@ -22,7 +22,7 @@ Why would eschatology be different?
 
 *"Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence."* (John 18:36)
 
-My kingdom is *not of this world*. Christ said it plainly. He said it to Pilate, who was looking for a political threat, and Christ told him there isn't one. Not because Christ doesn't have a kingdom. He does. But because His kingdom is invisible. Spiritual. Real in the way that everything invisible in this book has been real, more real than the physical rendering, not less.
+My kingdom is *not of this world*. Christ said it plainly. He said it to Pilate, who was looking for a political threat, and Christ told him there isn't one, not because Christ doesn't have a kingdom (He does) but because His kingdom is invisible. Spiritual. Real in the way that everything invisible in this book has been real, more real than the physical rendering, not less.
 
 *"Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you."* (Luke 17:21)
 
@@ -76,7 +76,7 @@ The kingdom has been under assault since it was announced. That's not a future e
 
 And then John Nelson Darby came along in the 1830s, invented dispensationalism, split history into seven ages, divided God's program for Israel from God's program for the church, and introduced the pretribulational rapture. And within two hundred years, his system completely replaced the one that had stood for a millennium and a half. The Scofield Reference Bible popularized it. Hal Lindsey's *Late Great Planet Earth* made it a bestseller. The *Left Behind* novels made it pop culture.[^c27-dispensationalism] And now most evangelicals think dispensational premillennialism is *the* biblical position and they've never even heard of historicism.
 
-None of this came from Scripture. It came from Darby. The charts, the rebuilt temple, the pretribulational rapture, the distinction between Israel and the church as two separate programs of God, none of it is derived from the text. It is a system imposed ON the text. And the church adopted it wholesale because the system was exciting and the books sold well. Not because it was true.
+None of this came from Scripture. It came from Darby. The charts, the rebuilt temple, the pretribulational rapture, the distinction between Israel and the church as two separate programs of God, none of it is derived from the text. It is a system imposed ON the text. And the church adopted it wholesale because the system was exciting and the books sold well, not because it was true.
 
 I hold the historicist position because it fits the framework. The Author is still writing the story. Revelation maps the ongoing narrative. The seals have been opening across centuries. The trumpets have been sounding across centuries. The beasts have risen and fallen across centuries. And reading Revelation requires the same pattern recognition across history that the Author built into every other domain of this book. The invisible precedes the visible. The plan precedes the execution. And the story is still unfolding, page by page, because the Author hasn't written "The End" yet.
 
@@ -112,7 +112,7 @@ For all of recorded history, every "beast" (every totalitarian system, every emp
 
 AI removes that limit.
 
-For the first time in the history of the world, it is *technically feasible* to monitor every transaction, every conversation, every movement, every thought expressed digitally, in real time, without human bottlenecks. One system could mark every person. One algorithm could approve or deny every purchase. One network could identify every dissenter. Not because it's happening now. But because the technical infrastructure *exists* for the first time in human history.
+For the first time in the history of the world, it is *technically feasible* to monitor every transaction, every conversation, every movement, every thought expressed digitally, in real time, without human bottlenecks. One system could mark every person. One algorithm could approve or deny every purchase. One network could identify every dissenter, not because it's happening now, but because the technical infrastructure *exists* for the first time in human history.
 
 *"And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name."* (Revelation 13:17)
 

@@ -80,7 +80,7 @@ But what the law could not do, God did. By sending His Son. By the Spirit. By th
 
 This is where the rubber meets the road, and this is where I lost friends over the years.
 
-If a believer is struggling with sin, the worst thing you can do is point them to the law. Because the law has no power to fix the problem. The law can identify the sin. The law can condemn the sinner. But the law cannot heal, restore, empower, or change anyone. It was never designed to.
+If a believer is struggling with sin, the worst thing you can do is point them to the law, because the law has no power to fix the problem. The law can identify the sin. The law can condemn the sinner. But the law cannot heal, restore, empower, or change anyone. It was never designed to.
 
 When you point a struggling believer to the Ten Commandments, you are doing exactly what the Galatian Judaizers were doing. You are taking someone who has been set free in Christ and putting them back under the very thing Christ freed them from.
 

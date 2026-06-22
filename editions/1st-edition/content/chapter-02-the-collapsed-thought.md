@@ -10,7 +10,7 @@ If Chapter 1 is the foundation, this chapter is the key. And it can be stated in
 
 > *"We are just God's eternal thoughts collapsed in a moment in time."*
 
-That sentence changed my life when I first understood it, and I want to show you why it should change yours. Because if the sentence from Chapter 1 tells you *what* reality is, this chapter tells you *how* it works. And the implications are staggering.
+That sentence changed my life when I first understood it, and I want to show you why it should change yours, because if the sentence from Chapter 1 tells you *what* reality is, this chapter tells you *how* it works. And the implications are staggering.
 
 ## Eternity Is Not What You Think
 
@@ -47,7 +47,7 @@ And here is the part that no philosophy could predict: in Chapter 6, we will see
 
 So if God's thought is eternal and complete, and we experience it sequentially, what is the relationship between the two? How does an eternal thought become temporal experience?
 
-I call it *collapse*. Not because anything is lost or broken, but because something infinite is being expressed in something finite. The eternal thought is being compressed into a moment. The timeless reality is being rendered into a frame.
+I call it *collapse*, not because anything is lost or broken, but because something infinite is being expressed in something finite. The eternal thought is being compressed into a moment. The timeless reality is being rendered into a frame.
 
 And this pattern repeats everywhere. At every level of reality, the same thing is happening: something invisible and eternal is being collapsed into something visible and temporal.
 
@@ -70,7 +70,7 @@ This is not a metaphor. This is the actual structure of reality. And it solves p
 
 Let me show you how this works with one of the most important doctrines in the Bible.
 
-Justification is the act of God declaring His people righteous. Now, *when* does this happen? Ask a hundred theologians and you'll get a dozen different answers. Some say it happens at the moment of faith. Some say it happens at the cross. Some say it happens in eternity. And each of them has Scripture to support their position. Because Scripture describes justification as happening at all of those moments.
+Justification is the act of God declaring His people righteous. Now, *when* does this happen? Ask a hundred theologians and you'll get a dozen different answers. Some say it happens at the moment of faith. Some say it happens at the cross. Some say it happens in eternity. And each of them has Scripture to support their position, because Scripture describes justification as happening at all of those moments.
 
 And here's the beauty of it: *they're all right*. But not for the reason they think. They're not right because justification happens multiple times. They're right because justification is one thought, and they're each looking at a different collapse of it.
 
@@ -113,11 +113,11 @@ This is what it means to believe in justification from eternity. Not that the cr
 
 *"Known unto God are all his works from the beginning of the world."* (Acts 15:18)
 
-From the beginning of the world. Not from the cross. Not from the conversion. From the *beginning*. Because God doesn't have a timeline. He has a thought. And the thought was complete before the first frame ever rendered.
+From the beginning of the world. Not from the cross. Not from the conversion. From the *beginning*. God doesn't have a timeline. He has a thought. And the thought was complete before the first frame ever rendered.
 
 ## The Chain
 
-Now let me show you the full chain. Because the collapse doesn't stop at theology. It goes all the way down.
+Now let me show you the full chain, because the collapse doesn't stop at theology. It goes all the way down.
 
 God thinks. That thought is information. That information collapses into quantum bits, the fundamental building blocks of physical reality. Those quantum bits produce matter, energy, force, the physical universe as we know it. And within that physical universe, electrical signals fire in a human brain. Those electrical signals produce feelings, pre-propositional information that arrives at the conscious mind before words can form. And the conscious mind takes those feelings and interprets them, assigns them labels and causes and meanings, and produces thoughts. And those thoughts, if the mind is regenerate, eventually produce theology. Theology about the God whose original thought started the whole chain.
 
@@ -125,7 +125,7 @@ God thinks -> information -> quantum bits -> matter -> electrical signals -> fee
 
 One unbroken chain from the Author to the character and back. And the chain is circular. It's a loop. The character's theology points back to the Author who started the whole thing. The output of the system is a reflection of its input. The creation contemplates the Creator, and in doing so, demonstrates that the creation was always a thought in the Creator's mind.
 
-The system is circular by design. Not because it's a logical fallacy, as the critics of presuppositionalism would say. But because a closed loop is the only shape a system can have when the Author is the substrate. When God is the ground of all being, every chain of reasoning eventually leads back to Him. That's not a flaw. That's the architecture.
+The system is circular by design, not because it's a logical fallacy, as the critics of presuppositionalism would say, but because a closed loop is the only shape a system can have when the Author is the substrate. When God is the ground of all being, every chain of reasoning eventually leads back to Him. That's not a flaw. That's the architecture.
 
 ## The Immutable God
 
@@ -141,7 +141,7 @@ God causes all things, but nothing causes God. God changes all things, but nothi
 
 This is why the collapse works. The eternal thought doesn't degrade as it collapses into time. The cross is not a degraded version of the decree. The conversion is not a degraded version of the cross. Each frame is a faithful expression of the same unchanging thought, rendered at different resolutions, experienced at different moments, but never altered. The substance does not change because the Author does not change.
 
-And this is the ground of every comfort this book will offer. The elect are not consumed because the God who chose them does not change His mind. The covenant is not breakable because the God who made it is not mutable. The thought that you are, the specific thought in the mind of God that constitutes your existence, was never revised, never reconsidered, never at risk. *"My covenant will I not break, nor alter the thing that is gone out of my lips"* (Psalm 89:34). He will not. He cannot. Because He is the Lord, and He changes not.
+And this is the ground of every comfort this book will offer. The elect are not consumed because the God who chose them does not change His mind. The covenant is not breakable because the God who made it is not mutable. The thought that you are, the specific thought in the mind of God that constitutes your existence, was never revised, never reconsidered, never at risk. *"My covenant will I not break, nor alter the thing that is gone out of my lips"* (Psalm 89:34). He will not. He cannot, because He is the Lord, and He changes not.
 
 *"Jesus Christ the same yesterday, and to day, and for ever."* (Hebrews 13:8)
 
@@ -155,7 +155,7 @@ It means your struggle is real, but it's already resolved. From inside the films
 
 But from outside the filmstrip, the Author sees the whole picture. He sees the doubt and the assurance and the resolution and the mature man at sixty, all at once, as one thought. The "gap between what I believe and what I feel" is a temporal experience of a timeless reality. From inside, it feels like struggle. From outside, it was always the finished picture.
 
-And that should bring you comfort. Not because the struggle isn't real. It is. The frames are real. Your experience is real. But the outcome was never in question. Because the Author already wrote it. And He wrote it before the struggle began, before the doubt crept in, before the world was even made. You are an eternal thought. And eternal thoughts don't get lost in the filmstrip.
+And that should bring you comfort, not because the struggle isn't real. It is. The frames are real. Your experience is real. But the outcome was never in question, because the Author already wrote it. And He wrote it before the struggle began, before the doubt crept in, before the world was even made. You are an eternal thought. And eternal thoughts don't get lost in the filmstrip.
 
 It also means that progressive revelation, the gradual unfolding of truth across history and across your own lifetime, is not God figuring things out as He goes. It's timelessness decompressing into time. The eternal thought unfolding into sequential experience. Not growth toward a destination. The destination was always there. Just the character experiencing the frames, one at a time, in the order the Author set.
 
@@ -177,7 +177,7 @@ Prayer is part of the script. God ordained both the prayer and the answer. The p
 
 *"Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God."* (Philippians 4:6)
 
-He already knows. You pray anyway. Because the prayer is the communion. And the communion is the point.
+He already knows. You pray anyway, because the prayer is the communion. And the communion is the point.
 
 **"If the struggle is already resolved, the pain we feel now is meaningless."**
 

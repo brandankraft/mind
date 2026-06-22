@@ -12,7 +12,7 @@ And I'm not going to say those experiences aren't real. They are. But they're no
 
 The Holy Spirit's primary work is *epistemological*. He teaches and reveals and informs. He gives *knowledge*.
 
-And once you see this, the entire doctrine of the Spirit's work snaps into focus in a way that the mystical framework never provides. Because the mystical framework can't tell you what the Spirit is actually *doing*. It can only tell you what it *feels like*. But the epistemological framework tells you exactly what He's doing: He's changing what you know. And in changing what you know, He changes everything else.
+And once you see this, the entire doctrine of the Spirit's work snaps into focus in a way that the mystical framework never provides, because the mystical framework can't tell you what the Spirit is actually *doing*. It can only tell you what it *feels like*. But the epistemological framework tells you exactly what He's doing: He's changing what you know. And in changing what you know, He changes everything else.
 
 ## The Mind Is the Target
 
@@ -86,7 +86,7 @@ Only the Holy Spirit has root access to the human soul.
 
 No argument has it, no preacher, no book, no evidence. No amount of logic, rhetoric, or persuasion can change the firmware. All of those things operate at the application layer. They present information to the conscious mind. And the conscious mind processes that information *according to its boot parameters*.
 
-This is why apologetics doesn't produce faith. Not because the arguments are bad. Some of them are excellent. But the arguments operate at the application layer, and the firmware determines what the application layer does with them. A regenerate person hears the gospel and believes, because the firmware was flashed. An unregenerate person hears the same gospel and rejects it, because the firmware wasn't flashed. Same argument. Same evidence. Same words. Different firmware. Different result.
+This is why apologetics doesn't produce faith, not because the arguments are bad. Some of them are excellent. But the arguments operate at the application layer, and the firmware determines what the application layer does with them. A regenerate person hears the gospel and believes, because the firmware was flashed. An unregenerate person hears the same gospel and rejects it, because the firmware wasn't flashed. Same argument. Same evidence. Same words. Different firmware. Different result.
 
 *"But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned."* (1 Corinthians 2:14)
 

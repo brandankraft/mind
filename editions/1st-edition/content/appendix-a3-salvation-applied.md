@@ -51,7 +51,7 @@ The condemnation of the gospel requires hearing and rejecting. Chapter 12 distin
 
 And here is where the framework goes further than most systems dare: if God authored that infant's death in infancy, He did so because that infant was always elect. The thought was always His. The rendering was brief, but the thought persists in God's mind; He doesn't stop thinking it. And the God who authors everything does not author the death of an infant only to condemn the infant He killed. The death itself is the evidence of election. God took the child home before the rendering reached the stage where sin could be expressed at the conscious level. That is not an accident. That is the Author writing a short story with a guaranteed ending.
 
-David knew this. *"I shall go to him, but he shall not return to me"* (2 Samuel 12:23). David expected reunion. Not hope. Expectation. Because David knew who authored the child's death. And he knew the Author does not waste His thoughts.
+David knew this. *"I shall go to him, but he shall not return to me"* (2 Samuel 12:23). David expected reunion, not hope but expectation, because David knew who authored the child's death. And he knew the Author does not waste His thoughts.
 
 **For further study:** Deut. 1:39; 2 Sam. 12:15-23; Ps. 22:9-10; Ps. 139:13-16; Isa. 7:16; Jer. 1:5; Matt. 18:3-5; Matt. 18:10; Matt. 18:14; Matt. 19:14; Mark 10:14-16; Luke 18:16-17.
 
@@ -133,7 +133,7 @@ For the elect, the intermediate state is better than anything in this life. *"Fo
 
 For the reprobate, the intermediate state is conscious torment. The rich man's experience in Luke 16 is the preview of the final state described in Chapter 28: the same God, the same presence, experienced through corrupted firmware with no covering and no upgrade. The full resolution comes at the final judgment, when the glass comes down for everyone and the rendering upgrades permanently. But the preview is already terrible.
 
-**The framework's derivation:** If the soul is information in the mind of God, and God doesn't stop thinking any thought, then the soul doesn't cease to exist at death. The rendering changes. The physical hardware (the body) shuts down. But the information -- the thought -- continues. The intermediate state is God continuing to think the thought without rendering it physically. The thought is still conscious because consciousness is in the information, not in the hardware. The hardware was always just the rendering of the information, not the source of it.
+**The framework's derivation:** If the soul is information in the mind of God, and God doesn't stop thinking any thought, then the soul doesn't cease to exist at death. The rendering changes. The physical hardware (the body) shuts down. But the information, the thought, continues. The intermediate state is God continuing to think the thought without rendering it physically. The thought is still conscious because consciousness is in the information, not in the hardware. The hardware was always just the rendering of the information, not the source of it.
 
 **For further study:** Gen. 25:8; 1 Sam. 28:15-19; Eccl. 12:7; Luke 16:19-31; Luke 23:43; John 14:2-3; Acts 7:59; 2 Cor. 5:1-10; Phil. 1:21-24; Heb. 12:23; Rev. 6:9-11; Rev. 14:13.
 
@@ -195,7 +195,7 @@ In the framework of this book, prevenient grace is not a mystery. It is the oper
 
 Jeremiah 1:5 says it at maximum resolution. *"Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee."* The sanctifying preceded the forming. The knowing preceded the conceiving. You were set apart before you existed in flesh. Every molecule of your life since has been the filmstrip unfolding toward the moment of effectual call.
 
-Why does this matter pastorally? Because every believer, looking back, can see the prevenient grace. Not as guesswork. As observable providence. *"O taste and see that the LORD is good"* (Psalm 34:8). Look back at your own life and count the mercies that went before. Count the disasters you were preserved from. Count the small redirections that pointed you toward the hour of grace. Every one of them is evidence that the God of your mercy went before you. He was preparing the way to Himself through every frame before you knew His name.
+This matters pastorally because every believer, looking back, can see the prevenient grace, not as guesswork but as observable providence. *"O taste and see that the LORD is good"* (Psalm 34:8). Look back at your own life and count the mercies that went before. Count the disasters you were preserved from. Count the small redirections that pointed you toward the hour of grace. Every one of them is evidence that the God of your mercy went before you. He was preparing the way to Himself through every frame before you knew His name.
 
 The reason most Calvinists reject the term is that they associate it exclusively with Arminianism. I reject the Arminian version as strongly as they do. But I decline to surrender the word to a system that stole it. The word is good English. The concept is biblical. Psalm 59:10 stands. Galatians 1:15 stands. Matthew 13:3-9 stands. *The God of my mercy shall prevent me.*
 

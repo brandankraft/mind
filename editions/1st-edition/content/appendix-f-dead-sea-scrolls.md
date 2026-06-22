@@ -63,7 +63,7 @@ These texts teach:
 - **Justification by God's righteousness alone**: "my justification lies with God," "by His righteousness is my transgression blotted out."
 - **The deity of the Messiah**: "Son of God," "Son of the Most High," "a great God of gods."
 
-This is the same theology presented in this book. Not because we borrowed from the scrolls. Because both derive from the same Scriptures. And it is no wonder that modern scholars have dismissed this theology. It violates their free will and conditional system. The Pharisees of today are the same as yesterday.
+This is the same theology presented in this book, not because we borrowed from the scrolls, but because both derive from the same Scriptures. And it is no wonder that modern scholars have dismissed this theology. It violates their free will and conditional system. The Pharisees of today are the same as yesterday.
 
 ## The Suppression
 

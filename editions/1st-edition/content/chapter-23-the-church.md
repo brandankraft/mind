@@ -6,7 +6,7 @@ part: VI -- The Life
 
 # Chapter 23: The Church -- Participatory, Not Institutional
 
-I have attended church my entire adult life and I have never found one that got everything right. Not one. But I kept going. Because churches are hospitals for sick people. And I'm a patient too.
+I have attended church my entire adult life and I have never found one that got everything right. Not one. But I kept going, because churches are hospitals for sick people. And I'm a patient too.
 
 ## How I Got Here
 
@@ -18,7 +18,7 @@ After that I found sovereign grace theology, and I found churches that preached 
 
 And then I moved my family seven hours away to be part of a church. I uprooted my wife and my son because I believed in the institutional model enough to rearrange my life around it. I gave it every chance. I wanted it to work. I wanted to be wrong about all my reservations.
 
-It didn't work. Not because the people were bad. They weren't. Not because the preaching was false. It wasn't. It didn't work because the model itself, the one-man-up-front-everyone-else-sit-down model, can't hold the weight of what the body of Christ actually is. It was never designed to. And I had to exhaust every version of it before I could say that with integrity.
+It didn't work, not because the people were bad (they weren't), not because the preaching was false (it wasn't). It didn't work because the model itself, the one-man-up-front-everyone-else-sit-down model, can't hold the weight of what the body of Christ actually is. It was never designed to. And I had to exhaust every version of it before I could say that with integrity.
 
 I'm not angry. I'm not disgruntled. I love the people in these churches. I still attend. I still worship alongside them. But I can see clearly now that the institutional model is a limiting factor that holds back the body of Christ. And it needs to be addressed.
 

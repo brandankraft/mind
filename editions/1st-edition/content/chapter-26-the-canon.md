@@ -66,7 +66,7 @@ The *antilegomena* were the disputed books, the ones some churches accepted and 
 
 And Luther, whose courage gave us the Reformation, was willing to name what he saw. He called the Epistle of James "an epistle of straw" compared to the great books of the New Testament.[^c26-straw] He questioned the Revelation of John. He was not afraid to say, out loud, that some books spoke with a clearer voice than others.
 
-And he was right to say it. Not because James doesn't belong in the Bible. It does. I hold it. I preach from it. But Luther recovered justification by faith alone *precisely because* he was willing to say what others wouldn't about the relative force of different books. If Luther had treated James and Romans as speaking with exactly the same clarity on exactly the same topic, justification by faith alone would still be buried under works-based theology. Honesty about the canon is how the Reformation happened.
+And he was right to say it, not because James doesn't belong in the Bible. It does. I hold it. I preach from it. But Luther recovered justification by faith alone *precisely because* he was willing to say what others wouldn't about the relative force of different books. If Luther had treated James and Romans as speaking with exactly the same clarity on exactly the same topic, justification by faith alone would still be buried under works-based theology. Honesty about the canon is how the Reformation happened.
 
 Let me name three books that I hold in an open hand rather than a closed fist, and I want to be specific about why.
 
@@ -134,7 +134,7 @@ This is campless even in the canon. I am neither in the camp that treats all 66 
 
 And then there is the opposite problem. Not a book that self-authenticates less clearly, but a book the church is embarrassed to have in the canon at all.
 
-The Song of Solomon is the most uncomfortable book in the Bible for most Christians. Not because it's unclear. Because it's clear. Too clear. It describes a man and a woman in love, in bed, in explicit physical detail, using language that makes the average church reader blush and the average pastor skip to the next book.
+The Song of Solomon is the most uncomfortable book in the Bible for most Christians, not because it's unclear, but because it's clear. Too clear. It describes a man and a woman in love, in bed, in explicit physical detail, using language that makes the average church reader blush and the average pastor skip to the next book.
 
 Three camps have formed around it, and every one of them reveals more about the reader than about the text.
 
@@ -162,7 +162,7 @@ We covered this in the last chapter, and it applies here with full force. The na
 
 This is why the debate about the Bible never ends and never progresses. The evidence doesn't change. The prophecies are still there. The coherence is still there. The moral authority is still there. The historical reliability is still there. But the person evaluating the evidence is evaluating it with firmware that cannot process spiritual data. And no amount of additional evidence will solve a firmware problem. You don't fix a driver issue by adding more data. You fix it by installing the driver.
 
-And only the Spirit installs the driver. Only the Spirit has root access to the boot parameters. We present the truth. We point to the prophecies. We lay out the coherence. We clear the ground. And then we wait. Because the ground-clearing is our job. The firmware flash is His.
+And only the Spirit installs the driver. Only the Spirit has root access to the boot parameters. We present the truth. We point to the prophecies. We lay out the coherence. We clear the ground. And then we wait, because the ground-clearing is our job. The firmware flash is His.
 
 ## A Trust That Sees
 
@@ -208,7 +208,7 @@ Maybe. That's a strong phrase, and I might not have used it. But Luther recovere
 
 I need to be honest here. I have friends who reject James entirely. Good men. Men who love justification by faith and see how James has been weaponized by every works-based system in the history of Christianity. And I understand their position, because I was there at one point. I saw the damage James 2 does in the hands of conditionalists and lordship salvation men, and I thought the cleanest solution was to cut the book. Just remove the problem.
 
-But I came back from that position, and here's why. Not because those men are wrong to protect the gospel. They're right to protect it. Their hermeneutic is a gospel hermeneutic, and I share it. If James truly contradicted justification by faith alone, removing it would be the honest thing to do. I see their point. I respect it. I just landed somewhere different.
+But I came back from that position, and here's why, not because those men are wrong to protect the gospel. They're right to protect it. Their hermeneutic is a gospel hermeneutic, and I share it. If James truly contradicted justification by faith alone, removing it would be the honest thing to do. I see their point. I respect it. I just landed somewhere different.
 
 And here is something that needs to be said plainly, because nobody wants to say it. We all determine the canon for ourselves. Every single one of us. The man who holds 66 books determined that 66 is the right number. The Catholic who holds 73 determined that the deuterocanonicals belong. The man who rejects James determined that 65 is sufficient. The man who says "I just believe what the church says" determined that the church is a reliable authority on the question. There is no position on the canon that doesn't involve a personal judgment. The question is not *whether* you make a canonical decision. The question is *on what basis* you make it.
 

@@ -30,7 +30,7 @@ The Father decrees. The Son accomplishes. The Spirit applies. That's not a divis
 
 One name. Three persons. Not three names. The name is singular because the Mind is singular. The persons are three because the perspectives are three. You cannot reduce the three to one without losing the distinctions, and you cannot separate the one into three without losing the unity. Both errors have been tried. Both fail.
 
-And this matters for everything that follows. Because the covenant of redemption, which we'll discuss in the next chapter, is not a contract between three separate parties. It's a *covenant within one Mind*, between three persons agreeing from three perspectives on one plan. The Father chose them. The Son redeemed them. The Spirit regenerates them.
+And this matters for everything that follows, because the covenant of redemption, which we'll discuss in the next chapter, is not a contract between three separate parties. It's a *covenant within one Mind*, between three persons agreeing from three perspectives on one plan. The Father chose them. The Son redeemed them. The Spirit regenerates them.
 
 I can't explain it any better than that. And I suspect I've already been foolish enough. But I'll say this: the framework doesn't solve the Trinity. It gives it architecture. One Mind, three personal perspectives on one body of thought, distinguished by their relationship to the same information. That's not a full explanation. But it's more than "it's a mystery, stop asking." And the framework is honest about where it stops. Some things exceed the rendering resolution of the current hardware. The Trinity is one of them. But we can see more of it than we thought.
 
@@ -48,7 +48,7 @@ The Angel of the LORD appeared to Manoah's wife and then to Manoah, and when Man
 
 And Jacob. Jacob wrestled a man at Peniel through the night. He prevailed. And then he named the place: *"And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved"* (Genesis 32:30). Hosea confirms it: *"He had power over the angel, and prevailed"* (Hosea 12:4). Power with God. Power over the angel. Same being. God rendered into flesh for one night, wrestling His own elect until the breaking of the day.
 
-In the framework, every theophany is the same mechanism. The Author, who is non-physical, who is the Mind behind the rendering, temporarily renders Himself into the physical scene. The burning bush is God rendered as fire that doesn't consume. The pillar of cloud and fire is God rendered as a visible guide. The Angel of the LORD is God rendered as a person who speaks, eats, blesses, and accepts worship. A created angel refuses worship (Revelation 22:9). The Angel of the LORD accepts it. Because He is not created. He is the Creator, temporarily rendered.
+In the framework, every theophany is the same mechanism. The Author, who is non-physical, who is the Mind behind the rendering, temporarily renders Himself into the physical scene. The burning bush is God rendered as fire that doesn't consume. The pillar of cloud and fire is God rendered as a visible guide. The Angel of the LORD is God rendered as a person who speaks, eats, blesses, and accepts worship. A created angel refuses worship (Revelation 22:9). The Angel of the LORD accepts it, because He is not created. He is the Creator, temporarily rendered.
 
 These are the previews. The trailers for the incarnation. Each one shows the Author briefly stepping into the rendering, doing what the scene requires, and then stepping back out. The rendering was temporary. The Person was permanent.
 
@@ -86,13 +86,13 @@ Fully God and fully man, two natures in one person. Not half and half, not switc
 
 In the language of this book: the Author simultaneously being the character without ceasing to be the Author. The filmmaker stepping into the film while the film keeps running. He doesn't stop directing the movie because He's now in the scene. He directs and acts at the same time. The Author writes the next page while He's living on the current one.
 
-Christ got hungry and tired. He wept. He bled. These are real experiences of a real human nature. The Author subjected Himself to the rendering constraints of His own story. Gravity applied to Him. So did hunger, fatigue, and mortality. Not because He had to. Because He chose to. Because the story required it. Because the covenant of redemption, the Trinitarian agreement from before the foundation of the world, required the Son to enter the story and live it from the inside.
+Christ got hungry and tired. He wept. He bled. These are real experiences of a real human nature. The Author subjected Himself to the rendering constraints of His own story. Gravity applied to Him. So did hunger, fatigue, and mortality. He accepted them not because He had to but because He chose to. The story required it. The covenant of redemption, the Trinitarian agreement from before the foundation of the world, required the Son to enter the story and live it from the inside.
 
 And at the same time, Christ calmed storms and walked on water. He healed the sick and raised the dead. He knew men's thoughts before they spoke. These are the Author's prerogatives, exercised from *inside* the character. The rendering constraints applied to the human nature. They didn't apply to the divine nature. And both natures existed in the same person at the same time.
 
 *"Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men."* (Philippians 2:5-7)
 
-He *made himself of no reputation*. He *took upon him* the form of a servant. These are active choices. The Author chose to enter the story. The Author chose to submit to rendering constraints. The Author chose to experience hunger and thirst and betrayal and death. Not because He was forced. Because the plan required it. And the plan was His.
+He *made himself of no reputation*. He *took upon him* the form of a servant. These are active choices. The Author chose to enter the story. The Author chose to submit to rendering constraints. The Author chose to experience hunger and thirst and betrayal and death, not because He was forced, but because the plan required it. And the plan was His.
 
 ## Prophet, Priest, King
 
@@ -156,7 +156,7 @@ Christ IS the covenant. He doesn't just *fulfill* the covenant. He doesn't just 
 
 The Lamb was the first thought. Not the first event, because the Lamb was slain before the world was founded. But the first *thought*. The destination from which everything else was planned. The supralapsarian decree begins with Christ. The Person precedes the purpose. The Who precedes the what and the how and the when.
 
-And so the covenant chapters that follow, the promise, the overarching covenant of grace, the progressive rendering, the covenant before the ceremony, all of them rest on this chapter. All of them rest on the Person. Because without the Person, the covenants are just ideas. With the Person, they're the thoughts of a God who loved His people enough to step into His own story and die in their place.
+And so the covenant chapters that follow, the promise, the overarching covenant of grace, the progressive rendering, the covenant before the ceremony, all of them rest on this chapter. All of them rest on the Person, because without the Person, the covenants are just ideas. With the Person, they're the thoughts of a God who loved His people enough to step into His own story and die in their place.
 
 ## Objections and Answers
 

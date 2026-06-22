@@ -39,7 +39,7 @@ Jeremiah names the inward parts and the hearts as the place where God writes His
 5. **Conscious mind interprets** (assigns a label, a cause, a meaning)
 6. **Interpretation becomes a thought** (propositional, linguistic)
 
-**The critical insight:** Step 5 is where most people go wrong. The feeling is real. The story the conscious mind tells about the feeling might be completely off. "I feel guilty, therefore I sinned" -- no. The guilt may be old firmware processing pleasure as danger. The signal is real. The interpretation may be fiction.
+**The critical insight:** Step 5 is where most people go wrong. The feeling is real. The story the conscious mind tells about the feeling might be completely off. "I feel guilty, therefore I sinned." No. The guilt may be old firmware processing pleasure as danger. The signal is real. The interpretation may be fiction.
 
 ## Three Channels to the Conscious Mind
 

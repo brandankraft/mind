@@ -8,7 +8,7 @@ part: V -- Salvation
 
 I remember the first time someone told me I was supposed to "offer" the gospel to people. I was in my early twenties, fresh into sovereign grace, still figuring out how the pieces fit together. And a well-meaning brother explained evangelism to me like this: "We offer salvation to the lost. We present the gospel and invite them to accept Christ. And then God uses our offer as the means to save the elect."
 
-And something about it didn't sit right. Not the part about preaching, that was fine. Not the part about God using means, I already believed that. The thing that stuck in my craw was the word *offer*. Because an offer implies something incomplete. An offer means "here's something available if you want it." An offer means the transaction isn't finished. An offer means there's a condition the other party has to meet before the deal closes.
+And something about it didn't sit right, not the part about preaching (that was fine), not the part about God using means (I already believed that). The thing that stuck in my craw was the word *offer*, because an offer implies something incomplete. An offer means "here's something available if you want it." An offer means the transaction isn't finished. An offer means there's a condition the other party has to meet before the deal closes.
 
 And the gospel isn't that. The gospel has never been that. The gospel is the announcement that the deal is *already closed*. The transaction is *finished*. The work is *done*. Christ didn't open a door and hope people walk through it. He saved His people. Past tense. Accomplished. And the gospel is the proclamation of that accomplished fact.
 
@@ -32,7 +32,7 @@ And this is what the early church preached. Not "God loves you and has a wonderf
 
 ## He Was Raised for Our Justification
 
-I owe the resurrection an apology. Not because I doubted it. Not because I left it out of my theology. But because I have not always given it the weight Paul gave it. The cross has done a lot of heavy lifting in my preaching. The empty tomb has too often stood quietly in the next paragraph, glanced at, mentioned, and moved past. And the apostle who taught me to preach the cross taught me that the cross alone is not the gospel. The cross with the empty tomb is the gospel.
+I owe the resurrection an apology, not because I doubted it, not because I left it out of my theology, but because I have not always given it the weight Paul gave it. The cross has done a lot of heavy lifting in my preaching. The empty tomb has too often stood quietly in the next paragraph, glanced at, mentioned, and moved past. And the apostle who taught me to preach the cross taught me that the cross alone is not the gospel. The cross with the empty tomb is the gospel.
 
 Sovereign grace preaching can declare the cross with full force and then mention the resurrection as a kind of supplemental note. I have done it. The chapter you are reading was on its way to doing it. Listen to how Paul opens 1 Corinthians 15.
 
@@ -122,7 +122,7 @@ But that makes no sense in the framework. And it makes no sense in Scripture.
 
 A reprobate man cannot be *duty-bound* to savingly believe something that isn't true for him. Christ did not die for the reprobate. The gospel promises are not for the reprobate. Can you bind a man to believe something that isn't true? Can you hold him responsible for failing to believe that the sky is green when the sky is blue? The reprobate man who hears the gospel and rejects it is not failing a duty. He is acting according to his nature. He is doing exactly what an unregenerate person does with foolishness: he dismisses it (1 Corinthians 2:14). And he is *accountable* for his sin, for his disobedience, for his rebellion against God. But he is not *responsible* for believing a promise that was never made to him.
 
-This distinction matters because the "human responsibility" framework is the back door through which Arminianism sneaks into Calvinism. "God is sovereign in salvation, BUT man is responsible to believe." That "but" is doing all the heavy lifting. It smuggles human contribution back into the system. It makes faith a condition. And once faith is a condition, the gospel is an offer again, and we're back to the unfinished work.
+This distinction matters because the "human responsibility" framework is the back door through which Arminianism sneaks into Calvinism. "God is sovereign in salvation, BUT man is responsible to believe." That "but" is doing all the heavy lifting. It slips human contribution back into the system. It makes faith a condition. And once faith is a condition, the gospel is an offer again, and we're back to the unfinished work.
 
 The framework doesn't have a "but." God is sovereign in salvation. Period. Full stop. No "but." The elect are saved because God decreed it, Christ accomplished it, and the Spirit applied it. The reprobate are lost because God decreed it, Christ did not die for them, and the Spirit did not regenerate them. And both, the salvation and the damnation, are entirely God's work. The sinner contributes nothing to either.
 
@@ -130,7 +130,7 @@ The framework doesn't have a "but." God is sovereign in salvation. Period. Full 
 
 Now for the claim that gets me labeled a hyper-calvinist. And I wear the label gladly, because the label is wrong and the theology is right. (On the old predestinarian.net forum I went by *Darth Gill*, John Gill the Particular Baptist with a Sith honorific bolted on, courtesy of men who thought I was the dangerous one. My friend Greg still calls me Darth as a gag. The dark-side joke I will accept. The law of Plato that produced it I will not.)
 
-There is no common grace[^c19-commongrace]. God does not love the reprobate. He does not extend grace to the non-elect. The provision He gives to the wicked -- rain, food, health, life itself -- is not grace. It is common *bounty*. Providence. The sustaining of the creation for the sake of the elect who live in it. But it is not love. It is not grace. And calling it grace profanes the word.
+There is no common grace[^c19-commongrace]. God does not love the reprobate. He does not extend grace to the non-elect. The provision He gives to the wicked (rain, food, health, life itself) is not grace. It is common *bounty*. Providence. The sustaining of the creation for the sake of the elect who live in it. But it is not love. It is not grace. And calling it grace profanes the word.
 
 *"When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever."* (Psalm 92:7)
 
@@ -140,7 +140,7 @@ Common grace, as the theological world uses the term, says God has a general lov
 
 But this profanes the love of God. The love of God is specific. It is particular. It is covenantal. Christ is the *bridegroom*. The church is the *bride*. The relationship between Christ and His people is the most intimate relationship Scripture describes.
 
-When Phil Johnson wrote his response to pristinegrace.org -- labeling it "hyper-Calvinism of the most virulent kind"[^c19-johnson] -- one of his chief complaints was our denial of common grace. He said we were making God unloving and the gospel unproclamable. But the opposite is true. Making God's love universal makes it meaningless. A love that applies to everyone equally, that extends the same affection to Judas as to John, that "loves" the vessels of wrath with the same love it "loves" the vessels of mercy -- that's not love. That's indifference wearing a mask.
+When Phil Johnson wrote his response to pristinegrace.org, labeling it "hyper-Calvinism of the most virulent kind"[^c19-johnson], one of his chief complaints was our denial of common grace. He said we were making God unloving and the gospel unproclamable. But the opposite is true. Making God's love universal makes it meaningless. A love that applies to everyone equally, that extends the same affection to Judas as to John, that "loves" the vessels of wrath with the same love it "loves" the vessels of mercy: that's not love. That's indifference wearing a mask.
 
 Particular love is *real* love. A husband who loves his wife with the same intensity and specificity as he loves every other woman on earth doesn't love his wife at all. But a husband who reserves his deepest, most intimate, most sacrificial love for his bride, that man loves. And Christ reserved His blood for His bride. He didn't spill it generically and hope for the best. He poured it out for His sheep (John 10:15). His elect. His people. His wife. And calling the provision to the reprobate "grace" is like calling the courtesy that husband shows a stranger "marital love." The categories are different. And confusing them dishonors the bride.
 

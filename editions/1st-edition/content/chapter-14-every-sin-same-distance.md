@@ -38,7 +38,7 @@ If the blood of Christ covers sin, it covers *all* sin equally. Not more blood f
 
 And here is what that means for the tier list: the cross destroyed it. At Calvary, every sin that Christ bore was borne equally. There was no hierarchy on the cross. God did not look at some sins and say, "These require extra payment." The payment was total. The coverage was complete. Every sin of every elect person, from the first to the last, from the mildest to the most horrific, was charged to Christ and paid in full. No remainder. No installment plan. No sliding scale.
 
-Every sin ordained by a sovereign God, and charged to Christ for His elect. The one who stole a candy bar and the one who took a life stand in the same spot before the cross. Not because their sins are morally equivalent in human terms. But because both sins are infinitely distant from the glory of God, and both are infinitely covered by the blood of Christ.
+Every sin ordained by a sovereign God, and charged to Christ for His elect. The one who stole a candy bar and the one who took a life stand in the same spot before the cross, not because their sins are morally equivalent in human terms, but because both sins are infinitely distant from the glory of God, and both are infinitely covered by the blood of Christ.
 
 ## Degrees of Punishment, Not Degrees of Grace
 
@@ -58,7 +58,7 @@ This is the distinction the church consistently misses. They see degrees of puni
 
 Let me address two subjects that the church has struggled with, not because these are the only controversial sins, but because they illustrate the principle in the sharpest terms. And I'm going to hold them exactly the way the framework demands: as sins ordained by God, treated with the same grace as any other sin, and approached with the same theological consistency applied to everything else in this book.
 
-Pro-life. Full stop. No exceptions. Not because of politics. I'm a registered independent, and I think for myself on every issue. Not because of the Republican platform or the pro-life lobby or the Moral Majority or any other institution that has co-opted this position for political gain. Because of the *ontology*.
+Pro-life. Full stop. No exceptions. I hold it not because of politics. I'm a registered independent, and I think for myself on every issue. I hold it not because of the Republican platform or the pro-life lobby or the Moral Majority or any other institution that has co-opted this position for political gain, but because of the *ontology*.
 
 If everything that exists is a thought in the mind of God, and each person is a specific thought He is actively thinking, then ending that life is destroying a thought God is actively thinking.
 
@@ -68,15 +68,15 @@ If everything that exists is a thought in the mind of God, and each person is a 
 
 Known before formation. Written before existence. Every member fashioned in God's book before a single cell divided. The child in the womb is not a potential person. The child is a *thought*. A specific, personal, authored thought in the mind of God. And destroying that thought is an act of violence against the Author's creation, no less than any other murder.
 
-Even in rape. Even in incest. Even in medical crisis. Because the circumstances that produced the child were predestinated. God doesn't make accidental people. The child conceived in the worst circumstances is still a thought God is thinking. The suffering of the mother is real. The horror of the circumstances is real. And the humanity of the child is real. You don't solve one evil by committing another.
+Even in rape. Even in incest. Even in medical crisis. The circumstances that produced the child were predestinated. God doesn't make accidental people. The child conceived in the worst circumstances is still a thought God is thinking. The suffering of the mother is real. The horror of the circumstances is real. And the humanity of the child is real. You don't solve one evil by committing another.
 
 But (and this is where the tier list has to die) I will not demonize the woman.
 
-The woman who has an abortion is a sinner. So is the man who drove her to it. So is the counselor who recommended it. So is the politician who funded it. So is the preacher who thundered about it on Sunday morning while ignoring his own pride for thirty years. Every one of them is a sinner. And if the woman is elect, if she is among the people God authored for glory, then the sin of abortion is covered by the same blood that covers every other sin. The guilt Christ bore on the cross included that sin. Not because it's small. Because the blood is big enough.
+The woman who has an abortion is a sinner. So is the man who drove her to it. So is the counselor who recommended it. So is the politician who funded it. So is the preacher who thundered about it on Sunday morning while ignoring his own pride for thirty years. Every one of them is a sinner. And if the woman is elect, if she is among the people God authored for glory, then the sin of abortion is covered by the same blood that covers every other sin. The guilt Christ bore on the cross included that sin, not because it's small, but because the blood is big enough.
 
 The answer to abortion is not the courthouse. The political pro-life movement has turned this into a legal battle, and I understand why. Laws matter. Justice matters. But the law never saved anyone. Overturning Roe didn't save a single soul. Heartbeat bills don't regenerate hearts. The answer to abortion is the same answer as every other sin in this chapter: Christ. The gospel. Present the truth softly and wait on the Lord.
 
-I would hold a weeping woman who had an abortion and tell her Christ already covered it. Without a single political bumper sticker. Without a single word of condemnation. Because the Pharisee in Luke 18 thanked God that he wasn't like the publican, and the publican went home justified.
+I would hold a weeping woman who had an abortion and tell her Christ already covered it, without a single political bumper sticker, without a single word of condemnation, because the Pharisee in Luke 18 thanked God that he wasn't like the publican, and the publican went home justified.
 
 ## Homosexuality
 
@@ -98,9 +98,9 @@ This is too honest for most conservatives. They want to call it a choice because
 
 The Reformed tradition invented "secondary causes" to create a gap between God and the act, the same way they invented "permission" to create a gap between God and evil. Both are attempts to get God off the hook. Both fail for the same reason: in operational idealism, there IS no gap between the thought and the rendering. The rendering IS the thought expressed. The creature doesn't act independently of the decree. The creature IS the decree in action.
 
-And yet the creature is judged. Not because the creature is an independent agent who chose freely. Because the creature IS the nature. The creature doesn't have a nature; the creature IS the nature, rendered into the physical world. The creature sins because the creature was authored to sin. And God judges the sin because judging it is also part of the decree. The Author authored the villain, the crime, and the verdict. All one thought. All one act. The pot and the potter. The character and the Author. The sin is real, and the authorship is sovereign.
+And yet the creature is judged, not because the creature is an independent agent who chose freely, but because the creature IS the nature. The creature doesn't have a nature; the creature IS the nature, rendered into the physical world. The creature sins because the creature was authored to sin. And God judges the sin because judging it is also part of the decree. The Author authored the villain, the crime, and the verdict. All one thought. All one act. The pot and the potter. The character and the Author. The sin is real, and the authorship is sovereign.
 
-And here is the other thing the church needs to hear, and it's going to sting: the church that obsesses over homosexuality while ignoring pride is the Pharisee in Luke 18. The preacher who spends forty-five minutes on Romans 1 and zero minutes on Romans 2 has read half the letter. Because Romans 2 turns the spotlight back on the person doing the judging:
+And here is the other thing the church needs to hear, and it's going to sting: the church that obsesses over homosexuality while ignoring pride is the Pharisee in Luke 18. The preacher who spends forty-five minutes on Romans 1 and zero minutes on Romans 2 has read half the letter, because Romans 2 turns the spotlight back on the person doing the judging:
 
 *"Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things."* (Romans 2:1)
 
@@ -118,7 +118,7 @@ The real danger in the church is not the sins everyone talks about. It's the sin
 
 Pride is the one sin that disguises itself as virtue. Every other sin knows it's a sin. The thief knows he's stealing. The adulterer knows he's sinning. The murderer knows what he's done. But the proud man thinks he's righteous. He mistakes his self-righteousness for holiness and his judgment for discernment. And that's what makes pride the most dangerous sin in the pew, not because it's worse in some cosmic hierarchy, but because it's the one sin that convinces you that you don't have it.
 
-The Pharisees were the proudest men in Israel and the most doctrinally rigorous. They tithed on their garden herbs. They fasted twice a week. They memorized the law and debated its finest points. And Christ called them whitewashed tombs full of dead men's bones (Matthew 23:27). Not because their doctrine was wrong. Because their hearts were rotten. Their doctrine was impeccable and their pride was bottomless, and they couldn't see the contradiction because the pride had blinded them to it.
+The Pharisees were the proudest men in Israel and the most doctrinally rigorous. They tithed on their garden herbs. They fasted twice a week. They memorized the law and debated its finest points. And Christ called them whitewashed tombs full of dead men's bones (Matthew 23:27), not because their doctrine was wrong, but because their hearts were rotten. Their doctrine was impeccable and their pride was bottomless, and they couldn't see the contradiction because the pride had blinded them to it.
 
 And I've been that man. I've been the sovereign grace Calvinist who was so *right* about the doctrines of grace that I was wrong about everything else. I was right about sovereignty, and I was wrong about love. I was right about predestination, and I was wrong about compassion. I was right that the truth mattered, and I was wrong that my way of holding the truth was the only way that counted. I was, as I said years ago on Pristine Grace, so right that I was *wrong*. And the pride monster was the last sin I noticed, because it was the one wearing a suit and tie and quoting Romans 9.
 
@@ -136,7 +136,7 @@ God ordained the crucifixion. It was the worst act in human history, the murder 
 
 Determinate counsel *and* wicked hands. God ordained it, and the hands were still wicked. Ordination and moral approval are not the same thing. God ordains sin for His purposes. He does not approve of the sin. He uses the sin. He authors it for a larger story. But the sin, within the story, is still sin. The character who commits murder in the novel is still a murderer, even though the Author wrote the scene.
 
-So we present the truth. We say what the Scripture says. We call sin sin. We hold homosexuality as sin, we hold abortion as sin, we hold pride as sin, we hold self-righteousness as sin. And we present the truth softly. We don't force it. We don't legislate regeneration. We don't mistake the courthouse for the cross. We say what's true, and we wait on the Lord. Because the Author already knows who's going to hear it, and our job is not to change anyone's nature. Our job is to present the truth and let the Spirit do what only the Spirit can do.
+So we present the truth. We say what the Scripture says. We call sin sin. We hold homosexuality as sin, we hold abortion as sin, we hold pride as sin, we hold self-righteousness as sin. And we present the truth softly. We don't force it. We don't legislate regeneration. We don't mistake the courthouse for the cross. We say what's true, and we wait on the Lord, because the Author already knows who's going to hear it, and our job is not to change anyone's nature. Our job is to present the truth and let the Spirit do what only the Spirit can do.
 
 ## Objections and Answers
 

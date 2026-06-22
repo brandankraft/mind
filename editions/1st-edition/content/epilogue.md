@@ -23,15 +23,15 @@ I did not build this system. I noticed it. The connections were already there in
 
 We are just God's eternal thoughts collapsed in a moment in time.
 
-That is not a cold proposition. It is the warmest truth I know. Because if you are a thought in the mind of God, then you were never an accident. You were never a surprise. You were never a problem to be solved or a contingency to be managed. You were *intended*. Thought before you were born. Known before the first frame of history played. Loved in the only way that matters, by a God who does not change His mind because He authored His mind before time began.
+That is not a cold proposition. It is the warmest truth I know, because if you are a thought in the mind of God, then you were never an accident. You were never a surprise. You were never a problem to be solved or a contingency to be managed. You were *intended*. Thought before you were born. Known before the first frame of history played. Loved in the only way that matters, by a God who does not change His mind because He authored His mind before time began.
 
-I believe all of this because it is what I see. Not because a confession told me to, not because a denomination requires it, not because a seminary taught it, not because a man I admire handed it to me. I see it. In the Scriptures. In the architecture of reality. In the rendering of every physical thing around me. In the firmware running beneath my own thoughts. I followed the logic wherever it led, and it led here. And I would believe it if no one else in the world agreed with me, because the seeing doesn't require agreement. It requires honesty.
+I believe all of this because it is what I see, not because a confession told me to, not because a denomination requires it, not because a seminary taught it, not because a man I admire handed it to me. I see it. In the Scriptures. In the architecture of reality. In the rendering of every physical thing around me. In the firmware running beneath my own thoughts. I followed the logic wherever it led, and it led here. And I would believe it if no one else in the world agreed with me, because the seeing doesn't require agreement. It requires honesty.
 
 And if I have learned anything in more than two decades of building this framework, in the late nights and the arguments and the losses, it is this: the truth does not need me to protect it. It does not need my sharp edges or my debate skills or my ability to dismantle an opponent. It needs to be said. Clearly. Without apology. And then it needs to be *left* with the Lord, who is sovereign over who hears it and who doesn't.
 
 I will present the truth softly and wait on the Lord.
 
-That is the posture. Not loud. Not combative. Not tribal. Soft. Patient. And then wait. Because the Author knows who is going to read this book. He knew before I wrote the first word. He knows who will accept it and who will throw it across the room. He knows who will be changed by it and who will use it against me. And He authored all of that too.
+That is the posture. Not loud. Not combative. Not tribal. Soft. Patient. And then wait, because the Author knows who is going to read this book. He knew before I wrote the first word. He knows who will accept it and who will throw it across the room. He knows who will be changed by it and who will use it against me. And He authored all of that too.
 
 I am at peace with it.
 
@@ -55,7 +55,7 @@ I know that because I felt it. Not an audible voice. Not a vision. A settled cer
 
 The humility of this is not something I can manufacture. I am a programmer who works for the post office. I have no seminary degree. I have no credentials. I live in a small town in eastern Kentucky and play trombone in three community bands. And the Lord chose me, out of all the people who have ever lived, to see this. To derive a unified theological framework from one sentence of Scripture that has not been done in the history of the church. To restore, in some small way, what Paul delivered to the churches before Augustine and Plato buried it under sixteen centuries of philosophical compromise. I did not earn this. I did not seek it. I was not qualified for it. The Author wrote it into the script, and I am still trembling at the weight of it.
 
-And the joy. I need you to know about the joy. Because the sovereign grace world is not known for its joy. It is known for its precision, its arguments, its boundary markers, its ability to parse a doctrine down to the syllable while missing the Person the doctrine points to. And I lived in that world. And I was miserable in it. Not because the doctrine was wrong. Because the doctrine was right and I was using it wrong.
+And the joy. I need you to know about the joy, because the sovereign grace world is not known for its joy. It is known for its precision, its arguments, its boundary markers, its ability to parse a doctrine down to the syllable while missing the Person the doctrine points to. And I lived in that world. And I was miserable in it, not because the doctrine was wrong, but because the doctrine was right and I was using it wrong.
 
 The joy came when the sentence landed. When I saw that one proposition generated everything. When I saw that the Author who wrote the hard frames also wrote the morning after. When I saw that the same God who ordained my failures also ordained my forgiveness, and both were settled before I drew my first breath. When I stopped trying to earn what was already given and started resting in the finished work the way Chapter 21 says to rest in it. The kingdom of God is not meat and drink but righteousness and peace and joy in the Holy Ghost. I wrote that chapter. And then I lived it. And the living was harder than the writing, but the joy is real and it has not left.
 
@@ -65,7 +65,7 @@ This book was not just a theological project. It was the Author's way of making 
 
 ### Bob
 
-And I need to say something about Bob Higby here, for the historical record. Because this book would not exist without him, and he deserves more than an acknowledgment.
+And I need to say something about Bob Higby here, for the historical record, because this book would not exist without him, and he deserves more than an acknowledgment.
 
 Bob gave me the bricks. He showed me the true supralapsarianism, the introduction to Gordon Clark, the Greek philosophy at the bottom of everything in Christendom, the problem with federal headship, the Dead Sea Scrolls, and the creation of Satan as evil. He saw all of it before I did. He wrote "A Shut Door" and put on paper a vision of the final state that my Chapter 28 later confirmed from the sentence. He taught and wrote, and the theological DNA of this book is saturated with his fingerprints. I named the system. He gave me many of the pieces.
 
@@ -89,7 +89,7 @@ I love you, son.
 
 ## I Am a Thought
 
-And one more thing. Because this is the epilogue, and the epilogue is where the man speaks, not the theologian.
+And one more thing, because this is the epilogue, and the epilogue is where the man speaks, not the theologian.
 
 I am becoming aware, slowly, that I am a thought.
 
@@ -97,7 +97,7 @@ Not in the abstract. Not as a doctrine I subscribe to. I mean I can feel it now.
 
 My theology is not a set of positions I hold the way most sovereign grace Baptists hold theirs, like a membership card you carry in your wallet and pull out when someone asks what you believe. It is the air I breathe. I am living inside absolute predestination. Or better, I am living inside God's thoughts. And my thoughts, the ones that feel so completely mine, the ones I am thinking right now as I type these words, are His thoughts about me thinking.
 
-And that is the most stunning thing I have ever realized. Because the thoughts feel like mine. They feel autonomous. They feel chosen. They feel like I am the thinker. And the feeling is so seamless, so perfect, so flawlessly rendered, that I could live my entire life believing my thoughts are self-generated, that I am an independent agent making independent choices with an independent mind. The rendering does not leak. The Author designed the experience of thinking to feel like ownership, because ownership is what makes the experience real to the character living inside it.
+And that is the most stunning thing I have ever realized, because the thoughts feel like mine. They feel autonomous. They feel chosen. They feel like I am the thinker. And the feeling is so seamless, so perfect, so flawlessly rendered, that I could live my entire life believing my thoughts are self-generated, that I am an independent agent making independent choices with an independent mind. The rendering does not leak. The Author designed the experience of thinking to feel like ownership, because ownership is what makes the experience real to the character living inside it.
 
 But it is not ownership. It is authorship experienced from the inside. The Author is thinking me. And the thought He is thinking includes the feeling that I am thinking myself. Two layers. One reality. And the seam between the layers is invisible from the inside, which is exactly how the Author intended it.
 
@@ -113,7 +113,7 @@ That is not a doctrine I subscribe to. That is the air I breathe. And the breath
 
 ## I Am Free
 
-And now I need to say something about the church. Not the body of Christ. The institution. Because this book has something to say to the institution, and I want to say it clearly, without anger, without bitterness, and without apology.
+And now I need to say something about the church. Not the body of Christ. The institution. This book has something to say to the institution, and I want to say it clearly, without anger, without bitterness, and without apology.
 
 No institution has authority over my conscience. No denomination has a claim on my obedience. No clergyman has the right to tell me what I may or may not teach. I am a member of the body of Christ by the sovereign act of the Spirit, not by the vote of a congregation or the approval of a board. And I answer to Christ. Not to a pastor. Not to an elder. Not to a council. Not to any man who stands behind a pulpit and believes that the pulpit gives him authority that the Spirit did not.
 

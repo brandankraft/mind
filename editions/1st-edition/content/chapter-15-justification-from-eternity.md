@@ -12,7 +12,7 @@ Not in the abstract. In the gut. I would lay in bed at night and feel the weight
 
 And I believed it. Most of the sovereign grace world believes it right now.
 
-But it's wrong. And it's not a minor error. It's one of those errors that sits at the foundation and cracks everything built on top of it. Because if you get the *when* of justification wrong, you get the *nature* of justification wrong. And if you get the nature wrong, you end up with a gospel that isn't actually good news. You end up with a God who changed His mind about you at some point in history. A God who was angry and then stopped being angry. A God whose disposition toward you depended on an event in time.
+But it's wrong. And it's not a minor error. It's one of those errors that sits at the foundation and cracks everything built on top of it, because if you get the *when* of justification wrong, you get the *nature* of justification wrong. And if you get the nature wrong, you end up with a gospel that isn't actually good news. You end up with a God who changed His mind about you at some point in history. A God who was angry and then stopped being angry. A God whose disposition toward you depended on an event in time.
 
 The framework doesn't allow that. And Scripture doesn't teach it.
 
@@ -28,7 +28,7 @@ Not "will not impute" at some future date. Not "stopped imputing" after the cros
 
 *"He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel."* (Numbers 23:21)
 
-Balaam said this. A pagan prophet, hired to curse Israel, and God put these words in his mouth instead. He hath *not beheld* iniquity. He hath *not seen* perverseness. Not because Jacob was sinless. Jacob was a liar and a schemer. But God didn't see the sin when He looked at Jacob. He saw the righteousness of Christ, imputed from eternity, covering Jacob before Jacob ever drew breath.
+Balaam said this, a pagan prophet hired to curse Israel, and God put these words in his mouth instead. He hath *not beheld* iniquity. He hath *not seen* perverseness, not because Jacob was sinless. Jacob was a liar and a schemer. But God didn't see the sin when He looked at Jacob. He saw the righteousness of Christ, imputed from eternity, covering Jacob before Jacob ever drew breath.
 
 And here is the verse that ties it all together:
 
@@ -103,7 +103,7 @@ The order is the theology. The same five names appear in every column. Where the
 
 Predestinated unto adoption. Not "adopted at conversion." Not "adopted when you said the sinner's prayer." Predestinated. From eternity.
 
-The elect were always God's children. The experience of adoption in time -- knowing the Father, crying "Abba, Father" (Romans 8:15)[^c15-abba] -- is the rendering of what was always true. And the parable of the prodigal son is the most beautiful illustration of this in all of Scripture.
+The elect were always God's children. The experience of adoption in time, knowing the Father and crying "Abba, Father" (Romans 8:15)[^c15-abba], is the rendering of what was always true. And the parable of the prodigal son is the most beautiful illustration of this in all of Scripture.
 
 The prodigal was always a son. Even in the pig pen. Even while spending his inheritance on harlots. Even while feeding swine and longing to eat what the pigs were eating. He was his father's son. He didn't become a son when he came home. He came home *because* he was a son. The father didn't adopt him at the door. The father ran to him because he had never stopped being his.
 

@@ -6,7 +6,7 @@ part: I -- The Foundation
 
 # Chapter 5: The Decrees -- Supralapsarianism
 
-I used to wince at the word *supralapsarianism*[^c5-supra]. Not because I didn't believe it, but because I knew that the moment I said it, the conversation was over for most people. Their eyes glazed over. Or worse, they assumed I was one of those cold, hard theologians who gets excited about damnation the way other people get excited about football. And I understood the reaction. The word is intimidating, and the doctrine it describes is even more so.
+I used to wince at the word *supralapsarianism*[^c5-supra], not because I didn't believe it, but because I knew that the moment I said it, the conversation was over for most people. Their eyes glazed over. Or worse, they assumed I was one of those cold, hard theologians who gets excited about damnation the way other people get excited about football. And I understood the reaction. The word is intimidating, and the doctrine it describes is even more so.
 
 But here's the thing. You don't need the word to understand the idea. And the idea is not complicated. It's actually one of the simplest and most elegant observations in all of theology. Gordon Clark said it better than anyone:[^c5-clark]
 
@@ -52,7 +52,7 @@ Bob Higby laid out the distinction between selection and election in a compariso
 
 The infralapsarian escape hatch is the word *permission*. God *permitted* the fall. God *permitted* evil. God *allowed* sin to enter the world. These phrases are designed to maintain God's sovereignty while protecting Him from the charge of authoring evil.
 
-But they don't work. Because permission, in this context, is just sovereignty with plausible deniability. If God knew that the fall would happen, and had the power to prevent it, and *chose not to prevent it*, then He authored the fall. Calling it "permission" doesn't change the outcome. It just gives God an alibi.
+But they don't work, because permission, in this context, is just sovereignty with plausible deniability. If God knew that the fall would happen, and had the power to prevent it, and *chose not to prevent it*, then He authored the fall. Calling it "permission" doesn't change the outcome. It just gives God an alibi.
 
 And God doesn't need an alibi. He never asked for one. He told us plainly:
 
@@ -100,7 +100,7 @@ And the men who hid their scrolls in the caves above the Dead Sea had already wr
 
 *The numbered seasons of eternal years in all their appointed times.* That is the decree, named in a desert hymn. Every season counted, every year numbered, every frame appointed before the years began. They read the Hebrew Scriptures and landed where this chapter lands, and there was no Reformation between them and the text to argue them into it. See Appendix F for the fuller witness.
 
-This is a terrifying truth if you stop at sovereignty. But it's the most comforting truth in the universe if you add the word from Chapter 1: *love*. Because the same God who authors every event, including the hard ones, does so within the context of a personal covenant of love with His people. He's not a blind force rolling over the universe. He's a Father who knows you by name, who wrote your story from the end to the beginning, and who planned every frame of your filmstrip to bring you to the glory He already sees.
+This is a terrifying truth if you stop at sovereignty. But it's the most comforting truth in the universe if you add the word from Chapter 1: *love*, because the same God who authors every event, including the hard ones, does so within the context of a personal covenant of love with His people. He's not a blind force rolling over the universe. He's a Father who knows you by name, who wrote your story from the end to the beginning, and who planned every frame of your filmstrip to bring you to the glory He already sees.
 
 ## MCT: The Only True Supralapsarian System
 
@@ -108,7 +108,7 @@ I need to say this plainly, because it's one of the most important claims in thi
 
 Most Calvinists who call themselves supralapsarian are not. Not consistently. They'll affirm that God's decree of election precedes the decree to create and permit the fall. But when you press them on the details, they revert to infralapsarian reasoning on the origin of evil, on the nature of the reprobate, on the relationship between God and sin. They'll say God is supralapsarian in His *decrees* but infralapsarian in His *execution*. Which is like saying you planned the trip from the destination backwards but drove from the starting point forwards. Of course you did. The execution is always left-to-right. But the *planning* is right-to-left. And if your planning is inconsistent, your theology will be too.
 
-I need to explain where the name comes from, because you won't find "Modified Covenant Theology" in any textbook. I coined it. Around 2004, after years of studying Scripture and talking with Bob Higby, I realized that no existing theological system contained everything I believed. Covenant Theology came closest, but it required federal headship, which I rejected. New Covenant Theology moved in the right direction on some points, but it didn't go far enough on justification from eternity or the end of the law. Dispensationalism[^c5-dispens] divided God's dealings into time periods, which made no sense if God is outside of time. And none of them were truly supralapsarian. None of them followed the logic all the way to where it leads. So I took the bones of Covenant Theology, stripped out everything that didn't survive the test of Scripture, built in what I had learned from Bob on the two seeds, the Dead Sea Scrolls, and the sovereignty of God over evil, and I gave it a name. Modified Covenant Theology. Not because I modified someone else's system. Because I took the best framework available and modified it until it was honest.
+I need to explain where the name comes from, because you won't find "Modified Covenant Theology" in any textbook. I coined it. Around 2004, after years of studying Scripture and talking with Bob Higby, I realized that no existing theological system contained everything I believed. Covenant Theology came closest, but it required federal headship, which I rejected. New Covenant Theology moved in the right direction on some points, but it didn't go far enough on justification from eternity or the end of the law. Dispensationalism[^c5-dispens] divided God's dealings into time periods, which made no sense if God is outside of time. And none of them were truly supralapsarian. None of them followed the logic all the way to where it leads. So I took the bones of Covenant Theology, stripped out everything that didn't survive the test of Scripture, built in what I had learned from Bob on the two seeds, the Dead Sea Scrolls, and the sovereignty of God over evil, and I gave it a name: Modified Covenant Theology, not because I modified someone else's system, but because I took the best framework available and modified it until it was honest.
 
 | | CT | NCT | Dispensationalism | MCT |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ The charge assumes all humans are the same. They're not. The elect and reprobate
 
 **"If God authored everything, we're just puppets."**
 
-Puppets don't have experiences. Characters in a novel do. The character's joy is real. The character's grief is real. The character's faith is real. The fact that the Author wrote it doesn't make it less real. It makes it *more* real, because it means the experience was intentional. God didn't accidentally give you that moment of assurance. He wrote it. On purpose. For you. Because He loves you.
+Puppets don't have experiences. Characters in a novel do. The character's joy is real. The character's grief is real. The character's faith is real. The fact that the Author wrote it doesn't make it less real. It makes it *more* real, because it means the experience was intentional. God didn't accidentally give you that moment of assurance. He wrote it. On purpose. For you. He loves you.
 
 ## For Further Study
 

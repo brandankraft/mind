@@ -10,7 +10,7 @@ If I had to determine whether I was a Christian based on my works, I'd have to c
 
 And I mean that. Not as false humility. Not as a devotional cliche designed to sound pious while secretly trusting that my life is actually pretty good. I mean it as a plain statement of fact. If the test is my behavior, my thought life, my consistency, my follow-through on every good intention I've ever had, I fail. Spectacularly. Regularly. And not in the vague, generic sense where someone says "we're all sinners" while mentally exempting themselves from the really bad stuff. I know what's in my head. I know what's in my heart. And if that's the evidence, the verdict is guilty.
 
-But the verdict was already delivered. And it was "not guilty." Before the foundation of the world. Before I drew my first breath or committed my first sin or even existed as a conscious being. The Father looked at me in Christ and saw perfection. Not my perfection. Christ's. And that hasn't changed. Not because I've gotten better. Because *He* finished the work.
+But the verdict was already delivered. And it was "not guilty." Before the foundation of the world. Before I drew my first breath or committed my first sin or even existed as a conscious being. The Father looked at me in Christ and saw perfection. Not my perfection. Christ's. And that hasn't changed, not because I've gotten better, but because *He* finished the work.
 
 And that means the kingdom of God is a party, not a burden.
 
@@ -72,9 +72,9 @@ Because the gospel is at stake. When you impose rules on believers that the gosp
 
 *"I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel."* (Galatians 1:6)
 
-Another gospel. Not the gospel modified. Not the gospel with a few extra requirements. *Another* gospel. And Paul pronounces an anathema on anyone who preaches it: *"let him be accursed"* (Galatians 1:8). Twice, in consecutive verses, he says it. Because the stakes are that high.
+Another gospel. Not the gospel modified. Not the gospel with a few extra requirements. *Another* gospel. And Paul pronounces an anathema on anyone who preaches it: *"let him be accursed"* (Galatians 1:8). Twice, in consecutive verses, he says it, because the stakes are that high.
 
-So when someone tells you that you need to keep the Sabbath to be a faithful Christian, rebuke them. When someone tells you that you need to tithe or God will curse your finances, rebuke them. When someone tells you that you need to dress a certain way, vote a certain way, educate your children a certain way, attend a certain number of services per week, abstain from alcohol, observe Lent, fast on Fridays, or any other human regulation not demanded by the gospel, rebuke them. Not because those things are inherently wrong. Some of them are fine. But the moment they become *requirements*, the moment they become conditions of faithfulness, the moment they are imposed on the conscience of a free believer, they become the yoke of bondage that Christ died to break.
+So when someone tells you that you need to keep the Sabbath to be a faithful Christian, rebuke them. When someone tells you that you need to tithe or God will curse your finances, rebuke them. When someone tells you that you need to dress a certain way, vote a certain way, educate your children a certain way, attend a certain number of services per week, abstain from alcohol, observe Lent, fast on Fridays, or any other human regulation not demanded by the gospel, rebuke them, not because those things are inherently wrong. Some of them are fine. But the moment they become *requirements*, the moment they become conditions of faithfulness, the moment they are imposed on the conscience of a free believer, they become the yoke of bondage that Christ died to break.
 
 ## Assurance
 
@@ -86,7 +86,7 @@ But assurance doesn't rest on my fruit. It rests on Christ's finished work.
 
 *"Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ."* (Philippians 1:6)
 
-*He* began the work. *He* will finish it. My confidence is in His performance, not mine. My assurance is in His righteousness imputed to me, not in my righteousness produced by me. And the moment you move the foundation of assurance from Christ's work to your own, you have destroyed it. Because no honest person can look at their own works and conclude with confidence that they belong to God.
+*He* began the work. *He* will finish it. My confidence is in His performance, not mine. My assurance is in His righteousness imputed to me, not in my righteousness produced by me. And the moment you move the foundation of assurance from Christ's work to your own, you have destroyed it, because no honest person can look at their own works and conclude with confidence that they belong to God.
 
 *"For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."* (Ephesians 2:8-9)
 
@@ -122,7 +122,7 @@ Prayer isn't changing God's mind. It's participating in the story He's writing. 
 
 *"Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus."* (Philippians 4:6-7)
 
-Paul doesn't say "make your requests known to God so He'll change His plans." He says make your requests known, and *peace* will follow. The peace doesn't come because God adjusted the decree. The peace comes because you talked to your Father. Because you poured out your heart to someone who loves you and who already had the answer before you asked the question. The prayer is the means God uses to bring you into the experience of His sovereignty. Not to alter it. To rest in it.
+Paul doesn't say "make your requests known to God so He'll change His plans." He says make your requests known, and *peace* will follow. The peace doesn't come because God adjusted the decree. The peace comes because you talked to your Father, because you poured out your heart to someone who loves you and who already had the answer before you asked the question. The prayer is the means God uses to bring you into the experience of His sovereignty. Not to alter it. To rest in it.
 
 ## Holy Days and the Christian Calendar
 
@@ -138,7 +138,7 @@ And Colossians removes any remaining ambiguity:
 
 *"Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days: Which are a shadow of things to come; but the body is of Christ."* (Colossians 2:16-17)
 
-Let no man judge you. Not "let no man judge you unless it's Christmas." Let no man judge you in respect of ANY holy day. Because holy days are shadows. And the body, the substance, is Christ. The substance precedes the ceremony (Chapter 10). The invisible precedes the visible. Christ is the reality that every holy day was pointing to. And now that the reality has arrived, the shadow is a matter of conscience, not commandment.
+Let no man judge you. Not "let no man judge you unless it's Christmas." Let no man judge you in respect of ANY holy day, because holy days are shadows. And the body, the substance, is Christ. The substance precedes the ceremony (Chapter 10). The invisible precedes the visible. Christ is the reality that every holy day was pointing to. And now that the reality has arrived, the shadow is a matter of conscience, not commandment.
 
 Christmas celebrates the incarnation. The framework celebrates the incarnation in Chapter 6. If a believer wants to set aside December 25 to remember that the Author stepped into His own story, that is liberty. If another believer treats December 25 as any other day because every day celebrates the incarnation, that is also liberty. Both are right. Both are free. Both are serving the Lord in their own conscience.
 
@@ -162,7 +162,7 @@ And Peter says the same thing:
 
 *"Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel; But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price."* (1 Peter 3:3-4)
 
-The ornament of a meek and quiet spirit. That's what God sees. Not the hemline. Not the neckline. The heart. The substance is humility. The rendering is what you wear. And the rendering varies by culture, century, and context. A woman in first-century Corinth and a woman in twenty-first-century Kentucky will dress differently. Both can be modest. Both can be immodest. Because modesty is the heart's posture toward display, not a measurement in inches.
+The ornament of a meek and quiet spirit. That's what God sees. Not the hemline. Not the neckline. The heart. The substance is humility. The rendering is what you wear. And the rendering varies by culture, century, and context. A woman in first-century Corinth and a woman in twenty-first-century Kentucky will dress differently. Both can be modest. Both can be immodest, because modesty is the heart's posture toward display, not a measurement in inches.
 
 The church that turns modesty into a dress code has made the same error this book attacks in every other domain: putting the ceremony before the covenant. Making the visible the cause of the invisible. A dress code produces conformity. The Spirit produces modesty. And the two are not the same thing.
 
@@ -202,7 +202,7 @@ Fatalism says "nothing matters, so do nothing." Sovereignty says "everything mat
 
 **"You said 'believe in Jesus and do as you please'; Augustine said it first."**
 
-He did. "Love God and do what you will."[^c21-augustine] And Augustine was right about that one, even if he got other things wrong. The principle is simple: if you truly love God, your will is aligned with His. What you please to do is what He pleases for you to do. Not perfectly -- not in this life. But the trajectory is His. The desire is His. The engine that drives the obedience is love, not legislation. And a person driven by love will always outperform a person driven by law. Because love doesn't get tired. Law always does.
+He did. "Love God and do what you will."[^c21-augustine] And Augustine was right about that one, even if he got other things wrong. The principle is simple: if you truly love God, your will is aligned with His. What you please to do is what He pleases for you to do. Not perfectly, not in this life. But the trajectory is His. The desire is His. The engine that drives the obedience is love, not legislation. And a person driven by love will always outperform a person driven by law, because love doesn't get tired. Law always does.
 
 ## For Further Study
 

@@ -51,7 +51,7 @@ Rain on the wicked is not grace. It is common bounty, the sustaining of the stag
 
 ## Solus Christus -- Christ Alone, Not Christ Plus the Moral Law
 
-The Reformers said *Solus Christus* and then kept the moral law as a binding rule for believers. The "third use of the law" survived the Reformation intact, smuggled through in every major confession. The believer is justified by Christ but guided by the Decalogue. The cross saves but the law rules. Christ is the Savior but Moses is the daily guide.
+The Reformers said *Solus Christus* and then kept the moral law as a binding rule for believers. The "third use of the law" survived the Reformation intact, carried through in every major confession. The believer is justified by Christ but guided by the Decalogue. The cross saves but the law rules. Christ is the Savior but Moses is the daily guide.
 
 This book says: the believer is dead to ALL the law (Chapter 20). Not just the ceremonial law. Not just the civil law. All of it. The moral law included. The Ten Commandments included. *"Ye also are become dead to the law by the body of Christ"* (Romans 7:4). Christ is the rule, not the law. The love of Christ constrains (2 Corinthians 5:14), not the written code.
 

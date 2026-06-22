@@ -8,7 +8,7 @@ part: VI -- The Life
 
 I wrote an article on Modified Covenant Theology for pristinegrace.org around 2004. I was twenty-nine years old. And in that article, I made a claim that I didn't fully understand the implications of at the time. I said that Colossians 2:11-12 was about Spirit baptism, not water baptism. That the circumcision "made without hands" was the circumcision of the heart. And that the sign of the New Covenant wasn't water. It was the Spirit.
 
-I wrote it more than two decades before the unified field theory had a name. And now, sitting here in my fifties, building this framework one chapter at a time, I find that my younger self was right. Not because I was particularly brilliant in my late twenties. Because the text says what it says. And I was stubborn enough to let it say it.
+I wrote it more than two decades before the unified field theory had a name. And now, sitting here in my fifties, building this framework one chapter at a time, I find that my younger self was right, not because I was particularly brilliant in my late twenties, but because the text says what it says. And I was stubborn enough to let it say it.
 
 This chapter is about the most contested ordinance in the history of the church. And I'm going to make both sides angry. Which, at this point in the book, should surprise no one.
 
@@ -79,7 +79,7 @@ Water baptism is commanded. The apostles practiced it. Jesus Himself was baptize
 
 What I'm arguing against is making it *more* than it is.
 
-Water baptism is a general command, not a covenantal sign with sanctions. There is no passage in the New Testament that prescribes a penalty for failing to be baptized in water. There is no passage that says the unbaptized believer is outside the covenant. There is no passage that says water baptism is what brings you into the body of Christ. The silence on sanctions is significant. Compare it to circumcision under the Abrahamic covenant: *"And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant"* (Genesis 17:14). There's a sanction. There's a penalty. There's a consequence for non-compliance. Water baptism has nothing equivalent. Because it's not the covenantal sign. The Spirit is.
+Water baptism is a general command, not a covenantal sign with sanctions. There is no passage in the New Testament that prescribes a penalty for failing to be baptized in water. There is no passage that says the unbaptized believer is outside the covenant. There is no passage that says water baptism is what brings you into the body of Christ. The silence on sanctions is significant. Compare it to circumcision under the Abrahamic covenant: *"And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant"* (Genesis 17:14). There's a sanction. There's a penalty. There's a consequence for non-compliance. Water baptism has nothing equivalent, because it's not the covenantal sign. The Spirit is.
 
 And because it's not the covenantal sign, the *mode* of water baptism is a matter of conscience.
 
@@ -147,7 +147,7 @@ The following passages speak to the themes of this chapter and are commended to 
 
 **Against baptismal regeneration -- the thief on the cross and salvation without ceremony:** Luke 23:42-43; John 4:2; John 3:5-8; Acts 10:44-47; Acts 15:8-9; Rom. 4:9-12; 1 Cor. 1:14-17; 1 Cor. 4:15.
 
-**No prescribed sanctions for failing to receive water baptism:** Gen. 17:14 (sanctions for non-circumcision under the Abrahamic covenant -- compare with the absence of any equivalent penalty in New Testament texts on water baptism).
+**No prescribed sanctions for failing to receive water baptism:** Gen. 17:14 (sanctions for non-circumcision under the Abrahamic covenant; compare with the absence of any equivalent penalty in New Testament texts on water baptism).
 
 **The sign pointing to the reality, not replacing it:** Heb. 9:9-10; Heb. 10:1; Col. 2:16-17; Rom. 2:28-29; 1 Sam. 16:7; Isa. 1:11-17; Mic. 6:6-8; Matt. 9:13; Hos. 6:6.
 

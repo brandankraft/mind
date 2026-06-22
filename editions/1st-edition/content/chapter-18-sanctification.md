@@ -6,7 +6,7 @@ part: V -- Salvation
 
 # Chapter 18: Sanctification -- Positional, Not Progressive
 
-I need to confess something before I make the argument in this chapter. Because what I'm about to say goes against what nearly every systematic theology in the history of the church has taught, and I don't want anyone to think I arrived here lightly.
+I need to confess something before I make the argument in this chapter, because what I'm about to say goes against what nearly every systematic theology in the history of the church has taught, and I don't want anyone to think I arrived here lightly.
 
 I spent years believing in progressive sanctification. I taught it. I assumed it. I never questioned it. The idea that Christians gradually become more holy over time, that they climb an invisible ladder of moral improvement, that they measurably sin less in year ten than they did in year one, it was just part of the furniture. Everyone I read taught it. The Puritans taught it. The Reformed confessions teach it. Even the sovereign grace world that rejects almost everything else from the mainstream still holds to progressive sanctification as though it were carved in granite.
 
@@ -30,7 +30,7 @@ He chose us *that we should be holy*. Not "that we should become holy gradually 
 
 *"For by one offering he hath perfected for ever them that are sanctified."* (Hebrews 10:14)
 
-*Perfected for ever.* Not "placed on a trajectory toward perfection." Not "given the tools to progress toward holiness." *Perfected.* The tense is past, the work complete and done. For ever. The sanctified are already perfect in God's sight. Not because of anything they did. Because of one offering. One sacrifice. One act of obedience that accomplished everything.
+*Perfected for ever.* Not "placed on a trajectory toward perfection." Not "given the tools to progress toward holiness." *Perfected.* The tense is past, the work complete and done. For ever. The sanctified are already perfect in God's sight, not because of anything they did, but because of one offering, one sacrifice, one act of obedience that accomplished everything.
 
 And this is the critical point. Sanctification, like justification, is *positional* in the mind of God. God set His people apart from before the foundation of the world. Their holiness is Christ's holiness, imputed to them. Their perfection is Christ's perfection, credited to their account. And that position never changes. It does not fluctuate, improve, or diminish. It is as fixed as the decree that established it.
 
@@ -38,7 +38,7 @@ And this is the critical point. Sanctification, like justification, is *position
 
 *"But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption."* (1 Corinthians 1:30)
 
-Read that slowly. Christ is made unto us *sanctification*. Not "the helper toward sanctification," not "the power behind it," not "the model for it." Christ *is* the sanctification. Your holiness is not something you produce. It's something you *have*, because you have Christ. And if Christ is your sanctification, then you are as sanctified right now as you will ever be. Because Christ doesn't get more holy. His righteousness doesn't improve. His sacrifice doesn't become more effective over time. He is the same yesterday, today, and for ever (Hebrews 13:8). And if He is your sanctification, your sanctification is as unchanging as He is.
+Read that slowly. Christ is made unto us *sanctification*. Not "the helper toward sanctification," not "the power behind it," not "the model for it." Christ *is* the sanctification. Your holiness is not something you produce. It's something you *have*, because you have Christ. And if Christ is your sanctification, then you are as sanctified right now as you will ever be, because Christ doesn't get more holy. His righteousness doesn't improve. His sacrifice doesn't become more effective over time. He is the same yesterday, today, and for ever (Hebrews 13:8). And if He is your sanctification, your sanctification is as unchanging as He is.
 
 This is the difference between *positional* sanctification and *progressive* sanctification. Positional sanctification says your holiness is fixed in Christ. You are set apart. Done. The decree is eternal and the status is permanent. Progressive sanctification says your holiness is developing, growing, improving over time as you cooperate with the Spirit and practice obedience. One says your status is complete. The other says your status is under construction.
 
@@ -76,13 +76,13 @@ That's not progressive sanctification. That's a man who has grown so deeply in t
 
 If sanctification is positional and not progressive, and if Christians don't become incrementally more righteous over time, then what about good works? Why do Christians do good things at all?
 
-Because the Spirit moves them. Not because they're becoming holier. Because the Spirit, working through the new firmware, produces desires and inclinations that express themselves in love, patience, kindness, service, generosity, and all the other fruits that the world sees as "good works."
+They do good things because the Spirit moves them, not because they're becoming holier. The Spirit, working through the new firmware, produces desires and inclinations that express themselves in love, patience, kindness, service, generosity, and all the other fruits that the world sees as "good works."
 
 *"For it is God which worketh in you both to will and to do of his good pleasure."* (Philippians 2:13)
 
 As we established in Chapter 16, even the willing is firmware: the Spirit works at both layers, the deep desire and the visible act. Both come from God. Neither comes from the believer's independent effort to become more holy.
 
-And this means good works are *evidence* of regeneration, not *instruments* of sanctification. A tree that has been planted by the Lord produces fruit. Not because the tree is trying to become more tree-like. Because it IS a tree, and trees produce fruit. That's what they do. The fruit doesn't make the tree. The tree makes the fruit.
+And this means good works are *evidence* of regeneration, not *instruments* of sanctification. A tree that has been planted by the Lord produces fruit, not because the tree is trying to become more tree-like, but because it IS a tree, and trees produce fruit. That's what they do. The fruit doesn't make the tree. The tree makes the fruit.
 
 *"For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."* (Ephesians 2:10)
 
@@ -104,7 +104,7 @@ If you believe you're supposed to become more holy over time, you will either su
 
 And if you fail (if the sin doesn't decrease, if the struggles persist, if you find yourself at year thirty dealing with the same temptations as year one) you will despair. You will conclude that something is wrong with you. That you're not trying hard enough. That the Spirit isn't working in you. That maybe you're not really saved. And the despair will be invisible to the people around you, because you'll keep performing the external behaviors that look like progress while dying on the inside.
 
-Progressive sanctification produces Pharisees and broken people. Pride in those who think they're succeeding. Despair in those who know they're not. And both responses miss the Gospel entirely. Because the Gospel says your holiness is *Christ*. Not your improvement. Not your track record. Not your upward trajectory. Christ. And Christ is finished.
+Progressive sanctification produces Pharisees and broken people: pride in those who think they're succeeding, despair in those who know they're not. And both responses miss the Gospel entirely, because the Gospel says your holiness is *Christ*. Not your improvement. Not your track record. Not your upward trajectory. Christ. And Christ is finished.
 
 ## Objections and Answers
 
@@ -114,7 +114,7 @@ Yes. But pursuing holiness means pursuing *the knowledge of Christ*, not pursuin
 
 **"Without progressive sanctification, there's no reason for good works."**
 
-Because the Spirit moves you. Because a heart that knows grace doesn't need a law to compel it. Because when you understand what Christ has done, the response is love, not obligation. I know this feels unsettling. If you've been taught that good works are the evidence of salvation, removing the progressive framework can feel like removing the floor. And honestly, the question itself reveals the problem. "Why be good if I don't have to?" is the question of a person who sees good works as a burden to be avoided rather than a joy to be expressed. The regenerate person doesn't ask "why bother." The regenerate person asks "how can I not?"
+Because the Spirit moves you. A heart that knows grace doesn't need a law to compel it. When you understand what Christ has done, the response is love, not obligation. I know this feels unsettling. If you've been taught that good works are the evidence of salvation, removing the progressive framework can feel like removing the floor. And honestly, the question itself reveals the problem. "Why be good if I don't have to?" is the question of a person who sees good works as a burden to be avoided rather than a joy to be expressed. The regenerate person doesn't ask "why bother." The regenerate person asks "how can I not?"
 
 **"If Paul is perfected forever (Hebrews 10:14), his calling himself the chief of sinners (1 Timothy 1:15) is a flat contradiction."**
 

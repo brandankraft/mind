@@ -234,7 +234,7 @@ This book signs no confession. It belongs to no denomination. It operates within
 
 The framework does not replace these systems. It stands on their shoulders. Gill's eternal justification is here, Clark's presuppositionalism, Hoeksema's rejection of common grace. Even Berkhof's careful scholarship informs these pages, if only as the standard against which the framework measures itself.
 
-But the framework goes further than any of them. Not because the author is smarter. But because the sentence demands it. One sentence, followed honestly, produces positions that no camp would fully endorse. And the man who follows the sentence all the way to the end will find himself, like the author of this book, theologically homeless.
+But the framework goes further than any of them, not because the author is smarter, but because the sentence demands it. One sentence, followed honestly, produces positions that no camp would fully endorse. And the man who follows the sentence all the way to the end will find himself, like the author of this book, theologically homeless.
 
 Campless is not a complaint. It is the only honest place to stand when the truth doesn't fit inside any fence.
 
@@ -330,11 +330,11 @@ But Clark started with a book. The framework starts with reality. Clark assumed 
 
 The framework does not replace Clark. It stands on Clark's shoulders, uses Clark's method, and extends Clark's logic further than Clark himself was willing to go. Into the two seeds. Into the image of God. Into the law. Into eschatology. Into the bedroom. Into the simulation.
 
-Clark would have disagreed with much of this book. And the framework would have welcomed his objections. Because the system that invites criticism is the system that has nothing to hide. And the sharpest doctrine produces the widest arms, even for the man whose fortress you just walked out of.
+Clark would have disagreed with much of this book. And the framework would have welcomed his objections, because the system that invites criticism is the system that has nothing to hide. And the sharpest doctrine produces the widest arms, even for the man whose fortress you just walked out of.
 
 ### What Clarkians Will Object To -- And Why the Framework Holds {#objections-and-answers}
 
-The Clarkian reader who has made it this far deserves a direct conversation. Because I know what you're thinking. I know the objections forming in your mind, because I was trained by the same method you were. Here they are, stated as strongly as I can state them, with the answers that I believe hold.
+The Clarkian reader who has made it this far deserves a direct conversation, because I know what you're thinking. I know the objections forming in your mind, because I was trained by the same method you were. Here they are, stated as strongly as I can state them, with the answers that I believe hold.
 
 **"You abandoned the axiom. Without the Bible as the starting point, you have no foundation."**
 
@@ -354,4 +354,4 @@ The bridge does not compromise the axiom. The bridge extends the method. Clark's
 
 **"You're a Clarkian who went off the rails."**
 
-I'm a Clarkian who went further down the tracks. The rails are the same, the method, the presuppositionalism, the circularity. The insistence that the system must account for ALL of reality, that's Clark. The refusal to appeal to neutral ground, that's Clark. The willingness to follow the logic wherever it leads, even when the destination makes people uncomfortable, that's Clark to the bone. What I added was the ontology beneath the epistemology, the layers beneath the proposition, and the bridge to the world outside the fortress. Clark would have argued with me. He argued with everyone. But he would have recognized the method. And he would have read the book. Because Clark was never afraid of a system that invited criticism. That's the legacy. And the framework honors it by doing exactly what Clark taught: follow the logic. All the way. Even when nobody else will.
+I'm a Clarkian who went further down the tracks. The rails are the same, the method, the presuppositionalism, the circularity. The insistence that the system must account for ALL of reality, that's Clark. The refusal to appeal to neutral ground, that's Clark. The willingness to follow the logic wherever it leads, even when the destination makes people uncomfortable, that's Clark to the bone. What I added was the ontology beneath the epistemology, the layers beneath the proposition, and the bridge to the world outside the fortress. Clark would have argued with me. He argued with everyone. But he would have recognized the method. And he would have read the book, because Clark was never afraid of a system that invited criticism. That's the legacy. And the framework honors it by doing exactly what Clark taught: follow the logic. All the way. Even when nobody else will.

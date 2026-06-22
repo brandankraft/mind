@@ -22,7 +22,7 @@ In Chapter 11, we applied this to Adam. Adam sinned, therefore Adam was not perf
 
 Now apply the same logic to Satan.
 
-If Satan was a perfectly righteous angel who fell, then we have the same impossibility problem we had with Adam, but worse. Because Adam at least had a body, an environment, a physical temptation. The tree was "good for food" and "pleasant to the eyes" (Genesis 3:6). There was a sensory mechanism through which temptation could operate. But Satan, in the traditional narrative, was a disembodied spirit in the direct presence of God. No body. No sensory temptation. No serpent whispering in his ear. Just pure spirit in the full light of divine glory.
+If Satan was a perfectly righteous angel who fell, then we have the same impossibility problem we had with Adam, but worse, because Adam at least had a body, an environment, a physical temptation. The tree was "good for food" and "pleasant to the eyes" (Genesis 3:6). There was a sensory mechanism through which temptation could operate. But Satan, in the traditional narrative, was a disembodied spirit in the direct presence of God. No body. No sensory temptation. No serpent whispering in his ear. Just pure spirit in the full light of divine glory.
 
 And somehow, from that position, pride arose? From where? If Satan's nature was perfectly righteous, where did the pride come from? If his will was perfectly aligned with God, what turned it? You cannot get pride from humility, rebellion from perfection, or sin from sinlessness. A good tree *cannot* bring forth evil fruit (Matthew 7:18). Christ said so.
 
@@ -70,7 +70,7 @@ So where did the story come from? If Isaiah 14 is about Babylon and Ezekiel 28 i
 
 The answer is the same answer that keeps coming up in this book, and I am going to keep saying it until it sticks: the *law of Plato*.
 
-Plato, in his *Republic*, argued that the divine must never be proposed as the author of evil[^c13-plato]. This was not a minor point in Plato's system. It was foundational. The gods, in Plato's view, are the source of good and *only* good. If evil exists, it must come from some other source -- human free will, the corruption of matter, some force outside the divine that introduces chaos into the cosmos. But the gods themselves are clean. They don't create evil. They don't author wickedness. They are, in Plato's system, permanently and necessarily good.
+Plato, in his *Republic*, argued that the divine must never be proposed as the author of evil[^c13-plato]. This was not a minor point in Plato's system. It was foundational. The gods, in Plato's view, are the source of good and *only* good. If evil exists, it must come from some other source: human free will, the corruption of matter, some force outside the divine that introduces chaos into the cosmos. But the gods themselves are clean. They don't create evil. They don't author wickedness. They are, in Plato's system, permanently and necessarily good.
 
 Here is Plato in his own words, from *Republic* Book II in Jowett's translation. Watch the move. Watch the law come down.
 
@@ -160,7 +160,7 @@ And then the New Testament does not soften the inheritance. The early church in 
 
 *Whatsoever thy hand and thy counsel determined before to be done.* The crucifixion of the Son of God, the greatest evil ever to land in time, was determined by the hand and counsel of God before it was done. Plato wrote a law forbidding the church from saying that sentence. The church in Acts said it about the cross.
 
-This is the line of witnesses. The Qumran scribes in their caves. Amos at Bethel. Jeremiah weeping over Jerusalem. Hannah at Shiloh. Moses on Sinai and on Nebo. Job on the ash-heap. Peter and John before the Sanhedrin. They had not read Plato. If they had, they would have written exactly what they did write. Because the Hebrew witness from Genesis to Acts is one long contradiction of *Republic* II.380b. The sentence Plato banned is the sentence the people of God refused to stop saying.
+This is the line of witnesses: the Qumran scribes in their caves, Amos at Bethel, Jeremiah weeping over Jerusalem, Hannah at Shiloh, Moses on Sinai and on Nebo, Job on the ash-heap, Peter and John before the Sanhedrin. They had not read Plato. If they had, they would have written exactly what they did write, because the Hebrew witness from Genesis to Acts is one long contradiction of *Republic* II.380b. The sentence Plato banned is the sentence the people of God refused to stop saying.
 
 The church then heard Plato over the prophets. And the prophets are still on the page, waiting to be quoted back.
 
@@ -176,7 +176,7 @@ The pre-Christian Jewish writings that never made it into the Hebrew canon conta
 
 **Origen, *De Principiis,* third century AD.**
 
-Origen is the first to build a doctrine of the pre-temporal angelic fall out of these texts. Tertullian had already applied both Ezekiel 28 (*Against Marcion* II.10) and Isaiah 14 (V.11, 17) to the devil a decade and more earlier -- but in passing, as proof-texts, not narrative. Origen made the story. He is the proximate Christian source of the misreading I diagnosed in the earlier sections of this chapter. Origen was also a heavy Platonist. He was reading Plato's metaphysical assumptions back into the prophetic text. The chain from Plato to the Christian Lucifer myth runs through Origen first.[^c13-origen]
+Origen is the first to build a doctrine of the pre-temporal angelic fall out of these texts. Tertullian had already applied both Ezekiel 28 (*Against Marcion* II.10) and Isaiah 14 (V.11, 17) to the devil a decade and more earlier, but in passing, as proof-texts, not narrative. Origen made the story. He is the proximate Christian source of the misreading I diagnosed in the earlier sections of this chapter. Origen was also a heavy Platonist. He was reading Plato's metaphysical assumptions back into the prophetic text. The chain from Plato to the Christian Lucifer myth runs through Origen first.[^c13-origen]
 
 **Augustine, *City of God,* fifth century.**
 
@@ -231,7 +231,7 @@ I am not saying any of these men were bad poets or bad theologians. Augustine wa
 
 *"I form the light, and create darkness: I make peace, and create evil: I the LORD do all these things."* (Isaiah 45:7)
 
-I've cited this verse many times in this book already, and I will cite it many more. Because it is the single most important verse in the Bible for understanding the nature of God's sovereignty, and it is the single most suppressed verse in the history of Christian theology.
+I've cited this verse many times in this book already, and I will cite it many more, because it is the single most important verse in the Bible for understanding the nature of God's sovereignty, and it is the single most suppressed verse in the history of Christian theology.
 
 The Hebrew word is *ra*. It is the same word used for "evil" throughout the Old Testament. It means wickedness, calamity, disaster, moral evil. It is the word used in Genesis 2:9 for the tree of knowledge of good and *evil*. It is the word used in Genesis 6:5 for the wickedness of man. It is the same word, carrying the same range of meaning, in every context.
 
@@ -271,7 +271,7 @@ God's holiness is not threatened by His authorship of evil any more than Disney 
 
 Yes. And the church has been wrong about many things for many centuries.
 
-The Patristic doctrine of the atonement held for over a thousand years that Christ's death was a *ransom paid to the devil*. That Satan held humanity captive, and God paid the devil off with Christ's blood. This was the dominant view of the atonement from the early church through the medieval period. And it was wrong. Catastrophically wrong. It made Satan a party to a transaction with God, as if the devil had rights that God needed to satisfy. The ransom view held until Anselm's satisfaction theory displaced it around 1100; the Reformers' penal substitution refined Anselm's frame -- but it took over a millennium.[^c13-ransom]
+The Patristic doctrine of the atonement held for over a thousand years that Christ's death was a *ransom paid to the devil*. That Satan held humanity captive, and God paid the devil off with Christ's blood. This was the dominant view of the atonement from the early church through the medieval period. And it was wrong. Catastrophically wrong. It made Satan a party to a transaction with God, as if the devil had rights that God needed to satisfy. The ransom view held until Anselm's satisfaction theory displaced it around 1100; the Reformers' penal substitution refined Anselm's frame, but it took over a millennium.[^c13-ransom]
 
 Augustine's Platonic assumptions about the nature of evil, that evil is the absence of good rather than a created thing, have never been fully purged from Reformed theology. They survive in the language of "permission," in the discomfort with Isaiah 45:7, in the insistence that God is "not the author of sin." All of this is Plato in a Christian suit. And the church has never had the courage to strip it off.
 
@@ -307,7 +307,7 @@ I addressed this above. The church has been wrong about many things for many cen
 
 **"If Satan was created evil, God is responsible for all the evil Satan does."**
 
-Yes. God authored Satan's nature. God placed Satan in the garden. God decreed every act Satan would ever perform. And God said, "I create evil" (Isaiah 45:7). God's responsibility for evil is not the same as God's guilt for evil. The Author is responsible for the story. The Author is not guilty of the villain's crimes. Because the Author stands outside the moral framework that applies to the characters. God creates the rules. He is not subject to them. He is the Potter. The clay has no standing to accuse Him.
+Yes. God authored Satan's nature. God placed Satan in the garden. God decreed every act Satan would ever perform. And God said, "I create evil" (Isaiah 45:7). God's responsibility for evil is not the same as God's guilt for evil. The Author is responsible for the story. The Author is not guilty of the villain's crimes, because the Author stands outside the moral framework that applies to the characters. God creates the rules. He is not subject to them. He is the Potter. The clay has no standing to accuse Him.
 
 **"What about 2 Peter 2:4 and Jude 6? Those say angels sinned."**
 
