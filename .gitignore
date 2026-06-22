@@ -1,4 +1,9 @@
-editions/*/output/
+# Ignore intermediate build output, but DO track the final PDFs and EPUBs.
+editions/*/output/**
+!editions/*/output/
+!editions/*/output/*/
+!editions/*/output/**/*.pdf
+!editions/*/output/**/*.epub
 __pycache__/
 *.pyc
 *.psd
