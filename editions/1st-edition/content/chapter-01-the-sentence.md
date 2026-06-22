@@ -6,7 +6,7 @@ part: I -- The Foundation
 
 # Chapter 1: The Sentence
 
-I've been building something for most of my adult life, and I didn't know it had a name until recently. I didn't know it could be reduced to a single sentence. I thought I just had a collection of beliefs, a set of convictions I'd arrived at through Scripture and experience and a lot of late nights with a King James Bible and a cup of coffee. But somewhere along the way, I started to notice a pattern. The same principle kept showing up in every domain. Theology. Philosophy. Marriage. Church. Baptism. Ethics. Politics. The nature of the human mind. The nature of heaven and hell. Every time I turned a corner, the same truth was standing there waiting for me.
+I've been building something for most of my adult life, and I didn't know it had a name until recently. I didn't know it could be reduced to a single sentence. I thought I just had a collection of beliefs, a set of convictions I'd arrived at through Scripture and experience and a lot of late nights with a King James Bible and a cup of coffee. But somewhere along the way, I started to notice a pattern. The same principle kept showing up in every domain: theology, philosophy, marriage, church, baptism, ethics, politics, the nature of the human mind, the nature of heaven and hell. Every time I turned a corner, the same truth was standing there waiting for me.
 
 And eventually I realized it wasn't a collection of beliefs at all. It was one belief. Applied everywhere.
 
@@ -114,13 +114,13 @@ Every event in history was authored by God before it happened. *"Declaring the e
 
 *"Permission"* is sovereignty with plausible deniability. And God doesn't need plausible deniability. He doesn't need to protect Himself from the charge of authoring evil, because He told us plainly that He creates it. Every system built to soften that breaks under the weight of Isaiah 45:7. I know that's a hard sentence. I know it's uncomfortable. But the Scriptures don't give us comfortable. They give us truth.
 
-I'll spend an entire chapter on supralapsarianism later in this book. For now, I only want you to understand this: when the sentence says *"authored by His purpose,"* it means everything. The fall. The cross. Your conversion. Your doubts. Your sin. Your sanctification. All of it was authored by a God who doesn't ask for your cooperation and doesn't need your permission. He is the Author. We are the characters. And the story is His.
+I'll spend an entire chapter on supralapsarianism later in this book. For now, I only want you to understand this: when the sentence says *"authored by His purpose,"* it means everything: the fall, the cross, your conversion, your doubts, your sin, your sanctification. All of it was authored by a God who doesn't ask for your cooperation and doesn't need your permission. He is the Author. We are the characters. And the story is His.
 
 ## Held Together by Personal Covenants of Love
 
 And here is where the sentence opens its arms.
 
-Because if I stopped at "authored by His purpose," this would be a cold, terrifying system. A God who authors everything, including evil, and does so for purposes we cannot question. That's sovereignty without tenderness. That's raw power without love. And that's not the God of the Bible.
+Because if I stopped at "authored by His purpose," this would be a cold, terrifying system: a God who authors everything, including evil, and does so for purposes we cannot question. That's sovereignty without tenderness. That's raw power without love. And that's not the God of the Bible.
 
 The God of the Bible makes *covenants*. Personal promises. Not legal contracts, not institutional frameworks, not impersonal decrees. Personal, experiential, relational promises of love. *"I will be their God, and they shall be my people."* (Jeremiah 31:33). That's not the language of a courtroom. That's the language of a marriage. That's the language of a Father who has chosen His children before the foundation of the world and holds them, personally, by name, forever.
 
@@ -178,7 +178,7 @@ If you accept that, turn the page. Everything else follows.
 
 **"This is just philosophy, not theology."**
 
-The Bible teaches it explicitly. *"In the beginning was the Word"* (John 1:1). *"Things which are seen were not made of things which do appear"* (Hebrews 11:3). *"By him all things consist"* (Colossians 1:17). The philosophy follows the Scripture. Not the other way around.
+The Bible teaches it explicitly. *"In the beginning was the Word"* (John 1:1). *"Things which are seen were not made of things which do appear"* (Hebrews 11:3). *"By him all things consist"* (Colossians 1:17). The philosophy follows the Scripture, not the other way around.
 
 **"If reality is just God's thought, the physical world isn't really real."**
 

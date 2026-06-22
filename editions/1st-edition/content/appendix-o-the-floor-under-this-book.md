@@ -20,7 +20,7 @@ This appendix makes explicit what the book has been doing implicitly. It will fe
 
 ## Part I: The Question Appendix N Left Open
 
-Appendix N made the negative case. *Plato is the floor under most of what is wrong with Western Christianity since the fourth century.* Twenty-four costumes were named. Every costume rested on the same floor. Swap the floor and the costumes fall off.
+Appendix N made the negative case. *Plato is the floor under most of what is wrong with Western Christianity since the fourth century.* Twenty-three costumes were named. Every costume rested on the same floor. Swap the floor and the costumes fall off.
 
 But the reader who finishes Appendix N is left with a question the appendix does not answer. *What floor stands in place of the one we just demolished?* If Plato is wrong, what is right? If the body-soul hierarchy, the Republic axiom, and the Plotinian realist cascade are the wrong foundation, what is the foundation that does not collapse under Isaiah 45:7, the resurrection of the body, and the marriage supper of the Lamb?
 

@@ -13,7 +13,7 @@ It goes like this. You are living in something like a simulation. This world is 
 
 And I want to tell you something about that sermon. It is going to win. Not everyone, but a great many, and the kind of people the church has spent a century failing to reach. It is going to be the great enemy of the faith long after you and I are in the ground. And the household of faith, as she stands right now, is not ready for it. She is not a little behind. She is armed for a war that is almost over and asleep to the one that is coming.
 
-This is the afterword to a systematic theology, and it has one job. To tell you what I think this book is actually for. Not the war the church is fighting now. The one after this one.
+This is the afterword to a systematic theology, and it has one job: to tell you what I think this book is actually for. Not the war the church is fighting now. The one after this one.
 
 ## The War We Trained For Is Ending
 

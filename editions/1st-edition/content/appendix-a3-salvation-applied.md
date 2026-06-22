@@ -5,7 +5,7 @@ status: draft
 
 # Appendix A3: Salvation Applied
 
-The core doctrines of salvation are covered in the main chapters. What follows are the border cases and the honest questions that rise every time someone thinks hard about grace. Infants, the mentally disabled, those who never hear the gospel, the unforgivable sin, assurance, apostasy. This appendix applies the sentence where the doctrinal maps get thin.
+The core doctrines of salvation are covered in the main chapters. What follows are the border cases and the honest questions that rise every time someone thinks hard about grace: infants, the mentally disabled, those who never hear the gospel, the unforgivable sin, assurance, apostasy. This appendix applies the sentence where the doctrinal maps get thin.
 
 > *"Everything that exists is a thought in the mind of God, sustained by His will, authored by His purpose, and held together by personal covenants of love."*
 
@@ -161,7 +161,7 @@ Grace is always particular, discriminatory, and effectual. The Hebrew is *khane*
 
 The doctrine of common grace teaches that God loves everyone in some general sense, that rain and sunshine on the wicked are expressions of His love, and that this love gives God the basis to "offer" salvation to all. I reject this entirely.
 
-*"When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever"* (Psalm 92:7). They flourish *in order to be destroyed*. That's not love. That's the fattening before the slaughter. Every day of provision the reprobate enjoys is another day of accumulating wrath. The rain and the sunshine are not grace -- they are the increase of judgment.
+*"When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever"* (Psalm 92:7). They flourish *in order to be destroyed*. That's not love. That's the fattening before the slaughter. Every day of provision the reprobate enjoys is another day of accumulating wrath. The rain and the sunshine are not grace; they are the increase of judgment.
 
 *"It was of the LORD to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour"* (Joshua 11:20). No favour. No grace. God actively hardened them for destruction.
 

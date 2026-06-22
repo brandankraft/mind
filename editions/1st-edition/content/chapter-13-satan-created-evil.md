@@ -6,7 +6,7 @@ part: IV -- The People
 
 # Chapter 13: Satan Created Evil, Not Fallen
 
-I believed the story for thirty years. The beautiful angel. The highest cherub. The worship leader of heaven who got too proud, rebelled against God, and was cast down like lightning from the sky. I heard it preached. I read it in commentaries. I saw the Milton version and the Sunday school version and the heavy metal album cover version. And I never questioned it, because everyone told it the same way, and the two passages that supposedly proved it, Isaiah 14 and Ezekiel 28, seemed clear enough at a glance.
+I believed the story for thirty years: the beautiful angel, the highest cherub, the worship leader of heaven who got too proud, rebelled against God, and was cast down like lightning from the sky. I heard it preached. I read it in commentaries. I saw the Milton version and the Sunday school version and the heavy metal album cover version. And I never questioned it, because everyone told it the same way, and the two passages that supposedly proved it, Isaiah 14 and Ezekiel 28, seemed clear enough at a glance.
 
 And then I read the context. And five words in Isaiah 14:4, *"against the king of Babylon,"* destroyed the entire narrative.
 

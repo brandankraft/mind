@@ -38,7 +38,7 @@ If the blood of Christ covers sin, it covers *all* sin equally. Not more blood f
 
 And here is what that means for the tier list: the cross destroyed it. At Calvary, every sin that Christ bore was borne equally. There was no hierarchy on the cross. God did not look at some sins and say, "These require extra payment." The payment was total. The coverage was complete. Every sin of every elect person, from the first to the last, from the mildest to the most horrific, was charged to Christ and paid in full. No remainder. No installment plan. No sliding scale.
 
-Every sin ordained by a sovereign God, and charged to Christ for His elect. The one who stole a candy bar and the one who took a life stand in the same spot before the cross, not because their sins are morally equivalent in human terms, but because both sins are infinitely distant from the glory of God, and both are infinitely covered by the blood of Christ.
+Every sin is ordained by a sovereign God, and charged to Christ for His elect. The one who stole a candy bar and the one who took a life stand in the same spot before the cross, not because their sins are morally equivalent in human terms, but because both sins are infinitely distant from the glory of God, and both are infinitely covered by the blood of Christ.
 
 ## Degrees of Punishment, Not Degrees of Grace
 
@@ -66,7 +66,7 @@ If everything that exists is a thought in the mind of God, and each person is a 
 
 *"In thy book all my members were written, which in continuance were fashioned, when as yet there was none of them."* (Psalm 139:16)
 
-Known before formation. Written before existence. Every member fashioned in God's book before a single cell divided. The child in the womb is not a potential person. The child is a *thought*. A specific, personal, authored thought in the mind of God. And destroying that thought is an act of violence against the Author's creation, no less than any other murder.
+Known before formation. Written before existence. Every member fashioned in God's book before a single cell divided. The child in the womb is not a potential person. The child is a *thought*, a specific, personal, authored thought in the mind of God. And destroying that thought is an act of violence against the Author's creation, no less than any other murder.
 
 Even in rape. Even in incest. Even in medical crisis. The circumstances that produced the child were predestinated. God doesn't make accidental people. The child conceived in the worst circumstances is still a thought God is thinking. The suffering of the mother is real. The horror of the circumstances is real. And the humanity of the child is real. You don't solve one evil by committing another.
 
@@ -104,7 +104,7 @@ And here is the other thing the church needs to hear, and it's going to sting: t
 
 *"Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things."* (Romans 2:1)
 
-"Thou that judgest doest the same things." Not the same specific act. The same *category*. Sin. Rebellion. Drinking iniquity like water. The man who judges the homosexual while nursing his own pride is no closer to God than the man he's judging. They both need the same blood. They both need the same cross. And neither of them can stand before God and say, "At least I'm not as bad as *that*."
+"Thou that judgest doest the same things." Not the same specific act. The same *category*: sin, rebellion, drinking iniquity like water. The man who judges the homosexual while nursing his own pride is no closer to God than the man he's judging. They both need the same blood. They both need the same cross. And neither of them can stand before God and say, "At least I'm not as bad as *that*."
 
 As I said in Chapter 12, the sentence "there but for the grace of God go I" is theologically imprecise but spiritually essential. The ontology says the seeds are different and I was never a candidate for reprobation. But the old firmware *feels* the proximity. And the feeling produces the humility that grace demands. The saint who never feels the proximity risks the coldest heart. Grace that produces judgment instead of compassion has missed its own point.
 

@@ -8,7 +8,7 @@ part: Appendices
 
 Appendix G was written for the secular reader who suspects reality is information. This appendix is written for anyone who wants to understand *why* quantum mechanics behaves the way it does, and why the framework of this book explains the quantum realm more naturally than materialism ever has.
 
-Physicists have been searching for a "theory of everything" for a century. They want one set of equations that unifies quantum mechanics (the micro) with general relativity (the macro). String theory. Loop quantum gravity. M-theory. Every attempt has failed. And the reason they've failed is not that the math is too hard. The reason is that they're trying to unify two descriptions of the rendering while ignoring the Renderer.
+Physicists have been searching for a "theory of everything" for a century. They want one set of equations that unifies quantum mechanics (the micro) with general relativity (the macro). String theory, loop quantum gravity, M-theory: every attempt has failed. And the reason they've failed is not that the math is too hard. The reason is that they're trying to unify two descriptions of the rendering while ignoring the Renderer.
 
 ## The Problem Physics Can't Solve
 

@@ -72,7 +72,7 @@ The framework does not reject simulation theory. It completes it. The architectu
 
 This is the claim that separates the framework from every other system of thought that has ever existed.
 
-*"And the Word was made flesh, and dwelt among us"* (John 1:14). The Word -- the information, the thought, the code -- was made flesh. The Programmer became a character. The Author entered the story. Not as a spectator, not as a debugger. As a participant. He experienced the rendering from the inside. Gravity, hunger, pain, and death all applied.
+*"And the Word was made flesh, and dwelt among us"* (John 1:14). The Word (the information, the thought, the code) was made flesh. The Programmer became a character. The Author entered the story. Not as a spectator, not as a debugger. As a participant. He experienced the rendering from the inside. Gravity, hunger, pain, and death all applied.
 
 No simulation theory predicts this. No philosophy imagines it. No religion outside Christianity proposes it. The ground of all being, the mind behind all information, the consciousness that sustains every atom, entered the rendering as a human being and died inside it.
 

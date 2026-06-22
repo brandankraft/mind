@@ -14,7 +14,7 @@ That sentence changed my life when I first understood it, and I want to show you
 
 ## Eternity Is Not What You Think
 
-Most people, including most Christians, think of eternity as a really long time. An infinite timeline stretching forward and backward without end. Heaven goes on forever. God has always existed. Eternity just means *more time*.
+Most people, including most Christians, think of eternity as a really long time, an infinite timeline stretching forward and backward without end. Heaven goes on forever. God has always existed. Eternity just means *more time*.
 
 But that's not what the Bible teaches. Eternity is not a quantity of time. Eternity is the *absence* of time. God does not exist across an infinite timeline. He is not contained by it. Time is not His environment. Time is His creation. He made it the same way He made light and darkness, trees and mountains, men and angels. Time is a rendering constraint[^c2-rendering]. It's part of the story. It is not part of the Author.
 
@@ -157,7 +157,7 @@ But from outside the filmstrip, the Author sees the whole picture. He sees the d
 
 And that should bring you comfort, not because the struggle isn't real. It is. The frames are real. Your experience is real. But the outcome was never in question, because the Author already wrote it. And He wrote it before the struggle began, before the doubt crept in, before the world was even made. You are an eternal thought. And eternal thoughts don't get lost in the filmstrip.
 
-It also means that progressive revelation, the gradual unfolding of truth across history and across your own lifetime, is not God figuring things out as He goes. It's timelessness decompressing into time. The eternal thought unfolding into sequential experience. Not growth toward a destination. The destination was always there. Just the character experiencing the frames, one at a time, in the order the Author set.
+It also means that progressive revelation, the gradual unfolding of truth across history and across your own lifetime, is not God figuring things out as He goes. It's timelessness decompressing into time, the eternal thought unfolding into sequential experience. Not growth toward a destination. The destination was always there. Just the character experiencing the frames, one at a time, in the order the Author set.
 
 And it means that when Paul says *"we know that all things work together for good to them that love God, to them who are the called according to his purpose"* (Romans 8:28), he's not expressing a hope. He's stating a fact about the structure of reality. All things work together for good because the Author wrote them to do exactly that. The frames are ordered. The sequence is ordained. And the outcome is certain, because the Author sees the whole filmstrip, and He's already told us how it ends.
 

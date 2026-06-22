@@ -13,7 +13,7 @@ The Christian lives in a polity. Nations rise and fall, governments spend and ta
 
 *"The powers that be are ordained of God"* (Romans 13:1).
 
-Every government is authored. Democracies, monarchies, dictatorships, theocracies, all thoughts in the mind of God, rendering His purposes in the political sphere. No government is righteous. No government is permanent. All governments serve the one comprehensive thought until the rendering upgrades and Christ reigns directly.
+Every government is authored: democracies, monarchies, dictatorships, theocracies, all thoughts in the mind of God, rendering His purposes in the political sphere. No government is righteous. No government is permanent. All governments serve the one comprehensive thought until the rendering upgrades and Christ reigns directly.
 
 The believer's relationship to government is submission with conscience. Submit to the authorities (Romans 13). But not beyond conscience. *"We ought to obey God rather than men"* (Acts 5:29). When the government commands what God forbids, or forbids what God commands, conscience overrides submission.
 

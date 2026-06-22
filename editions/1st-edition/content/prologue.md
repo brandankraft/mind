@@ -13,9 +13,9 @@ And then he wrote this:
 
 > *"You alone have created the righteous one, and from the womb You established him to give heed to Your covenant at the appointed time of grace . . . But the wicked You created for the time of Your wrath, and from the womb You set them apart for the day of slaughter."* -- 1QHodayot 7, translated in *The Dead Sea Scrolls: A New Translation*, Wise, Abegg, & Cook, p. 89
 
-That was over two thousand years ago. Those words were found in a cave near the Dead Sea in 1947, written on scrolls that had been buried and hidden for centuries. And when modern scholars dug them up and read them, they dismissed the theology. Too predestinarian. Too radical. Too sovereign. It didn't fit the religious assumptions of the men who found them, so they set the theology aside and focused on the archaeology instead.
+That was over two thousand years ago. Those words were found in a cave near the Dead Sea in 1947, written on scrolls that had been buried and hidden for centuries. And when modern scholars dug them up and read them, they dismissed the theology: too predestinarian, too radical, too sovereign. It didn't fit the religious assumptions of the men who found them, so they set the theology aside and focused on the archaeology instead.
 
-But the theology was there. It had always been there. Buried in a cave, waiting.
+But the theology was there. It had always been there, buried in a cave, waiting.
 
 The man who wrote those words is known to history only as the Teacher of Righteousness. We don't know his real name. We don't know his face. We know that he taught the sovereign grace of God in an age when the Pharisees were gaining power, and that the Pharisees, when they got that power, killed people who disagreed with them. We know that his followers fled into the desert. We know that his writings were hidden away in clay jars and sealed in caves along the cliffs above the Dead Sea. And we know that for two thousand years, nobody read them.
 
@@ -59,7 +59,7 @@ They couldn't handle it in 2005. They put the website on a list.
 
 They won't handle this book.
 
-But the Author already knows who is going to read it. And the ones who need it will find it. Same as they always do.
+But the Author already knows who is going to read it. And the ones who need it will find it, same as they always do.
 
 *"I will present the truth softly and wait on the Lord."*
 

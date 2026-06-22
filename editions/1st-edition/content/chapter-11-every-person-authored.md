@@ -46,7 +46,7 @@ And David was not saying anything new. The men who lived at Qumran two centuries
 
 > *"You alone have created the righteous one, and from the womb You established him to give heed to Your covenant at the appointed time of grace and to walk in all things, nourishing him in the abundance of Your compassion . . . But the wicked You created for the time of Your wrath, and from the womb You set them apart for the day of slaughter."* (1QHodayot 7, translated in *The Dead Sea Scrolls: A New Translation*, Wise, Abegg, & Cook, p. 89)
 
-From the womb. Both seeds. The righteous and the wicked, each created directly by God, each set apart from the womb according to His purpose. There was no federal head, no legal mechanism, no imputed guilt from a representative six thousand years back. The Author authored each soul as the specific thought He intended that soul to be.
+From the womb. Both seeds: the righteous and the wicked, each created directly by God, each set apart from the womb according to His purpose. There was no federal head, no legal mechanism, no imputed guilt from a representative six thousand years back. The Author authored each soul as the specific thought He intended that soul to be.
 
 The men who copied this hymn in the Judean wilderness were writing two centuries before Augustine was born. The directly-authored sin nature is not a Reformed-breakaway novelty. It is the older Hebrew theology, the one Plato never touched, the one preserved in scrolls hidden in clay jars by a community that read the same Scriptures we read and arrived at the same conclusion this chapter is arguing, with no church council in between to tell them what to think. See Appendix F for the broader argument and the full passages.
 
@@ -192,7 +192,7 @@ Adam *experienced* evil for the first time. Knowing evil experientially is diffe
 
 **"Romans 8:20-21 says creation was 'made subject to vanity.' That proves a pre-fall paradise that was cursed after Adam sinned."**
 
-*"Made subject"* is God's original authorship, not a post-fall punishment. The creation was always authored with rendering constraints. The "hope" Paul mentions is the higher-resolution rendering of Chapter 29 -- the constraints being removed at the resurrection. The subjection is the starting condition, not a consequence of the fall. See Appendix A1.
+*"Made subject"* is God's original authorship, not a post-fall punishment. The creation was always authored with rendering constraints. The "hope" Paul mentions is the higher-resolution rendering of Chapter 29, the constraints being removed at the resurrection. The subjection is the starting condition, not a consequence of the fall. See Appendix A1.
 
 **"Hosea 6:7 says 'like Adam, they have transgressed the covenant.' That proves a covenant of works with Adam before the fall."**
 

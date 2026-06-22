@@ -41,7 +41,7 @@ And before you recoil from that language, hear it from Christ Himself:
 
 *"Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him."* (John 8:44)
 
-"Your father the devil." Not "you act like the devil." Not "you are following the devil's example." Your *father*. And this was said to the Pharisees, the most religious, most outwardly moral, most doctrinally educated people in Israel. The men who tithed on their garden herbs and kept the Sabbath with obsessive precision. Christ looked at them and said, "You are of your father the devil."
+"Your father the devil." Not "you act like the devil." Not "you are following the devil's example." Your *father*. And this was said to the Pharisees, the most religious, most outwardly moral, most doctrinally educated people in Israel, the men who tithed on their garden herbs and kept the Sabbath with obsessive precision. Christ looked at them and said, "You are of your father the devil."
 
 That is not metaphor. That is ontology. Christ was telling them *what they are*, not just what they do. And it is consistent with Genesis 3:15, where the seed of the serpent is announced as a distinct lineage from the seed of the woman. The Pharisees are the seed of the serpent. They look human. They act religious. They study Scripture. But they are fundamentally, ontologically, at the level of their spiritual DNA, the children of a different father.
 
@@ -109,7 +109,7 @@ Christ alone is the ransom. There is no "second ransom." There is no transaction
 
 And here is a distinction that most theology misses entirely.
 
-There are two consequences in Scripture, not one. The curse of the law and the condemnation of the gospel. They are not the same thing. One is a curse. The other is not a curse at all; it is something far heavier. They do not have the same weight. And Christ bore only one of them.
+There are two consequences in Scripture, not one: the curse of the law and the condemnation of the gospel. They are not the same thing. One is a curse. The other is not a curse at all; it is something far heavier. They do not have the same weight. And Christ bore only one of them.
 
 **The curse of the law** is the measured penalty for transgression. "Cursed is every one that continueth not in all things which are written in the book of the law to do them" (Galatians 3:10). This curse falls on every person who breaks God's law, which is every person who has ever lived. And for the elect, Christ bore this curse in full.
 
@@ -161,7 +161,7 @@ But the *feeling* is real. And the feeling is a gift, because a saint who walks 
 
 "There but for the grace of God go I." John Bradford said that in the sixteenth century, watching prisoners being led to execution. He was burned at the stake himself a few years later. The sentence is not Scripture, and it is theologically imprecise, but it is spiritually essential. The reality is that the seeds are different. The experience is that grace feels undeserved because the old firmware still remembers what it wanted. And the humility that comes from that feeling is what makes Chapter 30 possible. The saint who feels the proximity extends the widest arms. The saint who knows only the ontology risks the coldest heart.
 
-Hold both. The reality and the experience. The theology and the feeling. That's what it means to be the application layer running on the hardware, marveling at the hardware.
+Hold both: the reality and the experience, the theology and the feeling. That's what it means to be the application layer running on the hardware, marveling at the hardware.
 
 ## Objections and Answers
 

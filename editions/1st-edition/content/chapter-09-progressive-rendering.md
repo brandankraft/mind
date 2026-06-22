@@ -22,7 +22,7 @@ In the Old Testament, the covenant of grace was rendered at low resolution: type
 
 In the early church, the resolution increased. The apostles had the Spirit. They had new firmware, the deepest layer of the soul, which Chapter 16 lays out in full. But they were still running old software. They still went to the temple (Acts 3:1). They still connected baptism to forgiveness of sins (Acts 2:38). They still thought the kingdom was going to be a physical restoration of Israel (Acts 1:6). They still argued about whether Gentiles needed to become Jews to be saved (Acts 15). God was patient with all of it. He didn't correct their misunderstandings immediately. He let them continue in incomplete patterns while He gradually increased the resolution.
 
-Through Paul, the resolution jumped dramatically. Faith alone. Law finished. Gentiles included on exactly the same terms as Jews. The full gospel proclaimed without the old ceremonies, without the Jewish framework, without the Sinai overlay. Paul received his revelation directly from God (Galatians 1:11-12), and it was the clearest rendering of the eternal covenant that had been given up to that point.
+Through Paul, the resolution jumped dramatically: faith alone, law finished, Gentiles included on exactly the same terms as Jews, the full gospel proclaimed without the old ceremonies, without the Jewish framework, without the Sinai overlay. Paul received his revelation directly from God (Galatians 1:11-12), and it was the clearest rendering of the eternal covenant that had been given up to that point.
 
 And in the age to come, the resolution reaches full fidelity. Face to face. Known as known. No more glass.
 

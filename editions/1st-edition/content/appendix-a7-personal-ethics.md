@@ -5,7 +5,7 @@ status: draft
 
 # Appendix A7: Personal Ethics
 
-Personal ethics is where theology meets the body. What is done with sexuality, with the family, with food and drink and substances, with the end of life. This appendix applies the sentence to the ethics of the body. It does not moralize. It derives.
+Personal ethics is where theology meets the body: what is done with sexuality, with the family, with food and drink and substances, with the end of life. This appendix applies the sentence to the ethics of the body. It does not moralize. It derives.
 
 > *"Everything that exists is a thought in the mind of God, sustained by His will, authored by His purpose, and held together by personal covenants of love."*
 
@@ -141,7 +141,7 @@ I have watched too many men treat submission as a right they have over their wiv
 
 And now a word to the wives.
 
-If your husband is loving you as Christ loved the church - imperfectly, because no man will be Christ until he is with Christ, but genuinely and sacrificially - *submit to him with joy*. Not reluctantly. Not as a burden. Not performing for the other women in the church. But freely, because the covenant is beautiful and his love makes the covenant trustworthy.
+If your husband is loving you as Christ loved the church (imperfectly, because no man will be Christ until he is with Christ, but genuinely and sacrificially), *submit to him with joy*. Not reluctantly. Not as a burden. Not performing for the other women in the church. But freely, because the covenant is beautiful and his love makes the covenant trustworthy.
 
 If your husband is struggling - not failing the covenant but not yet fully rendering Christ either - *be patient with him*. He is learning. He will not love you perfectly in this rendering. Neither will you submit perfectly. The gospel covers both your imperfections. Do not weaponize his struggles against him. Do not use his imperfect love as an excuse for contempt. Help him grow. Honor him as he grows. And let grace run through both of you as you grow together.
 
@@ -435,7 +435,7 @@ If you are single and content to remain so, that is also a gift. Paul said so. D
 
 **For those who did not choose it.**
 
-Some singleness is chosen. Some is grief. The widow, the widower, the one who wanted to marry and the door never opened, the one whose spouse left, the one whose engagement ended, the one who was divorced against their will. The framework does not pretend all singleness feels the same. Some of it is celebration. Some of it is carrying. And for those who are carrying: the Author sees you. The frame you are in is not the whole story. The grief is real. The loneliness is real. And the covenant you have with Christ is real, and He does not leave you. *"A father of the fatherless, and a judge of the widows, is God in his holy habitation. God setteth the solitary in families"* (Psalm 68:5-6).
+Some singleness is chosen. Some is grief: the widow, the widower, the one who wanted to marry and the door never opened, the one whose spouse left, the one whose engagement ended, the one who was divorced against their will. The framework does not pretend all singleness feels the same. Some of it is celebration. Some of it is carrying. And for those who are carrying: the Author sees you. The frame you are in is not the whole story. The grief is real. The loneliness is real. And the covenant you have with Christ is real, and He does not leave you. *"A father of the fatherless, and a judge of the widows, is God in his holy habitation. God setteth the solitary in families"* (Psalm 68:5-6).
 
 The loneliness of the single life is real. It is not unique to single people. The married believer sleeping next to a spouse who does not understand them is as alone as anyone. The framework does not pretend married life cures loneliness. It cures a specific kind of loneliness and introduces a different kind. The single life has its own loneliness. The married life has its own. Christ is the only one who meets the deepest one for either.
 

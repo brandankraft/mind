@@ -28,7 +28,7 @@ We have the *mind* of Christ. Not the feelings of Christ. Not the vibes of Chris
 
 What does the Spirit reveal? Propositional truth. Knowledge of sin: that you are a sinner and cannot save yourself. Knowledge of God's attributes: that He is sovereign, holy, just, and merciful. Knowledge of Christ: that He is the Son of God who accomplished salvation for His people. Knowledge of the Gospel: that Christ died for your sins, was buried, and rose again, and that this is *for you*.
 
-Every one of those is a proposition. A claim. A piece of information. The Spirit doesn't give contentless experiences. He gives content. And the content transforms.
+Every one of those is a proposition, a claim, a piece of information. The Spirit doesn't give contentless experiences. He gives content. And the content transforms.
 
 ## Regeneration: The Firmware Flash
 
@@ -112,7 +112,7 @@ Faith is listed as a *fruit* of the Spirit. A fruit. Not a duty. Not a condition
 
 The gift of God. Not your contribution. Not your side of the bargain. The *gift*. And if faith is a gift, then faith is given, not generated. If faith is given, then God gives it to whom He wills. And if God gives it to whom He wills, then faith is sovereign, not free.
 
-And the regenerate individual doesn't just receive intellectual assent to historical facts. "Jesus died and rose again"; even the devils believe that (James 2:19). Saving faith is something else entirely. The Spirit testifies to the conscience that the Gospel promises are *for you*. That Christ's blood covers *your* sin. That the righteousness is imputed to *you*. That you are a child of God, not in the abstract, but personally, specifically, inescapably. And that personal assurance, that "Abba, Father" moment, is what separates saving faith from mere intellectual agreement. The regenerate person doesn't just believe the gospel is true. They jump for joy because the gospel is true *for them*.
+And the regenerate individual doesn't just receive intellectual assent to historical facts. "Jesus died and rose again"; even the devils believe that (James 2:19). Saving faith is something else entirely. The Spirit testifies to the conscience that the Gospel promises are *for you*, that Christ's blood covers *your* sin, that the righteousness is imputed to *you*, that you are a child of God, not in the abstract, but personally, specifically, inescapably. And that personal assurance, that "Abba, Father" moment, is what separates saving faith from mere intellectual agreement. The regenerate person doesn't just believe the gospel is true. They jump for joy because the gospel is true *for them*.
 
 ## The Trivium: Education as Rendering
 

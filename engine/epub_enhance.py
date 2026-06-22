@@ -881,6 +881,62 @@ def split_frontmatter_leaves(tmp):
     print('  split front matter into separate leaves (title / copyright / dedication)')
 
 
+def add_preface_signature(tmp, src_dir):
+    """EPUB parity with the PDF: replace the preface's typeset 'Grace and Peace, /
+    Brandan' sign-off with Brandan's scanned signature (sig.jpg), then copy + manifest
+    the image. Scoped to the preface via its unique 'keep-with-signature' div, so the
+    other 'Grace and Peace, Brandan' closes (afterword, epilogue, appendix G,
+    acknowledgments) keep the typeset sign-off. Mirrors apply_pdf_preface_signature in
+    build-book-pdf.py. No-op if sig.jpg isn't in src_dir or the sign-off isn't found."""
+    if not src_dir:
+        return
+    sigsrc = os.path.join(src_dir, 'sig.jpg')
+    if not os.path.exists(sigsrc):
+        return
+    fig = ('<figure class="signature"><img src="../media/sig.jpg" alt="Brandan Kraft" '
+           'style="height:auto; width:2.5in; max-width:70%; display:block; '
+           'margin:1.4em 0 0;"/></figure>')
+    target = None
+    for root, _, files in os.walk(tmp):
+        for fn in files:
+            if not fn.endswith('.xhtml') or fn == 'nav.xhtml':
+                continue
+            p = os.path.join(root, fn)
+            s = open(p, encoding='utf-8').read()
+            if 'keep-with-signature' not in s:
+                continue
+            ns = re.sub(r'<p>\s*Grace and Peace,.*?Brandan\s*</p>', fig, s,
+                        count=1, flags=re.DOTALL)
+            if ns != s:
+                open(p, 'w', encoding='utf-8').write(ns)
+                target = p
+            break
+        if target:
+            break
+    if not target:
+        return  # sign-off not found -> do not orphan an unreferenced image
+    # Copy sig.jpg into the EPUB media dir and register it in the OPF manifest
+    # (an unmanifested resource is invalid EPUB and some readers silently drop it).
+    opf = None
+    for root, _, files in os.walk(tmp):
+        for fn in files:
+            if fn.endswith('.opf'):
+                opf = os.path.join(root, fn)
+                break
+        if opf:
+            break
+    if not opf:
+        return
+    media_dir = os.path.join(os.path.dirname(opf), 'media')
+    os.makedirs(media_dir, exist_ok=True)
+    shutil.copyfile(sigsrc, os.path.join(media_dir, 'sig.jpg'))
+    opf_text = open(opf, encoding='utf-8').read()
+    if 'href="media/sig.jpg"' not in opf_text:
+        item = '    <item id="img_sig_jpg" href="media/sig.jpg" media-type="image/jpeg" />'
+        opf_text = opf_text.replace('</manifest>', item + '\n  </manifest>')
+        open(opf, 'w', encoding='utf-8').write(opf_text)
+
+
 def main(epub_path, src_dir=None):
     tmp = tempfile.mkdtemp(prefix='epub_enhance_')
     with zipfile.ZipFile(epub_path) as z:
@@ -939,6 +995,10 @@ def main(epub_path, src_dir=None):
 
     # Copy in + manifest-register the diagram images swapped by enhance_html.
     add_print_diagram_images(tmp, src_dir)
+
+    # Swap the preface sign-off for Brandan's scanned signature (PDF parity) and
+    # copy + manifest sig.jpg.
+    add_preface_signature(tmp, src_dir)
 
     # Embed + manifest-register the Cinzel title font (cover-echo title pages).
     add_title_font(tmp)

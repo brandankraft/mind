@@ -60,7 +60,7 @@ Now here is where I need to be more honest than most people are comfortable with
 
 Not all 66 books self-authenticate at the same volume.
 
-The early church recognized this. They had a classification for it. The *homologoumena* were the undisputed books, the ones everyone agreed were Scripture from the beginning. Romans. Genesis. John. Isaiah. The Psalms. These books announce themselves. They land with authority the moment you read them. The self-authentication is immediate and overwhelming. You don't need a council to tell you Romans is the Word of God. Romans tells you.
+The early church recognized this. They had a classification for it. The *homologoumena* were the undisputed books, the ones everyone agreed were Scripture from the beginning: Romans, Genesis, John, Isaiah, the Psalms. These books announce themselves. They land with authority the moment you read them. The self-authentication is immediate and overwhelming. You don't need a council to tell you Romans is the Word of God. Romans tells you.
 
 The *antilegomena* were the disputed books, the ones some churches accepted and others questioned. These are the books that self-authenticate less clearly. Not falsely. Not without value. But with less force, less immediacy, less of that unmistakable quality that makes the homologoumena impossible to dismiss.
 
@@ -138,7 +138,7 @@ The Song of Solomon is the most uncomfortable book in the Bible for most Christi
 
 Three camps have formed around it, and every one of them reveals more about the reader than about the text.
 
-The first camp says it is **allegory only**. Christ and the church. Nothing physical. The breasts and the garden and the fruit and the honey under the tongue are all spiritual metaphors, and anyone who reads them as sexual has a dirty mind. This camp has dominated the church for centuries. And it is the law of Plato at work. If the body is lesser than the spirit, then sexual language in Scripture must be spiritualized to protect the text from the contamination of the flesh. The church can discuss the atonement in graphic detail (blood, wounds, nails through bone, a spear in the side) but a woman inviting her husband to "eat his pleasant fruits" (Song of Solomon 4:16) must be allegory. The violence is literal. The love is metaphor. That is not hermeneutics. That is Plato in the pews.
+The first camp says it is **allegory only**: Christ and the church, nothing physical. The breasts and the garden and the fruit and the honey under the tongue are all spiritual metaphors, and anyone who reads them as sexual has a dirty mind. This camp has dominated the church for centuries. And it is the law of Plato at work. If the body is lesser than the spirit, then sexual language in Scripture must be spiritualized to protect the text from the contamination of the flesh. The church can discuss the atonement in graphic detail (blood, wounds, nails through bone, a spear in the side) but a woman inviting her husband to "eat his pleasant fruits" (Song of Solomon 4:16) must be allegory. The violence is literal. The love is metaphor. That is not hermeneutics. That is Plato in the pews.
 
 The second camp says it is **just a love poem**. A sex book. A celebration of human love with no deeper theological significance. Some who hold this position, including men I deeply respect, deny its canonical status altogether. They see it as a piece of ancient Hebrew love poetry that was included in the canon by tradition rather than by divine authorship. I understand the position. And I reject it.
 
@@ -170,7 +170,7 @@ I want to end this chapter with something personal.
 
 I have had seasons of doubt. Seasons where I looked at the Bible and thought, "What if this is just a book?" Seasons where the self-authentication felt dim and the evidence felt thin and the whole thing looked like it might be an elaborate human construction.
 
-And every time, every single time, the doubt came when I was looking at something *other* than the Scriptures. When I was reading the critics. When I was listening to the skeptics. When I was consumed with other things and the Bible was sitting on the shelf. The doubt never came while I was *in* the text. It came when I was *away* from it.
+And every time, every single time, the doubt came when I was looking at something *other* than the Scriptures: when I was reading the critics, when I was listening to the skeptics, when I was consumed with other things and the Bible was sitting on the shelf. The doubt never came while I was *in* the text. It came when I was *away* from it.
 
 And when I came back, when I opened it again, when I sat down with Romans or Isaiah or John or the Psalms, the fire was still there. The authority was still there. The self-authentication was still there, as strong as it ever was, waiting for me to come close enough to feel the heat again.
 

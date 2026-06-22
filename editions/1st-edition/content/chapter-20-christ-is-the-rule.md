@@ -46,7 +46,7 @@ A *curse*. And he goes further:
 
 *"Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith."* (Galatians 3:24)
 
-The law was a schoolmaster. A tutor. A temporary institution with one job: drive the elect to Christ by showing them they couldn't keep it. That's it. That's the whole purpose. The law was never meant to be the believer's rule for living. It was meant to be the thing that broke them so they'd run to someone who could keep it for them.
+The law was a schoolmaster, a tutor, a temporary institution with one job: drive the elect to Christ by showing them they couldn't keep it. That's it. That's the whole purpose. The law was never meant to be the believer's rule for living. It was meant to be the thing that broke them so they'd run to someone who could keep it for them.
 
 And once the schoolmaster has done its job, the student graduates. *"But after that faith is come, we are no longer under a schoolmaster"* (Galatians 3:25). The job is finished. The law accomplished its purpose. The believer moves on to Christ.
 

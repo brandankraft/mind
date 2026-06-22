@@ -130,7 +130,7 @@ The framework doesn't have a "but." God is sovereign in salvation. Period. Full 
 
 Now for the claim that gets me labeled a hyper-calvinist. And I wear the label gladly, because the label is wrong and the theology is right. (On the old predestinarian.net forum I went by *Darth Gill*, John Gill the Particular Baptist with a Sith honorific bolted on, courtesy of men who thought I was the dangerous one. My friend Greg still calls me Darth as a gag. The dark-side joke I will accept. The law of Plato that produced it I will not.)
 
-There is no common grace[^c19-commongrace]. God does not love the reprobate. He does not extend grace to the non-elect. The provision He gives to the wicked (rain, food, health, life itself) is not grace. It is common *bounty*. Providence. The sustaining of the creation for the sake of the elect who live in it. But it is not love. It is not grace. And calling it grace profanes the word.
+There is no common grace[^c19-commongrace]. God does not love the reprobate. He does not extend grace to the non-elect. The provision He gives to the wicked (rain, food, health, life itself) is not grace. It is common *bounty*, providence, the sustaining of the creation for the sake of the elect who live in it. But it is not love. It is not grace. And calling it grace profanes the word.
 
 *"When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever."* (Psalm 92:7)
 

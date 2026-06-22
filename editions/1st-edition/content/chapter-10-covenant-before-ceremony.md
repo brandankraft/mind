@@ -36,15 +36,15 @@ This is not an argument for promiscuity. This is an argument about the *nature* 
 
 *"Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."* (Genesis 2:24)
 
-The two shall become *one flesh*. This is the visible rendering of the invisible covenant. The physical union IS the covenant rendered in bodies. Not a reward for the ceremony, not a privilege earned by signing a license. It is the substance the ceremony points to.
+The two shall become *one flesh*. This is the visible rendering of the invisible covenant. The physical union IS the covenant rendered in bodies, not a reward for the ceremony, not a privilege earned by signing a license. It is the substance the ceremony points to.
 
 And Paul, in Ephesians, takes this further than most people are comfortable with:
 
 *"For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. This is a great mystery: but I speak concerning Christ and the church."* (Ephesians 5:31-32)
 
-Paul calls it a *mystery*. And then he says he's speaking concerning Christ and the church. The physical union between husband and wife IS the theological statement about Christ and the church. They're not two different meanings competing. They're two rendering resolutions of the same thought. The lower resolution: a husband and wife, bodies together, one flesh. The higher resolution: Christ and His bride, fully known, fully loved, the covenant rendered in intimacy.
+Paul calls it a *mystery*. And then he says he's speaking concerning Christ and the church. The physical union between husband and wife IS the theological statement about Christ and the church. They're not two different meanings competing. They're two rendering resolutions of the same thought. The lower resolution is a husband and wife, bodies together, one flesh. The higher resolution is Christ and His bride, fully known, fully loved, the covenant rendered in intimacy.
 
-And the Song of Solomon is the Bible being honest about both resolutions at once. The Song is not allegory OR literal. It's BOTH. Dual purpose. The physical love between a man and a woman AND the spiritual love between Christ and His church, expressed in the same language, because in the framework, they're the same thought at different rendering levels.
+And the Song of Solomon is the Bible being honest about both resolutions at once. The Song is not allegory OR literal. It's BOTH. Dual purpose. The physical love between a man and a woman AND the spiritual love between Christ and His church are expressed in the same language, because in the framework, they're the same thought at different rendering levels.
 
 And the church's embarrassment about the Song of Solomon is the law of Plato, one more time. If the body is lesser than the spirit (Plato), then sex is lesser than worship. But if matter is a rendering of God's thought, then union in the body is the covenant collapsed into flesh. The embarrassment reveals Platonic assumptions hiding in the pews. The Bible isn't ashamed of the body. Plato is.
 
@@ -67,13 +67,13 @@ And the Lord's Supper is participatory, not priestly. *"For as often as ye eat t
 
 And it is a *celebration*.
 
-The modern church has turned the Lord's Supper into a funeral. Somber music. Bowed heads. Whispered prayers. A tiny cracker and a thimble of juice passed in silence, as though the saints are attending a memorial for someone who is still dead. But Christ is not still dead. He is risen. And the table is a feast, not a wake.
+The modern church has turned the Lord's Supper into a funeral: somber music, bowed heads, whispered prayers, a tiny cracker and a thimble of juice passed in silence, as though the saints are attending a memorial for someone who is still dead. But Christ is not still dead. He is risen. And the table is a feast, not a wake.
 
 The Bible has what Bob Higby once called a "theology of wine." Noah planted a vineyard after the flood and the promise. David wrote that *"wine maketh glad the heart of man"* (Psalm 104:15). And Isaiah described the eschatological banquet in terms no somber ritual can contain:
 
 *"And in this mountain shall the Lord of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined. And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations. He will swallow up death in victory; and the Lord God shall wipe away tears from off all faces."* (Isaiah 25:6-8)
 
-A feast of fat things, wines well refined, death swallowed up, every tear wiped away. That is the substance the Lord's Supper renders. Not a memorial for a dead man. A preview of the feast that never ends. The early church understood this. Their communion was an agape feast, a full meal shared in fellowship, the highest point of their week, a celebration of the resurrection. It looked nothing like the "snippet and sip" that most churches practice today. There was no privatistic meditation. No fearful silence. There was joy and fellowship. Wine that was wine, not grape juice. And the saints looked forward to it because it was the closest they came on earth to the table they would share with Christ in the higher resolution rendering.
+A feast of fat things, wines well refined, death swallowed up, every tear wiped away. That is the substance the Lord's Supper renders, not a memorial for a dead man but a preview of the feast that never ends. The early church understood this. Their communion was an agape feast, a full meal shared in fellowship, the highest point of their week, a celebration of the resurrection. It looked nothing like the "snippet and sip" that most churches practice today. There was no privatistic meditation. No fearful silence. There was joy and fellowship. Wine that was wine, not grape juice. And the saints looked forward to it because it was the closest they came on earth to the table they would share with Christ in the higher resolution rendering.
 
 *"For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come."* (Luke 22:18)
 

@@ -32,7 +32,7 @@ The standard Reformed position on how God relates to His people is called *feder
 
 And I reject this entirely.
 
-Not because I'm soft on the doctrine of original sin. I believe all men are sinners. I believe all men are born in depravity. I believe no man can save himself or contribute anything to his own salvation. I believe *"there is none righteous, no, not one"* (Romans 3:10). I believe all of that. What I don't believe is the *mechanism* of federal headship.
+It is not that I'm soft on the doctrine of original sin. I believe all men are sinners. I believe all men are born in depravity. I believe no man can save himself or contribute anything to his own salvation. I believe *"there is none righteous, no, not one"* (Romans 3:10). I believe all of that. What I don't believe is the *mechanism* of federal headship.
 
 Here's why. Federal headship is a legal fiction. It requires that the guilt of one man be legally transferred to billions of people who didn't exist yet, through a representative mechanism they didn't agree to, under a contract they never signed. That's a contract, not a covenant. It's a legal framework imposed from the outside, not a personal relationship experienced from the inside.
 

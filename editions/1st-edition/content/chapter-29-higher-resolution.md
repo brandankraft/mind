@@ -62,7 +62,7 @@ They walked with Him for miles. They talked with Him. They reasoned with Him. An
 
 Their eyes were opened. Note that carefully. The text doesn't say Jesus changed. The text says their *eyes* were opened. The change was in their perception, not in His appearance. His rendering was already at higher resolution. Their firmware needed a moment to adjust. They recognized Him in the breaking of bread: a gesture, a habit, a signature of who He was. Not the surface. The signature.
 
-This is what the higher resolution rendering preserves. Not the surface appearance, not the exact arrangement of features. The *person*. The voice. The habits. The way He breaks bread. The way He says your name. The higher resolution rendering doesn't make you *less* you. It makes you *more* you. It strips away the rendering constraints that were limiting the expression of who you are, and what's left is the clearest, most faithful rendering of the original thought that God ever expressed.
+This is what the higher resolution rendering preserves: not the surface appearance, not the exact arrangement of features, but the *person*, the voice, the habits, the way He breaks bread, the way He says your name. The higher resolution rendering doesn't make you *less* you. It makes you *more* you. It strips away the rendering constraints that were limiting the expression of who you are, and what's left is the clearest, most faithful rendering of the original thought that God ever expressed.
 
 Mary recognized Him by His voice. The Emmaus disciples recognized Him in the breaking of bread. The higher resolution body preserves the *signature*, not the surface.
 

@@ -79,7 +79,7 @@ The framework refuses to soften the Fatherhood with sentiment and refuses to har
 
 I have never held to eternal generation. I just never named the denial in print until now.
 
-Eternal generation. The Son eternally begotten of the Father, before all worlds, of one substance with the Father, light from light, true God from true God. Nicene. Constantinopolitan. Reformed. Lutheran. Catholic. Orthodox. The broadest theological consensus there is. And for years I let the language sit unchallenged in conversations and creeds because picking that fight cost more than I had to spend at the time. *The framework finally requires that I name what I have always seen.*
+Eternal generation. The Son eternally begotten of the Father, before all worlds, of one substance with the Father, light from light, true God from true God. Nicene, Constantinopolitan, Reformed, Lutheran, Catholic, Orthodox: the broadest theological consensus there is. And for years I let the language sit unchallenged in conversations and creeds because picking that fight cost more than I had to spend at the time. *The framework finally requires that I name what I have always seen.*
 
 The floor under eternal generation is Plotinus.
 

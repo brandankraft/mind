@@ -50,7 +50,7 @@ Animals have hardware, sophisticated biological brains that process information 
 
 But animals do not have an application layer. *"And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth"* (Genesis 1:26). As we established in Chapter 12, the "man" in this verse is elect man, not humanity universally. But the *dominion* described here requires the application layer, and all humans have that. Dominion requires reflection. Dominion requires thinking about thinking. Animals feel but they can't *reflect on* their feelings. A dog feels fear but cannot ask "why am I afraid?" A dog feels loyalty but cannot examine the nature of loyalty. A dog has experiences but cannot construct a theory of experience. Animals live inside their firmware and operating system. They don't stand above it and examine it.
 
-Humans do. Humans can think about thinking. They can examine their own presuppositions, ask "why do I believe what I believe?", build frameworks that explain their own existence, write systematic theologies. They can do what I'm doing right now: building a multi-layered model of the mind and using it to examine the nature of the mind that built it. The application layer is what makes human beings unique among all physical creatures. Every human being has it. Elect and reprobate alike. Nietzsche could think about thinking. So could Pharaoh.
+Humans do. Humans can think about thinking. They can examine their own presuppositions, ask "why do I believe what I believe?", build frameworks that explain their own existence, write systematic theologies. They can do what I'm doing right now: building a multi-layered model of the mind and using it to examine the nature of the mind that built it. The application layer is what makes human beings unique among all physical creatures. Every human being has it, elect and reprobate alike. Nietzsche could think about thinking. So could Pharaoh.
 
 But the application layer is not the image of God.
 
@@ -102,7 +102,7 @@ I'm anti-materialist-psychology. I'm not against understanding how the mind work
 
 **"If therapy can't change the firmware, therapy is worthless."**
 
-No. Therapy can help at the application layer. Reframing, coping, understanding patterns, managing anxiety, processing trauma. All real, all valuable, all legitimate uses of the tools available at the application layer. But therapy can't do what only the Spirit can do. Therapy can teach you to live more wisely with your boot parameters. Regeneration changes them. Both are real. Both have value. They just operate at different layers.
+No. Therapy can help at the application layer: reframing, coping, understanding patterns, managing anxiety, processing trauma. All real, all valuable, all legitimate uses of the tools available at the application layer. But therapy can't do what only the Spirit can do. Therapy can teach you to live more wisely with your boot parameters. Regeneration changes them. Both are real. Both have value. They just operate at different layers.
 
 **"If only the Spirit can change the firmware, Christians should avoid therapy."**
 

@@ -125,7 +125,7 @@ Don't explain the sovereignty. Not first. Not yet. The man whose wife just died 
 
 The sovereign grace believer has a unique temptation in grief: to theologize too fast. "God ordained this." "It's all part of the plan." "He's in a better place." All of that may be true. None of it helps in the first hour. The theology is for the second week. The first hour needs presence.
 
-*"Rejoice with them that do rejoice, and weep with them that weep"* (Romans 12:15). Paul didn't say "explain sovereignty to them that weep." He said WEEP. Match the frequency. Be in the frame with them. The theology can hold the grief -- but the theology arrives through relationship, not through lecture.
+*"Rejoice with them that do rejoice, and weep with them that weep"* (Romans 12:15). Paul didn't say "explain sovereignty to them that weep." He said WEEP. Match the frequency. Be in the frame with them. The theology can hold the grief, but the theology arrives through relationship, not through lecture.
 
 When the time comes (and the grieving person will tell you when, because the question will come out of their mouth, not yours) then you can say what the framework says. God ordained this frame. He was not surprised by it. He was not absent from it. He was not watching helplessly while evil happened to your family. He wrote this frame, and He wrote the next one, and the next one, and He holds every frame simultaneously, including the one where the pain stops. That is not a comfortable answer. But it is an honest one. And an honest answer from a God who holds you is better than a comfortable answer from a theology that doesn't know what to do with suffering.
 

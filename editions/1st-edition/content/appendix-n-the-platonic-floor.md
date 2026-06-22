@@ -392,7 +392,7 @@ The insight that mind precedes matter. The insight that the invisible authors th
 
 ### What Operational Idealism Rejects From Plato
 
-The body-soul hierarchy. The Republic ethics. The Plotinus-corrupted realist hierarchy that came after. The framework rejects all three because all three contradict Scripture and produce the costumes catalogued above.
+The body-soul hierarchy, the Republic ethics, the Plotinus-corrupted realist hierarchy that came after: the framework rejects all three because all three contradict Scripture and produce the costumes catalogued above.
 
 ### The Personal Mind: The Missing Piece
 
@@ -452,7 +452,7 @@ Plato gave the world an insight (idealism) and three errors (body-soul hierarchy
 
 I did not know I was fighting Plato when I started writing sovereign grace material as a young man. I thought I was fighting many enemies in many costumes. At fifty-one I see the unity. The book is what I was finally able to write when I saw it. The framework is the alternative floor offered.
 
-If the reader has come this far, the reader has heard the diagnosis under all the diagnoses. Paul gave the general warning in the first century: *"Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ"* (Colossians 2:8). He did not name Plato by name; he did not have to. He named the category. Greek philosophy, tradition of men, rudiments of the world, anything not-after-Christ.
+If the reader has come this far, the reader has heard the diagnosis under all the diagnoses. Paul gave the general warning in the first century: *"Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ"* (Colossians 2:8). He did not name Plato by name; he did not have to. He named the category: Greek philosophy, tradition of men, rudiments of the world, anything not-after-Christ.
 
 Paul's warning was timely because the infection had already begun. Greek philosophy was in the water the early church breathed. By the second century the Apologists were identifying Christ with the Greek *Logos* (Justin Martyr), by the third century the Alexandrian school was fusing Scripture with Middle Platonism (Clement, Origen), and by the fourth century the Cappadocians were thinking in Neoplatonic categories natively. Plotinus (3rd c) gave the system its hierarchical realist corruption. Augustine (4th-5th c) systematized that corruption for the Western Latin tradition, and Pseudo-Dionysius (5th-6th c) did the parallel work for the Eastern Greek tradition. The infection was not a late arrival. It was co-temporal with the church's theological formation, and it deepened with each generation that inherited what the previous one had received.
 

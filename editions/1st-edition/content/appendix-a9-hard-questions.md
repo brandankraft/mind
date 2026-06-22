@@ -37,7 +37,7 @@ And Isaiah 49:15-16 says: *"Can a woman forget her sucking child, that she shoul
 
 ## On Natural Disasters
 
-Earthquakes, hurricanes, tsunamis, wildfires. Not punishment for specific sins. Jesus addressed this directly:
+Earthquakes, hurricanes, tsunamis, wildfires: not punishment for specific sins. Jesus addressed this directly:
 
 *"Those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem? I tell you, Nay"* (Luke 13:4-5).
 
@@ -83,7 +83,7 @@ The most explicit reprobate in Scripture. And the strongest test case for the fr
 
 Jesus chose Judas knowing what he was. *"Have not I chosen you twelve, and one of you is a devil?"* (John 6:70). A devil. Not "will become a devil." Is a devil. Present tense. Ontological, not behavioral.
 
-*"The Son of man goeth as it was written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born"* (Matthew 26:24). As it was written. The betrayal was in the script. The Author wrote it. Judas was a thought God was thinking -- a vessel of wrath fitted to destruction, authored to betray Christ as part of the eternal decree.
+*"The Son of man goeth as it was written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born"* (Matthew 26:24). As it was written. The betrayal was in the script. The Author wrote it. Judas was a thought God was thinking, a vessel of wrath fitted to destruction, authored to betray Christ as part of the eternal decree.
 
 *"Him, being delivered by the determinate counsel and foreknowledge of God, ye have taken, and by wicked hands have crucified and slain"* (Acts 2:23). Determinate counsel. Not permission. Not foresight. Counsel. Plan. Purpose. The crucifixion was authored. Judas's role in it was authored. And the authoring doesn't excuse the wickedness. Both things are true at once: it was God's plan, and it was Judas's sin. The Author wrote the villain, and the villain is still the villain.
 
@@ -161,19 +161,19 @@ Christianity will survive the age of AI for the same reason it survived the age 
 
 The Lord's Prayer is a model, not a liturgy. Christ gave it as a pattern for prayer, not a script to be recited. The phrases map to the framework:
 
-*"Our Father which art in heaven"* -- the Author is personal. Not a force. A Father.
+*"Our Father which art in heaven"*: the Author is personal. Not a force. A Father.
 
-*"Hallowed be thy name"* -- His character is the foundation. Before any request, there is worship.
+*"Hallowed be thy name"*: His character is the foundation. Before any request, there is worship.
 
-*"Thy kingdom come. Thy will be done in earth, as it is in heaven"* -- the rendering upgrade. Earth matching heaven. The prayer asks for what is already decreed: the full resolution rendering.
+*"Thy kingdom come. Thy will be done in earth, as it is in heaven"*: the rendering upgrade. Earth matching heaven. The prayer asks for what is already decreed: the full resolution rendering.
 
-*"Give us this day our daily bread"* -- dependence. The Author sustains. We receive.
+*"Give us this day our daily bread"*: dependence. The Author sustains. We receive.
 
-*"Forgive us our debts, as we forgive our debtors"* -- not a condition of salvation. An expression of the forgiven heart forgiving others. The fruit, not the root.
+*"Forgive us our debts, as we forgive our debtors"*: not a condition of salvation. An expression of the forgiven heart forgiving others. The fruit, not the root.
 
-*"Lead us not into temptation, but deliver us from evil"* -- a recognition that the Author orchestrates the trials and the deliverance. Both authored. We pray for both because the prayer is the communion (Chapter 21).
+*"Lead us not into temptation, but deliver us from evil"*: a recognition that the Author orchestrates the trials and the deliverance. Both authored. We pray for both because the prayer is the communion (Chapter 21).
 
-*"For thine is the kingdom, and the power, and the glory, for ever"* -- the sentence, compressed. Everything is His. The thought returns to the Thinker.
+*"For thine is the kingdom, and the power, and the glory, for ever"*: the sentence, compressed. Everything is His. The thought returns to the Thinker.
 
 **For further study:** 1 Chron. 29:11; Ps. 103:19; Matt. 6:5-8; Matt. 7:7-11; Luke 11:1-13; Luke 18:1-8; John 14:13-14; John 15:7; John 16:23-24; Rom. 8:26-27; Eph. 6:18; Phil. 4:6-7; Col. 4:2; 1 John 5:14-15.
 

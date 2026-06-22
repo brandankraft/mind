@@ -54,7 +54,7 @@ But the Olivet Discourse (Matthew 24, Mark 13, Luke 21) is largely about the des
 
 *"Verily I say unto you, This generation shall not pass, till all these things be fulfilled."* (Matthew 24:34)
 
-*This generation.* Not a future generation two thousand years later. The generation standing in front of Jesus. And within forty years, the Roman army destroyed Jerusalem, leveled the temple, and scattered the Jewish nation. The abomination of desolation. The fleeing to the mountains. The tribulation. The signs in the heavens. All of it happened in AD 70, to the generation Jesus was speaking to.
+*This generation.* Not a future generation two thousand years later. The generation standing in front of Jesus. And within forty years, the Roman army destroyed Jerusalem, leveled the temple, and scattered the Jewish nation. The abomination of desolation, the fleeing to the mountains, the tribulation, the signs in the heavens: all of it happened in AD 70, to the generation Jesus was speaking to.
 
 The early church understood this. It's only the modern church, saturated in dispensational futurism, that reads Matthew 24 as if it's entirely about the twenty-first century. Jesus was answering a specific question from His disciples: *"When shall these things be? and what shall be the sign of thy coming, and of the end of the world?"* (Matthew 24:3). And He answered both questions. The destruction of the temple was near. The end of the world was distant. The discourse weaves both together, and the interpreter's job is to distinguish between the near fulfillment and the far.
 
@@ -86,9 +86,9 @@ Premillennialism, especially in its dispensational form, is the eschatological s
 
 Dispensational premillennialism requires a physical kingdom. A literal thousand-year reign of Christ on earth, sitting on a physical throne in physical Jerusalem, governing physical nations with physical laws. It requires a rebuilt temple with reinstated animal sacrifices. It requires a distinction between Israel and the church as two separate peoples of God with two separate destinies.
 
-And every one of those requirements puts the visible before the invisible. The physical throne before the spiritual reign, the rebuilt temple before the indwelling Spirit, the geopolitical nation before the covenant people. It's the same error this book has been attacking since Chapter 1, applied to eschatology. The kingdom is *not* of this world. The kingdom is within you. The covenant precedes the ceremony, and the spiritual kingdom precedes any physical expression of it.
+And every one of those requirements puts the visible before the invisible: the physical throne before the spiritual reign, the rebuilt temple before the indwelling Spirit, the geopolitical nation before the covenant people. It's the same error this book has been attacking since Chapter 1, applied to eschatology. The kingdom is *not* of this world. The kingdom is within you. The covenant precedes the ceremony, and the spiritual kingdom precedes any physical expression of it.
 
-And the prophecy charts. The timelines. The date calculations. The newspaper exegesis. The entire infrastructure of dispensational eschatology has more in common with institutional formality than with personal covenant. It turns the book of Revelation into a puzzle to be solved rather than a story to be lived. And it has produced more false predictions and more embarrassed prophets than any other system in the history of the church.
+And the prophecy charts, the timelines, the date calculations, the newspaper exegesis: the entire infrastructure of dispensational eschatology has more in common with institutional formality than with personal covenant. It turns the book of Revelation into a puzzle to be solved rather than a story to be lived. And it has produced more false predictions and more embarrassed prophets than any other system in the history of the church.
 
 ## Why Not Postmillennialism?
 

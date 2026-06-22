@@ -26,11 +26,11 @@ The law is a *curse*. Paul doesn't call it a different administration of grace. 
 
 *"Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made."* (Galatians 3:19)
 
-The law was *added*. Added to what? Added to the covenant of grace that was already running. The law didn't replace the covenant of grace. It didn't absorb it. It didn't become it. It was added on top of it. A separate thing. A covenant of works. A curse meant to increase transgressions and shut the elect up in Christ.
+The law was *added*. Added to what? Added to the covenant of grace that was already running. The law didn't replace the covenant of grace. It didn't absorb it. It didn't become it. It was added on top of it: a separate thing, a covenant of works, a curse meant to increase transgressions and shut the elect up in Christ.
 
 *"Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith."* (Galatians 3:24)
 
-The law was a schoolmaster. Not a covenant of grace. A tutor. A temporary institution with a specific purpose: to drive the elect to Christ by showing them they couldn't keep it.
+The law was a schoolmaster, not a covenant of grace. It was a tutor, a temporary institution with a specific purpose: to drive the elect to Christ by showing them they couldn't keep it.
 
 So in the Old Testament, two covenants ran simultaneously:
 

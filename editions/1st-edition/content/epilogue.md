@@ -133,8 +133,8 @@ I want to spend the rest of my life feeding Christ's sheep. That is all I want. 
 
 The Apostle Paul made tents. I write software. And the gospel goes out the same way it always has, through men who have nothing to sell and nothing to prove, who received freely and give freely, and who answer to no one but the Lord who called them.
 
-I am free. A sweet release from the captivity of the institution. And I intend to stay that way.
+I am free, a sweet release from the captivity of the institution. And I intend to stay that way.
 
-And now I am at peace. Not the peace of a man who has no problems. The peace of a man who knows the Author wrote the problems and the peace and holds both in the same thought. That is the warmest truth I know. And I would not trade it for anything in the world.
+And now I am at peace, not the peace of a man who has no problems, but the peace of a man who knows the Author wrote the problems and the peace and holds both in the same thought. That is the warmest truth I know. And I would not trade it for anything in the world.
 
 To Him Be the Glory Forever and Ever!!!

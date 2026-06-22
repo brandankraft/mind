@@ -65,7 +65,7 @@ That is not a footnote in Acts. That is Paul's theology of ministry in action. T
 
 Paul had the RIGHT to be supported. He says so in 1 Corinthians 9:14: *"Even so hath the Lord ordained that they which preach the gospel should live of the gospel."* The right exists. He didn't deny it. But he chose not to use it, because a gospel that comes with a bill is a gospel that looks like a product. And Paul wouldn't let the message look like merchandise.
 
-The modern church has built an entire professional class on the right Paul refused to exercise. Full-time salaried pastors. Compensation packages. Parsonages. Retirement plans. Health insurance. Performance reviews tied to baptism numbers. And the result is a clergy class that cannot preach against the institution that pays them. The hireling problem isn't hypothetical. It's structural. When your mortgage depends on the church budget, your conscience is not free.
+The modern church has built an entire professional class on the right Paul refused to exercise: full-time salaried pastors, compensation packages, parsonages, retirement plans, health insurance, performance reviews tied to baptism numbers. And the result is a clergy class that cannot preach against the institution that pays them. The hireling problem isn't hypothetical. It's structural. When your mortgage depends on the church budget, your conscience is not free.
 
 *"The hireling fleeth, because he is an hireling, and careth not for the sheep."* (John 10:13)
 
@@ -93,7 +93,7 @@ I don't sign confessions. That's the campless identity (Preface), not because co
 
 But I don't sign them because every confession contains the errors of the men who wrote it alongside the truths they saw. And signing requires endorsing the whole. I'd rather derive my positions from the sentence and arrive where I arrive, even if no existing confession contains me.
 
-The framework produces a man who reads every confession with appreciation and signs none. Who agrees with Westminster on the decrees and disagrees on federal headship. Who agrees with London on baptism and disagrees on the covenant of works. Who agrees with Dort on particular redemption and goes further on equal ultimacy. He is campless, not because the camps have nothing to offer, but because no camp has everything.
+The framework produces a man who reads every confession with appreciation and signs none, who agrees with Westminster on the decrees and disagrees on federal headship, who agrees with London on baptism and disagrees on the covenant of works, who agrees with Dort on particular redemption and goes further on equal ultimacy. He is campless, not because the camps have nothing to offer, but because no camp has everything.
 
 **For further study:** Deut. 29:29; Ps. 119:105; Prov. 30:5-6; Acts 17:11; Rom. 14:1-5; 1 Cor. 4:6; Gal. 1:8-9; Eph. 4:14; 2 Tim. 1:13; 2 Tim. 3:16-17; 2 Pet. 1:20-21; Rev. 22:18-19.
 
