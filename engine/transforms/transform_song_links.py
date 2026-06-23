@@ -50,7 +50,7 @@ SONGS = [
     # relentless, right on the doctrine and cruel in the delivery.
     (
         'chapter-19.html',
-        'John Gill the Particular Baptist with a Sith honorific bolted on',
+        'Particular Baptist with a Sith honorific',
         "outside-the-camp",
         "The Sharpest Sword",
         "Outside the Camp",
@@ -290,7 +290,7 @@ SONGS = [
     # Chapter 14: "Small and Great" before "Degrees of Punishment, Not Degrees of Grace"
     (
         'chapter-14.html',
-        'infinitely covered by the blood of\nChrist.',
+        'infinitely covered by the',
         "sweet-release",
         "Small and Great",
         "Sweet Release",
@@ -345,7 +345,7 @@ SONGS = [
     # Frame breathing room (was stacked one paragraph apart).
     (
         'chapter-15.html',
-        'God\u2019s mind is the\none that matters.',
+        'And God\u2019s mind is the one',
         "in-the-little-things",
         "It is Finished!",
         "In the Little Things",
@@ -353,7 +353,7 @@ SONGS = [
     # Chapter 15: "Preserved in His Grace" after the line about preservation while ignorant
     (
         'chapter-15.html',
-        'were preserved even while ignorant of Him.',
+        'preserved even while ignorant of Him.',
         "in-the-little-things",
         "Preserved in His Grace",
         "In the Little Things",
@@ -370,7 +370,7 @@ SONGS = [
     # names the very thing the section rebukes (gatekeepers, boxes, creeds-as-cages)
     (
         'chapter-21.html',
-        'they become the yoke of bondage that Christ died to\nbreak.',
+        'the yoke of bondage that Christ died to break.',
         "break-the-cage",
         "Sugar Water",
         "Break the Cage",
@@ -410,7 +410,7 @@ SONGS = [
     # Appendix A5: "Stop Puttin' God in a Box" at the close of "On Creeds and Confessions"
     (
         'appendix-a5.html',
-        'Because no camp has everything.',
+        'because no camp has',
         "break-the-cage",
         "Stop Puttin\u2019 God in a Box",
         "Break the Cage",
@@ -456,7 +456,7 @@ SONGS = [
     # "On Using Theology as a Weapon"
     (
         'appendix-a10.html',
-        'And I did it all in the\nname of defending the Gospel.',
+        'did it all in the name of',
         "from-pride-to-praise",
         "Our Pride Monster",
         "From Pride to Praise",
@@ -488,7 +488,7 @@ SONGS = [
     # Appendix A9: "Your Knowledge Won't Save You" at the opening of "On Judas"
     (
         'appendix-a9.html',
-        'And the strongest test case\nfor the framework.',
+        'test case for the framework.',
         "break-the-cage",
         "Your Knowledge Won't Save You",
         "Break the Cage",
@@ -514,7 +514,7 @@ SONGS = [
     # in "On the Thief on the Cross"
     (
         'appendix-a10.html',
-        'The thief exposes every\ngatekeeper.',
+        'thief exposes about every gatekeeper',
         "from-pride-to-praise",
         "The Thief",
         "From Pride to Praise",
@@ -631,7 +631,7 @@ SONGS = [
     # dust across the floor") and Christ reaching in -- placed before A Final Word.
     (
         'appendix-a11.html',
-        'dreading it. He was eager for it.',
+        'He was eager for it.',
         "sweet-release",
         "The Chamber",
         "Sweet Release",
@@ -780,7 +780,7 @@ SONGS = [
     # to Cole as the last word after "Grace and Peace, Brandan".
     (
         'epilogue.html',
-        'Grace and Peace, Brandan',
+        'I love you, son.',
         "sweet-release",
         "I Just Want You to Understand",
         "Sweet Release",
@@ -971,7 +971,7 @@ SONGS = [
     # directly-authored sin nature, Orthodox convergence in the bridge.
     (
         'chapter-11.html',
-        'And I reject it.',
+        'And I reject it,',
         "ditch-the-garbage",
         "Adam Didn\u2019t Sign My Name",
         "Ditch the Garbage!",
@@ -1169,7 +1169,7 @@ SONGS = [
     # hierarchy smuggled into Christian theology through Augustine.
     (
         'appendix-i.html',
-        'inherited both without reexamination.',
+        'inherited both without',
         "ditch-the-garbage",
         "Plato in a Suit",
         "Ditch the Garbage!",
@@ -1317,7 +1317,7 @@ SONGS = [
     # grace doing every link; lands on the "whole ordo" paragraph.
     (
         'appendix-a3.html',
-        'Grace precedes. Grace prepares. Grace arrives.',
+        'Grace precedes, prepares, and arrives.',
         'sing-anyway',
         'He Did It All',
         'Sing Anyway',
@@ -1362,7 +1362,7 @@ SONGS = [
     # not a building.
     (
         'chapter-23.html',
-        'a pastor, a board, and a tax exemption',
+        'a pastor, a board, and a',
         'sing-anyway',
         'A Camp With No Walls',
         'Sing Anyway',
@@ -1479,6 +1479,69 @@ SONGS = [
         "made-of-light",
         "Brighter Than I Dreamed",
         "Made of Light",
+    ),
+
+    # ---- Thin Places (album 13, partial launch 2026-06-22) -- female Celtic
+    # rock storytelling record. 6 roadmap-vetted chips for released tracks
+    # (Christ Before Me and The Wandering Saint stay chip-less for now -- no
+    # single-passage doctrinal home; Foothills unreleased). ----
+
+    # Thin Places (album opener / thesis): Appendix J, the Acts 17:28 IN-Him
+    # climax. The song IS the no-distance thesis. Distinct from "The gap is
+    # gone." (The Room I Was Already In) earlier in the appendix.
+    (
+        'appendix-j.html',
+        'Not alongside Him. Not across a',
+        "thin-places",
+        "Thin Places",
+        "Thin Places",
+    ),
+    # Two Seeds: Chapter 12 (The Two Seeds), the opening declaration. Gen 3:15,
+    # ontological two seeds, no choice -- the song's exact doctrine.
+    (
+        'chapter-12.html',
+        'Not one seed divided into two camps',
+        "thin-places",
+        "Two Seeds",
+        "Thin Places",
+    ),
+    # From the Womb: Chapter 11, the directly-authored-from-the-womb line
+    # (Ps 139, each soul authored by God, no federal headship).
+    (
+        'chapter-11.html',
+        'set apart from the womb according to His purpose.',
+        "thin-places",
+        "From the Womb",
+        "Thin Places",
+    ),
+    # The Calling: Chapter 16 (The Firmware), the effectual-call declaration --
+    # "Only the Holy Spirit has root access to the human soul." Monergism,
+    # resurrection-not-offer, the song's exact thesis.
+    (
+        'chapter-16.html',
+        'Only the Holy Spirit has root access to the human soul.',
+        "thin-places",
+        "The Calling",
+        "Thin Places",
+    ),
+    # The Keening: Appendix A6, the grief-at-the-seam section. The caoineadh --
+    # sovereignty does not dissolve grief, only bitterness. Lands on "The hope
+    # does not abolish the grief."
+    (
+        'appendix-a6.html',
+        'The hope does not abolish the grief.',
+        "thin-places",
+        "The Keening",
+        "Thin Places",
+    ),
+    # The Bridegroom's Table: Appendix A6, the marriage-supper-of-the-Lamb
+    # passage. Covenant companion persists, the feast, widest arms.
+    (
+        'appendix-a6.html',
+        'Revelation 19 brings the marriage supper of the Lamb',
+        "thin-places",
+        "The Bridegroom's Table",
+        "Thin Places",
     ),
 ]
 
