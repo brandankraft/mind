@@ -31,13 +31,13 @@ I have watched men weaponize this verse for thirty years. I have watched pastors
 
 Let me tell you the moment it crystallized for me.
 
-I was at Conrad Murrell's church camp in Louisiana one year. Grace-preaching brethren. A meeting that should have been holding the husband's command as tightly as the wife's. A preacher stood up and made a joke. He said that if he called his wife up on the phone and ordered her to burn the house down, he better hear the match striking the box on the phone before he hung up.
+I was at Conrad Murrell's church camp in Louisiana one year, among grace-preaching brethren, at a meeting that should have been holding the husband's command as tightly as the wife's. A preacher stood up and made a joke. He said that if he called his wife up on the phone and ordered her to burn the house down, he better hear the match striking the box on the phone before he hung up.
 
 The whole church laughed.
 
-I did not laugh. Something turned in me. Not at the preacher specifically. At what the laugh had told me about the room. The men in the room had heard absolute wifely compliance to a husband's order as funny. Bold. Admirable. They had not heard it as a violation of the standard Paul actually set six verses later, *Christ-crucified.* The husband does not get to play match-and-matchbox with his wife's life. The husband is the one being told to die.
+I did not laugh. Something turned in me, not at the preacher specifically, but at what the laugh had told me about the room. The men in the room had heard absolute wifely compliance to a husband's order as funny. Bold. Admirable. They had not heard it as a violation of the standard Paul actually set six verses later, *Christ-crucified.* The husband does not get to play match-and-matchbox with his wife's life. The husband is the one being told to die.
 
-That was the moment I realized we had a problem. Not just a few bad apples weaponizing the verse. A roomful of grace men laughing at a joke whose premise was that their wives owe them obedience to any command. The room heard the joke and did not wince because the room had been trained to read the wife's submission as the loud verse and the husband's death as decoration. That is exactly backwards. And the laughing was the proof.
+That was the moment I realized we had a problem: not just a few bad apples weaponizing the verse, but a roomful of grace men laughing at a joke whose premise was that their wives owe them obedience to any command. The room heard the joke and did not wince because the room had been trained to read the wife's submission as the loud verse and the husband's death as decoration. That is exactly backwards. And the laughing was the proof.
 
 I have been preaching against the laugh ever since.
 
@@ -177,7 +177,7 @@ The answer is not condemnation, not celebration. The answer is Christ. *"We drin
 
 Before we can answer that, we have to define the question, because "premarital sex" is not one category. It is at least two, and the framework treats them differently.
 
-Category one: sex between two people who have made no covenant at all, no mutual commitment before God, no intention to be one flesh for life, just attraction, opportunity, and the flesh. This is what the Bible calls fornication, and the framework has no complicated answer for it. It is sin, not because the acts are dirty, the Song of Solomon already settled that, but because the body is rendering a covenant that does not exist. The ceremony with no substance. The invisible precedes the visible in every domain (Chapter 10), and this is the inversion the framework keeps refusing. Fornication is the rendering of a union that has no reality underneath it. Paul names it. *"Flee fornication"* (1 Corinthians 6:18). No softening. No middle category. No exception.
+Category one: sex between two people who have made no covenant at all, no mutual commitment before God, no intention to be one flesh for life, just attraction, opportunity, and the flesh. This is what the Bible calls fornication, and the framework has no complicated answer for it. It is sin, not because the acts are dirty, the Song of Solomon already settled that, but because the body is rendering a covenant that does not exist, the ceremony with no substance. The invisible precedes the visible in every domain (Chapter 10), and this is the inversion the framework keeps refusing. Fornication is the rendering of a union that has no reality underneath it. Paul names it. *"Flee fornication"* (1 Corinthians 6:18). No softening. No middle category. No exception.
 
 Category two is harder, and it is the category most young Christian couples actually find themselves in. A man and a woman who genuinely love each other. Who have committed themselves to one another before God. Who intend to be one flesh for life. Who have made the covenant in their hearts and perhaps even spoken it between themselves. And who now ask: if marriage is the covenant, and we have already made the covenant, why does a piece of paper from the state determine whether the bed is undefiled?
 
@@ -199,11 +199,11 @@ First, the framework distinguishes substance from ceremony, and the ceremony mat
 
 Second, the risk of self-deception is enormous. The flesh is an expert at renaming its wants. "I love her" is easy to say. "I have made a covenant with her before God, intending to spend the rest of my life honoring and sacrificing for her through sickness, poverty, boredom, her mother's cancer, and every hard frame the Author has written for us" is a different sentence. Almost nobody who has said the first sentence has said the second. And the test of whether the second sentence is true is whether you will say it in public, in front of both families, in front of God's people, with witnesses, under the expectation that you will be held to it for life. If you will not, you have not made a covenant. You have made an intention. Intentions and covenants feel the same in the moment. They are not the same in the morning.
 
-Third, the protection of the weaker party is real. In almost every case, the cost of a failed "private covenant" falls harder on the woman than the man. She bears the pregnancy risk, the social cost, the emotional aftermath, and the economic consequences of a man who walked away from something he said he would not walk away from. The public ceremony is the mechanism that makes walking away legally and socially expensive. A man who will not marry his beloved in public has either not yet made the covenant, or has made it without wanting to pay the cost of defending it. Either way, the woman is safer with the paperwork done.
+Third, the protection of the weaker party is real. In almost every case, the cost of a failed "private covenant" falls harder on the woman than the man. She bears the pregnancy risk, the social cost, the emotional aftermath, and the economic consequences of a man who walked away from a commitment he had promised to keep. The public ceremony is the mechanism that makes walking away legally and socially expensive. A man who will not marry his beloved in public has either not yet made the covenant, or has made it without wanting to pay the cost of defending it. Either way, the woman is safer with the paperwork done.
 
 Fourth, Paul's counsel points this exact direction. *"If they cannot contain, let them marry: for it is better to marry than to burn"* (1 Corinthians 7:9). Paul does not say "if you cannot contain, privately covenant and proceed." He says marry. Publicly. Formally. With the community present. He treats the public ceremony as the solution to the pressure of premarital desire. Not a bypass. A resolution. The flesh's wanting is not the enemy. The unchaperoned wanting that skips the public covenant is.
 
-Fifth, the framework's own posture toward liberty (Chapter 21) applies here. Liberty is not license. The Christian is free from the law, but the Spirit writes the commandments on the heart, and one of the things the Spirit writes on the heart of a man who loves a woman is "protect her, honor her, make the commitment public, do not use private theology to take what the public covenant has not yet given you access to." The man who hears that voice and overrides it with "but we've already covenanted" is listening to a different voice.
+Fifth, the framework's own posture toward liberty (Chapter 21) applies here. Liberty is not license. The Christian is free from the law, but the Spirit writes the commandments on the heart, and one of the things the Spirit writes on the heart of a man who loves a woman is "protect her, honor her, make the commitment public, do not use private theology to take what the public covenant has not yet granted you." The man who hears that voice and overrides it with "but we've already covenanted" is listening to a different voice.
 
 So to the young couple who asks whether a state-sanctioned ceremony is really necessary, the framework's answer has two parts.
 
@@ -213,7 +213,7 @@ Practically and pastorally, yes, not because the state has authority over the co
 
 What this means operationally. Do not have sex before the public ceremony, not because the state is the gatekeeper of your covenant, but because the public ceremony is the point at which you can know for certain that your covenant is real. Everything before that moment is intention. Everything after is covenant. And the acts the Song of Solomon celebrates belong inside the covenant, because the covenant is the only container that makes those acts worship instead of appetite.
 
-If you are engaged, marry sooner rather than later. Paul's counsel is not optional. The flesh wants what it wants. The solution is not to redefine when the covenant was made. The solution is to make the covenant, publicly and formally, and get on with the life God designed you for. *"It is better to marry than to burn."* He was not hedging. He was offering the prescription.
+If you are engaged, marry sooner rather than later. Paul's counsel is not optional. The flesh wants what it wants. The solution is not to redefine when the covenant was made. The solution is to make the covenant, publicly and formally, and get on with the life for which God designed you. *"It is better to marry than to burn."* He was not hedging. He was offering the prescription.
 
 If you have already acted ahead of the public ceremony, hear the framework carefully. The blood covers everything the cross was poured out for, and the cross did not skip this row.
 
@@ -255,13 +255,13 @@ The Song of Solomon celebrates the female body. The framework celebrates the fem
 
 **What pornography does to the wiring.**
 
-Neuroscience has caught up with what the framework predicted. Regular pornography use trains the firmware. The brain's reward system adapts to the stimulus. Tolerance builds. Escalation follows, because the same content stops producing the same response. The user who started with softer material finds themselves needing harder material to get the same hit. This is the firmware being trained on unreal imagery, with predictable consequences. The body that was wired to respond to a real spouse in covenant begins to respond preferentially to simulations. And the real spouse, when they eventually arrive, cannot compete with the simulation the firmware has been trained on.
+Neuroscience has caught up with what the framework predicted. Regular pornography use trains the firmware. The brain's reward system adapts to the stimulus. Tolerance builds. Escalation follows, because the same content stops producing the same response. The user who started with softer material finds themselves needing harder material to get the same hit. This is the firmware being trained on unreal imagery, with predictable consequences. The body that was wired to respond to a real spouse in covenant begins to respond preferentially to simulations. And the real spouse, when they eventually arrive, cannot compete with the simulation on which the firmware has been trained.
 
-This is not moralism. This is engineering. The hardware God designed responds to input, and the input shapes what the hardware expects. Pornography delivers input at a quantity, variety, and novelty that real intimacy cannot match. The firmware adapts. And the adaptation damages the capacity for the real thing the framework says the body was designed for. The long-term cost is not just guilt. It is a diminished capacity to experience what God gave the body to experience.
+This is not moralism. This is engineering. The hardware God designed responds to input, and the input shapes what the hardware expects. Pornography delivers input at a quantity, variety, and novelty that real intimacy cannot match. The firmware adapts. And the adaptation damages the capacity for the real thing the framework says the body was designed to enjoy. The long-term cost is not just guilt. It is a diminished capacity to experience what God gave the body to experience.
 
 **Redirection, not suppression.**
 
-The framework's answer is not "stop watching" as a bare command. The framework's answer is redirection. The craving underneath the habit is real. The craving for intimacy, for being seen, for being wanted, for the glass to come down, is not sinful. It is exactly what the body was designed for. The sin is that the craving is being fed by a counterfeit instead of by the covenant the craving was designed to point at.
+The framework's answer is not "stop watching" as a bare command. The framework's answer is redirection. The craving underneath the habit is real. The craving for intimacy, for being seen, for being wanted, for the glass to come down, is not sinful. It is exactly what the body was designed to feel. The sin is that the craving is being fed by a counterfeit instead of by the covenant at which the craving was designed to point.
 
 Redirection means acknowledging the craving, naming it as the good thing it is, and then moving it toward its proper object. For the married man, the proper object is his wife, and the work is rebuilding the intimacy in the marriage that got crowded out by the counterfeit. For the single man, the proper object is either future marriage (pursue it, per 1 Corinthians 7:9) or deepened union with Christ as the ultimate Bridegroom (the subject of "On Singleness" above). In both cases, the point is not "stop craving." The point is "stop feeding the craving counterfeits and start feeding it the real thing."
 
@@ -285,7 +285,7 @@ Second, do not call it a higher-category sin than the sins the men judging you a
 
 Third, receive the grace. The blood covers this sin the same as every other. Chapter 14 applied. The cross did not skip this row.
 
-Fourth, do the redirection. Find the real craving underneath the counterfeit habit. Move it toward the covenant it was designed for. Marriage if you are married. Future marriage if you are single and desire it. Direct union with Christ as the Bridegroom if you are single and content. The firmware rewires slowly. Give it time.
+Fourth, do the redirection. Find the real craving underneath the counterfeit habit. Move it toward the covenant for which it was designed. Marriage if you are married. Future marriage if you are single and desire it. Direct union with Christ as the Bridegroom if you are single and content. The firmware rewires slowly. Give it time.
 
 Fifth, involve others. Not accountability software, not shame-based meetings, but honest friendship with one or two trusted brothers. The isolation is where pornography grows. The light of being known by a brother is where it dies.
 
@@ -311,7 +311,7 @@ So the framework's first move is honesty. The Bible does not prohibit masturbati
 
 **What the framework can derive.**
 
-Scripture's silence on a topic does not mean the framework has nothing to say. The ontology of sex in this book applies here. Sex is the covenant collapsed into flesh (Chapter 10). The body was designed to render the one-flesh union. Masturbation is the body rendering without any covenant being referenced. It is the ceremony without the substance. That is the pattern the framework keeps naming as the inversion it warns against.
+Scripture's silence on a topic does not mean the framework has nothing to say. The ontology of sex in this book applies here. Sex is the covenant collapsed into flesh (Chapter 10). The body was designed to render the one-flesh union. Masturbation is the body rendering without any covenant being referenced. It is the ceremony without the substance. That is the pattern the framework keeps naming as the inversion against which it warns.
 
 But here is where the framework has to be careful. The inversion is a real pattern. It is not a verse. Scripture says explicitly that fornication is sin, adultery is sin, lust is sin. Scripture does not say explicitly that solitary release is sin. The framework cannot manufacture a prohibition Scripture did not issue. What it can do is name the pattern, apply wisdom, and let conscience weigh the specifics.
 
@@ -337,11 +337,11 @@ So for the married: not technically sin, but not the best. The covenant is there
 
 **Case four: the single, with no lust for a specific person.**
 
-This is the case the church most often makes into pure shame and the framework most clearly diverges on. A single person with an active body is going to experience sexual pressure. Paul knew this. *"If they cannot contain, let them marry: for it is better to marry than to burn"* (1 Corinthians 7:9). The "burning" Paul names is real. The body wants release. And the framework's first counsel, following Paul directly, is marriage. Not suppression. Not chastity engineered into perfection by white-knuckled willpower. Marriage.
+This is the case the church most often makes into pure shame, and the one on which the framework most clearly diverges. A single person with an active body is going to experience sexual pressure. Paul knew this. *"If they cannot contain, let them marry: for it is better to marry than to burn"* (1 Corinthians 7:9). The "burning" Paul names is real. The body wants release. And the framework's first counsel, following Paul directly, is marriage. Not suppression. Not chastity engineered into perfection by white-knuckled willpower. Marriage.
 
 But not every single person is in a position to marry immediately. Some are engaged and waiting. Some are discerning who to marry and haven't met them yet. Some have the gift of singleness and are content to remain. And all of them still have bodies.
 
-Here the framework has to be honest. Scripture does not prohibit solitary release for the single. It prohibits lust, fornication, and adultery. A single person who experiences physiological pressure and handles it without fantasy of a specific person, without pornography, without romanticizing someone they cannot have, is not committing a sin the Bible names. They may not be achieving the ideal the covenant was designed for. The ideal is marriage. But the absence of the ideal does not automatically make the management of the body's real pressure into sin.
+Here the framework has to be honest. Scripture does not prohibit solitary release for the single. It prohibits lust, fornication, and adultery. A single person who experiences physiological pressure and handles it without fantasy of a specific person, without pornography, without romanticizing someone they cannot have, is not committing a sin the Bible names. They may not be achieving the ideal for which the covenant was designed. The ideal is marriage. But the absence of the ideal does not automatically make the management of the body's real pressure into sin.
 
 The wisdom question is whether the practice serves the direction or opposes it. If masturbation functions as pressure release that allows the single believer to function, to pray, to work, to pursue a godly spouse without being distracted by biological noise, then it is in one category. If it functions as a substitute for the pursuit of marriage, a self-sealing habit that removes the motivation Paul named as the reason to marry, then it is in a different category. The first is arguably wisdom. The second is the single version of what the married person does when they substitute self for spouse. It weakens the direction toward the covenant.
 
@@ -351,7 +351,7 @@ The framework refuses to issue a ruling here for every single person. It names t
 
 For any case, the honest questions are these.
 
-Is there lust for a specific person I have no covenant with? If yes, that lust is sin (Matthew 5:27-28), regardless of what the body does.
+Is there lust for a specific person with whom I have no covenant? If yes, that lust is sin (Matthew 5:27-28), regardless of what the body does.
 
 Is there pornography involved? If yes, the porn section already addressed it. Sin.
 
@@ -371,11 +371,11 @@ The framework refuses the shame the church has loaded on young believers. A seve
 
 **A word of honesty about this section.**
 
-More than most sections in this book, this one works in territory Scripture does not directly address. The positions above are the framework applied by the author to a topic the Bible is mostly silent on. They are derivations from the ontology, not direct commands from the text. Every believer reading this should read the framework, read the Scriptures themselves, and determine for themselves before God what is right and what is wrong based on what the text actually teaches, not on what this book teaches. The book is a framework. The Scriptures are the Author's word. The derivations in this section are my best reading of what the framework honestly produces when applied to a question the Bible left in the space of conscience. Your conscience before God is yours, not mine. If you arrive at a stricter position than this section takes, hold it without apology. If you arrive at the same position this section takes, hold it without shame. But hold what you hold from the text and from the Spirit, not from me.
+More than most sections in this book, this one works in territory Scripture does not directly address. The positions above are the framework applied by the author to a topic on which the Bible is mostly silent. They are derivations from the ontology, not direct commands from the text. Every believer reading this should read the framework, read the Scriptures themselves, and determine for themselves before God what is right and what is wrong based on what the text actually teaches, not on what this book teaches. The book is a framework. The Scriptures are the Author's word. The derivations in this section are my best reading of what the framework honestly produces when applied to a question the Bible left in the space of conscience. Your conscience before God is yours, not mine. If you arrive at a stricter position than this section takes, hold it without apology. If you arrive at the same position this section takes, hold it without shame. But hold what you hold from the text and from the Spirit, not from me.
 
 **Pastoral close.**
 
-If you are married, the primary place for your sexual expression is the covenant with your spouse. If you have lost that pattern, work to recover it. Talk to your spouse. Pursue the intimacy the covenant was designed for. The solitary pattern is not the enemy, but it is also not the thing. The thing is the covenant. Move toward it.
+If you are married, the primary place for your sexual expression is the covenant with your spouse. If you have lost that pattern, work to recover it. Talk to your spouse. Pursue the intimacy for which the covenant was designed. The solitary pattern is not the enemy, but it is also not the thing. The thing is the covenant. Move toward it.
 
 If you are single and the pressure is real, hear Paul. *"It is better to marry than to burn."* Pursue marriage if you desire it. Do not sit in suppression as if the pressure is itself the sin. The pressure is the body saying what the body was designed to say. The answer is the covenant, not the silencing of the wiring.
 
@@ -405,7 +405,7 @@ And Christ was single. The Bridegroom of the church did not take an earthly brid
 
 **Singleness as gift.**
 
-*"But every man hath his proper gift of God, one after this manner, and another after that"* (1 Corinthians 7:7). Paul uses the word *charisma* here. The same word translated "grace-gift" elsewhere. Marriage is a gift. Singleness is a gift. The church has treated marriage as the norm and singleness as the exception, as if one is the default and the other is the deviation. Paul treats them as two parallel gifts of the same Spirit, neither superior, neither inferior, neither to be despised by those who have the other.
+*"But every man hath his proper gift of God, one after this manner, and another after that"* (1 Corinthians 7:7). Paul uses the word *charisma* here, the same word translated "grace-gift" elsewhere. Marriage is a gift. Singleness is a gift. The church has treated marriage as the norm and singleness as the exception, as if one is the default and the other is the deviation. Paul treats them as two parallel gifts of the same Spirit, neither superior, neither inferior, neither to be despised by those who have the other.
 
 A gift is not a problem to be solved. A gift is a calling to be received. The single believer who receives singleness as a gift of God is doing exactly what the married believer is doing with their marriage. Both are stewarding what they were given. And the church that treats the single person as a failed version of the married person has insulted the Giver.
 
@@ -431,7 +431,7 @@ This is where Paul is most practical and most often ignored. *"But if they canno
 
 If you are single and you desire marriage, pursue it. Pray for it. Make the moves the culture of your day requires for it to happen. Do not sit in a pew waiting for God to drop a spouse through the ceiling while you do nothing. But also do not compromise your walk by finding a partner who will not walk with you toward the Lord. The framework's counsel: move toward the covenant honestly and wait for the Author to render it in His time.
 
-If you are single and content to remain so, that is also a gift. Paul said so. Do not let the church pressure you into a marriage you did not need to make. Do not let well-meaning friends arrange you into relationships that do not serve the life you are actually called to. The single vocation is a real vocation. Steward it.
+If you are single and content to remain so, that is also a gift. Paul said so. Do not let the church pressure you into a marriage you did not need to make. Do not let well-meaning friends arrange you into relationships that do not serve the life to which you are actually called. The single vocation is a real vocation. Steward it.
 
 **For those who did not choose it.**
 
@@ -521,7 +521,7 @@ I raise this as a matter of conscience, not as a rule. Each parent stands before
 
 ## On Alcohol and Drug Use
 
-The church has gotten this question wrong in both directions. On alcohol, large swaths of the American evangelical world have held a prohibitionist position for a century. On drugs, the same churches have mostly been silent or have offered generic moralism. Both failures come from the same source. The law of Plato again. The assumption that the body is lesser, pleasure is suspicious, and any substance that affects the senses must be either cleaned up into permitted ritual or banned altogether. The framework does not work that way, because Scripture does not work that way.
+The church has gotten this question wrong in both directions. On alcohol, large swaths of the American evangelical world have held a prohibitionist position for a century. On drugs, the same churches have mostly been silent or have offered generic moralism. Both failures come from the same source: the law of Plato again, the assumption that the body is lesser, pleasure is suspicious, and any substance that affects the senses must be either cleaned up into permitted ritual or banned altogether. The framework does not work that way, because Scripture does not work that way.
 
 **On alcohol.**
 
@@ -571,7 +571,7 @@ The alcohol and drug section above already laid out the mastery principle. Tobac
 
 **What Scripture says (and does not say).**
 
-Scripture does not address tobacco. Tobacco is a Native American plant that did not enter the Old World until the sixteenth century, well after the canon closed. There is no proof text for or against. Anyone who claims Scripture prohibits tobacco is importing a tradition into the text. Anyone who claims Scripture requires us to abstain from anything potentially harmful to the body is using 1 Corinthians 6:19-20 in a way that, if applied consistently, would also forbid bacon, motorcycles, mountain climbing, deep-fried food, and most of what makes life enjoyable. The body-is-a-temple verse is about fornication in its immediate context, not a general health code. It is not a license for tobacco. It is also not a prohibition against it.
+Scripture does not address tobacco. Tobacco is a Native American plant that did not enter the Old World until the sixteenth century, well after the canon closed. There is no proof text either way. Anyone who claims Scripture prohibits tobacco is importing a tradition into the text. Anyone who claims Scripture requires us to abstain from anything potentially harmful to the body is using 1 Corinthians 6:19-20 in a way that, if applied consistently, would also forbid bacon, motorcycles, mountain climbing, deep-fried food, and most of what makes life enjoyable. The body-is-a-temple verse is about fornication in its immediate context, not a general health code. It is not a license for tobacco. It is also not a prohibition against it.
 
 **The historical Christian record.**
 
@@ -585,7 +585,7 @@ But tobacco raises a stewardship question alcohol does not raise quite as sharpl
 
 **Distinctions worth making.**
 
-Cigarettes carry the highest addiction potential and the worst long-term outcomes. They were industrially designed to maximize nicotine delivery and addiction. Big Tobacco knew about the cancer risks for decades and concealed them, targeting vulnerable populations with deceptive advertising. The Christian who funds that industry by daily purchase is participating in something the framework would name with the same skepticism it brings to other industries built on addiction. Industry built on dependence, harm, and deception.
+Cigarettes carry the highest addiction potential and the worst long-term outcomes. They were industrially designed to maximize nicotine delivery and addiction. Big Tobacco knew about the cancer risks for decades and concealed them, targeting vulnerable populations with deceptive advertising. The Christian who funds that industry by daily purchase is participating in something the framework would name with the same skepticism it brings to other industries built on addiction. It is an industry built on dependence, harm, and deception.
 
 Cigars and pipe tobacco carry lower addiction potential when not inhaled deeply. They are traditionally celebratory and contemplative rather than continuous. Spurgeon's cigar after a long day of preaching is in a different category from twenty cigarettes a day, in the same way one glass of wine is in a different category from drinking until you cannot stand.
 
@@ -675,7 +675,7 @@ The framework refuses the secular willpower-only framing that ignores how engine
 
 If you have been shamed for your body in a church that should have loved you, the framework says they were wrong. The body is good. Heavy bodies are good. The size is not the sin. Receive the grace they failed to give you.
 
-If you are mastered by food and you know it, the framework calls it what it is. The same as alcohol mastery, tobacco mastery, any other dependence. The substance is incidental. The dependence is the issue. Receive the grace, do the slow work, accept the medical help when it serves the freedom.
+If you are mastered by food and you know it, the framework calls it what it is, the same as alcohol mastery, tobacco mastery, any other dependence. The substance is incidental. The dependence is the issue. Receive the grace, do the slow work, accept the medical help when it serves the freedom.
 
 If you have a medical condition that produces weight you cannot control, the framework says you carry no shame for the body the Author rendered through the conditions He authored. Steward what you can steward. Trust Him with the rest.
 
@@ -689,7 +689,7 @@ The body is good. The food is good. The mastery is the issue. Eat with thanksgiv
 
 ## On Euthanasia
 
-The modern world has produced scenarios the pre-modern world could not have imagined. A body kept functioning by machines for decades. A mind dissolved by dementia while the body persists. A terminal cancer that could, under secular law in some jurisdictions, be ended by a scheduled injection at the patient's request. A seventy-year-old spouse watching a ninety-year-old parent in a nursing home bed and quietly wondering how long this will go on. These scenarios are real. The questions they raise are real. And the church has been mostly silent, mostly confused, or mostly wrong in both directions. The framework can do better.
+The modern world has produced scenarios the pre-modern world could not have imagined: a body kept functioning by machines for decades, a mind dissolved by dementia while the body persists, a terminal cancer that could, under secular law in some jurisdictions, be ended by a scheduled injection at the patient's request, a seventy-year-old spouse watching a ninety-year-old parent in a nursing home bed and quietly wondering how long this will go on. These scenarios are real. The questions they raise are real. And the church has been mostly silent, mostly confused, or mostly wrong in both directions. The framework can do better.
 
 **The ontology that governs this question.**
 
@@ -753,13 +753,13 @@ If you have been party to euthanasia already, the framework says: the blood cove
 
 If you are in a jurisdiction where euthanasia is legal and pressure is rising, the framework says: refuse it. For yourself, for your aging parents, for the patient in your care. The state has declared it legal. Legality is not rightness. The Author writes the frames. The state does not.
 
-The body is good. The frame is authored. The pain is real. The grace is bigger. And the next frame is glory for every soul Christ died for.
+The body is good. The frame is authored. The pain is real. The grace is bigger. And the next frame is glory for every soul for whom Christ died.
 
 **For further study:** Gen. 2:7; Gen. 9:5-6; Deut. 32:39; 1 Sam. 31:3-4; 2 Sam. 1:14-16; Job 1:21; Job 12:10; Job 14:5; Job 14:14-15; Ps. 31:15; Ps. 39:4-5; Ps. 90:12; Ps. 116:15; Ps. 139:13-16; Eccl. 3:1-2; Eccl. 7:17; Eccl. 12:7; Isa. 43:13; Isa. 57:1-2; Matt. 10:28; Luke 23:46; John 10:11; John 10:17-18; Rom. 14:7-9; 1 Cor. 6:19-20; 2 Cor. 5:1-8; Phil. 1:20-24; Heb. 9:27; Rev. 14:13; Rev. 21:4.
 
 ## A Final Word
 
-The body is authored. Every ethical question about the body resolves when the framework says: the creature is authored, the creature's body is authored, and the Creator holds the authority to declare what the body is for. The conscience is real. The constraints are real. And inside those constraints there is freedom in Christ, and outside them there is sin. The framework does not look away from either direction.
+The body is authored. Every ethical question about the body resolves when the framework says: the creature is authored, the creature's body is authored, and the Creator holds the authority to declare the body's purpose. The conscience is real. The constraints are real. And inside those constraints there is freedom in Christ, and outside them there is sin. The framework does not look away from either direction.
 
 [^a7-humanaevitae]: Pope Paul VI, *Humanae Vitae* (1968), sec. 11: "each and every marriage act must remain open to the transmission of life."
 

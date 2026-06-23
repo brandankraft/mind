@@ -14,7 +14,7 @@ If you are a materialist who believes consciousness is an accident of chemistry,
 
 In 2003, philosopher Nick Bostrom published "Are You Living in a Computer Simulation?" and proposed that at least one of three propositions must be true: civilizations go extinct before creating simulations, advanced civilizations choose not to run simulations, or we are almost certainly living in a simulation.[^g-bostrom] The argument is statistical. If simulated realities outnumber base reality, the odds that we're in the original are vanishingly small.
 
-In 2016, Elon Musk told a conference audience that "the odds that we're in base reality is one in billions."[^g-musk] The room didn't laugh. They nodded, because the architecture of reality increasingly looks like it was built, not stumbled upon.
+In 2016, Elon Musk told a conference audience that "the odds that we're in base reality is one in billions."[^g-musk] The room didn't laugh. They nodded, because the architecture of reality increasingly looks like it was built rather than left to chance.
 
 This is not a fringe idea anymore. It is a serious philosophical position held by physicists, technologists, and philosophers at the highest levels of secular thought. And I want to tell you something that might surprise you: they're almost right.
 
@@ -48,7 +48,7 @@ The simulation hypothesis gets several things exactly right:
 
 And here is where the simulation hypothesis fails. Not in its architecture. In its theology.
 
-**No person.** The simulation hypothesis proposes a machine, not a mind. A computer running code, not a consciousness thinking thoughts. But information requires a mind. Code requires a coder. A simulation requires a simulator. And a simulator is personal. A simulator has intent, purpose, will. The simulation hypothesis has all the architecture of theism and none of the Person. It is a cathedral with no God in it.
+**No person.** The simulation hypothesis proposes a machine, not a mind: a computer running code, not a consciousness thinking thoughts. But information requires a mind. Code requires a coder. A simulation requires a simulator. And a simulator is personal. A simulator has intent, purpose, will. The simulation hypothesis has all the architecture of theism and none of the Person. It is a cathedral with no God in it.
 
 **No purpose.** Why would an advanced civilization run a simulation? Entertainment? Research? Boredom? The simulation hypothesis has no answer for WHY we exist. It can propose HOW (the rendering, the code, the parameters) but not WHY. The framework answers both. We exist because we are thoughts in the mind of God, authored by His purpose, held together by personal covenants of love. The WHY is love. And no simulation theory has ever proposed love as the reason for existence.
 
@@ -100,7 +100,7 @@ But code has a coder. And the coder has a purpose. And the purpose is not entert
 
 If you have followed the simulation hypothesis this far, if you believe reality is information, if you believe the visible is derived from the invisible, if you believe the architecture of the universe looks designed, then you are standing at the door of the framework. You have the ontology. You have the architecture. You have the "it from bit." All you are missing is the Person.
 
-His name is Jesus Christ. He is the Word made flesh. The information that became matter. The Programmer who became a character. And He didn't just enter the simulation. He died inside it. For His people. For a purpose. Out of love. And if you are reading this and something in you is stirring, if the architecture makes sense, if the Person feels real, if the framework resonates in a way you can't explain, that stirring may be the Programmer Himself, rewriting your firmware from the inside.
+His name is Jesus Christ. He is the Word made flesh, the information that became matter, the Programmer who became a character. And He didn't just enter the simulation. He died inside it. For His people. For a purpose. Out of love. And if you are reading this and something in you is stirring, if the architecture makes sense, if the Person feels real, if the framework resonates in a way you can't explain, that stirring may be the Programmer Himself, rewriting your firmware from the inside.
 
 The simulation is real. The Simulator is personal. And the door is open.
 

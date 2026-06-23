@@ -65,7 +65,7 @@ Most systematic theologies reach theology and ethics. Some reach epistemology. T
 | **Sacramentology** | How do visible rites relate to invisible realities? | Chs. 10, 22; App. N (Costume 15), A5 |
 | **Missiology / evangelism** | How do we reach the lost? | Ch. 19; App. A5 |
 | **Covenants** | How does God relate to His people? | Chs. 7, 8, 9, 10; App. A6, C |
-| **Sex, marriage, and the body** | What are bodies for? | Chs. 10, 29; App. A6, A7 |
+| **Sex, marriage, and the body** | What is the body's purpose? | Chs. 10, 29; App. A6, A7 |
 | **Eschatology** | What is the final state? | Chs. 27, 28, 29; App. A6, L |
 | **Pastoral theology** | How do we comfort the suffering? | App. A9, A10, A11 |
 | **Medical / bioethics** | Depression, ADHD, disability, addiction, euthanasia | App. A7, A9, A11, A12 |
@@ -219,7 +219,7 @@ Every chapter derives from the sentence. Every appendix derives from the sentenc
 
 ## The Third Position
 
-And there is one more pattern worth seeing before the test. On every long-standing binary debate in Christian theology, the framework lands at a third position. Not a splitting of the difference. Not a middle way. A position that was invisible from inside the binary, and that comes into view only when the floor underneath the binary is replaced.
+And there is one more pattern worth seeing before the test. On every long-standing binary debate in Christian theology, the framework lands at a third position, not a splitting of the difference, not a middle way, but a position that was invisible from inside the binary, and that comes into view only when the floor underneath the binary is replaced.
 
 The reason the pattern is consistent is that it IS the method. Both sides of a long-standing binary are almost always standing on the same hidden Platonic floor, which is why the debate never resolves. Appendix N names that floor. Appendix O names its replacement. Swap the floor with operational idealism, and the third position that was there the whole time becomes visible.
 

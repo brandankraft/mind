@@ -29,7 +29,7 @@ Can there be a lag? Can the firmware be flashed before the application layer ful
 
 *"And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us. But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation? And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss. And he said unto Jesus, Lord, remember me when thou comest into thy kingdom. And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise"* (Luke 23:39-43).
 
-The thief on the cross is the paradigm case of this book's entire soteriology compressed into ten verses. If this episode did not exist, every tribe's purity test would have a platform to stand on. Because it does exist, no tribe's purity test can stand. The thief exposes every gatekeeper.
+The thief on the cross is the paradigm case of this book's entire soteriology compressed into ten verses. If this episode did not exist, every tribe's purity test would have a platform on which to stand. Because it does exist, no tribe's purity test can stand. The thief exposes every gatekeeper.
 
 Watch what the thief had.
 
@@ -37,7 +37,7 @@ He had no works. He was a criminal being executed for crimes serious enough to w
 
 He had no baptism. Water never touched him as a believer.
 
-He had no catechism. No theological education. No understanding of the five points, the eternal decree, the active-passive obedience of Christ, the ordo salutis, or any of the framework we preach from.
+He had no catechism. No theological education. No understanding of the five points, the eternal decree, the active-passive obedience of Christ, the ordo salutis, or any of the framework from which we preach.
 
 He had no tribal membership. He was not a member of the Sanhedrin. He was not a Pharisee. He was not a disciple. He was not part of any assembly that could vouch for him.
 
@@ -192,7 +192,7 @@ If I have hurt you with my theology, I am sorry. The theology was not wrong. I w
 
 The word comes from Judges 12. The Gileadites defeated the Ephraimites and held the fords of the Jordan. When a survivor tried to cross, they told him to say "Shibboleth." The Ephraimites could not pronounce the *sh* sound and said "Sibboleth" instead. And the Gileadites killed them. Forty-two thousand men died over the pronunciation of one word. Not over their allegiance. Not over their conduct. Not over what they believed. Over how they *said* it.
 
-The sovereign grace world has been standing at the fords ever since. A shibboleth is a phrase or custom that identifies which group you belong to. In the sovereign grace world, shibboleths are everywhere. "Sufficient for all, efficient for the elect." "Accept Christ as your personal Savior." "God helps those who help themselves." "The longest journey is the eighteen inches from your head to your heart." Every one of these phrases, when examined logically, contradicts the gospel of sovereign grace. And every one of them has been uttered by people who love Christ and cannot articulate what is wrong with the words they are using.
+The sovereign grace world has been standing at the fords ever since. A shibboleth is a phrase or custom that identifies the group to which you belong. In the sovereign grace world, shibboleths are everywhere. "Sufficient for all, efficient for the elect." "Accept Christ as your personal Savior." "God helps those who help themselves." "The longest journey is the eighteen inches from your head to your heart." Every one of these phrases, when examined logically, contradicts the gospel of sovereign grace. And every one of them has been uttered by people who love Christ and cannot articulate what is wrong with the words they are using.
 
 The framework explains why. Shibboleths are application-layer outputs. They are phrases the conscious mind produces from whatever theological vocabulary was loaded during the grammar stage (Chapter 16). A person raised in Arminian churches has Arminian vocabulary. A person raised in Pentecostal churches has Pentecostal vocabulary. The vocabulary was loaded before the firmware was flashed. And when the Spirit regenerates a soul, He changes the boot parameters, not the dictionary. The new firmware is installed underneath, but the application layer keeps running the old vocabulary until the Spirit teaches new words. And sometimes that takes years. And sometimes it takes a lifetime.
 
@@ -268,13 +268,13 @@ And lest anyone mistake tenderness for weakness, remember what Jesus did in the 
 
 I walked out onto the deck and the trees looked different.
 
-Not new trees. The same maples and oaks I had looked at for years. But the looking was different. The framework had finished its work in me, and I saw what I had been walking past for decades without seeing.
+Not new trees, just the same maples and oaks I had looked at for years. But the looking was different. The framework had finished its work in me, and I saw what I had been walking past for decades without seeing.
 
 The trees are rendered. The light on the leaves is rendered. The wind moving through them is rendered. The Author thinks the scene and I walk through His thought. Every blade of grass is His thought made visible. The deck beneath my feet is His thought rendered into wood and nail. The air I breathe is His thought operationalized into oxygen and lung.
 
 I am inside His render. And the render is more beautiful than any game humans have ever made.
 
-People escape into video games. They build worlds in Unreal Engine and lose themselves in pixels because the world they were given feels dull. The world feels dull because they have not been told what it is. They think it is just stuff. Just matter. Just the inert backdrop their lives play out against. So they build better backdrops in code and lose themselves in those.
+People escape into video games. They build worlds in Unreal Engine and lose themselves in pixels because the world they were given feels dull. The world feels dull because they have not been told what it is. They think it is just stuff. Just matter. Just the inert backdrop to their lives. So they build better backdrops in code and lose themselves in those.
 
 I escape into reality.
 

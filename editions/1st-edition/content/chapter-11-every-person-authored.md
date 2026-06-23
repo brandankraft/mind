@@ -38,7 +38,7 @@ I know what that sounds like. And I know it's going to offend people who have sp
 
 David doesn't say, "I was born into a world corrupted by Adam." He says, "I was *shapen* in iniquity." Shapen by His hand, formed and crafted in it. The language is personal and direct. God shaped David in iniquity, not because David inherited Adam's guilt through a federal headship, but because God created David with a sin nature, directly, personally, as a specific thought in His mind.
 
-And here's where the framework makes this personal instead of abstract. Each person is a thought in the mind of God. Not a member of a class, not a unit in a federal system. A *thought*. Specific, individual, personal. God didn't think "humanity" in the abstract and then produce six billion copies. He thought each person individually. Your sin nature is not a generic inheritance from Adam. It is part of the specific thought that *is you*. God authored your nature the way He authored everything else: deliberately, purposefully, and for His glory.
+And here's where the framework makes this personal instead of abstract. Each person is a thought in the mind of God, not a member of a class, not a unit in a federal system, but a *thought*: specific, individual, personal. God didn't think "humanity" in the abstract and then produce six billion copies. He thought each person individually. Your sin nature is not a generic inheritance from Adam. It is part of the specific thought that *is you*. God authored your nature the way He authored everything else: deliberately, purposefully, and for His glory.
 
 *"The LORD hath made all things for himself: yea, even the wicked for the day of evil."* (Proverbs 16:4)
 
@@ -130,7 +130,7 @@ And if that's true of Jeremiah, it's true of you. Your personality, your inclina
 
 *"In thy book all my members were written, which in continuance were fashioned, when as yet there was none of them."* (Psalm 139:16)
 
-Written. Fashioned. *In thy book*. Every member of your body, every inclination of your soul, authored and recorded before you existed. Not determined by Adam's failure. Determined by God's authorship.
+Written. Fashioned. *In thy book*. Every member of your body, every inclination of your soul was authored and recorded before you existed, not by Adam's failure but by God's authorship.
 
 This is the doctrine that federal headship obscures. Federal headship puts Adam between you and God. It says your spiritual condition is determined by what Adam did, and your remedy is determined by what Christ did. Two representatives, two verdicts, and you're the passive recipient of both. But the framework of this book removes the middleman. You stand before God directly, not as a member of Adam's covenant but as a thought in God's mind. Your sin nature is His authorship. Your redemption, if you're among the elect, is His promise. And no federal head, no institutional covenant, no legal machinery stands between the Author and His thought.
 
@@ -138,7 +138,7 @@ This is the doctrine that federal headship obscures. Federal headship puts Adam 
 
 Some will find this terrifying. I understand. The idea that God authored your sin nature, that He made you the way you are on purpose, is not the kind of doctrine you embroider on throw pillows. But I want you to see the other side of it.
 
-If God authored your sin nature, then He wasn't surprised by your worst day. He wasn't caught off guard by the sin you can't stop thinking about. He wasn't disappointed, because disappointment requires unmet expectations, and God has no unmet expectations. He authored the expectation. He authored the failure. And for His elect, He authored the rescue before the failure occurred.
+If God authored your sin nature, then He wasn't surprised by your worst day. He wasn't caught off guard by the sin that fills your thoughts. He wasn't disappointed, because disappointment requires unmet expectations, and God has no unmet expectations. He authored the expectation. He authored the failure. And for His elect, He authored the rescue before the failure occurred.
 
 *"Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began."* (2 Timothy 1:9)
 
@@ -172,7 +172,7 @@ Yes. And as we established in Chapter 1, Isaiah 45:7 says God creates evil. The 
 
 **"If everyone is directly authored by God, Adam is irrelevant."**
 
-Adam is the first man. The first human to sin. The head of the elect line through which Christ came. He plays a historical role, not a legal one. He is the opening chapter of the human story, not the legal representative whose failure determined everyone else's status. The story runs through him. The guilt does not.
+Adam is the first man, the first human to sin, the head of the elect line through which Christ came. He plays a historical role, not a legal one. He is the opening chapter of the human story, not the legal representative whose failure determined everyone else's status. The story runs through him. The guilt does not.
 
 **"Ecclesiastes 7:29 says God made man upright. That proves Adam was righteous before the fall."**
 
@@ -180,7 +180,7 @@ Adam is the first man. The first human to sin. The head of the elect line throug
 
 **"Genesis 1:31 says God saw everything and called it 'very good.' If Adam was created sinful, then God called sin good."**
 
-Good does not mean sinless. It means it served God's purposes. And God's purposes include sin and redemption. The fall was part of the plan. The cross was part of the plan. The two seeds were part of the plan. And the entire plan was good because it served the story the Author was telling. God called the creation "very good" because it was exactly what He intended it to be, including a man with a sin nature who would sin, hide, and be clothed in the righteousness of Christ. The redemption was always the point. And redemption requires something to be redeemed from. The "very good" is the whole plan, not the absence of sin within the plan.
+Good does not mean sinless. It means it served God's purposes. And God's purposes include sin and redemption. The fall was part of the plan. The cross was part of the plan. The two seeds were part of the plan. And the entire plan was good because it served the story the Author was telling. God called the creation "very good" because it was exactly what He intended it to be, including a man with a sin nature who would sin, hide, and be clothed in the righteousness of Christ. The redemption was always the point. And redemption requires something from which to be redeemed. The "very good" is the whole plan, not the absence of sin within the plan.
 
 **"If Adam only represented the elect, then all men are not sinners; your scheme breaks Romans 5."**
 

@@ -13,7 +13,7 @@ part: Appendices
 
 ## Introduction
 
-For thirty years I fought what I thought were many enemies. The fence-policers who called me a compromiser. The Gospelist clergy who whispered that I had drifted. The pastors who preached against me from pulpits without ever calling me. The people who passed videos around naming me a heretic. The friends who stopped writing back. The institutions that ran me off. The denominations whose lines I had crossed. The traditions whose authority I had questioned. The critics who argued in syllogisms and never once in Scripture. The internal (and sometimes external) fights against the small heaven, against the clergy-laity distinction, against the institutional model, against the denial of God's authorship of evil, against the embarrassment of the marriage bed, against the silencing of the widow's hope, against the methods of heresy-hunting that name-call instead of reading. Many fights, in many costumes, across many decades. Each one felt like its own battle.
+For thirty years I fought what I thought were many enemies: the fence-policers who called me a compromiser, the Gospelist clergy who whispered that I had drifted, the pastors who preached against me from pulpits without ever calling me, the people who passed videos around naming me a heretic, the friends who stopped writing back, the institutions that ran me off, the denominations whose lines I had crossed, the traditions whose authority I had questioned, the critics who argued in syllogisms and never once in Scripture, the internal (and sometimes external) fights against the small heaven, against the clergy-laity distinction, against the institutional model, against the denial of God's authorship of evil, against the embarrassment of the marriage bed, against the silencing of the widow's hope, against the methods of heresy-hunting that name-call instead of reading. Many fights, in many costumes, across many decades. Each one felt like its own battle.
 
 It was not. It was one fight. It was always one fight. The enemy in every costume was the same enemy, and the enemy was *Plato in the floorboards of Christianity.*
 
@@ -67,7 +67,7 @@ This is the system Augustine inherited. Not Plato's pure idealism. Plotinus's re
 
 The pipeline is not mysterious. Plato (4th c. BC) → Plotinus (3rd c. AD, Neoplatonist corruption) → Augustine (4th-5th c. AD, the chief importer) → the Western theological tradition.
 
-Augustine of Hippo was a Neoplatonist before he was a Christian. He studied Plotinus. He absorbed both the body-soul hierarchy and the Republic ethical axiom. When he became Christian, he carried both into his theology and built a framework that became the foundation of Western Christianity for the next sixteen centuries. Calvin built on Augustine. Luther built on Augustine. The Westminster Divines built on Augustine. Gill, Clark, Berkhof, Grudem, Hoeksema, every name in the Reformed tradition's chart, built on Augustine's foundation. They disagreed about the building. None of them questioned the ground it stood on.
+Augustine of Hippo was a Neoplatonist before he was a Christian. He studied Plotinus. He absorbed both the body-soul hierarchy and the Republic ethical axiom. When he became Christian, he carried both into his theology and built a framework that became the foundation of Western Christianity for the next sixteen centuries. Calvin built on Augustine. Luther built on Augustine. The Westminster Divines built on Augustine. Gill, Clark, Berkhof, Grudem, Hoeksema, every name in the Reformed tradition's chart, built on Augustine's foundation. They disagreed about the building. None of them questioned the ground on which it stood.
 
 <figure class="book-figure-portrait">
 <img src="augustine-botticelli.jpg" alt="Saint Augustine in his study, fresco by Sandro Botticelli" />
@@ -132,7 +132,7 @@ What follows is the catalogue. Each entry has the same structure: the Christian 
 
 **Platonic substrate:** The pure idea (correct doctrine) treated as more real than the embodied saint who holds it imperfectly. The form of orthodoxy becomes more important than the people in whom orthodoxy is supposed to grow. Plato would recognize this exactly: the form is the substance, the embodied instance is its shadow. Apply that to doctrine and saints, and you have produced the Pharisee.
 
-**Damage:** The cold-hearted possessor of correct doctrine who cannot love the people his doctrine was given for. The pulpit that crushes the widow for asking imprecise questions. The conference circuit that excludes the brother who articulates the gospel in slightly different vocabulary. The thinker who dies a Pharisee because he never noticed his pride was disguised as faithfulness.
+**Damage:** The cold-hearted possessor of correct doctrine who cannot love the people for whom his doctrine was given. The pulpit that crushes the widow for asking imprecise questions. The conference circuit that excludes the brother who articulates the gospel in slightly different vocabulary. The thinker who dies a Pharisee because he never noticed his pride was disguised as faithfulness.
 
 **Framework correction:** Doctrine and the embodied saint are both thoughts in the mind of God. Neither is more real than the other. The doctrine is for the saint. Not the saint for the doctrine. *The sharpest doctrine produces the widest arms* exactly because both come from the same Mind, and that Mind authored the saint to live the doctrine, not the other way around. When the floor swaps, the Pharisee cannot exist as a category, because there is no longer a realm where the form can be valued above the person.
 
@@ -150,9 +150,9 @@ What follows is the catalogue. Each entry has the same structure: the Christian 
 
 **Christian appearance:** Christ-only worship in eternity. The exalted vision of God as the all in all. Heavenly mindedness.
 
-**Platonic substrate:** Disembodied spirit privileged over the embodied feast Scripture actually describes. Choir loft over dining table. Plato's wise man longing for the soul's liberation from matter, transposed into a heaven where the redeemed soul finally escapes the body it was burdened with.
+**Platonic substrate:** Disembodied spirit privileged over the embodied feast Scripture actually describes. Choir loft over dining table. Plato's wise man longing for the soul's liberation from matter, transposed into a heaven where the redeemed soul finally escapes the body with which it was burdened.
 
-**Damage:** The widow shamed for wanting to see her husband. The boy shamed for hoping his dog will be there. The grandfather shamed for missing his wife in the months after her funeral. The framework that cannot pastor grief because it has nothing to offer the grieving except the rebuke that they are looking at a lower order of joy. Generations of saints who could not picture heaven and could not long for it because their pastors had stripped it of everything that made it worth longing for.
+**Damage:** The widow shamed for wanting to see her husband. The boy shamed for hoping his dog will be there. The grandfather shamed for missing his wife in the months after her funeral. The framework that cannot pastor grief because it has nothing to offer the grieving except the rebuke that they are looking at a lower order of joy. Generations of saints who could not picture heaven and could not long for it because their pastors had stripped it of everything that made it worth desiring.
 
 **Framework correction:** Appendix A6 develops this fully. Heaven includes the throne AND the feast AND the bodies AND the recognition AND the dog under the table. The new creation is more embodied, not less. *Living is worship. Worship is living.* The Author authored the bodies, the appetites, the relationships, the work, the wine, and authored them to be enjoyed at full resolution at the feast. The widow keeps her hope. The boy keeps his dog. The grandfather embraces his wife. Christ is at the head of the table, not in a separate room.
 
@@ -210,7 +210,7 @@ What follows is the catalogue. Each entry has the same structure: the Christian 
 
 **Christian appearance:** Defending sovereign grace. Refusing to compromise with Arminianism.
 
-**Platonic substrate:** The pure tribal form of "true sovereign grace" defended against the polluting embodied practice of welcoming brothers across the line. The form of the doctrine becomes the test of fellowship rather than the substance the doctrine is for. Plato's purity of the form imported into the brother-test.
+**Platonic substrate:** The pure tribal form of "true sovereign grace" defended against the polluting embodied practice of welcoming brothers across the line. The form of the doctrine becomes the test of fellowship rather than the substance the doctrine serves. Plato's purity of the form imported into the brother-test.
 
 **Damage:** The cold sovereign grace world. The fence between sovereign grace Baptists who are otherwise brothers. The expulsion of thinkers like the writer of this book. The Free-Willer charge against any pastor who will not denounce specific names. The lonely thinkers walking out of the conferences with no place to land.
 
@@ -284,7 +284,7 @@ This is Plato's sentence, not Scripture's, and the Christian tradition has built
 
 **Christian appearance:** Different ways of explaining Christ's work. Theological pluralism on the mechanism.
 
-**Platonic substrate:** Moral influence theory, governmental theory, exemplar theory all retreat from the bodily substitution Scripture insists upon. Each one moves the substance of the atonement up a level, away from the actual body and blood of Christ, into the abstract realm where the atonement becomes lesson, governance, or example. The form is preserved by stripping away the embodied event.
+**Platonic substrate:** Moral influence theory, governmental theory, exemplar theory all retreat from the bodily substitution on which Scripture insists. Each one moves the substance of the atonement up a level, away from the actual body and blood of Christ, into the abstract realm where the atonement becomes lesson, governance, or example. The form is preserved by stripping away the embodied event.
 
 **Damage:** The atonement spiritualized into idea, lesson, or example. The body of Christ on the cross treated as symbolic rather than as the actual sin-bearing flesh. Liberal theologies that retain Christ's example while denying His substitution. Even some Reformed expressions that drift toward forensic-only and forget the bodily.
 

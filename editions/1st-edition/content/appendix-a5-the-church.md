@@ -155,7 +155,7 @@ Modern soul winning inverts this entirely. It treats evangelism as persuasion, g
 
 I will proclaim the Gospel to anyone who will listen. I love it too much to keep quiet. But I will not give out "free offers." I will not use the terrors of hell to scare people into a profession. I will not "love bomb" someone into a church. I will not treat the Gospel as a sales pitch that needs a close.
 
-God's people have had their names written in the Book of Life from the foundation of the world (Revelation 17:8). If a person's name is not written there, no amount of preaching is going to put it there. If it is written there, no amount of resistance is going to keep it out. The Spirit never fails. The elect will be saved. We preach because Christ commanded it and because the truth is too good to keep quiet about. We trust Him with the results.
+God's people have had their names written in the Book of Life from the foundation of the world (Revelation 17:8). If a person's name is not written there, no amount of preaching is going to put it there. If it is written there, no amount of resistance is going to keep it out. The Spirit never fails. The elect will be saved. We preach because Christ commanded it and because the truth is too good to keep to ourselves. We trust Him with the results.
 
 The charge against me has always been that I'm "anti-evangelical." The charge is a mischaracterization born from a misunderstanding of what evangelism is. I evangelize constantly. I just don't proselytize. And there is a world of difference between the two.
 

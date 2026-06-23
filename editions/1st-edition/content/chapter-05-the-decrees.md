@@ -82,13 +82,13 @@ If God authored the fall for the purpose of redemption, and if both the elect an
 
 *Fitted to destruction.* Not "fell into destruction." Not "chose destruction." *Fitted.* Shaped for the purpose, prepared for the day, authored for it. The vessels of wrath were designed for their purpose the same way the vessels of mercy were designed for theirs.
 
-And the purpose of the vessels of wrath is not a tragic afterthought. It's a positive decree. God *wills* to show His wrath. God *wills* to make His power known. The damnation of the reprobate glorifies God. Not in the way a tyrant glorifies himself through cruelty, but in the way an Author glorifies Himself through the completeness of His story. The story requires both mercy and justice. Both light and darkness. Both seeds. And the Author planned them both, from the end to the beginning, for one purpose: His glory.
+And the purpose of the vessels of wrath is not a tragic afterthought. It's a positive decree. God *wills* to show His wrath. God *wills* to make His power known. The damnation of the reprobate glorifies God. Not in the way a tyrant glorifies himself through cruelty, but in the way an Author glorifies Himself through the completeness of His story. The story requires both mercy and justice, both light and darkness, both seeds. And the Author planned them both, from the end to the beginning, for one purpose: His glory.
 
 ## Providence: The Decrees in Action
 
 Supralapsarianism describes the logical order of God's plan. Providence describes the plan in action, playing out frame by frame in the filmstrip we call history.
 
-And providence, in this framework, is not God watching the machine run. It's God thinking the machine into existence at every instant. *"By him all things consist"* (Colossians 1:17). Present tense. Continuous. Every event in history, from the grandest empire to the smallest sparrow, is being authored in real time by a God who is outside time. Not foreknown, as if God looks ahead at a filmstrip that already exists apart from Him. Authored, because the filmstrip IS His thought. The frames are His moments. And He plays them out in sequence for our experience while seeing them all simultaneously from His position outside the strip.
+And providence, in this framework, is not God watching the machine run. It's God thinking the machine into existence at every instant. *"By him all things consist"* (Colossians 1:17). Present tense. Continuous. Every event in history, from the grandest empire to the smallest sparrow, is being authored in real time by a God who is outside time. It is not foreknown, as if God looks ahead at a filmstrip that already exists apart from Him. It is authored, because the filmstrip IS His thought. The frames are His moments. And He plays them out in sequence for our experience while seeing them all simultaneously from His position outside the strip.
 
 *"Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father."* (Matthew 10:29)
 
@@ -98,7 +98,7 @@ And the men who hid their scrolls in the caves above the Dead Sea had already wr
 
 > *"Everything is engraved before You with the ink of remembrance for all the times of eternity, for the numbered seasons of eternal years in all their appointed times. Nothing is hidden, nor does anything exist apart from Your presence."* (Thanksgiving Psalms, 1QH 9.24-25)
 
-*The numbered seasons of eternal years in all their appointed times.* That is the decree, named in a desert hymn. Every season counted, every year numbered, every frame appointed before the years began. They read the Hebrew Scriptures and landed where this chapter lands, and there was no Reformation between them and the text to argue them into it. See Appendix F for the fuller witness.
+*The numbered seasons of eternal years in all their appointed times.* That is the decree, named in a desert hymn. Every season was counted, every year numbered, every frame appointed before the years began. They read the Hebrew Scriptures and landed where this chapter lands, and there was no Reformation between them and the text to argue them into it. See Appendix F for the fuller witness.
 
 This is a terrifying truth if you stop at sovereignty. But it's the most comforting truth in the universe if you add the word from Chapter 1: *love*, because the same God who authors every event, including the hard ones, does so within the context of a personal covenant of love with His people. He's not a blind force rolling over the universe. He's a Father who knows you by name, who wrote your story from the end to the beginning, and who planned every frame of your filmstrip to bring you to the glory He already sees.
 

@@ -8,7 +8,7 @@ part: V -- Salvation
 
 I spent years thinking God was angry with me.
 
-Not in the abstract. In the gut. I would lay in bed at night and feel the weight of every failure, every sinful thought, every shortcoming, and I would think: *He sees all of this.* And the theology I was absorbing in my early years didn't help, because even the Calvinists I was reading framed justification as something that happened at the cross, or at conversion, or at the moment of faith. Which meant there was a "before." A window of time when God looked at me and saw what I really was. A window when His wrath rested on me. A window when I was genuinely, actually condemned.
+Not in the abstract. In the gut. I would lay in bed at night and feel the weight of every failure, every sinful thought, every shortcoming, and I would think: *He sees all of this.* And the theology I was absorbing in my early years didn't help, because even the Calvinists I was reading framed justification as something that happened at the cross, or at conversion, or at the moment of faith. Which meant there was a "before": a window of time when God looked at me and saw what I really was, a window when His wrath rested on me, a window when I was genuinely, actually condemned.
 
 And I believed it. Most of the sovereign grace world believes it right now.
 
@@ -82,7 +82,7 @@ In Modified Covenant Theology, the order is:
 
 **4. Continuous Sanctification.** Growth in grace and knowledge. Not progressive holiness, because Christ IS the believer's holiness. Continuous means ongoing. It means the Spirit keeps teaching, keeps revealing, keeps growing the believer in understanding. But the status never changes. They are as holy the day they first believed as the day they die. We'll develop this fully in Chapter 18.
 
-**5. Glorification.** The old firmware removed. The sin nature gone. The higher resolution body. This is the final rendering upgrade, and we'll deal with it in detail later.
+**5. Glorification.** The old firmware is removed, the sin nature gone, the higher-resolution body received. This is the final rendering upgrade, and we'll deal with it in detail later.
 
 This order is non-negotiable in the framework. Justification *first*, because it's eternal. Regeneration *before* faith, because the firmware must be flashed before the application layer can recognize it. Effectual calling absorbed into regeneration, because the means and the act are one event from two vantage points. Faith and conversion as one step, because the recognition and the turning are one moment. Sanctification as *positional*, because Christ doesn't grow in holiness and neither does His righteousness imputed to you. Glorification as *rendering upgrade*, because the final state isn't escape from matter but matter rendered at a higher resolution than Eden ever had.
 
@@ -179,7 +179,7 @@ The golden chain (predestinated, called, justified, glorified) describes one tho
 
 Let me put this as plainly as I can. An atonement that was intended for everyone and saves only some is a *failure*. An atonement that was intended for the elect and saves every single one of them is a *success*. Which one glorifies Christ more? The one that tried and failed? Or the one that aimed and accomplished?
 
-Particular redemption doesn't make God stingy. It makes Christ effectual. Every drop of His blood accomplished exactly what it was intended to accomplish. No waste. No failure. No people for whom Christ died who end up in hell anyway. He laid down His life for His sheep (John 10:15). And every sheep is accounted for.
+Particular redemption doesn't make God stingy. It makes Christ effectual. Every drop of His blood accomplished exactly what it was intended to accomplish. No waste. No failure. No people for whom Christ died who end up in hell anyway. He laid down His life for His sheep (John 10:15). And He accounts for every one.
 
 Stingy is a God who tries to save everyone and can't. Sovereign is a God who saves exactly who He intended to save. And *that* is good news.
 

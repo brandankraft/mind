@@ -12,7 +12,7 @@ And I was wrong. Not about the resurrection. About what the resurrection *is*. T
 
 ## The Prototype
 
-Christ's resurrection body is the prototype. The first one off the line. The model that every other resurrection body will match. And it has four properties that tell us everything we need to know about the higher resolution rendering.
+Christ's resurrection body is the prototype, the first one off the line, the model that every other resurrection body will match. And it has four properties that tell us everything we need to know about the higher resolution rendering.
 
 **It is physical.**
 
@@ -20,7 +20,7 @@ This is the first thing. And it is the most important thing, because every Gnost
 
 *"And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat? And they gave him a piece of a broiled fish, and of an honeycomb. And he took it, and did eat before them."* (Luke 24:41-43)
 
-He ate fish. Broiled fish and honeycomb. After the resurrection. A spirit doesn't eat. A ghost doesn't chew. Jesus ate because He had a real body with real physicality that could process real food. He wasn't demonstrating something symbolic. He was demonstrating something biological. The resurrection body eats. It digests. It is *more* physical than what came before, not less.
+He ate fish, broiled fish and honeycomb, after the resurrection. A spirit doesn't eat. A ghost doesn't chew. Jesus ate because He had a real body with real physicality that could process real food. He wasn't demonstrating something symbolic. He was demonstrating something biological. The resurrection body eats. It digests. It is *more* physical than what came before, not less.
 
 And Thomas.
 

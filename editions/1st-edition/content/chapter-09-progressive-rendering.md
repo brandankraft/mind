@@ -24,7 +24,7 @@ In the early church, the resolution increased. The apostles had the Spirit. They
 
 Through Paul, the resolution jumped dramatically: faith alone, law finished, Gentiles included on exactly the same terms as Jews, the full gospel proclaimed without the old ceremonies, without the Jewish framework, without the Sinai overlay. Paul received his revelation directly from God (Galatians 1:11-12), and it was the clearest rendering of the eternal covenant that had been given up to that point.
 
-And in the age to come, the resolution reaches full fidelity. Face to face. Known as known. No more glass.
+And in the age to come, the resolution reaches full fidelity: face to face, known as known, no more glass.
 
 *"For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known."* (1 Corinthians 13:12)
 
@@ -56,7 +56,7 @@ In the caves near Qumran, archaeologists found writings from Jewish nonconformis
 
 *"You alone have created the righteous one, and from the womb You established him to give heed to Your covenant at the appointed time of grace . . . But the wicked You created for the time of Your wrath, and from the womb You set them apart for the day of slaughter."*
 
-These words were written two hundred years before Christ. Two hundred years before Paul. Two hundred years before the Reformation. And they contain the same theology that I'm presenting in this book. Absolute sovereignty. Two seeds created differently from the womb. Justification as God's work alone.
+These words were written two hundred years before Christ, two hundred years before Paul, two hundred years before the Reformation. And they contain the same theology that I'm presenting in this book: absolute sovereignty, two seeds created differently from the womb, justification as God's work alone.
 
 The scholars who found these scrolls largely dismissed the theology. Too predestinarian. Too radical. It didn't match their free-will assumptions. But the theology was there. The covenant of grace was operating in those writers. The Spirit was working. The truth was being spoken. Long before Paul put pen to papyrus, the overarching covenant of grace was producing sovereign grace theology in men who had nothing to work with but the Old Testament and the Spirit of God.
 
@@ -64,7 +64,7 @@ Bob Higby's work on the Dead Sea Scrolls, which I've published on pristinegrace.
 
 Is it any wonder that modern scholars dismissed these scrolls for the predestinarian theology they contain? The Pharisees of today are the same as yesterday.
 
-The covenant of grace was present in 200 BC, the same as it was in 33 AD, the same as it is today. Different resolution. Same substance.
+The covenant of grace was present in 200 BC, the same as it was in 33 AD, the same as it is today: different resolution, same substance.
 
 ## The Old Testament Pictures of Redemption
 

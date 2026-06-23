@@ -5,7 +5,7 @@ status: draft
 
 # How This Book Talks
 
-This book uses the language of computer science to explain theology. Not because theology needs computers. Because the patterns are the same. The Author who wrote Scripture also wrote the architecture of the human mind and the structure of reality. The vocabulary overlaps because the Architect is one.
+This book uses the language of computer science to explain theology, not because theology needs computers, but because the patterns are the same. The Author who wrote Scripture also wrote the architecture of the human mind and the structure of reality. The vocabulary overlaps because the Architect is one.
 
 If you've never written a line of code, here is what you need to know.
 
@@ -15,7 +15,7 @@ If you've never written a line of code, here is what you need to know.
 
 **Application layer.** The conscious mind. The part of you that thinks, reasons, chooses, and doubts. In the framework, this is where you experience faith and doubt simultaneously, because the firmware says one thing and the old wiring says another.
 
-**Rendering.** How God's invisible thought becomes visible reality. The physical world is a rendering of something more real, not the other way around. A lower-resolution display of a higher-resolution thought. Chapter 29 explains what happens when the resolution goes up.
+**Rendering.** How God's invisible thought becomes visible reality. The physical world is a rendering of something more real, not the other way around, a lower-resolution display of a higher-resolution thought. Chapter 29 explains what happens when the resolution goes up.
 
 **Filmstrip.** All of time, from creation to consummation, seen simultaneously by God and experienced one frame at a time by us. God doesn't watch the movie. He sees the whole filmstrip at once. Every frame is equally present to Him.
 
@@ -33,7 +33,7 @@ Paul adapted his vocabulary for his audience. On Mars Hill, he quoted their poet
 
 This book is not a collection. It is a derivation. One sentence produces every position. Every chapter traces back to the same root. Pull the sentence and the whole thing comes down. But the sentence holds, and so every branch holds, and the branches don't need each other to stand because they all connect to the root independently. That is not how books are usually written. It is how software is built.
 
-I am a programmer, and I built this book the way I build systems. One axiom at the top. Every module derived from it. A dependency map showing how the pieces connect (Appendix B). And at the end of every chapter, the strongest objections I could find, tested against the framework the way a developer tests code against edge cases. If the framework broke under the objection, the framework was wrong and I fixed it. If it held, I published both the position and the challenge, side by side, so you could see the test and the result for yourself.
+I am a programmer, and I built this book the way I build systems: one axiom at the top, every module derived from it, a dependency map showing how the pieces connect (Appendix B), and, at the end of every chapter, the strongest objections I could find, tested against the framework the way a developer tests code against edge cases. If the framework broke under the objection, the framework was wrong and I fixed it. If it held, I published both the position and the challenge, side by side, so you could see the test and the result for yourself.
 
 If you are a programmer, an engineer, or anyone who has ever built a system and tested it under pressure, here is the architecture:
 

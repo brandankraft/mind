@@ -57,7 +57,7 @@ The frame was authored. The person who hurt you was a character in the story the
 
 Joseph did not excuse his brothers, did not say "it was okay," did not pretend the evil was not evil. He said: you meant it for evil. It WAS evil. AND God meant it for good. Both. At the same time. Two layers of one event. The brothers authored the betrayal at the rendering level. God authored the purpose at the thought level. And the purpose was bigger than the pain.
 
-Forgiving them is not excusing them. Forgiving them is releasing the character from a debt the Author already accounted for. The debt is real. The pain is real. And the purpose is real. And the purpose includes the pain. And the Author who wrote the frame where you were hurt also wrote the frame where the hurt becomes the thing that made you who you are now.
+Forgiving them is not excusing them. Forgiving them is releasing the character from a debt the Author has already settled. The debt is real. The pain is real. And the purpose is real. And the purpose includes the pain. And the Author who wrote the frame where you were hurt also wrote the frame where the hurt becomes the thing that made you who you are now.
 
 You do not need their apology. You need the Author's purpose. And the Author's purpose was settled before the frame played.
 
@@ -141,7 +141,7 @@ The addiction is not your identity. The addiction is old firmware running code t
 
 **"I don't know what's going to happen."**
 
-The Author does. He sees the whole filmstrip. He wrote every frame before the first one played. *"Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure"* (Isaiah 46:10). The future is not unknown. It is unseen by you because you are inside the filmstrip experiencing it frame by frame. But the Author who wrote the frame you are sitting in right now also wrote the frame you are afraid of. And He wrote it within the context of a personal covenant of love. The future is authored. The Author is your Father. And your Father has never lost a character He intended to keep.
+The Author does. He sees the whole filmstrip. He wrote every frame before the first one played. *"Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure"* (Isaiah 46:10). The future is not unknown. It is unseen by you because you are inside the filmstrip experiencing it frame by frame. But the Author who wrote the frame you are sitting in right now also wrote the frame of which you are afraid. And He wrote it within the context of a personal covenant of love. The future is authored. The Author is your Father. And your Father has never lost a character He intended to keep.
 
 ## On Depression
 

@@ -38,7 +38,7 @@ Let me walk through the passage that has been used for two thousand years to pro
 
 *"How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!"* (Isaiah 14:12)
 
-Beautiful verse. Dramatic imagery. And absolutely, unequivocally, about the king of Babylon.
+It is a beautiful verse, full of dramatic imagery, and absolutely, unequivocally about the king of Babylon.
 
 How do I know? Because the prophet told us. Eight verses earlier.
 
@@ -218,7 +218,7 @@ The popular detail of *a third of the angels falling with Satan* also crystalliz
 
 **The pipeline as a whole.**
 
-Plato wrote the axiom in the fourth century BC. Apocryphal Jewish literature supplied the proto-narrative of Satan's fall in the centuries before Christ and the first century after. Origen baptized the Platonic floor and read the angelic fall into Isaiah 14 and Ezekiel 28 in the third century. Augustine systematized it in the fifth. Medieval poets and theologians elaborated it for a thousand years. Milton crowned it with verse no English speaker can unsee. By the time Milton finished his poem in 1667, the law of Plato had been operating in the church for fourteen centuries, picking up Jewish apocryphal additions and patristic theological scaffolding along the way.
+Plato wrote the axiom in the fourth century BC. Apocryphal Jewish literature supplied the proto-narrative of Satan's fall in the centuries before Christ and the first century afterward. Origen baptized the Platonic floor and read the angelic fall into Isaiah 14 and Ezekiel 28 in the third century. Augustine systematized it in the fifth. Medieval poets and theologians elaborated it for a thousand years. Milton crowned it with verse no English speaker can unsee. By the time Milton finished his poem in 1667, the law of Plato had been operating in the church for fourteen centuries, picking up Jewish apocryphal additions and patristic theological scaffolding along the way.
 
 I am not saying any of these men were bad poets or bad theologians. Augustine was a master of Latin prose. Aquinas was the greatest Scholastic mind of the Middle Ages. Milton was a master of English verse. I am saying the church has confused their work for revelation. *None of it is Scripture.* The doctrine of Satan most Christians hold has been formed more by Origen plus Augustine plus medieval imagination plus Milton than by the Bible's silence on the very topics this pipeline chose to fill in.
 

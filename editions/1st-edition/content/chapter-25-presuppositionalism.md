@@ -30,7 +30,7 @@ This is not a metaphor I invented to make a theological point. This is how the m
 
 *"For as he thinketh in his heart, so is he."* (Proverbs 23:7)
 
-The heart thinks *before* the head reasons. The presuppositions live in the heart, not the physical organ, but the seat of a person's deepest commitments, the place beneath the conscious mind where the boot parameters are installed. And as a man thinketh in his *heart*, so is he. Not as he reasons. Not as he concludes. As he *thinketh in his heart*. The heart sets the parameters. The head runs the applications. And the applications can never override the parameters they're running on.
+The heart thinks *before* the head reasons. The presuppositions live in the heart, not the physical organ, but the seat of a person's deepest commitments, the place beneath the conscious mind where the boot parameters are installed. And as a man thinketh in his *heart*, so is he. Not as he reasons. Not as he concludes. As he *thinketh in his heart*. The heart sets the parameters. The head runs the applications. And the applications can never override the parameters on which they're running.
 
 ## No Neutral Ground
 
@@ -48,7 +48,7 @@ The evidence *is* there. The arguments *are* valid. But they are valid *within t
 
 And here is the devastating part: the materialist thinks he's being neutral. He thinks his framework is the default. He thinks that materialism isn't a presupposition at all: it's just *how things are*. He calls his starting point "science" or "reason" or "evidence," and he calls the Christian's starting point "faith," as if faith were the departure from neutrality and his position were the baseline.
 
-But it's not. Materialism is a presupposition. The belief that the physical world is all there is, that only empirically verifiable claims count as knowledge, that consciousness is reducible to chemistry: these are *starting assumptions*, not conclusions. They cannot be proved from within the materialist system without using the materialist system to validate itself. That's circular reasoning. And the materialist is guilty of the same circularity he accuses the Christian of.
+But it's not. Materialism is a presupposition. The belief that the physical world is all there is, that only empirically verifiable claims count as knowledge, that consciousness is reducible to chemistry: these are *starting assumptions*, not conclusions. They cannot be proved from within the materialist system without using the materialist system to validate itself. That's circular reasoning. And the materialist is guilty of the same circularity of which he accuses the Christian.
 
 *"The fool hath said in his heart, There is no God."* (Psalm 14:1)
 
@@ -64,7 +64,7 @@ The question was never "which can be proved?" The question is: *which presupposi
 
 And this is where the materialist's system collapses.
 
-The materialist has to account for consciousness. He can't. If the brain is nothing more than chemistry, atoms and molecules following the laws of physics, then every thought you have is just a chemical reaction. Including the thought "materialism is true." And if that thought is just a chemical reaction, then it wasn't arrived at by reasoning. It was produced by chemistry. And chemistry doesn't *reason*. Chemistry doesn't arrive at *truth*. Chemistry just reacts. There is no mechanism in a materialist universe by which undirected chemical processes can produce *reliable* thoughts about the nature of reality. The materialist uses his mind to argue that the mind is nothing more than chemistry, and in doing so, he saws off the branch he's sitting on.
+The materialist has to account for consciousness. He can't. If the brain is nothing more than chemistry, atoms and molecules following the laws of physics, then every thought you have is just a chemical reaction. Including the thought "materialism is true." And if that thought is just a chemical reaction, then it wasn't arrived at by reasoning. It was produced by chemistry. And chemistry doesn't *reason*. Chemistry doesn't arrive at *truth*. Chemistry just reacts. There is no mechanism in a materialist universe by which undirected chemical processes can produce *reliable* thoughts about the nature of reality. The materialist uses his mind to argue that the mind is nothing more than chemistry, and in doing so, he saws off the branch on which he's sitting.
 
 The Christian presupposition accounts for consciousness. If reality is information in the mind of God, as Chapter 1 established, then consciousness is not emergent; it's fundamental. Mind precedes matter. The ability to think, to reason, to grasp truth, is a gift from the Mind that authored reality. Reason works because it was designed to work. Logic is reliable because it was authored by a logical God. The intelligibility of the universe is not an accident; it's a feature of a universe that was *thought* into existence.
 
@@ -192,7 +192,7 @@ This is not an exhaustive treatment. There are better places for that, including
 
 **Perseverance of the Saints.** In the framework, this is the permanence of the firmware flash. Firmware, once rewritten by the Spirit, stays rewritten. The elect do not get regenerated and then lose it, because the work happens beneath the reach of human undoing. You cannot argue yourself out of boot parameters any more than you can argue yourself into them. The hand that writes the firmware is the hand that keeps it written. God the Father guards (1 Pet. 1:3-5), God the Son intercedes (Heb. 7:25; John 17:6-24), and God the Spirit seals (Eph. 1:13-14; 4:30). The preserving work of all three persons of the Trinity ensures that not one of the elect will be lost. Key passages: Jer. 32:40; John 6:39-40; John 10:27-29; Rom. 8:28-39; Phil. 1:6; 1 Thess. 5:23-24; 2 Tim. 1:12; 1 Pet. 1:3-5; Jude 1:24-25.
 
-I affirm all five. Without reservation. But the five points were never meant to stand on their own as a system. They are *symptoms* of a deeper architecture, an architecture the Reformers intuited but never named because they didn't have the ontology to ground it. The sentence provides that ground. And on that ground, the five points are not just defended from proof texts. They are *derived* from a single proposition about the nature of reality. That is a different framework. Not a different set of conclusions. The conclusions are the same. The foundation is new. And the foundation is what this book provides.
+I affirm all five. Without reservation. But the five points were never meant to stand on their own as a system. They are *symptoms* of a deeper architecture, an architecture the Reformers intuited but never named because they didn't have the ontology to ground it. The sentence provides that ground. And on that ground, the five points are not just defended from proof texts. They are *derived* from a single proposition about the nature of reality. That is a different framework, not a different set of conclusions. The conclusions are the same. The foundation is new. And the foundation is what this book provides.
 
 ## For Further Study
 

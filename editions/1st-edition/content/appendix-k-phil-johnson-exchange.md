@@ -13,7 +13,7 @@ Pristine Grace was on the list.
 
 Johnson wrote that pristinegrace.org was *"hyper-Calvinism of the most virulent kind"* and that the site was *"doing more to befoul and degrade the doctrines of grace than practically any other Web site"* he had seen. He described me as *"naturally drawn to radical ideas."*[^k-johnson]
 
-He wrote all of this without ever contacting me. Without a phone call. Without an email. Without a single conversation.
+He wrote all of this without ever contacting me, without a phone call, without an email, without a single conversation.
 
 ## The Response
 

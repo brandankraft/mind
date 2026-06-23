@@ -24,7 +24,7 @@ The sign of the New Covenant is the Holy Spirit. Not the water.
 
 *"And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live."* (Deuteronomy 30:6)
 
-Circumcision of the *heart*. This is the real circumcision. This is what physical circumcision always pointed to. The cutting away of the flesh was never the substance. It was the sign pointing to the substance. And the substance was always the Spirit's work in the inner man.
+Circumcision of the *heart*. This is the real circumcision. Physical circumcision always pointed to it. The cutting away of the flesh was never the substance. It was the sign pointing to the substance. And the substance was always the Spirit's work in the inner man.
 
 *"For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh: But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God."* (Romans 2:28-29)
 
@@ -115,7 +115,7 @@ As I walked through above, *"made without hands"* means not done by human beings
 
 **"The apostles baptized in water; we're obligated to follow their example."**
 
-Yes, and I believe Christians should be baptized in water. But the command is *general*, not *covenantal*. There are no sanctions for failure. There's no prescribed mode that the entire church agrees on. And the *meaning* of baptism, the thing the water points to, is the Spirit's work. The water is the rendering. The Spirit is the substance. Follow the apostles' example. Be baptized. But don't confuse the ceremony with the covenant.
+Yes, and I believe Christians should be baptized in water. But the command is *general*, not *covenantal*. There are no sanctions for failure. There's no prescribed mode on which the entire church agrees. And the *meaning* of baptism, the thing the water points to, is the Spirit's work. The water is the rendering. The Spirit is the substance. Follow the apostles' example. Be baptized. But don't confuse the ceremony with the covenant.
 
 **"Without baptism, there's no way to join a church."**
 

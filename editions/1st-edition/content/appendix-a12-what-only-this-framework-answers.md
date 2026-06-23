@@ -61,7 +61,7 @@ The framework distinguishes the two. A dream that repeats, persists, and produce
 
 ## What Is Deja Vu?
 
-A brief glitch where the conscious mind catches the subconscious operating system processing a pattern it has already mapped, creating the sensation that the current frame has rendered before. Not mystical. Not spiritual. Not evidence of past lives (which the framework explicitly rejects: every person is a single authored thought, rendered once). Deja vu is the layers of the soul briefly visible to each other. The OS is faster than the application layer. Sometimes the OS processes a scene and the application layer catches up a fraction of a second later, feels the processing, and interprets it as "I have been here before." The person has not been there before. The layers just briefly desynchronized. Normal biology. Authored hardware. No theological weight.
+Deja vu is a brief glitch where the conscious mind catches the subconscious operating system processing a pattern it has already mapped, creating the sensation that the current frame has rendered before. Not mystical. Not spiritual. Not evidence of past lives (which the framework explicitly rejects: every person is a single authored thought, rendered once). Deja vu is the layers of the soul briefly visible to each other. The OS is faster than the application layer. Sometimes the OS processes a scene and the application layer catches up a fraction of a second later, feels the processing, and interprets it as "I have been here before." The person has not been there before. The layers just briefly desynchronized. Normal biology. Authored hardware. No theological weight.
 
 **For further study:** Eccl. 1:9-10; Ps. 139:1-6.
 

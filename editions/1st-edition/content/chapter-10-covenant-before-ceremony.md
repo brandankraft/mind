@@ -36,7 +36,7 @@ This is not an argument for promiscuity. This is an argument about the *nature* 
 
 *"Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."* (Genesis 2:24)
 
-The two shall become *one flesh*. This is the visible rendering of the invisible covenant. The physical union IS the covenant rendered in bodies, not a reward for the ceremony, not a privilege earned by signing a license. It is the substance the ceremony points to.
+The two shall become *one flesh*. This is the visible rendering of the invisible covenant. The physical union IS the covenant rendered in bodies, not a reward for the ceremony, not a privilege earned by signing a license. It is the substance to which the ceremony points.
 
 And Paul, in Ephesians, takes this further than most people are comfortable with:
 
@@ -55,7 +55,7 @@ And the church's embarrassment about the Song of Solomon is the law of Plato, on
 
 ## Communion
 
-The same principle applies to the Lord's Supper. The atonement is the substance. His sacrifice purposed in eternity, accomplished on the cross. The bread and wine are the ceremony. A visible rendering of the invisible reality.
+The same principle applies to the Lord's Supper. The atonement is the substance, His sacrifice purposed in eternity, accomplished on the cross. The bread and wine are the ceremony, a visible rendering of the invisible reality.
 
 *"And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me."* (Luke 22:19)
 
@@ -111,7 +111,7 @@ Do you see it? It's everywhere.
 
 Every row in that table is the same principle. The invisible came first. The visible followed. The substance preceded the formality. And every error in the history of the church that involves making the visible the cause of the invisible, baptismal regeneration, sacramental salvation, justification by works, institutional authority, every one of them, is a reversal of this table.
 
-This is operational idealism in action. Not philosophy. Life. Every domain.
+This is operational idealism in action, not philosophy but life. Every domain.
 
 ## Objections and Answers
 

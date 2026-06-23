@@ -80,7 +80,7 @@ I would hold a weeping woman who had an abortion and tell her Christ already cov
 
 ## Homosexuality
 
-Sin. Ordained by God. Held with aching compassion and zero stones thrown.
+It is sin, ordained by God, held with aching compassion and zero stones thrown.
 
 Paul said what he said.
 
@@ -112,7 +112,7 @@ I would sit across the table from a gay man and tell him the truth: it's sin. Pa
 
 ## The Self-Righteousness Problem
 
-The real danger in the church is not the sins everyone talks about. It's the sin nobody talks about.
+The real danger in the church is not the sins everyone discusses. It's the sin nobody discusses.
 
 *"Pride goeth before destruction, and an haughty spirit before a fall."* (Proverbs 16:18)
 

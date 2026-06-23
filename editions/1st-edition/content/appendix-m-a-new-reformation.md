@@ -10,7 +10,7 @@ The Reformation was built on five solas. *Sola Scriptura. Sola Fide. Sola Gratia
 
 And then the Reformers turned around and built a tradition.
 
-Confessions, catechisms, seminaries, denominations, hierarchies, creeds that function exactly like the magisterium they rejected, except with different letterhead. And the five solas, which were supposed to free the church from tradition, became the tradition. The battle cry became the fence. And the men inside the fence forgot that the whole point was to tear fences down.
+It was confessions, catechisms, seminaries, denominations, hierarchies, creeds that function exactly like the magisterium they rejected, except with different letterhead. And the five solas, which were supposed to free the church from tradition, became the tradition. The battle cry became the fence. And the men inside the fence forgot that the whole point was to tear fences down.
 
 This book gives the five solas back. Without the fence.
 

@@ -47,6 +47,6 @@ The following chart compares four major covenant systems across the thirteen the
 
 ## The Core Distinction
 
-CT says you're a member of a covenant class. MCT says you're a specific, personal thought of God, an eternal promise made to YOU, not to a category you belong to.
+CT says you're a member of a covenant class. MCT says you're a specific, personal thought of God, an eternal promise made to YOU, not to a category to which you belong.
 
 Every other system requires a legal mechanism between God and His people. MCT says the mechanism IS the promise. And a promise from a timeless God to a thought in His own mind doesn't need a courtroom. It just needs love.

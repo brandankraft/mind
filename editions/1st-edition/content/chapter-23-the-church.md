@@ -26,11 +26,11 @@ I'm not angry. I'm not disgruntled. I love the people in these churches. I still
 
 The English word "church" comes from the Greek *kuriakon*, meaning "the Lord's house." But that's not the word in the New Testament. The word in the New Testament is *ekklesia*. And *ekklesia* does not mean a house, a building, or a religious service. It does not mean an institution with a pastor, a board, and a tax exemption.
 
-*Ekklesia* means a called-out assembly. A decision-making body. In secular Greek, an *ekklesia* was the assembly of citizens who gathered to deliberate and make decisions for the city. It was participatory by definition. Every citizen had a voice. Every member of the assembly contributed to the deliberation. It was not a lecture hall. It was not an audience watching a speaker. It was a body of equals, assembled for a purpose, making decisions together.
+*Ekklesia* means a called-out assembly, a decision-making body. In secular Greek, an *ekklesia* was the assembly of citizens who gathered to deliberate and make decisions for the city. It was participatory by definition. Every citizen had a voice. Every member of the assembly contributed to the deliberation. It was not a lecture hall. It was not an audience watching a speaker. It was a body of equals, assembled for a purpose, making decisions together.
 
 When the New Testament writers used this word, they chose it deliberately. They didn't use *synagoge*, which was the Jewish word for a gathering place. They didn't use *oikos* for a household, or *naos* for a temple. They used *ekklesia*, the word for a participatory, decision-making assembly. And that choice tells you everything about what the church was supposed to be.
 
-The mistranslation happened centuries ago when the word *ekklesia* was rendered as "church" in English Bibles, borrowing from *kuriakon*, the Lord's house. And with that one translation decision, the concept shifted from a *gathering of people who participate* to a *building where people attend*. From a verb to a noun. From something the body *does* to somewhere the body *goes*.
+The mistranslation happened centuries ago when the word *ekklesia* was rendered as "church" in English Bibles, borrowing from *kuriakon*, the Lord's house. And with that one translation decision, the concept shifted from a *gathering of people who participate* to a *building where people attend*, from a verb to a noun, from something the body *does* to somewhere the body *goes*.
 
 That single mistranslation has shaped the entire Western concept of church. We "go to church" on Sunday. We "join a church." We "leave a church." All of this language treats the church as a location, an institution, a thing external to the people. But the *ekklesia* is the people. It's not where they go. It's what they are when they gather.
 
@@ -58,7 +58,7 @@ The New Testament model is radically different from what most Christians have ex
 
 *"For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ."* (1 Corinthians 12:12)
 
-The church is a *body*. Not a body with one mouth and a hundred ears. A body with many members, each functioning, each contributing, each necessary. The eye doesn't say to the hand, "I have no need of thee" (1 Corinthians 12:21). And the mouth doesn't say to the rest of the body, "Sit down and listen to me for forty-five minutes while you contribute nothing."
+The church is a *body*, not a body with one mouth and a hundred ears, but a body with many members, each functioning, each contributing, each necessary. The eye doesn't say to the hand, "I have no need of thee" (1 Corinthians 12:21). And the mouth doesn't say to the rest of the body, "Sit down and listen to me for forty-five minutes while you contribute nothing."
 
 In the participatory model, teaching happens in conversation. Prophecy is tested by the group. Songs are shared by individuals. Questions are asked out loud. Disagreements are worked through face to face. The brother who has a burden shares it. The sister who has a word of encouragement speaks it. The elder who has wisdom contributes it alongside, not above, the rest of the body.
 

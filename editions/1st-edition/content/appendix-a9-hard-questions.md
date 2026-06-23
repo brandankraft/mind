@@ -13,7 +13,7 @@ Some questions keep people up at night: suffering, natural disasters, other reli
 
 The framework's answer to suffering is not comfortable. It is honest.
 
-Suffering is authored. Not permitted. Authored. *"I form the light, and create darkness: I make peace, and create evil: I the LORD do all these things"* (Isaiah 45:7). Every disease, every disaster, every loss, every pain. Authored by the God who thinks every thought into existence.
+Suffering is authored. Not permitted. Authored. *"I form the light, and create darkness: I make peace, and create evil: I the LORD do all these things"* (Isaiah 45:7). Every disease, every disaster, every loss, every pain is authored by the God who thinks every thought into existence.
 
 And the question everyone asks is: why?
 
@@ -79,7 +79,7 @@ But fragments are not the gospel. Recognizing a piece of the rendering is not th
 
 ## On Judas
 
-The most explicit reprobate in Scripture. And the strongest test case for the framework.
+Judas is the most explicit reprobate in Scripture, and the strongest test case for the framework.
 
 Jesus chose Judas knowing what he was. *"Have not I chosen you twelve, and one of you is a devil?"* (John 6:70). A devil. Not "will become a devil." Is a devil. Present tense. Ontological, not behavioral.
 

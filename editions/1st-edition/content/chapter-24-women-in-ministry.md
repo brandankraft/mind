@@ -62,7 +62,7 @@ A woman who teaches men in a church is wrong about her role. But she is not lost
 
 Because if I'm honest, I'm wrong about things too. I'm sure there are positions in this book that I've gotten wrong. I don't know which ones yet; if I did, I'd fix them. But I know with certainty that I don't have perfect theology. Nobody does. And if God's grace covers my doctrinal errors, it covers hers. If God's grace covers my practical errors, it covers hers. If God's grace covers the man who baptizes infants when he shouldn't, and the man who uses grape juice instead of wine, and the man who observes the Sabbath on Sunday instead of Saturday, then God's grace covers the woman who teaches when Paul said not to.
 
-This is the same principle we established in the chapters on liberty and on the covenant: God's standard is perfection. Only Christ met it. Everyone else falls short in different places. And the beauty of the finished work is that the falling short was already paid for. The woman who teaches isn't sinning against a law that will condemn her. She's living in error that grace has already covered. Same as me. Same as you. Same as everyone in every church in the history of the world. I hold the principle and extend the grace simultaneously, because that's what the gospel does.
+This is the same principle we established in the chapters on liberty and on the covenant: God's standard is perfection. Only Christ met it. Everyone else falls short in different places. And the beauty of the finished work is that the falling short was already paid in full. The woman who teaches isn't sinning against a law that will condemn her. She's living in error that grace has already covered. Same as me. Same as you. Same as everyone in every church in the history of the world. I hold the principle and extend the grace simultaneously, because that's what the gospel does.
 
 ## The Debate Generates More Heat Than Light
 
@@ -141,11 +141,11 @@ Paul grounded the command in creation order, not culture, as I showed in the ope
 
 **"If the pulpit shouldn't exist, the question is moot."**
 
-Partly, and I addressed this in the body of the chapter. If there's no pulpit, there's no pulpit to fight about. But the *principle* doesn't require a pulpit to apply. It applies wherever teaching and authority happen: house church, Bible study, any setting where the body gathers and the Word is taught with authority. The structure changes. The principle doesn't.
+Partly, and I addressed this in the body of the chapter. If there's no pulpit, the pulpit fight is moot. But the *principle* doesn't require a pulpit to apply. It applies wherever teaching and authority happen: house church, Bible study, any setting where the body gathers and the Word is taught with authority. The structure changes. The principle doesn't.
 
 **"You're being inconsistent, extending grace on doctrine but not on practice."**
 
-I'm extending grace on both. I said explicitly that a woman who teaches isn't lost. Incorrect practice doesn't damn. Grace covers. That is *exactly* the same grace I extend to the man who holds incorrect doctrine. The principle is clear. The consequences of violating the principle are not eternal damnation. They're error. And error is what grace was designed for.
+I'm extending grace on both. I said explicitly that a woman who teaches isn't lost. Incorrect practice doesn't damn. Grace covers. That is *exactly* the same grace I extend to the man who holds incorrect doctrine. The principle is clear. The consequences of violating the principle are not eternal damnation. They're error. And grace was designed for error.
 
 **"Galatians 3:28 says there is 'neither male nor female' in Christ."**
 

@@ -82,7 +82,7 @@ This is where the rubber meets the road, and this is where I lost friends over t
 
 If a believer is struggling with sin, the worst thing you can do is point them to the law, because the law has no power to fix the problem. The law can identify the sin. The law can condemn the sinner. But the law cannot heal, restore, empower, or change anyone. It was never designed to.
 
-When you point a struggling believer to the Ten Commandments, you are doing exactly what the Galatian Judaizers were doing. You are taking someone who has been set free in Christ and putting them back under the very thing Christ freed them from.
+When you point a struggling believer to the Ten Commandments, you are doing exactly what the Galatian Judaizers were doing. You are taking someone who has been set free in Christ and putting them back under the very thing from which Christ freed them.
 
 *"Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage."* (Galatians 5:1)
 
@@ -108,7 +108,7 @@ Not under the law. Under grace. And Paul's argument in Romans 7 makes this even 
 
 "Thou shalt not covet" is the tenth commandment. It's in the Decalogue. It's the *moral* law, by anyone's reckoning. And Paul uses it as his example of the law that produced sin in him. The very commandment that Reformed theology says is eternal and binding is the commandment Paul uses to illustrate why the believer needs to be dead to the law.
 
-Christ fulfilled *all* of it. Not just the types and shadows. Not just the dietary laws and the sacrificial system. All of it. Every jot and tittle (Matthew 5:18). And what Christ fulfilled, the believer is free from. Completely. That doesn't mean the law was bad. It means the law finished its job. The schoolmaster taught the lesson. The student graduated.
+Christ fulfilled *all* of it. Not just the types and shadows. Not just the dietary laws and the sacrificial system. All of it. Every jot and tittle (Matthew 5:18). And the believer is free from what Christ fulfilled. Completely. That doesn't mean the law was bad. It means the law finished its job. The schoolmaster taught the lesson. The student graduated.
 
 ## Objections and Answers
 

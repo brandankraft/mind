@@ -2,7 +2,7 @@ title = "A Thought in the Mind of God"
 subtitle = "A Systematic Theology"
 author = "Brandan Kraft"
 publisher = "Pristine Grace Publishing"
-version = "1.0.4"
+version = "1.0.5"
 # Date of last edits for this version. Bump this together with `version`.
 # major.minor.patch: major = new edition, minor = content change (pages may
 # move), patch = corrections/cleanup with no pagination change.

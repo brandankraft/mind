@@ -12,7 +12,7 @@ part: Appendices
 
 ### I. The Last Sermon
 
-Richard Holloway had preached for forty-two years at Bethany Gospel Chapel, a small non-conformist assembly of forty members on a two-lane road outside the town. He had never been ordained by a presbytery because he did not believe in them. He had never taken a salary because he did not believe in that either. He had worked a job in the mornings and studied in the afternoons and preached on Sundays, and he had been faithful to the doctrines of grace as he understood them, and he had never softened, and he had never compromised, and he had never written a pamphlet he was not certain of.
+Richard Holloway had preached for forty-two years at Bethany Gospel Chapel, a small non-conformist assembly of forty members on a two-lane road outside the town. He had never been ordained by a presbytery because he did not believe in them. He had never taken a salary because he did not believe in that either. He had worked a job in the mornings and studied in the afternoons and preached on Sundays, and he had been faithful to the doctrines of grace as he understood them, and he had never softened, and he had never compromised, and he had never written a pamphlet he doubted.
 
 <figure class="book-figure-float-right"><img src="L-1.png" alt="The last sermon" /></figure>
 

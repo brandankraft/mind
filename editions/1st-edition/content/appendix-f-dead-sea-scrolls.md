@@ -75,7 +75,7 @@ The Pharisees of the first century suppressed this theology with political power
 
 The Dead Sea Scrolls demonstrate that sovereign grace theology is not a later invention of Augustine, Calvin, or the Reformers. It is the *original* Hebrew theology. The predestinarianism that the church attributes to Calvin in the sixteenth century was already present in Jewish nonconformist communities two centuries before Christ. The Pharisees corrupted it with Greek philosophy. The scrolls preserve what the Pharisees tried to destroy.
 
-This matters because it places the framework of this book in a historical lineage that stretches far beyond the Reformation. The Teacher of Righteousness, Luther, Toplady, Gill, Higby, and this book are all standing in the same stream. Different centuries, but the same truth, the same suppression, the same Author behind it all.
+This matters because it places the framework of this book in a historical lineage that stretches far beyond the Reformation. The Teacher of Righteousness, Luther, Toplady, Gill, Higby, and this book are all standing in the same stream: different centuries, but the same truth, the same suppression, the same Author behind it all.
 
 ## Further Reading
 

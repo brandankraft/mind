@@ -117,7 +117,7 @@ I am not a physicist. I am a programmer with an education in computer science an
 
 I say this because I've seen well-meaning Christians build too much of their case on scientific evidence, and when the science shifts, as science always does, the theology looks like it has failed. It hasn't. The science was never the foundation. Christ was. And Christ doesn't need a particle accelerator to validate His Word.
 
-But I will say this: it's something when the physics arrives at the same place the theology started from. And when the biologist discovers authored code in every cell, and the physicist discovers information at the bottom of reality, and the computer scientist discovers that the universe looks like a rendering engine, and all three of them arrive at the same conclusion that Genesis 1 stated in its opening verse, that's not an accident. That's a thought. And the thought has a Thinker.
+But I will say this: it's something when the physics arrives at the same place from which the theology started. And when the biologist discovers authored code in every cell, and the physicist discovers information at the bottom of reality, and the computer scientist discovers that the universe looks like a rendering engine, and all three of them arrive at the same conclusion that Genesis 1 stated in its opening verse, that's not an accident. That's a thought. And the thought has a Thinker.
 
 Wheeler said "it from bit."
 

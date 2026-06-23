@@ -8,7 +8,7 @@ part: I, The Foundation
 
 I've watched Christians argue about the age of the earth. And I've watched them do it with a ferocity that would make you think the Gospel itself depended on the answer. Young earth creationists insist on six literal twenty-four-hour days and treat anyone who disagrees as a compromiser of biblical authority. Old earth creationists and theistic evolutionists insist on billions of years and treat the young earthers as anti-intellectual. And both sides are so consumed with the argument about the *mechanism* that they've almost entirely lost sight of the *Person*.
 
-God created. That's the point. That's what Genesis 1 is about. Not the clock. The Author.
+God created. That's the point. That's what Genesis 1 is about: the Author, not the clock.
 
 *"In the beginning God created the heaven and the earth."* (Genesis 1:1)
 
@@ -62,7 +62,7 @@ I addressed this in the previous chapter, but it bears repeating in the context 
 
 The difference matters. If God is a designer, then DNA is a machine that runs independently once built. If God is an Author, then DNA is a thought He is currently thinking. Remove the thought, and the code doesn't just stop running. It vanishes. Every cell in your body, every nucleotide in every strand of DNA, is being sustained right now by a God who hasn't stopped thinking about it.
 
-And this applies to the whole of creation. Not just the living things. *"He telleth the number of the stars; he calleth them all by their names"* (Psalm 147:4). The stars are thoughts, and so are the mountains and the laws of physics. Gravity is not an impersonal force operating by its own authority. Gravity is a pattern in God's thinking, as reliable as He is, as consistent as His character, and as dependent on His mind as the words on this page are dependent on the mind that wrote them.
+And this applies to the whole of creation, not just the living things. *"He telleth the number of the stars; he calleth them all by their names"* (Psalm 147:4). The stars are thoughts, and so are the mountains and the laws of physics. Gravity is not an impersonal force operating by its own authority. Gravity is a pattern in God's thinking, as reliable as He is, as consistent as His character, and as dependent on His mind as the words on this page are dependent on the mind that wrote them.
 
 ## Objections and Answers
 
@@ -84,7 +84,7 @@ It's *a* reading of Scripture. But *yom* has semantic range, and the "plain read
 
 **"Writing an entire chapter about a timeline you say doesn't matter is a waste of time."**
 
-Because people need permission to stop fighting about it. The young earth believer who has been told his faith depends on six literal days needs to hear that it doesn't. The old earth believer who has been told he's a compromiser needs to hear that he's not. And both of them need to look up from the argument and see the Person the argument was supposed to be about.
+Because people need permission to stop fighting about it. The young earth believer who has been told his faith depends on six literal days needs to hear that it doesn't. The old earth believer who has been told he's a compromiser needs to hear that he's not. And both of them need to look up from the argument and see the Person who was supposed to be the point of it.
 
 ## For Further Study
 

@@ -55,7 +55,7 @@ No. The framework is unambiguous on this, and Scripture supports the derivation.
 
 The confusion comes from flattening "possession" with "influence" and "oppression." These are three different categories operating at three different layers.
 
-**Possession** is firmware-level occupation. A demon running the soul the way the Spirit runs the soul of a believer. This is what Christ cast out in the Gospels. It is what Scripture always describes with the language of "unclean spirits" and "having a devil." Possession is structurally impossible for the regenerate because the Spirit has already installed new firmware that cannot be displaced by a lesser power.
+**Possession** is firmware-level occupation, a demon running the soul the way the Spirit runs the soul of a believer. This is what Christ cast out in the Gospels. It is what Scripture always describes with the language of "unclean spirits" and "having a devil." Possession is structurally impossible for the regenerate because the Spirit has already installed new firmware that cannot be displaced by a lesser power.
 
 **Influence** is application-layer interference: temptation, suggestion, accusation, the whispered lie at the level of the conscious mind. Paul calls this "fiery darts" (Ephesians 6:16). Believers face this constantly. It is not possession. It is harassment. The application layer is the battleground, and the application layer is exactly where the believer is supposed to use the shield of faith.
 

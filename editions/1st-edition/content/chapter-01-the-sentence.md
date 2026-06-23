@@ -30,7 +30,7 @@ Now let me show you what it means.
 
 ## Everything That Exists
 
-Not some things. *Everything.* Every atom, every thought, every sin, every act of grace. Every drop of rain and every heartbeat. Every word you've ever spoken and every feeling you've ever felt. Every event in history and every moment of your private life. *Everything that exists* is included. There are no exceptions, no carve-outs, no categories that fall outside the scope.
+It does not mean some things. It means *everything*: every atom, every thought, every sin, every act of grace; every drop of rain and every heartbeat; every word you've ever spoken and every feeling you've ever felt; every event in history and every moment of your private life. *Everything that exists* is included. There are no exceptions, no carve-outs, no categories that fall outside the scope.
 
 This is where most people get uncomfortable, and I understand why, because if everything that exists is a thought in the mind of God, then evil exists because God is thinking it. Sin exists because God is thinking it. The fall of Adam, the crucifixion of Christ, the suffering of innocents, the damnation of the wicked, all of it is included in the word *everything*. And most theologians, if they're being honest, will try to find a way around this. They'll talk about God "permitting" evil rather than authoring it. They'll invoke "secondary causes." They'll do everything they can to maintain God's sovereignty in theory while protecting Him from the accusation of authoring sin in practice.
 
@@ -46,7 +46,7 @@ I'll have much more to say about the law of Plato as we go. For now, I only want
 
 ## A Thought
 
-Not a creation in the mechanical sense. Not an object manufactured by a cosmic engineer. *A thought.* Information. The product of a mind.
+Not a creation in the mechanical sense, not an object manufactured by a cosmic engineer, but *a thought*: information, the product of a mind.
 
 This is the heart of the entire framework, and it's where most people's assumptions get turned upside down. The modern world operates on the assumption that matter is fundamental and mind is emergent. That the physical universe came first, and consciousness arose from it at some point through some process we don't fully understand. Atoms formed molecules, molecules formed cells, cells formed brains, and brains produced minds. Matter first. Mind second.
 
@@ -72,7 +72,7 @@ And one more, from Paul's sermon on Mars Hill:
 
 *"For in him we live, and move, and have our being."* (Acts 17:28)
 
-We exist *in* God. Not alongside God. Not in a universe that God created and then stepped back from. *In* him. We live in his thought. We move in his thought. We have our being in his thought. The physical world is not the container. God's mind is the container. And everything we experience as "reality" is the rendering of that thought into a form our senses can process.
+We exist *in* God. Not alongside God. Not in a universe that God created and then left to itself. *In* him. We live in his thought. We move in his thought. We have our being in his thought. The physical world is not the container. God's mind is the container. And everything we experience as "reality" is the rendering of that thought into a form our senses can process.
 
 This is the philosophical position known as *idealism*. Mind precedes matter. The invisible is more real than the visible. And I want to be honest about something here, because I think honesty serves the reader better than pretending I arrived at this position solely through exegesis. I arrived at it through both Scripture *and* the work of a Greek philosopher, and the irony is not lost on me that I'm about to credit a philosopher in the same chapter where I've attacked one.
 
@@ -84,7 +84,7 @@ So I take from Plato his ontology and reject his ethics. I use his best insight 
 
 ## In the Mind of God
 
-Not a thought floating in the void. A thought *in the mind of God*, specific to a person and fixed in a place. The physical world is not an abstraction. It's not the product of an impersonal force or an unconscious process. It's the product of a Person who is thinking it on purpose.
+This is not a thought floating in the void. It is a thought *in the mind of God*, specific to a person and fixed in a place. The physical world is not an abstraction. It's not the product of an impersonal force or an unconscious process. It's the product of a Person who is thinking it on purpose.
 
 And this is where idealism becomes theology, because secular idealism, and there are secular idealists, can propose that reality is information without proposing a Mind behind it. The simulation hypothesis, which has gained popularity in recent years, asks whether we might be living in a computer simulation. And the honest answer from this framework is: yes. In a sense, we are. But the Simulator is not a machine. The Simulator is personal, sovereign, conscious, and the simulation is called creation. The secular version asks the right question with the wrong answer.
 
@@ -96,7 +96,7 @@ That's why Colossians 1:17 uses the present tense. *"By him all things consist."
 
 ## Sustained by His Will
 
-Not wound up and left to run. *Sustained* actively and continuously, at every single moment.
+Creation is not wound up and left to run. It is *sustained* actively and continuously, at every single moment.
 
 Some theological systems treat God's relationship to creation as if He built a watch, wound it up, set it on a shelf, and occasionally intervenes when something goes wrong. They call this "providence," and it sounds pious, but it's actually a form of deism with a prayer life. The God of that system is a watchmaker. The God of this system is an Author who is writing in real time.
 
@@ -160,7 +160,7 @@ In every single domain of life, the invisible reality comes first, and the visib
 
 Run the sentence through any domain and it holds. Every chapter in this book applies this one principle to a different domain. And if the principle is true, if the invisible really does precede the visible in every case, then every system of thought that puts the visible first, that makes the ceremony the cause of the reality, that treats the physical as fundamental and the spiritual as derivative, is backwards.
 
-Most of the errors in the history of Christianity can be traced to this single inversion. Making the water the cause of regeneration. Making the preaching the cause of conversion. Making the law the cause of righteousness. Making correct doctrine the cause of salvation. Making the institution the cause of the church. Making the ceremony the cause of the covenant. Every one of these errors puts the visible before the invisible. And every one of them collapses under the weight of the sentence we started with.
+Most of the errors in the history of Christianity can be traced to this single inversion. Making the water the cause of regeneration. Making the preaching the cause of conversion. Making the law the cause of righteousness. Making correct doctrine the cause of salvation. Making the institution the cause of the church. Making the ceremony the cause of the covenant. Every one of these errors puts the visible before the invisible. And every one of them collapses under the weight of the sentence with which we started.
 
 *Everything that exists is a thought in the mind of God.*
 

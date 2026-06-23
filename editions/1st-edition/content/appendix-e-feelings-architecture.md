@@ -24,7 +24,7 @@ Both to will and to do. The willing is the firmware. The doing is the applicatio
 
 *"For as he thinketh in his heart, so is he."* (Proverbs 23:7)
 
-The heart thinks before the head reasons. The firmware precedes the application layer. The deepest layer of the self is below conscious awareness, and whatever is thought there determines what the man IS. Scripture named this three thousand years before neuroscience mapped the amygdala. The four-layer model is the attempt to describe the architecture the verse already points to.
+The heart thinks before the head reasons. The firmware precedes the application layer. The deepest layer of the self is below conscious awareness, and whatever is thought there determines what the man IS. Scripture named this three thousand years before neuroscience mapped the amygdala. The four-layer model is the attempt to describe the architecture to which the verse already points.
 
 *"I will put my law in their inward parts, and write it in their hearts."* (Jeremiah 31:33)
 
@@ -106,7 +106,7 @@ Paul described this in Romans 8:
 
 *"Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered."* (Romans 8:26)
 
-*Groanings which cannot be uttered.* This is the Spirit interceding at the firmware level in signals the conscious mind cannot produce, interpret, or translate into language. The Spirit is not praying in words the believer cannot hear. The Spirit is praying in information the application layer cannot process. It is pre-propositional prayer. Below vocabulary. Below thought. Below the amygdala's first milliseconds. At the deepest layer of the soul, where only the Spirit has root access, the Spirit sends a signal directly to the Father that the believer experiences only as a groan.
+*Groanings which cannot be uttered.* This is the Spirit interceding at the firmware level in signals the conscious mind cannot produce, interpret, or translate into language. The Spirit is not praying in words the believer cannot hear. The Spirit is praying in information the application layer cannot process. It is pre-propositional prayer, below vocabulary, below thought, below the amygdala's first milliseconds. At the deepest layer of the soul, where only the Spirit has root access, the Spirit sends a signal directly to the Father that the believer experiences only as a groan.
 
 And this is not limited to the Spirit. The creation groans. The elect groan. The Spirit groans for the elect. Three levels of pre-linguistic signal, all pointing at the same thing:
 
@@ -132,9 +132,9 @@ The Clarkian tradition holds that all knowledge is propositional and all spiritu
 
 **The body responds before the mind can process.** *"When I kept silence, my bones waxed old through my roaring all the day long"* (Psalm 32:3). David's bones responded to unconfessed sin before his conscious mind articulated it. The body knew before the mind spoke. *"My soul thirsteth for God, for the living God"* (Psalm 42:2). Thirst is not a proposition. It is a signal. Pre-verbal, pre-propositional, real information arriving below language.
 
-**Infants respond without propositions.** *"The babe leaped in her womb for joy"* (Luke 1:44). John the Baptist, in utero, responded to the presence of Christ. No application layer. No propositions. No language. Pre-propositional recognition at the firmware level, expressed in a physical leap. A Clarkian must say John's leap was not knowledge. The framework says it was: information processed at a layer Clark's system does not account for.
+**Infants respond without propositions.** *"The babe leaped in her womb for joy"* (Luke 1:44). John the Baptist, in utero, responded to the presence of Christ. No application layer. No propositions. No language. Pre-propositional recognition at the firmware level, expressed in a physical leap. A Clarkian must say John's leap was not knowledge. The framework says it was: information processed at a layer for which Clark's system does not account.
 
-Clark was right that theology is propositional. The sentence is a proposition. Every chapter is built on propositions. But the delivery system for those propositions runs through layers that are not propositional. The Spirit flashes the firmware (not propositional). The feeling arrives (not propositional). The application layer interprets the feeling (propositional). The proposition is the output. But the process that produces it runs through pre-propositional layers that Clark's system has no vocabulary for. The framework extends Clark. It does not reject him. Clark's fortress protects the propositions. The framework explains how the propositions get to the fortress in the first place.
+Clark was right that theology is propositional. The sentence is a proposition. Every chapter is built on propositions. But the delivery system for those propositions runs through layers that are not propositional. The Spirit flashes the firmware (not propositional). The feeling arrives (not propositional). The application layer interprets the feeling (propositional). The proposition is the output. But the process that produces it runs through pre-propositional layers for which Clark's system has no vocabulary. The framework extends Clark. It does not reject him. Clark's fortress protects the propositions. The framework explains how the propositions get to the fortress in the first place.
 
 ## Independent Precedents
 
@@ -174,7 +174,7 @@ The Word is not decoupled. It is the instrument the Spirit uses to reach the dee
 
 This is the sharpest objection I will face, and it will come from inside the tradition I love most. I am a Clarkian at heart. I hold that *knowledge* is propositional. Clark was right about that.
 
-But here is the move. I am distinguishing *information* from *knowledge*. Information is a broader category. Pre-propositional information is not knowledge in Clark's sense. It is the raw signal that becomes propositional only when the application layer labels it. Regeneration at the firmware level is not a change in propositional knowledge yet. It is a change in the capacity to process certain propositions as true. The propositional change still happens at the application layer, the same way Clark said it did. But the propositional change is enabled by the firmware change, and the firmware change is the thing Clark did not have vocabulary for.
+But here is the move. I am distinguishing *information* from *knowledge*. Information is a broader category. Pre-propositional information is not knowledge in Clark's sense. It is the raw signal that becomes propositional only when the application layer labels it. Regeneration at the firmware level is not a change in propositional knowledge yet. It is a change in the capacity to process certain propositions as true. The propositional change still happens at the application layer, the same way Clark said it did. But the propositional change is enabled by the firmware change, and the firmware change is the thing for which Clark did not have vocabulary.
 
 I am not rejecting Clark. I am extending him. I am naming a layer beneath the fortress Clark built, and I am saying the fortress still stands, but the soil underneath it is now visible. See Appendix I's "What Clarkians Will Object To" section for the fuller treatment.
 

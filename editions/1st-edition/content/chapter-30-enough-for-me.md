@@ -18,7 +18,7 @@ I've been called a compromiser more times than I can count. I've been called an 
 
 And it led me here. To the last chapter of the hardest material I've ever written. After twenty-nine chapters of the sharpest theology I know how to hold, the last word is love. Not despite the theology. *Because* of it.
 
-Before I make the argument, I want to be clear about the ground it stands on. The wideness of these arms is not charity overriding doctrine. It is doctrine correctly located beneath the Author. Doctrine is the saint's description of what the Author has rendered. The Author is the substrate. Doctrine is downstream. A brother can be saved by Christ while still being confused about the mechanics of Christ's work, because salvation lives at the substrate level and not at the level of the description. That single relocation is what the rest of this chapter rests on. If you want the full structural case, Appendix O develops it. Here I am going to walk the pastoral consequence.
+Before I make the argument, I want to be clear about the ground on which it stands. The wideness of these arms is not charity overriding doctrine. It is doctrine correctly located beneath the Author. Doctrine is the saint's description of what the Author has rendered. The Author is the substrate. Doctrine is downstream. A brother can be saved by Christ while still being confused about the mechanics of Christ's work, because salvation lives at the substrate level and not at the level of the description. On that single relocation the rest of this chapter rests. If you want the full structural case, Appendix O develops it. Here I am going to walk the pastoral consequence.
 
 ## The Sharpest Doctrine Produces the Widest Arms
 
@@ -36,7 +36,7 @@ And I need you to understand: that is not a contradiction. That is not a departu
 
 ## The Hinge
 
-Here is the argument. And it turns on a single sentence. A sentence I arrived at slowly, over years, through the painful process of watching the sovereign grace world eat itself alive while the people I had dismissed as theological enemies were producing the fruit of the Spirit in ways that put me to shame.
+Here is the argument. And it turns on a single sentence, one I arrived at slowly, over years, through the painful process of watching the sovereign grace world eat itself alive while the people I had dismissed as theological enemies were producing the fruit of the Spirit in ways that put me to shame.
 
 The sentence is this: *if correct doctrine does not save, then incorrect doctrine does not necessarily damn.*
 
@@ -147,7 +147,7 @@ Paul wrote to a church that held the right doctrines and used them as a fence. T
 
 *"Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace."* (Galatians 5:4)
 
-Fallen from grace. Not fallen from doctrine. Not fallen into heresy. Fallen from *grace itself*. Grace held as a fence is no longer grace. It is law dressed in grace's vocabulary. The Galatians had taken the very gospel Paul preached to them and converted it, by use, into the thing Paul had preached against. And once the conversion had happened, the right propositions on paper could not undo what the operation in their hearts had done.
+Fallen from grace. Not fallen from doctrine. Not fallen into heresy. Fallen from *grace itself*. Grace held as a fence is no longer grace. It is law dressed in grace's vocabulary. The Galatians had taken the very gospel Paul preached to them and converted it, by use, into the thing against which Paul had preached. And once the conversion had happened, the right propositions on paper could not undo what the operation in their hearts had done.
 
 This is the same move our tribe makes. The Pharisee took the law and made it a fence. The Gospelist takes the gospel and makes it a fence. Same heart. Different fence material. The fence-building instinct does not care what material it has. Give the Pharisee Sinai, he will build a fence. Give the Gospelist Romans 9, he will build a fence. The fence is the *heart's posture*, not the *doctrine's content*. And when the doctrine of free grace becomes the post that holds the fence, the doctrine has been converted into law. The vocabulary is grace. The function is law. The two move in opposite directions and the holder does not notice because the words are the same.
 
@@ -157,7 +157,7 @@ And here is the diagnostic that exposes the conversion. It is the cleanest test 
 
 Grace, by definition, softens. The doctrine of grace makes the holder gentler with those still in the freewill camp, more patient with those who have not seen it, more tender toward those whose theology is still under construction. The doctrine of law makes the holder harder. The doctrine of law produces contempt, impatience, line-drawing, fence-policing. So when the sovereign-grace man is the harshest in the room about the freewiller, when he cannot sit at lunch with his Arminian cousin without picking a fight, when he treats his five-point position as a credential rather than a gift, when his *discernment* produces more contempt than compassion, the doctrine in his mouth is grace and the function in his heart is law. Same engine the Galatians had. Same fall.
 
-This is not a call to suppress righteous anger. Christ turned over the tables. Paul anathematized the Judaizers in Galatians 1. The Lord pronounced seven woes on the Pharisees in Matthew 23. Anger has its place in the gospel. The question the test asks is not *should I be angry,* but *whom am I angry at.* Christ's anger landed on the fence-builders themselves, the gatekeepers who *"shut up the kingdom of heaven against men"* (Matthew 23:13). Paul's anathema landed on those preaching another gospel that loaded the burden Christ had removed back onto saints He had freed. Their anger did not fall on the confused inside the fence. It fell on the men building the fence. The harder-softer test does not abolish that anger. It aims it. Be harder on the gatekeeper. Be softer on the brother the gatekeeper is keeping out. That is the pattern of Christ. Anyone whose anger runs the opposite direction, hard on the confused brother and soft on the gatekeeper, has reversed the gospel's flow.
+This is not a call to suppress righteous anger. Christ turned over the tables. Paul anathematized the Judaizers in Galatians 1. The Lord pronounced seven woes on the Pharisees in Matthew 23. Anger has its place in the gospel. The question the test asks is not *should I be angry,* but *at whom am I angry.* Christ's anger landed on the fence-builders themselves, the gatekeepers who *"shut up the kingdom of heaven against men"* (Matthew 23:13). Paul's anathema landed on those preaching another gospel that loaded the burden Christ had removed back onto saints He had freed. Their anger did not fall on the confused inside the fence. It fell on the men building the fence. The harder-softer test does not abolish that anger. It aims it. Be harder on the gatekeeper. Be softer on the brother the gatekeeper is keeping out. That is the pattern of Christ. Anyone whose anger runs the opposite direction, hard on the confused brother and soft on the gatekeeper, has reversed the gospel's flow.
 
 The cure is the cure Paul gave. Not better doctrine. The Galatians already had the doctrine. The cure is the *spirit* of the doctrine producing its actual fruit. Wider arms. Softer voice. Deeper patience. Fewer fences. *"Bear ye one another's burdens, and so fulfil the law of Christ"* (Galatians 6:2). The wide-arms ethic is the test of whether the sharp doctrine has been received or weaponized.
 
@@ -177,7 +177,7 @@ I have watched this happen more times than I can count. Someone will use every w
 
 And it is our job to be patient with them. Not to write them off.
 
-In Joshua 22, the tribes of Israel nearly went to war with the children of Reuben, Gad, and the half tribe of Manasseh over an altar they built in Gilead. The rest of Israel saw it and assumed it was idolatry. They were furious. They were ready to fight their own brethren over it. And in their minds, they were righteous. They had seen the consequences of idolatry. They knew what was at stake. But when they finally stopped and *asked* their brethren what the altar was for, they found out it wasn't idolatrous at all. It was a memorial. A witness between them and their children that they too belonged to the Lord. They had misjudged the heart of their brethren. And they nearly went to battle over something that could have been cleared up by talking.
+In Joshua 22, the tribes of Israel nearly went to war with the children of Reuben, Gad, and the half tribe of Manasseh over an altar they built in Gilead. The rest of Israel saw it and assumed it was idolatry. They were furious. They were ready to fight their own brethren over it. And in their minds, they were righteous. They had seen the consequences of idolatry. They knew what was at stake. But when they finally stopped and *asked* their brethren what the altar was for, they found out it wasn't idolatrous at all. It was a memorial, a witness between them and their children that they too belonged to the Lord. They had misjudged the heart of their brethren. And they nearly went to battle over something that could have been cleared up by talking.
 
 How many times have we done this in the sovereign grace world? How many times have we heard someone use the wrong phrase, seen them hold the wrong position on some secondary matter, and immediately marched into battle without ever sitting down to ask them what they actually believe?
 
@@ -217,7 +217,7 @@ If I am going to err, and I will err, because I am a man and I do not have perfe
 
 ## The Lesser Error
 
-And here is the reason I have landed where I have landed. Not sentiment. Risk calculation under the authority I do not have.
+And here is the reason I have landed where I have landed: not sentiment, but risk calculation under the authority I do not have.
 
 I am not the sorter. The Lord is the sorter. On the Day, the sorting will be done without my help, and it will be done correctly, and nothing I did in this life accelerated or corrected His sort. My posture before the Day is not the sort. My posture before the Day is the hand extended or the hand withheld. Those are my options. Not the verdict.
 
@@ -225,7 +225,7 @@ So consider the two ways I can be wrong.
 
 **If I call a man brother and he is not, I have been too generous.** I embraced a goat as a sheep. On the Day, the sort was the Lord's and it got done without my help. My generosity cost me nothing that matters. It did not promote the goat. It did not confuse the sheep. It was a warmth extended to a man who did not deserve it, which is exactly the warmth God extended to me when I did not deserve it, and the warmth the Savior extended to Judas on the last night of His life. Being too generous in a world where I am not the sorter is not a sin. It is an imitation.
 
-**If I refuse a man brotherhood and he is my brother, I have cut off someone Christ died for.** I treated a sheep as a goat. I withheld from him the fellowship that was his by blood. I put a wall between him and the body he was a member of. I starved him of what Christ paid for him to have. The cost of that error is not my embarrassment. It is his wound.
+**If I refuse a man brotherhood and he is my brother, I have cut off someone for whom Christ died.** I treated a sheep as a goat. I withheld from him the fellowship that was his by blood. I put a wall between him and the body of which he was a member. I starved him of what Christ paid for him to have. The cost of that error is not my embarrassment. It is his wound.
 
 The two errors are not equivalent. One costs me my pride. The other costs my brother the body. I am going to err, because I do not have perfect knowledge. If I must err, *let it be the error that costs me, not the one that costs him.*
 
@@ -283,7 +283,7 @@ I am saying doctrine matters *deeply*. The doctrines of grace are the truth. God
 
 **"You're anti-doctrinal. You cannot know Christ without doctrine."**
 
-Of course you cannot. Saving faith has content. You cannot trust a Christ you know nothing about. *"How shall they believe in him of whom they have not heard? and how shall they hear without a preacher?"* (Romans 10:14). *"Faith cometh by hearing, and hearing by the word of God"* (Romans 10:17). I affirm this without qualification. What I am denying is not the content. I am denying that the content is the substrate. The content is the Author's own speech about the Person the saint rests in. Doctrine is how the Person becomes describable to a finite creature. Doctrine operating that way is not anti-doctrinal. Doctrine is doing exactly what doctrine was designed to do.
+Of course you cannot. Saving faith has content. You cannot trust a Christ about whom you know nothing. *"How shall they believe in him of whom they have not heard? and how shall they hear without a preacher?"* (Romans 10:14). *"Faith cometh by hearing, and hearing by the word of God"* (Romans 10:17). I affirm this without qualification. What I am denying is not the content. I am denying that the content is the substrate. The content is the Author's own speech about the Person in whom the saint rests. Doctrine is how the Person becomes describable to a finite creature. Doctrine operating that way is not anti-doctrinal. Doctrine is doing exactly what doctrine was designed to do.
 
 The objection almost always sneaks in a quantity claim without noticing. *"You cannot know Christ without doctrine"* gets pressed as if it meant *"you cannot know Christ without my tribe's full articulation of the doctrine."* Those are not the same claim. The minimal-content claim is Scripture's: the Person must be named, the work must be known in outline, the rest must be in Him. The maximal-articulation claim is the tribe's: the mechanism must be spelled out, the order of the decrees grasped, the five points defended on command, the vocabulary matched. Scripture requires the first. Scripture does not require the second. I keep them distinct. The tribe collapses them.
 
@@ -319,7 +319,7 @@ Christ saves through the cracks. He always has. He always will. Sovereign grace 
 
 **"If Arminians can be saved, there's no reason to preach sovereign grace at all."**
 
-Because it is *true*. And the truth glorifies God. And knowing the truth produces deeper joy, stronger assurance, and greater worship. The doctrines of grace are not a ticket to heaven. They are the richest possible *experience* of the heaven you are already going to. You preach them because they are true and because they magnify the glory of God, not because they are the entry requirement. A man who has never tasted Burgundy can still enjoy wine. But the man who has tasted it knows what wine was *meant* to taste like. Sovereign grace is the Burgundy of theology. Preach it because it is glorious, not because it is the gate.
+Because it is *true*. And the truth glorifies God. And knowing the truth produces deeper joy, stronger assurance, and greater worship. The doctrines of grace are not a ticket to heaven. They are the richest possible *experience* of the heaven to which you are already going. You preach them because they are true and because they magnify the glory of God, not because they are the entry requirement. A man who has never tasted Burgundy can still enjoy wine. But the man who has tasted it knows how wine was *meant* to taste. Sovereign grace is the Burgundy of theology. Preach it because it is glorious, not because it is the gate.
 
 **"You're being soft."**
 

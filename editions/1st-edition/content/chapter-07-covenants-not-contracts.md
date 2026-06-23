@@ -24,7 +24,7 @@ A covenant is not a contract. A covenant is a personal promise. It's relational,
 
 Because if God's dealings with His people are contractual, then salvation has conditions. There are terms to be met, obligations to be fulfilled, boxes to be checked. And if any of those conditions fail, the deal is off. That's the Arminian system dressed up in Reformed clothing. It's works-based salvation with better vocabulary.
 
-But if God's dealings with His people are covenantal, in the true sense of the word, then salvation is a *promise*. An unconditional, unilateral, personal promise of love from a sovereign God to the people He chose before the foundation of the world. And promises from a God who is outside of time and sovereign over all events don't come with escape clauses.
+But if God's dealings with His people are covenantal, in the true sense of the word, then salvation is a *promise*, an unconditional, unilateral, personal promise of love from a sovereign God to the people He chose before the foundation of the world. And promises from a God who is outside of time and sovereign over all events don't come with escape clauses.
 
 ## Federal Headship: The Law of Plato Applied to Covenant Theology
 

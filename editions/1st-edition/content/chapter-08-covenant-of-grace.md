@@ -44,17 +44,17 @@ And when Christ fulfilled the law, the overlay was removed. What was left was wh
 
 Let me show you how the individual covenants of the Old Testament relate to the overarching covenant of grace:
 
-**The Adamic covenant** (Genesis 3:15): the first visible rendering of the covenant of grace in time. God promises enmity between the seed of the woman and the seed of the serpent. The two seeds announced. Redemption promised. The covenant of grace begins its temporal expression.
+**The Adamic covenant** (Genesis 3:15): the first visible rendering of the covenant of grace in time. God promises enmity between the seed of the woman and the seed of the serpent. The two seeds are announced. Redemption is promised. The covenant of grace begins its temporal expression.
 
 **The Noahic covenant** (Genesis 9): God's promise to preserve the stage on which redemption unfolds. The rainbow is a sign of continuity, not of salvation. God won't destroy the world by flood again because the story isn't finished yet. The rendering needs to continue.
 
 **The Abrahamic covenant** (Genesis 17): the covenant of grace rendered in promise to a specific man. *"And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee"* (Genesis 17:7). Circumcision as the visible sign. But the real sign was always the circumcision of the *heart*. The visible sign pointed at the invisible reality.
 
-**The Mosaic covenant at Sinai**: NOT a dispensation of the covenant of grace. A covenant of WORKS. The exception. The one covenant in the Old Testament that is not a rendering of the covenant of grace but a separate overlay for a specific purpose: to curse, to increase transgressions, to drive the elect to Christ. Every other covenant in the Bible is a rendering of grace. This one is law.
+**The Mosaic covenant at Sinai**: not a dispensation of the covenant of grace, but a covenant of WORKS, the exception. It is the one covenant in the Old Testament that is not a rendering of the covenant of grace but a separate overlay for a specific purpose: to curse, to increase transgressions, to drive the elect to Christ. Every other covenant in the Bible is a rendering of grace. This one is law.
 
 **The Davidic covenant** (2 Samuel 7): the covenant of grace rendered in kingship. An eternal throne promised to David's line. Fulfilled in Christ. The visible king pointed to the invisible reign. *"Of the increase of his government and peace there shall be no end"* (Isaiah 9:7).
 
-**The New Covenant as revealed in the New Testament**: the covenant of grace at its highest temporal resolution. The Sinai overlay removed, the veil lifted. What remains is faith alone, the law finished, the Spirit poured out. Not a *new* covenant in substance, because the substance was always there. New in *resolution*. The same thought, rendered at higher fidelity.
+**The New Covenant as revealed in the New Testament**: the covenant of grace at its highest temporal resolution. The Sinai overlay removed, the veil lifted. What remains is faith alone, the law finished, the Spirit poured out. It is not a *new* covenant in substance, because the substance was always there. It is new in *resolution*, the same thought, rendered at higher fidelity.
 
 | Covenant | Reference | What is rendered | Visible sign | Relation to the covenant of grace |
 |---|---|---|---|---|

@@ -10,7 +10,7 @@ If I had to determine whether I was a Christian based on my works, I'd have to c
 
 And I mean that. Not as false humility. Not as a devotional cliche designed to sound pious while secretly trusting that my life is actually pretty good. I mean it as a plain statement of fact. If the test is my behavior, my thought life, my consistency, my follow-through on every good intention I've ever had, I fail. Spectacularly. Regularly. And not in the vague, generic sense where someone says "we're all sinners" while mentally exempting themselves from the really bad stuff. I know what's in my head. I know what's in my heart. And if that's the evidence, the verdict is guilty.
 
-But the verdict was already delivered. And it was "not guilty." Before the foundation of the world. Before I drew my first breath or committed my first sin or even existed as a conscious being. The Father looked at me in Christ and saw perfection. Not my perfection. Christ's. And that hasn't changed, not because I've gotten better, but because *He* finished the work.
+But the verdict was already delivered. And it was "not guilty," before the foundation of the world, before I drew my first breath or committed my first sin or even existed as a conscious being. The Father looked at me in Christ and saw perfection. Not my perfection. Christ's. And that hasn't changed, not because I've gotten better, but because *He* finished the work.
 
 And that means the kingdom of God is a party, not a burden.
 
@@ -34,7 +34,7 @@ And what He left in its place is liberty.
 
 Here is what liberty looks like in practice.
 
-The old covenant took commandments and carved them on stone. External and impersonal, one size fits all. The same ten commandments for every person in the nation, regardless of their heart condition. And the result was predictable: external conformity at best, outright rebellion at worst, and a whole lot of hypocrisy in between.
+The old covenant took commandments and carved them on stone. It was external and impersonal, one size fits all: the same ten commandments for every person in the nation, regardless of their heart condition. And the result was predictable: external conformity at best, outright rebellion at worst, and a whole lot of hypocrisy in between.
 
 The new covenant takes those same commandments and writes them on the heart.
 
@@ -138,7 +138,7 @@ And Colossians removes any remaining ambiguity:
 
 *"Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days: Which are a shadow of things to come; but the body is of Christ."* (Colossians 2:16-17)
 
-Let no man judge you. Not "let no man judge you unless it's Christmas." Let no man judge you in respect of ANY holy day, because holy days are shadows. And the body, the substance, is Christ. The substance precedes the ceremony (Chapter 10). The invisible precedes the visible. Christ is the reality that every holy day was pointing to. And now that the reality has arrived, the shadow is a matter of conscience, not commandment.
+Let no man judge you. Not "let no man judge you unless it's Christmas." Let no man judge you in respect of ANY holy day, because holy days are shadows. And the body, the substance, is Christ. The substance precedes the ceremony (Chapter 10). The invisible precedes the visible. Christ is the reality to which every holy day was pointing. And now that the reality has arrived, the shadow is a matter of conscience, not commandment.
 
 Christmas celebrates the incarnation. The framework celebrates the incarnation in Chapter 6. If a believer wants to set aside December 25 to remember that the Author stepped into His own story, that is liberty. If another believer treats December 25 as any other day because every day celebrates the incarnation, that is also liberty. Both are right. Both are free. Both are serving the Lord in their own conscience.
 
@@ -170,7 +170,7 @@ Conscience decides. The same principle that governs head coverings (Chapter 24),
 
 ## Study to Be Quiet
 
-There's a verse in 1 Thessalonians that doesn't get preached very often. And I think the reason it doesn't get preached is that it undermines everything the modern church is built on.
+There's a verse in 1 Thessalonians that doesn't get preached very often. And I think the reason it doesn't get preached is that it undermines everything on which the modern church is built.
 
 *"And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you; That ye may walk honestly toward them that are without, and that ye may have lack of nothing."* (1 Thessalonians 4:11-12)
 
@@ -184,13 +184,13 @@ Because the work is firmware, not display. The Spirit changed you on the inside.
 
 Study to be quiet. Do your own business. Work with your hands. Let the life preach. Let the fruit speak. And if someone asks you why you live the way you live, *"be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and gentleness"* (1 Peter 3:15). Meekness. Gentleness. Not a megaphone. A quiet answer to a sincere question.
 
-This is what liberty looks like when it's fully grown. Not a man shouting about his freedom. A man quietly living it. Working with his hands. Minding his own business. Studying to be quiet. And letting the Author write whatever chapter He wants with the life He gave.
+This is what liberty looks like when it's fully grown: not a man shouting about his freedom, but a man quietly living it, working with his hands, minding his own business, studying to be quiet. And letting the Author write whatever chapter He wants with the life He gave.
 
 ## Objections and Answers
 
 **"'Do as you please' is dangerous; people will abuse it."**
 
-If someone's heart is unchanged by the Spirit, no amount of law will make them godly. The law never produced a single righteous person. It was weak through the flesh (Romans 8:3). So the law isn't the solution to abuse. If someone's heart *is* changed by the Spirit, they will please God naturally, because their pleasure and God's pleasure align. The question "what stops them from sinning?" always reveals more about the asker's theology than about the person they're asking about. If you think the only thing between a believer and rampant sin is a set of rules, you have a very low view of the Spirit's power.
+If someone's heart is unchanged by the Spirit, no amount of law will make them godly. The law never produced a single righteous person. It was weak through the flesh (Romans 8:3). So the law isn't the solution to abuse. If someone's heart *is* changed by the Spirit, they will please God naturally, because their pleasure and God's pleasure align. The question "what stops them from sinning?" always reveals more about the asker's theology than about the person in question. If you think the only thing between a believer and rampant sin is a set of rules, you have a very low view of the Spirit's power.
 
 **"Assurance can't be separated from obedience; James says faith without works is dead."**
 

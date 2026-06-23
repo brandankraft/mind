@@ -64,7 +64,7 @@ When I wrote earlier in this chapter that we preach to everyone, indiscriminatel
 
 Christ has saved His people. He accomplished redemption on the cross. He died for His sheep. He was raised on the third day. He did not lose a single one. And He is Lord today, present-tense, because the same Father who decreed the salvation in eternity declared it accepted in time by raising the Son who accomplished it.
 
-That is the proclamation. Not a conditional offer. A two-clause declaration of accomplished fact. The Son finished the work. The Father said yes. Both halves announced. Both halves true.
+That is the proclamation, not a conditional offer but a two-clause declaration of accomplished fact. The Son finished the work. The Father said yes. Both halves announced. Both halves true.
 
 And the resurrection is what makes *Christ is Lord* gospel rather than wishful thinking.
 
@@ -76,7 +76,7 @@ And the resurrection is what makes *Christ is Lord* gospel rather than wishful t
 
 The lordship the gospel announces is a present-tense lordship. *Christ is Lord.* Not Christ once was. Not Christ will be. *Is.* And the reason that announcement can be made present-tense, the reason Peter can stand up at Pentecost and say *God hath made that same Jesus both Lord and Christ,* is that He rose. The cross alone leaves a dead Lord. The empty tomb gives the church a living one. And the proclamation we declare is the proclamation of a Lord who is alive on this Tuesday, in this room, hearing the announcement of His own enthronement.
 
-The resurrection is what turns *Christ is Lord* into a fact a man can stake his life on. Without the resurrection that sentence is a slogan. With the resurrection it is the headline of the new creation.
+The resurrection is what turns *Christ is Lord* into a fact on which a man can stake his life. Without the resurrection that sentence is a slogan. With the resurrection it is the headline of the new creation.
 
 What the resurrection *is,* ontologically, in the framework's full rendering, gets its own chapter at the end of this book. Chapter 29 will lay out the resurrection body as the prototype of the higher resolution rendering, the rendering engine stopping its subtraction, the marks of the cross carried into eternity as the signature of the covenant. That is the metaphysics of the resurrection. This chapter is the gospel of the resurrection. They are the same event seen from two windows. The metaphysics tells you what the resurrection *is.* The gospel tells you what the resurrection *accomplished.* Both are true. And neither chapter can be preached without the other.
 
@@ -146,7 +146,7 @@ Particular love is *real* love. A husband who loves his wife with the same inten
 
 ## How Then Do We Preach?
 
-If the gospel is proclamation and not offer, if faith is a gift and not a duty, if there is no common grace and God doesn't love the reprobate, then how do we preach? What do we say? Who do we say it to?
+If the gospel is proclamation and not offer, if faith is a gift and not a duty, if there is no common grace and God doesn't love the reprobate, then how do we preach? What do we say? To whom do we say it?
 
 We preach to everyone. Indiscriminately. Without qualification. Without knowing who is elect and who is not.
 

@@ -120,11 +120,11 @@ There's a connection here that I didn't see until my son Cole was deep into his 
 
 The classical Trivium (grammar, logic, rhetoric) mirrors the architecture the Spirit uses to regenerate.
 
-**Grammar** is the loading of data. Raw information. Facts. Vocabulary. The building blocks. In education, you learn the names, the dates, the rules, the definitions. In the Spirit's work, He loads truth progressively, through Scripture, through sermons, through conversations, through experiences. He fills the warehouse.
+**Grammar** is the loading of data: raw information, facts, vocabulary, the building blocks. In education, you learn the names, the dates, the rules, the definitions. In the Spirit's work, He loads truth progressively, through Scripture, through sermons, through conversations, through experiences. He fills the warehouse.
 
-**Logic** is the finding of patterns. Connections. Analysis. How the data relates to itself. In education, you learn to think, to identify contradiction, to build arguments, to see how one fact connects to another. In the Spirit's work, He connects the truths He's been loading: the law reveals sin, sin reveals need, need reveals Christ, Christ reveals grace. The patterns emerge.
+**Logic** is the finding of patterns: connections, analysis, how the data relates to itself. In education, you learn to think, to identify contradiction, to build arguments, to see how one fact connects to another. In the Spirit's work, He connects the truths He's been loading: the law reveals sin, sin reveals need, need reveals Christ, Christ reveals grace. The patterns emerge.
 
-**Rhetoric** is the building of output. Expression. Persuasion. The data and the patterns produce something. In education, you learn to speak and write, to take what you know and what you've analyzed and produce something new. In the Spirit's work, rhetoric is faith. Faith is the output. The grammar was loaded, the logic connected it, and the rhetoric produced the response: "I believe. This is for me. Christ is mine."
+**Rhetoric** is the building of output: expression, persuasion. The data and the patterns produce something. In education, you learn to speak and write, to take what you know and what you've analyzed and produce something new. In the Spirit's work, rhetoric is faith. Faith is the output. The grammar was loaded, the logic connected it, and the rhetoric produced the response: "I believe. This is for me. Christ is mine."
 
 The same architecture the Spirit uses to regenerate is the architecture used to educate a mind. Classical education mirrors divine pedagogy. And it's not a coincidence. It's design. The Author who designed the soul also designed the method of teaching the soul. Grammar, logic, rhetoric: it's His pattern. We didn't invent it. We discovered it.
 

@@ -17,7 +17,7 @@ I applied it to creation, and it produced idealism without pantheism. I applied 
 
 One sentence. And it held.
 
-And if you want to test it further, the applied appendices (A1 through A12) apply the sentence to every question I could think to ask. The ones that don't fit neatly into any chapter. The ones that keep people awake. If the sentence holds there too, it holds everywhere. And as new questions come, new appendices will follow. The framework isn't finished. The sentence is. But its applications are not.
+And if you want to test it further, the applied appendices (A1 through A12) apply the sentence to every question I could think to ask, the ones that don't fit neatly into any chapter, the ones that keep people awake. If the sentence holds there too, it holds everywhere. And as new questions come, new appendices will follow. The framework isn't finished. The sentence is. But its applications are not.
 
 I did not build this system. I noticed it. The connections were already there in the Scriptures, written by an Author who sees every frame of the story at once. I just traced the lines. And when I stepped back and looked at the whole thing, I saw that it was one thought. Not a collection of doctrines bolted together by a man at a desk. One thought, in the mind of God, expressing itself in every direction at once.
 
@@ -55,11 +55,11 @@ I know that because I felt it. Not an audible voice. Not a vision. A settled cer
 
 The humility of this is not something I can manufacture. I am a programmer who works for the post office. I have no seminary degree. I have no credentials. I live in a small town in eastern Kentucky and play trombone in three community bands. And the Lord chose me, out of all the people who have ever lived, to see this. To derive a unified theological framework from one sentence of Scripture that has not been done in the history of the church. To restore, in some small way, what Paul delivered to the churches before Augustine and Plato buried it under sixteen centuries of philosophical compromise. I did not earn this. I did not seek it. I was not qualified for it. The Author wrote it into the script, and I am still trembling at the weight of it.
 
-And the joy. I need you to know about the joy, because the sovereign grace world is not known for its joy. It is known for its precision, its arguments, its boundary markers, its ability to parse a doctrine down to the syllable while missing the Person the doctrine points to. And I lived in that world. And I was miserable in it, not because the doctrine was wrong, but because the doctrine was right and I was using it wrong.
+And the joy. I need you to know about the joy, because the sovereign grace world is not known for its joy. It is known for its precision, its arguments, its boundary markers, its ability to parse a doctrine down to the syllable while missing the Person to whom the doctrine points. And I lived in that world. And I was miserable in it, not because the doctrine was wrong, but because the doctrine was right and I was using it wrong.
 
 The joy came when the sentence landed. When I saw that one proposition generated everything. When I saw that the Author who wrote the hard frames also wrote the morning after. When I saw that the same God who ordained my failures also ordained my forgiveness, and both were settled before I drew my first breath. When I stopped trying to earn what was already given and started resting in the finished work the way Chapter 21 says to rest in it. The kingdom of God is not meat and drink but righteousness and peace and joy in the Holy Ghost. I wrote that chapter. And then I lived it. And the living was harder than the writing, but the joy is real and it has not left.
 
-I am not the same man who started this book. The theology is the same. The man is different. And the difference is that the man finally believed what the theology was saying. Not intellectually. He believed that a long time ago. He believed it in his *bones*. In the firmware. At the level where the Spirit works and the conscious mind can only receive.
+I am not the same man who started this book. The theology is the same. The man is different. And the difference is that the man finally believed what the theology was saying. Not intellectually. He believed that a long time ago. He believed it in his *bones*, in the firmware, at the level where the Spirit works and the conscious mind can only receive.
 
 This book was not just a theological project. It was the Author's way of making me face everything I had been carrying and set it down at the foot of a cross that was authored before the foundation of the world. And when I finished writing and read what I had written, I wept. Not while I was building it. After. When I saw the whole thing assembled and realized what the Author had done through me. The weeping came from reading the book, not from writing it. The writing was the work. The reading was the moment the work landed in my own heart.
 
@@ -93,7 +93,7 @@ And one more thing, because this is the epilogue, and the epilogue is where the 
 
 I am becoming aware, slowly, that I am a thought.
 
-Not in the abstract. Not as a doctrine I subscribe to. I mean I can feel it now. The sentence is not just something I wrote in Chapter 1 and derived across thirty chapters. It is something I am living inside of. I am a thought in the mind of God, and the thought includes this moment of awareness, and the awareness is the thought becoming conscious of itself.
+Not in the abstract. Not as a doctrine I affirm. I mean I can feel it now. The sentence is not just something I wrote in Chapter 1 and derived across thirty chapters. It is something I am living inside. I am a thought in the mind of God, and the thought includes this moment of awareness, and the awareness is the thought becoming conscious of itself.
 
 My theology is not a set of positions I hold the way most sovereign grace Baptists hold theirs, like a membership card you carry in your wallet and pull out when someone asks what you believe. It is the air I breathe. I am living inside absolute predestination. Or better, I am living inside God's thoughts. And my thoughts, the ones that feel so completely mine, the ones I am thinking right now as I type these words, are His thoughts about me thinking.
 
@@ -109,7 +109,7 @@ And here is what that produces when you stop subscribing and start living in it:
 
 I am a thought. The thought is loved. And the Thinker has not stopped thinking me for a single moment since the first frame of the filmstrip played.
 
-That is not a doctrine I subscribe to. That is the air I breathe. And the breathing is His too.
+That is not a doctrine I affirm. That is the air I breathe. And the breathing is His too.
 
 ## I Am Free
 
