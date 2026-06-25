@@ -2,7 +2,7 @@ extends = "edition"
 format = "epub"
 trim = "reflowable"
 color = true
-build_flag = "--pdf"
+build_flag = "--epub"
 
 # Phase-2 knobs (present but unread in Phase 1)
 # headers = "epub"

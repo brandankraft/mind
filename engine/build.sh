@@ -14,7 +14,9 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 if [ "$#" -lt 2 ]; then
   echo "Usage: $0 <edition> <format|all> [--parallel] [--chapter <file.md>]"
-  echo "  Formats: web-html web-pdf epub 7x10-color 7x10-bw 8.5x11 6x9  (or 'all')"
+  echo "  Formats: web-html web-pdf epub epub-sample 7x10-color 7x10-bw 8.5x11 6x9  (or 'all')"
+  echo "  epub        : pandoc EPUB only (fast, no PDF render); also emits epub-sample"
+  echo "  epub-sample : front matter + Chapters 1-5 sample for Apple Books / KDP"
   echo "  all [--parallel] : build every format (sequentially, or concurrently)"
   echo "  --chapter <file.md>: PDF formats only -- fast single-chapter/appendix render"
   echo "    for testing figure sizing/layout (folios + indexes are NOT faithful)."
@@ -53,7 +55,8 @@ fi
 # output/<format>/ and a distinct content/ingramspark/<trim>.pdf, so they don't
 # collide; each build-book.sh uses its own BOOK_TMP).
 if [ "$FORMAT" = "all" ]; then
-  PRIMARY="web-html web-pdf 7x10-color 7x10-bw 8.5x11 6x9"
+  # epub is now its own standalone fast format (pandoc, no PDF render).
+  PRIMARY="web-html web-pdf epub 7x10-color 7x10-bw 8.5x11 6x9"
   if [ "$PARALLEL" = true ]; then
     echo "== Building ALL formats in PARALLEL =="
     pids=""
@@ -68,16 +71,6 @@ if [ "$FORMAT" = "all" ]; then
     for f in $PRIMARY; do
       "$SCRIPT_DIR/build.sh" "$EDITION" "$f" || rc=1
     done
-  fi
-  # epub piggybacks on the web-pdf (--pdf) build: collect it into output/epub/
-  source "$SCRIPT_DIR/lib/config.sh"; load_config "$EDITION" "epub"
-  mkdir -p "$OUTPUT_DIR"
-  EPUB_SRC="$(dirname "$SCRIPT_DIR")/editions/$EDITION/output/web-pdf/downloads/a-thought-in-the-mind-of-god.epub"
-  if [ -f "$EPUB_SRC" ]; then
-    cp "$EPUB_SRC" "$OUTPUT_DIR/a-thought-in-the-mind-of-god-${VERSION}-epub.epub"
-    echo "  Artifact (epub, from web-pdf build): $OUTPUT_DIR/a-thought-in-the-mind-of-god-${VERSION}-epub.epub"
-  else
-    echo "  WARN: epub not found at $EPUB_SRC"; rc=1
   fi
   echo "== ALL done (rc=$rc) =="
   exit $rc
@@ -94,6 +87,25 @@ fi
 # Load config (exports BOOK_SOURCE_DIR, OUTPUT_DIR, FORMAT_FLAG, ARTIFACT_EXT, VERSION)
 # shellcheck source=engine/lib/config.sh
 source "$SCRIPT_DIR/lib/config.sh"
+
+# ---- epub-sample: its own parameter -----------------------------------------
+# Derive the Apple/KDP store sample (front matter + Chapters 1-5) from the full
+# epub. Reuses the latest full epub; builds one first only if absent, so
+# refreshing the sample is instant. Output lands beside the full epub.
+if [ "$FORMAT" = "epub-sample" ]; then
+  load_config "$EDITION" "epub"
+  SLUG="a-thought-in-the-mind-of-god"
+  FULL="$OUTPUT_DIR/${SLUG}-${VERSION}-epub.epub"
+  if [ ! -f "$FULL" ]; then
+    echo "  No full epub at $FULL -- building it first..."
+    "$SCRIPT_DIR/build.sh" "$EDITION" epub || exit 1
+  fi
+  SAMPLE="$OUTPUT_DIR/${SLUG}-${VERSION}-epub-sample.epub"
+  python3 "$SCRIPT_DIR/make_epub_sample.py" "$FULL" "$SAMPLE" || exit 1
+  echo "  Artifact: $SAMPLE"
+  exit 0
+fi
+
 load_config "$EDITION" "$FORMAT"
 
 mkdir -p "$OUTPUT_DIR"
@@ -151,6 +163,11 @@ case "$FORMAT" in
     SRC="$OUTPUT_DIR/downloads/${SLUG}.epub"
     DEST="$OUTPUT_DIR/${SLUG}-${VERSION}-epub.epub"
     [ -f "$SRC" ] && cp "$SRC" "$DEST" && echo "  Artifact: $DEST"
+    # Derive the store sample (front matter + Chapters 1-5) beside the full epub.
+    if [ -f "$DEST" ]; then
+      SAMPLE="$OUTPUT_DIR/${SLUG}-${VERSION}-epub-sample.epub"
+      python3 "$SCRIPT_DIR/make_epub_sample.py" "$DEST" "$SAMPLE" && echo "  Artifact: $SAMPLE"
+    fi
     ;;
   8.5x11)
     SRC="$INGRAMSPARK_DIR/${SLUG}-8.5x11-hardcover.pdf"

@@ -46,7 +46,7 @@ print(d.get('build_flag', ''))
       7x10-bw)    flag="--7x10bw" ;;
       8.5x11)     flag="--ingram" ;;
       6x9)        flag="--6x9" ;;
-      epub)       flag="--pdf" ;;
+      epub)       flag="--epub" ;;
       *) echo "ERROR: unknown format '$fmt'" >&2; return 1 ;;
     esac
   fi

@@ -54,6 +54,7 @@ NC='\033[0m'
 BOOK_SOURCE_DIR=""
 BUILD_WEB=false
 BUILD_PDF=false
+BUILD_EPUB=false
 BUILD_INGRAM=false
 BUILD_6X9=false
 BUILD_7X10=false
@@ -72,6 +73,10 @@ while [[ $# -gt 0 ]]; do
             ;;
         --pdf)
             BUILD_PDF=true
+            shift
+            ;;
+        --epub)
+            BUILD_EPUB=true
             shift
             ;;
         --ingram)
@@ -115,7 +120,7 @@ while [[ $# -gt 0 ]]; do
 done
 
 # If no mode flag given, default to all (preserves original behavior)
-if [ "$BUILD_WEB" = false ] && [ "$BUILD_PDF" = false ] && [ "$BUILD_INGRAM" = false ] && [ "$BUILD_6X9" = false ] && [ "$BUILD_7X10" = false ] && [ "$BUILD_7X10BW" = false ]; then
+if [ "$BUILD_WEB" = false ] && [ "$BUILD_PDF" = false ] && [ "$BUILD_EPUB" = false ] && [ "$BUILD_INGRAM" = false ] && [ "$BUILD_6X9" = false ] && [ "$BUILD_7X10" = false ] && [ "$BUILD_7X10BW" = false ]; then
     BUILD_WEB=true
     BUILD_PDF=true
     BUILD_INGRAM=true
@@ -154,6 +159,7 @@ echo -e "${BLUE}Building \"A Thought in the Mind of God\"...${NC}"
 MODES=()
 [ "$BUILD_WEB" = true ]    && MODES+=("web")
 [ "$BUILD_PDF" = true ]    && MODES+=("pdf")
+[ "$BUILD_EPUB" = true ]   && MODES+=("epub")
 [ "$BUILD_INGRAM" = true ] && MODES+=("ingram")
 [ "$BUILD_6X9" = true ]    && MODES+=("6x9")
 [ "$BUILD_7X10" = true ]   && MODES+=("7x10")
@@ -962,10 +968,10 @@ with open(idx_file, 'w') as f:
 fi
 
 # =============================================================================
-# MODE: PDF  —  EPUB + Web PDF for pristinegrace.org downloads
+# MODE: EPUB  —  pandoc EPUB for pristinegrace.org download (fast, no PDF render)
 # =============================================================================
-if [ "$BUILD" = true ] && [ "$BUILD_PDF" = true ]; then
-    echo -e "${BLUE}▸ EPUB + Web PDF${NC}"
+if [ "$BUILD" = true ] && [ "$BUILD_EPUB" = true ]; then
+    echo -e "${BLUE}▸ EPUB${NC}"
 
     mkdir -p "$OUTPUT_DIR/downloads"
 
@@ -1166,6 +1172,17 @@ with open('$COMBINED_MD', 'w') as f:
     EPUB_SIZE=$(du -h "$EPUB_FILE" | cut -f1 | xargs)
     echo -e " ${GREEN}done${NC} ($EPUB_SIZE)"
     cp "$EPUB_FILE" "$OUTPUT_DIR/downloads/"
+
+    echo ""
+fi
+
+# =============================================================================
+# MODE: PDF  —  Web PDF for pristinegrace.org download (weasyprint render)
+# =============================================================================
+if [ "$BUILD" = true ] && [ "$BUILD_PDF" = true ]; then
+    echo -e "${BLUE}▸ Web PDF${NC}"
+
+    mkdir -p "$OUTPUT_DIR/downloads"
 
     # Build PDF from source markdown
     echo -ne "  Building PDF..."
